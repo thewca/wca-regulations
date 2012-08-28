@@ -236,21 +236,15 @@ All misalignments <= 45° Solved, with penalty
 
 ## Article 11: Notation
 - 11a) Notation for Rubik's Cube and similar puzzles:
-
-Face Moves:
-
+- Face Moves:
     - 11a1) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
     - 11a2) Counter clockwise, 90 degrees: F', B', R', L', U', D' (see 11a1).
     - 11a3) 180 degrees: F2, B2, R2, L2, U2, D2 (see 11a1).
-
-Multiple Outer Slice Moves (outer slice plus adjacent inner slices; n is defined as total number of slices to move):
-
+- Multiple Outer Slice Moves (outer slice plus adjacent inner slices; n is defined as total number of slices to move):
     - 11a5) Clockwise, 90 degrees: nF, nB, nR, nL, nU, nD. (see 11a1).
     - 11a6) Counter clockwise, 90 degrees: nF’, nB', nR', nL', nU', nD' (see 11a5).
     - 11a7) 180 degrees: nF2, nB2, nR2, nL2, nU2, nD2 (see 11a5).
-
-Block Turn Metric (BTM) is defined as:
-
+- Block Turn Metric (BTM) is defined as:
     - 11a17) Each move of the categories Face Moves and Multiple Outer Slice Moves is counted as 1 move.
     - 11a19) Each rotation is counted as 0 moves.
 - 11b) Rotations for all cube shaped puzzles:
