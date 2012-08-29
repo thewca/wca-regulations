@@ -38,7 +38,7 @@
 - 2b) Competitors younger than 18 must obtain consent from the relevant parent(s)/guardian(s) to register and compete.
 - 2c) Registrants must provide all required information as determined by the organization team (at least: name, country, date of birth, gender, contact information, selected events) for their registration to be considered complete.
     - 2c1) A competitor shall not be eligible to compete without a completed registration, to be determined by the competition organizer or WCA Delegate.
-- 2d) All information (except: name, country, date of birth, gender, selected events and competition results) must be used for the competition only, and may only be given to other organisations/persons after permission from the competitor. A competitor’s date of birth is considered confidential information, and must never be shared with other parties without prior consent of the competitor or legal guardian.
+- 2d) All information (except: name, country, date of birth, gender, selected events and competition results) must be used for the competition only, and may only be given to other organisations/persons after permission from the competitor. A competitor's date of birth is considered confidential information, and must never be shared with other parties without prior consent of the competitor or legal guardian.
 - 2e) Competitors shall only represent a country from which they hold citizenship. The WCA Delegate should verify citizenship standing by means of official documents (e.g. passport). If a competitor is found to be ineligibly representing a country, the competitor may be retroactively disqualified and suspended at the discretion of the WCA Board.
     - 2e1a) The eligible countries are defined by Wikipedia List of sovereign states ("Internationally recognized sovereign states" and "Other states").
     - 2e2) Competitors with more than one citizenship may change their country of representation in their first competition of a calendar year.
@@ -103,32 +103,32 @@
     - 5b5) If, after the solve, parts of the puzzle are still defective (e.g. a centre cap of a cube) or not fully rotated (e.g. a 5x5x5 centre piece twisted in its spot), the state of the puzzle is recorded as the worst state that can be obtained by reassembling the puzzle (e.g. a detached pyraminx tip may be assembled in 3 states - one fully solved, and two "+2" states, and thus would be considered a "+2" state).
 - 5c) If a competitor has a puzzle defect, this does not give him the right to an extra attempt.
 
-## Article 6: Environment
-- 6a) Competitions may be held at any location, inside or outside.
-- 6b) Spectators must be at least 1.50 meter away from competitors who are currently competing.
-- 6c) Lighting of the competition area needs special attention, with preferably white light, so that competitors can easily distinguish the colours of puzzles.
-- 6e) The competition area must be smoke-free.
-- 6f) The timer must be attached to the mat and placed directly (no objects underneath it) on a table, desk or console that suits solving while standing, with the timer device on the near side of the mat. 
-    - 6f1) Exception to 6f: For Solving With Feet the timer must be placed directly on the floor. Also the timer device can be placed on the far side of the mat.
-- 6h) The competition area must have a competitors area.
-    - 6h1) Competitors (or a group of competitors) who have been called to compete - and only those competitors - must stay in the competitors area until they finished all solves of the round.
-    - 6h3) Competitors in the competitors area must not communicate with each other about the scrambled positions of the puzzles for the round in progress. Penalty: disqualification of competitor at the discretion of the WCA Delegate.
+## Article 7: Environment
+- 7a) Competitions may be held at any location, inside or outside.
+- 7b) Spectators must be at least 1.50 meter away from competitors who are currently competing.
+- 7c) Lighting of the competition area needs special attention, with preferably white light, so that competitors can easily distinguish the colours of puzzles.
+- 7e) The competition area must be smoke-free.
+- 7f) The timer must be attached to the mat and placed directly (no objects underneath it) on a table, desk or console that suits solving while standing, with the timer device on the near side of the mat. 
+    - 7f1) Exception to 6f: For Solving With Feet the timer must be placed directly on the floor. Also the timer device can be placed on the far side of the mat.
+- 7h) The competition area must have a competitors area.
+    - 7h1) Competitors (or a group of competitors) who have been called to compete - and only those competitors - must stay in the competitors area until they finished all solves of the round.
+    - 7h3) Competitors in the competitors area must not communicate with each other about the scrambled positions of the puzzles for the round in progress. Penalty: disqualification of competitor at the discretion of the WCA Delegate.
 
-## Article 7: Competitions
-- 7a) For a competition to become official according to the WCA:
-    - 7a1) The WCA Board must approve the competition.
-    - 7a2) The WCA regulations must be followed.
-    - 7a3) There must be a WCA Delegate (appointed by WCA Board) attending the competition.
-    - 7a4) The competition must be announced on the WCA website at least two weeks before the competition starts.
-    - 7a6) The competition must be accessible for the public.
-    - 7a7) The authentic Speedstacks Stackmat timer (Generation 2 or Pro) must be used for time measurement.
-    - 7a8) The competition must be open to everyone by default. Restrictions must be approved by the WCA Board and clearly stated on the competition website at the time the competition is announced.
-- 7b) If the WCA regulations are not followed correctly during a competition, then the WCA Board may refuse to accept the results of the competition, specific events, or specific solves.
+## Article 8: Competitions
+- 8a) For a competition to become official according to the WCA:
+    - 8a1) The WCA Board must approve the competition.
+    - 8a2) The WCA regulations must be followed.
+    - 8a3) There must be a WCA Delegate (appointed by WCA Board) attending the competition.
+    - 8a4) The competition must be announced on the WCA website at least two weeks before the competition starts.
+    - 8a6) The competition must be accessible for the public.
+    - 8a7) The authentic Speedstacks Stackmat timer (Generation 2 or Pro) must be used for time measurement.
+    - 8a8) The competition must be open to everyone by default. Restrictions must be approved by the WCA Board and clearly stated on the competition website at the time the competition is announced.
+- 8b) If the WCA regulations are not followed correctly during a competition, then the WCA Board may refuse to accept the results of the competition, specific events, or specific solves.
 
-## Article 8: Events
-- 8a) The puzzles for which competitions are governed by the WCA are all puzzles labelled as Rubik puzzles and all other puzzles that are played by twisting the sides, so called 'Twisty puzzles'.
+## Article 9: Events
+- 9a) The puzzles for which competitions are governed by the WCA are all puzzles labelled as Rubik puzzles and all other puzzles that are played by twisting the sides, so called 'Twisty puzzles'.
 
-- 8b) Official events and formats of WCA are:
+- 9b) Official events and formats of WCA are:
     - Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Magic, Master Magic, Megaminx, Pyraminx, Square-1, Rubik's Cube: One-handed and Rubik's Cube: With Feet. 
 
       Allowed formats are 'Best of x' and 'Average of 5'
@@ -141,143 +141,141 @@
 
       Allowed format is 'Best of x'
 
-- 8e) New official events may be added each calendar year, and existing official events may be removed.
-    - 8e1) The decision to add or remove an event is made by the WCA Board, based on feedback by the WCA delegates and the community.
-    - 8e4) Other events may be held during a competition, but will be unofficial and therefore not part of the official results of the competition.
-- 8f) The results of a round are measured as follows:
-    - 8f1) All timed results under 10 minutes, and corresponding averages/means are measured in hundredths of a second, with averages/means rounded down to the nearest hundredth of a second (x.009 becomes x.00, x.010 becomes x.01).
-    - 8f2) All timed results over 10 minutes, and corresponding averages/means are measured in seconds, with averages/means rounded to the nearest second (x.4 becomes x, x.5 becomes x+1).
-    - 8f4) DNF (Did Not Finish) is the result if the solve was disqualified or unfinished.
-    - 8f5) DNS (Did Not Start) is the result if a competitor skipped an attempt in a round.
-    - 8f6) In 'Best of x' rounds competitors get x (at most 3) attempts, with the best attempt counting. There may be a combined time limit, example: 30 minutes for 'Best of 2'.
-    - 8f7) In 'Best of x' rounds a DNF or DNS is the worst result of a competitor, if all results are DNF and/or DNS the best result of the competitor is DNF.
-    - 8f8) In 'Average of 5' rounds competitors get 5 attempts. Of these 5 attempts, the best and worst attempts are removed, with the mean of the remaining 3 attempts counting.
-    - 8f9) In 'Average of 5' rounds one DNF or DNS is counted as the worst result, with more than one DNF and/or DNS the average is DNF.
-    - 8f10) In 'Mean of 3' rounds competitors get 3 attempts, with the mean of the 3 attempts counting.
-    - 8f11) In 'Mean of 3' rounds if the competitor has at least one DNF or DNS the mean is DNF.
-    - 8f12) In 'Best of x' rounds the order in the results is based on the best result per competitor, with lower meaning better.
-    - 8f13) In 'Mean of' and 'Average of' rounds the order in the results is based on the best average/mean per competitor, with lower meaning better.
-    - 8f14) If in 'Mean of' and 'Average of' rounds competitors have the same average/mean result, then the order in the results for these competitors is based on the best result per competitor, with lower meaning better.
-    - 8f15) Competitors with the same result in a round finish at the same position.
-    - 8f16) For the Rubik's Cube: Multiple Blindfolded event the order in the results is based on number of puzzles solved minus the number of puzzles not solved (higher is better). If the result is lower than 0, the solve is disqualified. If competitors have the same result, then the order is based on total time (lower is better). If competitors have the same result and the same time, then the order is based on the number of puzzles not solved (lower is better).
-- 8g) A Combined Round is a round with 2 phases of solves, where only competitors go the second phase if they meet a cut-off time limit during the first phase.
-    - 8g2) Whether a competitor proceeds to next phase of a Combined round, must be decided on position (best x competitors) or on result (all competitors with a best result under x).
-- 8i) Results of official WCA competitions must be listed on the WCA world rankings, if the full WCA regulations were applied.
-    - 8i1) Regional records are recognised for best national/continental/world results.
-    - 8i2) Results of official WCA competitions are considered to have taken place at the end of the calendar day the competition took place on. If a competition took place on multiple days, the results of each round are considered to have taken place on the last scheduled calendar day of the round.
-    - 8i3) If the regulations for an event are changed, then the old regional records stand until they are broken under the new regulations.
-- 8j) Events must be held only once during a competition.
-- 8k) If an event is held, then all competitors may participate in that event.
-- 8l) Rounds must be finished before the next round of the event starts. 
-- 8m) Events must have at most four rounds.
-    - 8m1) Events with 99 or fewer competitors must have at most three rounds.
-    - 8m2) Events with 15 or fewer competitors must have at most two rounds.
-    - 8m3) Events with 7 or fewer competitors must have at most one round.
-- 8o) A Combined round and a Qualification round count as one round when counting the number of rounds per event.
-- 8p) In case of more than one round for an event the best ranked competitors of a round proceed to the next round.
-    - 8p1) For each round of an event, at least 25% of the competitors must not proceed to the next round.
-    - 8p2) Either the best x competitors proceed to the next round, or all competitors who beat a specific result (announced before the round).
-    - 8p3) Competitors who qualify for the next round but forfeit their positions in the next round may be replaced by the next best competitors in the round.
-- 8r) A qualification round is a round of an event held before the first round of the event.
-    - 8r1) When announcing the competition the organisation team must announce:
+- 9e) New official events may be added each calendar year, and existing official events may be removed.
+    - 9e1) The decision to add or remove an event is made by the WCA Board, based on feedback by the WCA delegates and the community.
+    - 9e4) Other events may be held during a competition, but will be unofficial and therefore not part of the official results of the competition.
+- 9f) The results of a round are measured as follows:
+    - 9f1) All timed results under 10 minutes, and corresponding averages/means are measured in hundredths of a second, with averages/means rounded down to the nearest hundredth of a second (x.009 becomes x.00, x.010 becomes x.01).
+    - 9f2) All timed results over 10 minutes, and corresponding averages/means are measured in seconds, with averages/means rounded to the nearest second (x.4 becomes x, x.5 becomes x+1).
+    - 9f4) DNF (Did Not Finish) is the result if the solve was disqualified or unfinished.
+    - 9f5) DNS (Did Not Start) is the result if a competitor skipped an attempt in a round.
+    - 9f6) In 'Best of x' rounds competitors get x (at most 3) attempts, with the best attempt counting. There may be a combined time limit, example: 30 minutes for 'Best of 2'.
+    - 9f7) In 'Best of x' rounds a DNF or DNS is the worst result of a competitor, if all results are DNF and/or DNS the best result of the competitor is DNF.
+    - 9f8) In 'Average of 5' rounds competitors get 5 attempts. Of these 5 attempts, the best and worst attempts are removed, with the mean of the remaining 3 attempts counting.
+    - 9f9) In 'Average of 5' rounds one DNF or DNS is counted as the worst result, with more than one DNF and/or DNS the average is DNF.
+    - 9f10) In 'Mean of 3' rounds competitors get 3 attempts, with the mean of the 3 attempts counting.
+    - 9f11) In 'Mean of 3' rounds if the competitor has at least one DNF or DNS the mean is DNF.
+    - 9f12) In 'Best of x' rounds the order in the results is based on the best result per competitor, with lower meaning better.
+    - 9f13) In 'Mean of' and 'Average of' rounds the order in the results is based on the best average/mean per competitor, with lower meaning better.
+    - 9f14) If in 'Mean of' and 'Average of' rounds competitors have the same average/mean result, then the order in the results for these competitors is based on the best result per competitor, with lower meaning better.
+    - 9f15) Competitors with the same result in a round finish at the same position.
+    - 9f16) For the Rubik's Cube: Multiple Blindfolded event the order in the results is based on number of puzzles solved minus the number of puzzles not solved (higher is better). If the result is lower than 0, the solve is disqualified. If competitors have the same result, then the order is based on total time (lower is better). If competitors have the same result and the same time, then the order is based on the number of puzzles not solved (lower is better).
+- 9g) A Combined Round is a round with 2 phases of solves, where only competitors go the second phase if they meet a cut-off time limit during the first phase.
+    - 9g2) Whether a competitor proceeds to next phase of a Combined round, must be decided on position (best x competitors) or on result (all competitors with a best result under x).
+- 9i) Results of official WCA competitions must be listed on the WCA world rankings, if the full WCA regulations were applied.
+    - 9i1) Regional records are recognised for best national/continental/world results.
+    - 9i2) Results of official WCA competitions are considered to have taken place at the end of the calendar day the competition took place on. If a competition took place on multiple days, the results of each round are considered to have taken place on the last scheduled calendar day of the round.
+    - 9i3) If the regulations for an event are changed, then the old regional records stand until they are broken under the new regulations.
+- 9j) Events must be held only once during a competition.
+- 9k) If an event is held, then all competitors may participate in that event.
+- 9l) Rounds must be finished before the next round of the event starts. 
+- 9m) Events must have at most four rounds.
+    - 9m1) Events with 99 or fewer competitors must have at most three rounds.
+    - 9m2) Events with 15 or fewer competitors must have at most two rounds.
+    - 9m3) Events with 7 or fewer competitors must have at most one round.
+- 9o) A Combined round and a Qualification round count as one round when counting the number of rounds per event.
+- 9p) In case of more than one round for an event the best ranked competitors of a round proceed to the next round.
+    - 9p1) For each round of an event, at least 25% of the competitors must not proceed to the next round.
+    - 9p2) Either the best x competitors proceed to the next round, or all competitors who beat a specific result (announced before the round).
+    - 9p3) Competitors who qualify for the next round but forfeit their positions in the next round may be replaced by the next best competitors in the round.
+- 9r) A qualification round is a round of an event held before the first round of the event.
+    - 9r1) When announcing the competition the organisation team must announce:
         - how many competitors will compete in the first round of the event
         - the maximum number of competitors in the qualification round of the event, and how many of the competitors will proceed to the first round
         - which average/mean time or single solve time for the WCA ranking of the event is required to directly qualify for the first round (or other round) of the event
         - the date taken for deciding the average/mean time or single solve time on the WCA ranking of each competitor
-    - 8r2) All competitors of an event who are not directly qualified for the first round of the event, must compete in the qualification round of the event.
-    - 8r3) There may be changes to increase the maximum number of competitors in qualification round or first round, or to add a qualification round for newly registered competitors. These changes must be made at least two weeks before the competition.
-- 8s) A time limit must be set for a round of an event. If a competitor does not solve within the time limit, then his solve may be stopped and disqualified by the judge. The WCA Delegate decides whether the competitor may continue the round.
+    - 9r2) All competitors of an event who are not directly qualified for the first round of the event, must compete in the qualification round of the event.
+    - 9r3) There may be changes to increase the maximum number of competitors in qualification round or first round, or to add a qualification round for newly registered competitors. These changes must be made at least two weeks before the competition.
+- 9s) A time limit must be set for a round of an event. If a competitor does not solve within the time limit, then his solve may be stopped and disqualified by the judge. The WCA Delegate decides whether the competitor may continue the round.
 
-## Article 9: Solved state
-- 9b) Only the resting state of a puzzle is considered, when the timer has stopped.
-- 9c) Puzzles may be in any orientation at the end of the solve.
-- 9d) All pieces of a puzzle must be fully attached to the puzzle, and in their required positions. Exceptions: see Article 5 Puzzle defects.
-- 9e) A puzzle is solved when all face colours are reconstructed and all the parts are aligned within certain limits.
-    - 9e1) For each two adjacent parts (for example two parallel adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in Article 10f, these two parts are considered to need one move to be solved (Half Turn Metric).
-    - 9e2) If no move is needed to bring the puzzle to solved state, the puzzle is considered solved without a penalty.
-    - 9e3) If one move is needed, the puzzle is considered solved with a penalty of 2 seconds.
-    - 9e4) If more than one move is needed, the solve is ruled DNF.
-- 9f) Limits of misalignment for puzzles:
+## Article 10: Solved state
+- 10b) Only the resting state of a puzzle is considered, when the timer has stopped.
+- 10c) Puzzles may be in any orientation at the end of the solve.
+- 10d) All pieces of a puzzle must be fully attached to the puzzle, and in their required positions. Exceptions: see Article 5 Puzzle defects.
+- 10e) A puzzle is solved when all face colours are reconstructed and all the parts are aligned within certain limits.
+    - 10e1) For each two adjacent parts (for example two parallel adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in Article 10f, these two parts are considered to need one move to be solved (Half Turn Metric).
+    - 10e2) If no move is needed to bring the puzzle to solved state, the puzzle is considered solved without a penalty.
+    - 10e3) If one move is needed, the puzzle is considered solved with a penalty of 2 seconds.
+    - 10e4) If more than one move is needed, the solve is ruled DNF.
+- 10f) Limits of misalignment for puzzles:
     - cube shaped puzzles: =< 45 degrees
     - Megaminx: =< 36 degrees
     - Pyraminx: =< 60 degrees
     - Square-1: =< 45 degrees (U/D) or 90 degrees (/)
 
 Examples:
-  
+
 Solved = no penalty
 Misalignment <= 45° Solved, with penalty
 Only 2 adjacent parts misaligned > 45° Not solved
 2 misalignments > 45°
-  
+
 Solved, with penalty
 1 misalignment > 45° Solved = no penalty
 All misalignments <= 45° Solved = no penalty
 Misalignment <= 45°
-  
+
 Not solved
 2 misalignments > 45° Solved = no penalty
 All misalignments <= 45° Solved, with penalty
 1 misalignment > 45°
 
-- 9g) For Magic (and similar puzzles) the minimum angle that tiles must have compared to the connecting tiles is 135°.
-    - 9g1) If one or two pairs of connecting tiles have a smaller angle with each other, and the puzzle is otherwise solved, then the puzzle is considered solved, with a penalty of 2 seconds. In all other cases the result is DNF.
-- 9h) Other puzzles are solved according to the solved state as defined in the generally accepted goal of the puzzle, with the regulations of the cube solved state applied when applicable.
+- 10g) For Magic (and similar puzzles) the minimum angle that tiles must have compared to the connecting tiles is 135°.
+    - 10g1) If one or two pairs of connecting tiles have a smaller angle with each other, and the puzzle is otherwise solved, then the puzzle is considered solved, with a penalty of 2 seconds. In all other cases the result is DNF.
+- 10h) Other puzzles are solved according to the solved state as defined in the generally accepted goal of the puzzle, with the regulations of the cube solved state applied when applicable.
 
-## Article 10: Incidents
-- 10a) Incidents are:
-    - 10a1) Incorrect execution of event procedures, by officials or competitors.
-    - 10a2) Interference or distractions or facility distractions (such as power failure, emergency alarm).
-    - 10a3) Equipment malfunctioning.
-- 10b) In case of an incident during an event the WCA Delegate of the event must decide the outcome.
-- 10d) If the WCA regulations are not fully clear or if the incident is not covered by the WCA regulations, then the WCA Delegate must make his decision based on fair sportsmanship.
-- 10e) In case of an incident the WCA Delegate may award a competitor another attempt, that replaces the attempt for which the incident happened. The competitor must appeal at the time of the incident and before completing the solve to be eligible for another attempt. An appeal does not guarantee the competitor an extra attempt.
-- 10f) The WCA Delegate must not support his decisions with video or photograph analysis.
+## Article 11: Incidents
+- 11a) Incidents are:
+    - 11a1) Incorrect execution of event procedures, by officials or competitors.
+    - 11a2) Interference or distractions or facility distractions (such as power failure, emergency alarm).
+    - 11a3) Equipment malfunctioning.
+- 11b) In case of an incident during an event the WCA Delegate of the event must decide the outcome.
+- 11d) If the WCA regulations are not fully clear or if the incident is not covered by the WCA regulations, then the WCA Delegate must make his decision based on fair sportsmanship.
+- 11e) In case of an incident the WCA Delegate may award a competitor another attempt, that replaces the attempt for which the incident happened. The competitor must appeal at the time of the incident and before completing the solve to be eligible for another attempt. An appeal does not guarantee the competitor an extra attempt.
+- 11f) The WCA Delegate must not support his decisions with video or photograph analysis.
 
-## Article 11: Notation
-- 11a) Notation for Rubik's Cube and similar puzzles:
+## Article 12: Notation
+- 12a) Notation for Rubik's Cube and similar puzzles:
 - Face Moves:
-    - 11a1) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
-    - 11a2) Counter clockwise, 90 degrees: F', B', R', L', U', D' (see 11a1).
-    - 11a3) 180 degrees: F2, B2, R2, L2, U2, D2 (see 11a1).
+    - 12a1) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
+    - 12a2) Counter clockwise, 90 degrees: F', B', R', L', U', D' (see 12a1).
+    - 12a3) 180 degrees: F2, B2, R2, L2, U2, D2 (see 12a1).
 - Multiple Outer Slice Moves (outer slice plus adjacent inner slices; n is defined as total number of slices to move):
-    - 11a5) Clockwise, 90 degrees: nF, nB, nR, nL, nU, nD. (see 11a1).
-    - 11a6) Counter clockwise, 90 degrees: nF’, nB', nR', nL', nU', nD' (see 11a5).
-    - 11a7) 180 degrees: nF2, nB2, nR2, nL2, nU2, nD2 (see 11a5).
+    - 12a5) Clockwise, 90 degrees: nF, nB, nR, nL, nU, nD. (see 12a1).
+    - 12a6) Counter clockwise, 90 degrees: nF', nB', nR', nL', nU', nD' (see 12a5).
+    - 12a7) 180 degrees: nF2, nB2, nR2, nL2, nU2, nD2 (see 12a5).
 - Block Turn Metric (BTM) is defined as:
-    - 11a17) Each move of the categories Face Moves and Multiple Outer Slice Moves is counted as 1 move.
-    - 11a19) Each rotation is counted as 0 moves.
-- 11b) Rotations for all cube shaped puzzles:
-    - 11b1) Clockwise, 90 degrees: [f] or z, [b] or z', [r] or x, [l] or x', [u] or y, [d] or y'. (see 12a1).
-    - 11b2) Counter clockwise, 90 degrees: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y (see 11b1).
-    - 11b3) 180 degrees: [f2] or z2, [b2] or z2, [r2] or x2, [l2] or x2, [u2] or y2, [d2] or y2 (see 11b1).
-- 11c) Notation for Square-1:
-    - 11c1) Moves are applied with the smallest slice in middle layer on left side of front face.
-    - 11c2) (x,y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise.
-    - 11c3) ‘/’ means: turn the right half of the puzzle 180 degrees.
-- 11d) Notation for Megaminx (scrambling notation only):
-    - 11d1a) Clockwise, 72 degrees: U (upper face).
-    - 11d1b) Counter clockwise, 72 degrees: U' (upper face).
-    - 11d2) Other moves are applied while keeping 3 pieces fixed at top left of the puzzle:
-    - 11d2c) Clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R++ (vertical slices), D++ (horizontal slices).
-    - 11d2d) Counter clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R-- (vertical slices), D-- (horizontal slices).
-- 11e) Notation for Pyraminx:
-    - 11e1) Moves are applied with the bottom face completely horizontal and the front face facing to the person who holds the Pyraminx.
-    - 11e2) Clockwise, 120 degrees: U (upper 2 layers), L (left 2 layers), R (right 2 layers), B (back 2 layers)
-u (upper vertex), l (left vertex), r (right vertex), b (back vertex).
-    - 11e3) Counter clockwise, 120 degrees: U' (upper 2 layers), L' (left 2 layers), R' (right 2 layers), B' (back 2 layers)
-u' (upper vertex), l' (left vertex), r' (right vertex), b' (back vertex).
-- 11g) Notation for Clock :
-    - 11g1) The puzzle must be held on either side with twelve on top
-    - 11g2) Move pins up: UR (top-right), DR (bottom-right), DL (bottom-left), UL (top-left), U (both top), R (both right), D (both bottom), L (both left), ALL (all).
-    - 11g3) Turn a wheel next to an up-position pin and move all pins down afterwards: x+ (x clockwise turns), x- (x counter clockwise turns).
-    - 11g4) Turn around the puzzle so that twelve is still on top and move all pins down: y2
+    - 12a17) Each move of the categories Face Moves and Multiple Outer Slice Moves is counted as 1 move.
+    - 12a19) Each rotation is counted as 0 moves.
+- 12b) Rotations for all cube shaped puzzles:
+    - 12b1) Clockwise, 90 degrees: [f] or z, [b] or z', [r] or x, [l] or x', [u] or y, [d] or y'. (see 12a1).
+    - 12b2) Counter clockwise, 90 degrees: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y (see 12b1).
+    - 12b3) 180 degrees: [f2] or z2, [b2] or z2, [r2] or x2, [l2] or x2, [u2] or y2, [d2] or y2 (see 12b1).
+- 12c) Notation for Square-1:
+    - 12c1) Moves are applied with the smallest slice in middle layer on left side of front face.
+    - 12c2) (x,y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise.
+    - 12c3) "/" means: turn the right half of the puzzle 180 degrees.
+- 12d) Notation for Megaminx (scrambling notation only):
+    - 12d1a) Clockwise, 72 degrees: U (upper face).
+    - 12d1b) Counter clockwise, 72 degrees: U' (upper face).
+    - 12d2) Other moves are applied while keeping 3 pieces fixed at top left of the puzzle:
+    - 12d2c) Clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R++ (vertical slices), D++ (horizontal slices).
+    - 12d2d) Counter clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R-- (vertical slices), D-- (horizontal slices).
+- 12e) Notation for Pyraminx:
+    - 12e1) Moves are applied with the bottom face completely horizontal and the front face facing to the person who holds the Pyraminx.
+    - 12e2) Clockwise, 120 degrees: U (upper 2 layers), L (left 2 layers), R (right 2 layers), B (back 2 layers), u (upper vertex), l (left vertex), r (right vertex), b (back vertex).
+    - 12e3) Counter clockwise, 120 degrees: U' (upper 2 layers), L' (left 2 layers), R' (right 2 layers), B' (back 2 layers), u' (upper vertex), l' (left vertex), r' (right vertex), b' (back vertex).
+- 12g) Notation for Clock :
+    - 12g1) The puzzle must be held on either side with twelve on top
+    - 12g2) Move pins up: UR (top-right), DR (bottom-right), DL (bottom-left), UL (top-left), U (both top), R (both right), D (both bottom), L (both left), ALL (all).
+    - 12g3) Turn a wheel next to an up-position pin and move all pins down afterwards: x+ (x clockwise turns), x- (x counter clockwise turns).
+    - 12g4) Turn around the puzzle so that twelve is still on top and move all pins down: y2
 
 ## Article A: Speed Solving
 - A1) Attempts for events categorised under Speed Solving must abide to the following procedure.
     - A1a) The time limit per solve is 10 minutes, or lesser/higher if announced before the event. If announced before the event, cumulative time limits may be enforced (e.g. 3 attempts with a cumulative time limit of 20 minutes; the time elapsed in a solve declared a "DNF" counts towards the cumulative time limit). Time limits cannot be changed after an event has begun.
     - A1b) A stopwatch is used for time measurement, in addition to a Stackmat, if the time limit is higher than 10 minutes. If the puzzle solving time is under 10 minutes, the Stackmat time is the result, otherwise the stopwatch time is the result.
-    - A1c) Competitors must be able to fulfil an event’s requirements if they participate in it. Competitors competing with expectation of DNF may be disqualified from an event at the discretion of the Delegate.
+    - A1c) Competitors must be able to fulfil an event's requirements if they participate in it. Competitors competing with expectation of DNF may be disqualified from an event at the discretion of the Delegate.
 - A2) Scrambling
     - A2a) The competitor hands over the solved puzzle to the scrambler and waits in the competitors area until he is called to compete.
     - A2b) A scrambler scrambles the puzzle according to the regulations in Article 4.
@@ -312,7 +310,7 @@ u' (upper vertex), l' (left vertex), r' (right vertex), b' (back vertex).
     - A6a) The competitor ends the solve by releasing the puzzle and then stopping the timer. If a stopwatch is being used as the timing device, the competitor ends the solve by releasing the puzzle and notifying the judge that he has finished. The default signal is when a competitor releases any puzzle(s) being solved and places his hands palms down on the surface. The competitor and the judge can also agree upon another appropriate notification before the beginning of the solve. 
     - A6b) It is the competitor's responsibility that the timer is stopped correctly.
     - A6b1) If the timer stops earlier than the end of the solve, and the timer shows a time strictly below 0.06 then the solve is replaced by additional solve, unless the competitor intentionally forced the early timer stop (at the discretion of the WCA Delegate).
-    - A6b2) If the timer stops earlier than the end of the solve, and the timer shows 0.06 or higher then the solve is disqualified, unless the competitor can demonstrate to the WCA delegate’s satisfaction that the timer was malfunctioning.
+    - A6b2) If the timer stops earlier than the end of the solve, and the timer shows 0.06 or higher then the solve is disqualified, unless the competitor can demonstrate to the WCA delegate's satisfaction that the timer was malfunctioning.
     - A6c) The timer must be stopped using both hands, with both hands flat and palms down. Penalty: 2 seconds.
     - A6d) The competitor must fully release the puzzle before stopping the timer. Penalty: 2 seconds.
     - A6e) The competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the solve.
@@ -330,8 +328,7 @@ u' (upper vertex), l' (left vertex), r' (right vertex), b' (back vertex).
     - A7f) At the end of a competitor's round the judge delivers the competition sheet to the score taker.
 
 ## Article B: Blindfolded Solving
-- B1) Standard procedure is followed as described in Article A (Speed Solving).
-Additional/special regulations for Blindfolded Solving are described below.
+- B1) Standard procedure is followed as described in Article A (Speed Solving). Additional/special regulations for Blindfolded Solving are described below.
     - B1a) There is no inspection phase.
     - B1b1) Competitors must bring their own blindfold.
     - B1c) Competitor must not touch the inner parts of a puzzle. Penalty: disqualification of the solve.
@@ -358,16 +355,14 @@ Additional/special regulations for Blindfolded Solving are described below.
     - B5c) The competitor may remove the blindfold before stopping the timer, but after removing the blindfold no more moves must be applied to the puzzle. Penalty: disqualification of the solve.
 
 ## Article C: One-handed Solving
-- C1) Standard procedure is followed as described in Article A (Speed Solving).
-Additional/special regulations for One-handed Solving are described below.
+- C1) Standard procedure is followed as described in Article A (Speed Solving). Additional/special regulations for One-handed Solving are described below.
     - C1a) During the solve the competitor must only use one hand and the surface. Penalty: disqualification of the solve.
     - C1b) During the solve no other body part or any object other than the surface must touch the puzzle. Penalty: disqualification of the solve.
     - C1b2) If a puzzle defect occurs, and the competitor decides to repair it, then repairing must be done with one hand, use of the surface is optional. Penalty: disqualification of the solve.
     - C1c) During the solve, once a competitor touches the puzzle with one hand, he must not touch the puzzle with the other hand. Penalty: disqualification of the solve.
 
 ## Article D: Solving With Feet
-- D1) Standard procedure is followed as described in Article A (Speed Solving).
-Additional/special regulations for Solving With Feet are described below.
+- D1) Standard procedure is followed as described in Article A (Speed Solving). Additional/special regulations for Solving With Feet are described below.
     - D1a) The competitor must solve while sitting in a chair, sitting on the surface or standing.
     - D1b) During the inspection and solve the competitor must only use his feet (with or without socks) and the surface. Penalty: disqualification of the solve.
     - D1c) No other body parts or other available objects must touch the puzzle. Penalty: disqualification of the solve.
@@ -378,8 +373,7 @@ Additional/special regulations for Solving With Feet are described below.
     - D4a) Competitor must stop the timer by placing his feet onto the timer sensors.
 
 ## Article E: Fewest Moves Solving
-- E1) Regulations are as described in Article A (Speed Solving).
-Additional/special regulations for Fewest Moves Solving are described below.
+- E1) Regulations are as described in Article A (Speed Solving). Additional/special regulations for Fewest Moves Solving are described below.
     - E1a) The maximum length of a solution is 80 (moves and rotations).
 - E2) Procedure for Fewest Moves Solving:
     - E2a) The judge hands a scramble sequence to all competitors with a print of the scramble position. The judge starts the stopwatch and says 'Go'.
@@ -393,16 +387,14 @@ Additional/special regulations for Fewest Moves Solving are described below.
     - E3a) Penalty for using other objects: disqualification of the solve.
 
 ## Article F: Clock Solving
-- F1) Standard procedure is followed as described in Article A (Speed Solving).
-Additional/special regulations for Clock Solving are described below.
+- F1) Standard procedure is followed as described in Article A (Speed Solving). Additional/special regulations for Clock Solving are described below.
 - F2) Scrambling
     - F2a) After the scrambling the judge places the puzzle onto the Stackmat in a standing position.
 - F3) Inspection
     - F3a) After the inspection the competitor places the puzzle onto the Stackmat in a standing position. If the positions of any pins are changed in any way, a +2 penalty shall be applied. 
 
 ## Article G: Magic (and similar puzzles) Solving
-- G1) Standard procedure is followed as described in Article A (Speed Solving).
-Additional/special regulations for Magic Solving are described below.
+- G1) Standard procedure is followed as described in Article A (Speed Solving). Additional/special regulations for Magic Solving are described below.
     - G1a) All solves on the competition timer will be treated as official solves. The competitor may not do practice solves on the competition timer.
 - G2) Scrambling
     - G2a) The puzzle is not scrambled.
@@ -413,8 +405,7 @@ Additional/special regulations for Magic Solving are described below.
     - G4a) The puzzles must be completely flat on the surface, with either of the two sides on top.
 
 ## Article H: Multiple Blindfolded Solving
-- H1) Standard procedure is followed as described in Article B (Blindfolded Solving).
-Additional/special regulations for Multiple Blindfolded Solving are described below.
+- H1) Standard procedure is followed as described in Article B (Blindfolded Solving). Additional/special regulations for Multiple Blindfolded Solving are described below.
     - H1a) Competitor must tell before the start of the event how many puzzles (at least 2) he wants to solve blindfolded for each attempt.
     - H1a1) A competitor must not change the number of puzzles after the start of the event.
     - H1a2) The selected number of puzzles per competitor must be kept secret until the start of the event.

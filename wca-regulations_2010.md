@@ -244,26 +244,28 @@
     - 10e3) If one move is needed, the puzzle is considered solved with a penalty of 2 seconds.
     - 10e4) If more than one move is needed, the solve is ruled DNF.
 - 10f) Limits of misalignment for puzzles:
-    cube shaped puzzles: =< 45 degrees
-    Megaminx: =< 36 degrees
-    Pyraminx: =< 60 degrees
-    Square-1: =< 45 degrees (U/D) or 90 degrees (/)
-    Examples:
-    Solved = no penalty
-    Misalignment <= 45°
-    Solved, with penalty
-    Only 2 adjacent parts misaligned > 45° - Not solved
-    2 misalignments > 45°
-    Solved, with penalty
-    1 misalignment > 45°
-    Solved = no penalty
-    All misalignments <= 45° - Solved = no penalty
-    Misalignment <= 45°
-    Not solved
-    2 misalignments > 45°
-    Solved = no penalty
-    All misalignments <= 45° - Solved, with penalty
-    1 misalignment > 45°
+    - cube shaped puzzles: =< 45 degrees
+    - Megaminx: =< 36 degrees
+    - Pyraminx: =< 60 degrees
+    - Square-1: =< 45 degrees (U/D) or 90 degrees (/)
+    
+Examples:
+
+Solved = no penalty
+Misalignment <= 45° Solved, with penalty
+Only 2 adjacent parts misaligned > 45° Not solved
+2 misalignments > 45°
+
+Solved, with penalty
+1 misalignment > 45° Solved = no penalty
+All misalignments <= 45° Solved = no penalty
+Misalignment <= 45°
+
+Not solved
+2 misalignments > 45° Solved = no penalty
+All misalignments <= 45° Solved, with penalty
+1 misalignment > 45°
+
 - 10g) For Magic (and similar puzzles) the puzzle must be flat on the surface. The minimum angle that tiles must have compared to the connecting tiles is 135°.
     - 10g1) If one or two pairs of connecting tiles have a smaller angle with each other, and the puzzle is otherwise solved, then the puzzle is considered solved, with a penalty of 2 seconds. In all other cases the result is DNF.
 - 10h) Other puzzles are solved according to the solved state as defined in the generally accepted goal of the puzzle, with the regulations of the cube solved state applied when applicable.
@@ -280,27 +282,27 @@
 
 ## Article 12: Notation
 - 12a) Notation for Rubik's Cube and similar puzzles:
-    - Face Moves:
+- Face Moves:
     - 12a1) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
     - 12a2) Counter clockwise, 90 degrees: F', B', R', L', U', D' (see 12a1).
     - 12a3) Clockwise, 180 degrees: F2, B2, R2, L2, U2, D2 (see 12a1).
     - 12a4) Counter clockwise, 180 degrees: F2', B2', R2', L2', U2', D2' (see 12a1).
-    - Double Outer Slice Moves (outer slice plus adjacent inner slice):
+- Double Outer Slice Moves (outer slice plus adjacent inner slice):
     - 12a5) Clockwise, 90 degrees: Fw, Bw, Rw, Lw, Uw, Dw. (see 12a1).
     - 12a6) Counter clockwise, 90 degrees: Fw', Bw', Rw', Lw', Uw', Dw' (see 12a5).
     - 12a7) Clockwise, 180 degrees: Fw2, Bw2, Rw2, Lw2, Uw2, Dw2 (see 12a5).
     - 12a8) Counter clockwise, 180 degrees: Fw2', Bw2', Rw2', Lw2', Uw2', Dw2' (see 12a5).
-    - Inner Slice Moves (adjacent slice of outer slice only):
+- Inner Slice Moves (adjacent slice of outer slice only):
     - 12a9) Clockwise, 90 degrees: f, b, r, l, u, d. (see 12a1).
     - 12a10) Counter clockwise, 90 degrees: f', b', r', l', u', d' (see 12a9).
     - 12a11) Clockwise, 180 degrees: f2, b2, r2, l2, u2, d2 (see 12a9).
     - 12a12) Counter clockwise, 180 degrees: f2', b2', r2', l2', u2', d2' (see 12a9).
-    - Middle Slice Moves (middle slice of puzzles with odd number of slices, middle two slices of puzzles with even number of slices):
+- Middle Slice Moves (middle slice of puzzles with odd number of slices, middle two slices of puzzles with even number of slices):
     - 12a13) Clockwise, 90 degrees: M (same direction as L), S (same direction as F), E (same direction as D). (see 12a1).
     - 12a14) Counter clockwise, 90 degrees: M', S', E' (see 12a13).
     - 12a15) Clockwise, 180 degrees: M2, S2, E2 (see 12a13).
     - 12a16) Counter clockwise, 180 degrees: M2', S2', E2' (see 12a13).
-    - Half Turn Metric (HTM) is defined as:
+- Half Turn Metric (HTM) is defined as:
     - 12a17) Each move of the categories Face Moves and Double Outer Slice Moves is counted as 1 move.
     - 12a18) Each move of the categories Inner Slice Moves and Middle Slice Moves is counted as 2 moves.
     - 12a19) Each rotation is counted as 0 moves.
