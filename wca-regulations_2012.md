@@ -133,11 +133,11 @@
 - 9b) The official events and formats of the WCA are:
     - 9b1) Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Magic, Master Magic, Megaminx, Pyraminx, Square-1, Rubik's Cube: One-handed and Rubik's Cube: With Feet. 
 
-      Permissible competition formats for these events include: 'Best of x' [NOTE: define 'x' here (e.g. "where 'x' is an integer between three and seven, inclusive")] and 'Average of Five' [NOTE: Choose a consistent style for numbers throughout the document (either use the Arabic numeral or spell out the number in English), excepting cube size designations. I won't take the time to correct them -- that would be kind of pointless -- just choose one and do it yourself.]
+      Permissible competition formats for these events include: 'Best of x' [NOTE BY SARAH: define 'x' here (e.g. "where 'x' is an integer between three and seven, inclusive")] and 'Average of Five' [NOTE BY SARAH: Choose a consistent style for numbers throughout the document (either use the Arabic numeral or spell out the number in English), excepting cube size designations. I won't take the time to correct them -- that would be kind of pointless -- just choose one and do it yourself.]
 
     - 9b2) 6x6x6 Cube and 7x7x7 Cube. 
 
-      Permissible competition formats for these events include: 'Best of x' [see NOTE in 8b1] and 'Average of Three' [NOTE: Unless "average" and "mean" have different definitions as used here, you should use the same word in both clauses.]
+      Permissible competition formats for these events include: 'Best of x' [see NOTE in 8b1] and 'Average of Three' [NOTE BY SARAH: Unless "average" and "mean" have different definitions as used here, you should use the same word in both clauses.]
 
     - 9b3) Rubik's Cube: Fewest moves, Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded and Rubik's Cube: Multiple Blindfolded. 
 
@@ -147,28 +147,28 @@
     - 9e1) The decision to add or remove an event is made by the WCA Board, based on feedback from the WCA delegates and the community.
     - 9e4) Events other than those specified in article 9b may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
 - 9f) The results of a round are measured as follows:
-    - 9f1) All timed results under 10 minutes and corresponding averages/means are measured in hundredths of a second, with averages/means rounded down to the nearest hundredth of a second (x.009 becomes x.00, x.010 becomes x.01). [NOTE: choose either the term "average" or the term "mean" and use it consistently throughout the document. No need to have both. I'll stop commenting on this henceforth -- just pick one and use it throughout.] [NOTE BY LUCAS: Averages and means do have a distinction, but this certainly doesn't make sense here on someone's first read-through. Improve?]
+    - 9f1) All timed results under 10 minutes and corresponding averages/means are measured in hundredths of a second, with averages/means rounded down to the nearest hundredth of a second (x.009 becomes x.00, x.010 becomes x.01). [NOTE BY SARAH: choose either the term "average" or the term "mean" and use it consistently throughout the document. No need to have both. I'll stop commenting on this henceforth -- just pick one and use it throughout.] [NOTE BY LUCAS: Averages and means do have a distinction, but this certainly doesn't make sense here on someone's first read-through. Improve?]
     - 9f2) All timed results over 10 minutes and corresponding averages/means are measured in seconds, with averages/means rounded to the nearest second (x.4 becomes x, x.5 becomes x+1).
     - 9f4) The result of a solve shall be recorded as DNF (Did Not Finish) if the solve is disqualified or unfinished.
     - 9f5) The result of a solve shall be recorded as DNS (Did Not Start) if a competitor skips an attempt during a round.
-    - 9f6) For 'Best of x' rounds, competitors are each allotted x (at most 3) attempts. [NOTE: The meaning is vague. Do you mean that x is less than or equal to 3? In that case, write "competitors are allotted x attempts. x may/shall/must not exceed 3."] The best result of x attempts shall count for the competitor's ranking in the round. The organization team may enforce a cumulative time limit for the event, e.g. 30 minutes for 'Best of 2'.
-    - 9f7) For 'Best of x' rounds, a DNF or DNS is the worst possible result. If all results are DNF and/or DNS, the best result of the competitor is recorded as DNF. [NOTE: Is the second sentence really necessary?] [NOTEL: For thoroughness, yes. Guideline?]
+    - 9f6) For 'Best of x' rounds, competitors are each allotted x (at most 3) attempts. [NOTE BY SARAH: The meaning is vague. Do you mean that x is less than or equal to 3? In that case, write "competitors are allotted x attempts. x may/shall/must not exceed 3."] The best result of x attempts shall count for the competitor's ranking in the round. The organization team may enforce a cumulative time limit for the event, e.g. 30 minutes for 'Best of 2'.
+    - 9f7) For 'Best of x' rounds, a DNF or DNS is the worst possible result. If all results are DNF and/or DNS, the best result of the competitor is recorded as DNF. [NOTE BY SARAH: Is the second sentence really necessary?] [NOTE BY LUCAS: For thoroughness, yes. Guideline?]
     - 9f8) For 'Average of 5' rounds, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts shall be removed, and the mean of the remaining 3 attempts shall count for the competitor's ranking in the round.
     - 9f9) For 'Average of 5' rounds, one DNF or DNS is permitted to count as the competitor's worst result of said round. If a competitor receives more than one DNF and/or DNS in the round, his average score for the round is DNF.
     - 9f10) For 'Mean of 3' rounds competitors are allotted 3 attempts. The mean of the 3 attempts shall count for the competitor's ranking in the round.
     - 9f11) For 'Mean of 3' rounds, if the competitor scores at least one DNF or DNS, his average score for the round is DNF.
-    - 9f12) For 'Best of x' rounds rankings are assessed based on the best result per competitor, where "best" is defined as the shortest recorded time. [NOTEL: This needs to be generalized for FMC, and maybe events like multi BLD]
-    - 9f13) For 'Mean of x' and 'Average of x' rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is defined as the shortest recorded time. [NOTEL: Redo this.]
+    - 9f12) For 'Best of x' rounds rankings are assessed based on the best result per competitor, where "best" is defined as the shortest recorded time. [NOTE BY LUCAS: This needs to be generalized for FMC, and maybe events like multi BLD]
+    - 9f13) For 'Mean of x' and 'Average of x' rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is defined as the shortest recorded time. [NOTE BY LUCAS: Redo this.]
     - 9f14) For 'Mean of' and 'Average of' rounds where two or more competitors achieve identical average/mean results, said competitors' rankings are assessed based on the best result per competitor, where "best" is defined as the shortest recorded time.
     - 9f15) Competitors who achieve the same result in a round receive identical rankings for the round.
-    - 9f16) For the [Rubik's Cube: Multiple Blindfolded NOTE: it took me a while to figure out what this meant. In the final document, please bold or italicise the names of the events to minimize confusion.] event, rankings are assessed based on number of puzzles solved minus the number of puzzles not solved, where a greater difference is superior. If the difference is less than 0, the result shall be disqualified. [NOTE: as a rule of thumb, use "shall be" if the sentence uses a conditional clause (i.e. "if"); otherwise, use "is/are."] If competitors achieve the same result, rankings shall be assessed based on total time, where the shorter recorded time is superior. If competitors achieve the same result and the same time, rankings shall be assessed based on the number of puzzles said competitors fail to solve, where fewer unsolved puzzles are superior. [NOTE: perhaps this paragraph ought to be split into multiple clauses. It's a bit dense, especially for the layperson.]
-- 9g) A Combined Round consists of two phases of solves, where competitors advance to the second phase only if they meet a designated cutoff during the first phase. [NOTE: this definition needs serious reworking. I still don't think I could define it if you asked me.]
-    - 9g2) Whether a competitor proceeds to next phase of a Combined round, must be decided on position (best x competitors) or on result (all competitors with a best result under x). [NOTE: I have no idea what this means. Doesn't this directly contradict the clause above it?]
-- 9i) Results of official WCA competitions must be listed on the WCA world rankings. [NOTE: this (9i and its sub-clauses) seems extremely out of place. Isn't there some other article in this document that discusses the website?]
+    - 9f16) For the [Rubik's Cube: Multiple Blindfolded NOTE BY SARAH: it took me a while to figure out what this meant. In the final document, please bold or italicise the names of the events to minimize confusion.] event, rankings are assessed based on number of puzzles solved minus the number of puzzles not solved, where a greater difference is superior. If the difference is less than 0, the result shall be disqualified. [NOTE BY SARAH: as a rule of thumb, use "shall be" if the sentence uses a conditional clause (i.e. "if"); otherwise, use "is/are."] If competitors achieve the same result, rankings shall be assessed based on total time, where the shorter recorded time is superior. If competitors achieve the same result and the same time, rankings shall be assessed based on the number of puzzles said competitors fail to solve, where fewer unsolved puzzles are superior. [NOTE BY SARAH: perhaps this paragraph ought to be split into multiple clauses. It's a bit dense, especially for the layperson.]
+- 9g) A Combined Round consists of two phases of solves, where competitors advance to the second phase only if they meet a designated cutoff during the first phase. [NOTE BY SARAH: this definition needs serious reworking. I still don't think I could define it if you asked me.]
+    - 9g2) Whether a competitor proceeds to next phase of a Combined round, must be decided on position (best x competitors) or on result (all competitors with a best result under x). [NOTE BY SARAH: I have no idea what this means. Doesn't this directly contradict the clause above it?]
+- 9i) Results of official WCA competitions must be listed on the WCA world rankings. [NOTE BY SARAH: this (9i and its sub-clauses) seems extremely out of place. Isn't there some other article in this document that discusses the website?]
     - 9i1) The WCA shall recognize the following types of regional records: national records, continental records, and world records.
     - 9i2) Results of official WCA competitions are dated to the calendar date of the competition. Should a competition span multiple days, the results of each round are dated to the last scheduled calendar date of the round.
     - 9i3) If the regulations for an event are changed, existing regional records stand until they are broken under the new regulations.
-- 9j) Each event must be held only once per competition. [NOTEL: At most once?]
+- 9j) Each event must be held only once per competition. [NOTE BY LUCAS: At most once?]
 - 9k) All competitors may [NOT: are eligbile to?] participate in all events of a competition.
 - 9l) Each round must be finished before any following round of the same event starts. 
 - 9m) Events must have at most four rounds.
@@ -178,14 +178,14 @@
 - 9o) A Combined round and a Qualification round count as one round when counting the number of rounds per event.
 - 9p) If an event has multiple rounds, competitors 
     - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
-    - 9p2) The competitors who advance to the next round shall be determined by either a cutoff rank or a cutoff time in the preceeding elimination round, the latter to be specified before the preceeding elimination round begins. [NOTEL: Just the latter? We need stricter enforcement of this, anyhow.]
-    - 9p3) If a qualifying competitor withdraws from a round, he may be replaced by the best-scoring competitor below the cutoff from the preceeding round. [NOTE: there's inconsistent usage of "score" vs. "time" -- you ought to clear that up]
-- 9r) A qualification round is held before the first round of an event. [NOTE: this (important!) definition needs to appear before 9g.]
+    - 9p2) The competitors who advance to the next round shall be determined by either a cutoff rank or a cutoff time in the preceeding elimination round, the latter to be specified before the preceeding elimination round begins. [NOTE BY LUCAS: Just the latter? We need stricter enforcement of this, anyhow.]
+    - 9p3) If a qualifying competitor withdraws from a round, he may be replaced by the best-scoring competitor below the cutoff from the preceeding round. [NOTE BY SARAH: there's inconsistent usage of "score" vs. "time" -- you ought to clear that up]
+- 9r) A qualification round is held before the first round of an event. [NOTE BY SARAH: this (important!) definition needs to appear before 9g.]
     - 9r1) When announcing an event, the organisation team must include:
         - the number of competitors in the first round of the event
         - the maximum number of competitors permitted in the qualification round of the event, and the number of said competitors who will proceed to the first round
         - the average/mean time or single solve time, achieved in previous competition, required to qualify directly for the first round of the event
-        - the latest permitted date used to determine the qualifiying average/mean time or single solve time on the WCA ranking of each competitor [NOTE: still confused about this. You fix it.] [NOTEL: Still needs fixing.]
+        - the latest permitted date used to determine the qualifiying average/mean time or single solve time on the WCA ranking of each competitor [NOTE BY SARAH: still confused about this. You fix it.] [NOTE BY LUCAS: Still needs fixing.]
     - 9r2) All competitors of an event who have not directly qualified for the first round of the event must compete in the qualification round in order to participate in the first round.
     - 9r3) A qualification round may be added to accommodate newly registered competitors, and/or the maximum number of competitors in the qualification round or first round of an event may be increased. These changes must be made at least two weeks before the competition.
 - 9s) Each round of each event must have a time limit. If a competitor does not solve within the time limit, the judge may terminate and disqualify the solve. The The competitor may be allowed to continue the round, at the discretion of the WCA delegate.
@@ -195,7 +195,7 @@
 - 10c) Puzzles may be in any orientation at the end of the solve.
 - 10d) All pieces of a puzzle must be fully attached to the puzzle in their required positions. Exceptions: see Article 5 Puzzle defects.
 - 10e) A puzzle is solved when all face colours are reassembled and all parts are aligned within the limits specified below:
-    - 10e1) For each two adjacent parts (e.g. two parallel adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in Article 10f, the puzzle shall be considered to require one additional move to solve (Half Turn Metric). [NOTE: what is a Half Turn Metric? Is this described elsewhere in the document? If not, define it here. As a general rule, all specialised terminology should be defined at the point in the document that where it first appears, even if said definition is merely a reference to another part of the document.]
+    - 10e1) For each two adjacent parts (e.g. two parallel adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in Article 10f, the puzzle shall be considered to require one additional move to solve (Half Turn Metric). [NOTE BY SARAH: what is a Half Turn Metric? Is this described elsewhere in the document? If not, define it here. As a general rule, all specialised terminology should be defined at the point in the document that where it first appears, even if said definition is merely a reference to another part of the document.]
     - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle shall be considered solved without penalty.
     - 10e3) If one move is required, the puzzle shall be considered solved with a penalty of 2 seconds.
     - 10e4) If more than one move is required, the solve is ruled DNF.
@@ -231,12 +231,12 @@ All misalignments <= 45° Solved, with penalty
     - 11a1) Incorrect execution of event procedures, by officials or competitors.
     - 11a2) Interference, distractions, or interruptions due to the venue (e.g. power failure, emergency alarm activation).
     - 11a3) Equipment malfunction.
-- 11b) Should an incident occur during an event, the WCA Delegate must determine an impartial and appropriate course of actione. [NOTE: I merged 11d into 11b (there was no 11c).]
-- 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA regulations, then the WCA Delegate must make his decision based on fair sportsmanship. [NOTEL: Also, something like: ... and report the incident]
+- 11b) Should an incident occur during an event, the WCA Delegate must determine an impartial and appropriate course of actione. [NOTE BY SARAH: I merged 11d into 11b (there was no 11c).]
+- 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA regulations, then the WCA Delegate must make his decision based on fair sportsmanship. [NOTE BY LUCAS: Also, something like: ... and report the incident]
 - 11e) Should an incident occur during an event, the WCA Delegate may award a competitor another attempt, replacing the attempt during which the incident occurred. The competitor must appeal at the time of the incident, before completing the solve, to be eligible for another attempt. An appeal does not guarantee the competitor an extra attempt.
 - 11f) The WCA Delegate must not support his decisions with video or photographic analysis. A competitor may, however, submit video or photographic evidence supporting an appeal to the WCA Board.
 
-## Article 12: Notation [NOTE: okay, I'm not even going to try to edit this article.]
+## Article 12: Notation [NOTE BY SARAH: okay, I'm not even going to try to edit this article.]
 - 12a) Notation for Rubik's Cube and similar puzzles:
 - Face Moves:
     - 12a1) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
@@ -279,7 +279,7 @@ All misalignments <= 45° Solved, with penalty
     - A1a1) The default time limit per solve is 10 minutes, though the organization team may announce a higher/lower time limit.
     - A1a2) Cumulative time limits may be enforced (e.g. 3 attempts with a cumulative time limit of 20 minutes). The time elapsed in a "DNF" result counts towards the cumulative time limit.
     - A1a3) For any round, time limits must be announced before the round begins must not be changed after it has begun.
-    - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used [NOTEL: The judge must use a stopwatch? While the competitor must use the Stackmat?] for timekeeping, in addition to a Stackmat. If the puzzle is solved within 10 minutes, the Stackmat time is the result; otherwise the stopwatch time is the result.
+    - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used [NOTE BY LUCAS: The judge must use a stopwatch? While the competitor must use the Stackmat?] for timekeeping, in addition to a Stackmat. If the puzzle is solved within 10 minutes, the Stackmat time is the result; otherwise the stopwatch time is the result.
     - A1c) A competitor participating in an event must be able to fulfil the event's requirements. A competitor competing with expectation of a "DNF" result may be disqualified from the event at the discretion of the Delegate.
 - A2) Scrambling
     - A2a) When he is called to compete in a round, a competitor shall submit his puzzle, in its solved state, to the scrambler and wait in the competitors area until he is called to compete.
