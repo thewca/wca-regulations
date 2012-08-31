@@ -1,147 +1,144 @@
 ## Article 1: Officials
-- 1a) A competition must include the following officials: an organisation team (consisting of one or more individuals), a World Cube Association (hereafter abbreviated as WCA) Delegate, and sufficient judges, scramblers and score takers. [NOTE: Are the WCA Delegate, judges, etc. members of the organisation team? This affects the wording of 1c.]
+- 1a) A competition must include the following officials: an organisation team (consisting of one or more individuals), a World Cube Association (hereafter abbreviated as WCA) Delegate, and sufficient judges, scramblers and score takers. [NOTE BY SARAH: Are the WCA Delegate, judges, etc. members of the organisation team? This affects the wording of 1c.]
 - 1b) The organisation team of a competition is responsible for:
     - 1b1) Event logistics before and during the competition.
     - 1b2) Making a copy of the WCA regulations available at the competition (both print and electronic documents are acceptable).
-- 1c) The WCA Delegate may delegate responsibilities to other members of the organization team, but is ultimately accountable for all consequences thereof [NOTE: simplify wording]. The WCA Delegate for a competition is responsible for:
-    - 1c1) Reporting to the WCA Board regarding adherence to WCA regulations during the competition, the competition proceedings, and any incidents or abnormalities therein. Reports must be available within one week of the competition date. [NOTE: To whom are reports required to be made available? Are they closed to the Board, between the Board and the organisation team, or open to the public/WCA community? This ought to be specified.]
-    - 1c3) Sending the competition results to the WCA Results Team. [NOTE: Who/what is the Results Team? This needs to be defined in the document, or else a referred definition ought to be provided.] Results should be ready at the end of the last day of competition.
+- 1c) The WCA Delegate may delegate responsibilities to other members of the organization team, but is ultimately accountable for all consequences thereof [NOTE BY LUCAS: simplify wording]. The WCA Delegate for a competition is responsible for:
+    - 1c1) Reporting to the WCA Board regarding adherence to WCA regulations during the competition, the competition proceedings, and any incidents or abnormalities therein. Reports must be available within one week of the competition date. [NOTE BY SARAH: To whom are reports required to be made available? Are they closed to the Board, between the Board and the organisation team, or open to the public/WCA community? This ought to be specified.]
+    - 1c3) Sending the competition results to the WCA Results Team. [NOTE BY SARAH: Who/what is the Results Team? This needs to be defined in the document, or else a referred definition ought to be provided.] Results should be ready at the end of the last day of competition.
     - 1c3a) All scrambles used during a competition should be sent with the results of the competition.
     - 1c4) Sending corrections to the competition results to the WCA Board. Corrections should be available within one week of the competition date.
     - 1c5) Advising the other officials where necessary.
-    - 1c6) Approving all events and event formats of a competition, before the competition starts and if changes should be [NOTE: are?] required during the competition.
-    - 1c7) Decisions on disqualification of a competitor during the competition, as described in other articles. [NOTE: Provide the specific article numbers where the rules for disqualification may be found.]
-    - 1c8) Providing the scrambles. [NOTE: Is there another article with further clarification? If so, provide the article number.]
+    - 1c6) Approving all events and event formats of a competition, before the competition starts and if changes should be [NOTE BY LUCAS: are?] required during the competition.
+    - 1c7) Decisions on disqualification of a competitor during the competition, as described in other articles. [NOTE BY SARAH: Provide the specific article numbers where the rules for disqualification may be found.]
+    - 1c8) Providing the scrambles. [NOTE BY SARAH: Is there another article with further clarification? If so, provide the article number.]
     - 1c9) Decisions on changes to the scheduled times of rounds. In cases of such changes, a clear announcement should be made to all competitors.
 - 1e) Each event must be assigned one or more judges.
     - 1e1) A judge for an event is responsible for executing the procedures of the event.
     - 1e1a) A judge may judge multiple competitors simultaneously, so long as the judge is able ensure that all Competition Regulations are followed at all times.
     - 1e2) All competitors must be available for judging, if needed by organisation team. Penalty: disqualification of the competitor for the competition.
 - 1f) Each event (except for puzzles that are not scrambled) must have one or more scramblers.
-    - 1f1) A scrambler is responsible for applying the scramble sequences to the puzzles for the event [NOTE: for the round? group?].
+    - 1f1) A scrambler is responsible for applying the scramble sequences to the puzzles for the event [NOTE BY SARAH: for the round? group?].
     - 1f2) All competitors must be available for scrambling, if needed by organisation team. Penalty: disqualification of the competitor for the competition.
 - 1g) Each event must have one or more score takers.
-    - 1g1) A score taker for an event is responsible for registering the event results [NOTE: in what manner?].
+    - 1g1) A score taker for an event is responsible for registering the event results [NOTE BY SARAH: in what manner?].
     - 1g2) Any changes to the score sheets must made with the consent of the WCA Delegate.
-- 1h) Competitors in the same round of an event may be divided into groups. [NOTE: "flight" may be a debate-centric term; you might prefer another, less specific term, such as "shift"]  [NOTE: Is it necessary to spell out the reasons for splitting an event into flights? Does that affect the competition in a regulatory capacity?]
-    - 1h1) Judges/scramblers for a round must not judge or scramble for competitors in their own group before they have completed all of their solves for the round. 
+- 1h) Competitors in the same round of an event may be divided into groups. [NOTE BY SARAH: "flight" may be a debate-centric term; you might prefer another, less specific term, such as "shift"]  [NOTE BY SARAH: Is it necessary to spell out the reasons for splitting an event into flights? Does that affect the competition in a regulatory capacity?]
+    - 1h1) Judges/scramblers for a round must not judge or scramble for competitors in their own group before they have completed all of their solves for the round.
     - 1h2) Different groups must use different scramble sequences and same [groups] must use the same scramble sequences.
-- 1i) The WCA Delegate must be announced to the competitors [NOTEL: to the… public/community?] before the competition starts.
+- 1i) The WCA Delegate must be announced to the competitors [NOTE BY LUCAS: to the... public/community?] before the competition starts.
 - 1j) All officials may compete in the competition.
 - 1k) Officials may serve multiple roles (e.g. organisation team, WCA Delegate, judge, score taker, scrambler).
 
 ## Article 2: Competitors
-- 2a) Any person is allowed to [NOTEL: exact phrasing?] compete in a WCA competition, if he:
+- 2a) Any person is allowed to [NOTE BY LUCAS: exact phrasing?] compete in a WCA competition, if he:
     - 2a1) complies with WCA regulations;
     - 2a2) meets the competition requirements, which must be clearly announced before the competition;
     - 2a3) is not suspended by WCA Board.
 - 2b) Competitors below the age of 18 must obtain consent from their parent(s)/guardian(s) to register and compete.
 - 2c) Competitors must provide all information required by the organization team (minimally comprising: name, country, date of birth, gender, contact information, selected events) for their registration to be considered complete.
-    - 2c1) A competitor shall not be eligible to compete without a completed registration. [NOTE: Please decide the exact person(s) who shall determine the composition of a "complete registration," and use one designation for said person(s) throughout. In the space of two sub-articles, you've used "organisation team," "competition organiser" and "WCA Delegate".]
-- 2d) All information (except: name, country, date of birth [NOTE: I find it hard to believe that date of birth is not considered confidential. Most organisations (especially online transactions/registries) will not release DOBs for fear of identity theft/fraud liability], gender, selected events and competition results [NOTE: also, given the breadth of such exceptions, what personal information remains protected?]) must be used for the competition only, and may only be disclosed to outside organisations/persons with the consent of the competitor. A competitor's date of birth is considered confidential information, and must never be shared with other parties without prior consent of the competitor or legal guardian, as applicable.
-- 2e) Competitors may only [NOTEL: Rephrease using "must"] represent countries of which they hold citizenship. The WCA Delegate should verify citizenship standing by means of  documents (e.g. a passport). If a competitor is found ineligible to represent the country under which they have registered, the competitor may be retroactively disqualified and/or suspended at the discretion of the WCA Board.
-    - 2e1a) The eligible countries are defined by Wikipedia List of sovereign states ("Internationally recognized sovereign states" and "Other states"). [NOTE: Why Wikipedia? You could use the UN list, or something actually recognized by sovereign governments.]
+    - 2c1) A competitor shall not be eligible to compete without a completed registration. [NOTE BY SARAH: Please decide the exact person(s) who shall determine the composition of a "complete registration," and use one designation for said person(s) throughout. In the space of two sub-articles, you've used "organisation team," "competition organiser" and "WCA Delegate".]
+- 2d) All information (except: name, country, date of birth [NOTE BY SARAH: I find it hard to believe that date of birth is not considered confidential. Most organisations (especially online transactions/registries) will not release DOBs for fear of identity theft/fraud liability], gender, selected events and competition results [NOTE BY SARAH: also, given the breadth of such exceptions, what personal information remains protected?]) must be used for the competition only, and may only be disclosed to outside organisations/persons with the consent of the competitor. A competitor's date of birth is considered confidential information, and must never be shared with other parties without prior consent of the competitor or legal guardian, as applicable.
+- 2e) Competitors may only [NOTE BY LUCAS: Rephrease using "must"] represent countries of which they hold citizenship. The WCA Delegate should verify citizenship standing by means of  documents (e.g. a passport). If a competitor is found ineligible to represent the country under which they have registered, the competitor may be retroactively disqualified and/or suspended at the discretion of the WCA Board.
+    - 2e1a) The eligible countries are defined by Wikipedia List of sovereign states ("Internationally recognized sovereign states" and "Other states"). [NOTE BY SARAH: Why Wikipedia? You could use the UN list, or something actually recognized by sovereign governments.]
     - 2e2) Competitors with more than one citizenship may change their country of representation in their first competition of a calendar year.
 - 2f) Competitors must obey venue regulations and conduct themselves in a manner considerate of others.
-- 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from active competitors [NOTEL: Was "those competing". Resolve.].
+- 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from active competitors [NOTE BY LUCAS: Was "those competing". Resolve.].
 - 2h) Competitors shall be fully dressed while in the competition venue. At the discretion of the Delegate, competitors may be disqualified for inappropriate clothing.
     - 2h1) Exception: Competitors may be barefoot if 3x3x3 Feet Solving is being held at the competition.
 - 2i) While competing, competitors must not use sound  or other electronic equipment (e.g. cell phones, MP3 players, dictaphones, or additional lighting).
-- 2j)  The WCA Delegate may disqualify a competitor who fails arrive in time for a round of any event.
-- 2k)  A competitor may be disqualified from a competition by the WCA Delegate if:
+- 2j) The WCA Delegate may disqualify a competitor who fails arrive in time for a round of any event.
+- 2k) A competitor may be disqualified from a competition by the WCA Delegate if:
     - 2k1) The competitor fails to show up in time for registration for the competition.
     - 2k2) The competitor is suspect of cheating or defrauding the officials during the competition.
     - 2k3) The competitor behaves in a way that is unlawful, violent or indecent; or intentionally damages venue facilities or personal property within the venue.
     - 2k4) The competitor interferes with, or distracts others during, the competition.
     - 2k5) The competitor fails to abide by WCA regulations during the competition.
-- 2l) A competitor may be disqualified immediately or after a warning, depending on the nature and severity of the infraction. [NOTEL: Review.]
+- 2l) A competitor may be disqualified immediately or after a warning, depending on the nature and severity of the infraction. [NOTE BY LUCAS: Review.]
 - 2m) A competitor, if disqualified, is not eligible for the refund of any expenses incurred as a consequence of participation in the competition.
 - 2n) Competitors may verbally dispute a ruling to the WCA Delegate.
 - 2o) Disputes are only permitted during the competition, within 30 minutes after the disputed incident happened and before the start of the next round of the event.
 - 2p) The WCA Delegate must resolve the dispute before the start of the next round of the event.
-- 2q) Disputes are only permitted within the parameters of the discretion of the organisation team. [NOTE: This is extremely vague; I'm not sure what this is supposed to mean. Are there actual parameters (and if so, are they listed anywhere in this document?)? If there are parameters, then how much leeway is afforded "the discretion of the organisation team?"] 
-- 2r) The competitor must accept the final ruling of the WCA Delegate. Penalty: disqualification of the competitor from the competition.The final ruling of the WCA Delegate may not be disputed; further dispute may lead to disqualification of the competitor in question. [NOTE: Perhaps you should find some way to replace all instances of "Penalty:" with a full sentence, as demonstrated above.]
+- 2q) Disputes are only permitted within the parameters of the discretion of the organisation team. [NOTE BY SARAH: This is extremely vague; I'm not sure what this is supposed to mean. Are there actual parameters (and if so, are they listed anywhere in this document?)? If there are parameters, then how much leeway is afforded "the discretion of the organisation team?"]
+- 2r) The competitor must accept the final ruling of the WCA Delegate. Penalty: disqualification of the competitor from the competition.The final ruling of the WCA Delegate may not be disputed; further dispute may lead to disqualification of the competitor in question. [NOTE BY SARAH: Perhaps you should find some way to replace all instances of "Penalty:" with a full sentence, as demonstrated above.]
     - 2s1) For competitors with hearing disabilities, judges may replace the vocal instructions with hand signals.
     - 2s2) For competitors with physical disabilities, judges may give help with starting and stopping the timer.
-    - 2s3) Competitors with other disabilities that may prevent them from abiding by one or more Competition Regulations may request special accommodations with the WCA Delegate. Such accommodations must be noted in the Delegate Report. [NOTE: All sub-articles (e.g. 2s) with sub-points (e.g. 2s1) should have a heading at the sub-article level.]
+    - 2s3) Competitors with other disabilities that may prevent them from abiding by one or more Competition Regulations may request special accommodations with the WCA Delegate. Such accommodations must be noted in the Delegate Report. [NOTE BY SARAH: All sub-articles (e.g. 2s) with sub-points (e.g. 2s1) should have a heading at the sub-article level.]
 - 2t) All competitors should be familiar with and understand the WCA regulations before the competition.
 
 ## Article 3: Puzzles
-- 3a) Competitors must provide their own puzzles for the competition. Competitors may borrow puzzles from other competitors. 
-    - 3a1) Competitors must be present and ready to compete when they are called to compete for a round. [NOTEL: revise] Penalty: disqualification from the event. 
+- 3a) Competitors must provide their own puzzles for the competition. Competitors may borrow puzzles from other competitors.
+    - 3a1) Competitors must be present and ready to compete when they are called to compete for a round. [NOTE BY LUCAS: revise] Penalty: disqualification from the event.
 - 3b) Puzzles must be in fully operational, such that normal scrambling is possible.
 - 3c) Polyhedral puzzles must use a colour scheme with one colour per face in the solved state.  All puzzle variations must have moves, positions and solutions functionally identical to the original puzzle.
-- 3d) Puzzles must have coloured stickers, coloured tiles, textures or painted/printed colours. Textured puzzles must have uniform texture patterns throughout. [NOTEL: Sarah had "throughout"]  Competitors with a medically documented visual disability may use textured puzzles with different textures on each face. Textures/patterns must be uniform per face.
+- 3d) Puzzles must have coloured stickers, coloured tiles, textures or painted/printed colours. Textured puzzles must have uniform texture patterns throughout. [NOTE BY LUCAS: Sarah had "throughout"]  Competitors with a medically documented visual disability may use textured puzzles with different textures on each face. Textures/patterns must be uniform per face.
     - 3d1) Textured puzzles must have different colours on each face to aid in scrambling and judging.
 - 3e) The colours of puzzles must be solid and of uniform shade per face; each colour on the puzzle must be clearly distinct from other colours thereupon.
 - 3f) Stickers/tiles/textures/paint must not be thicker than 1.5 mm, or the generally available thickness for non-cube puzzles.
 - 3g) Puzzles may be refined internally by sanding or applying any form of lubricant.
-- 3h) Modifications that enhance the basic concept of a puzzle are not permitted. Examples of said enhancement include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, more or other solved states.
-- 3i) "Pillowed" and other modified versions of puzzles are permitted if and only if the modification does not make available to the competitor additional information (e.g. identity of faces) [from any possible angle of the puzzle in any possible configuration NOTE: this is confusing and possibly unnecessary.], as compared to a non-pillowed version of the same puzzle. This is subject to the following exceptions and clarifications:
+- 3h) Modifications that enhance the basic concept of a puzzle are not permitted. Examples of such enhancement include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, more or other solved states. [NOTE BY LUCAS: Guideline?]
+- 3i) "Pillowed" and other modified versions of puzzles are permitted if and only if the modification does not make any additional information available to the competitor (e.g. identity of faces) [from any possible angle of the puzzle in any possible configuration NOTE BY SARAH: this is confusing and possibly unnecessary.], as compared to a non-pillowed version of the same puzzle. This is subject to the following exceptions and clarifications:
     - 3i1) Exception to 3i: Pillowed 7x7x7 cubes are permitted.
-    - 3i2) "Stickerless" cubes, and other cubes whose face colours are visible inside the cube, are not permitted. [NOTE: I find this language vague, but perhaps most cubers will be familiar with the object in question.]
-- 3j) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts in the event.
-- 3k) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that distinguish one piece from any likepiece. [NOTE: The term "piece" may be vague.]
+    - 3i2) "Stickerless" cubes, and other cubes whose face colours are visible inside the cube, are not permitted.
+- 3j) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
+- 3k) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that distinguish one piece from any similar piece.
 - 3l) Puzzles must be approved by  the WCA Delegate before use in the competition.
 - 3m) Cube puzzles must have at most one logo. For the Rubik's Cube or bigger cube puzzles the logo must be placed on one of the centre pieces.
     - 3m1) Colourless engravings (max. 1 per colour) are not considered as logos.
-- 3n) All brands of puzzle and puzzle parts are allowed, given the puzzles' complance with all WCA regulations.
+- 3n) All brands of puzzles and puzzle parts are allowed, so long as the puzzles comply with all WCA regulations.
 
 ## Article 4: Scrambling
 - 4a) A scrambler must apply the scramble sequences.
-- 4b) Puzzles must be scrambled using computer-generated random scramble sequences or scrambled positions known only to the WCA Delegate and the scrambler. [NOTE: The "must" employed at the beginning of the sentence applies to all clauses in said sentence -- no need to write it in twice.] Generated scrambles must not be inspected before the competition, and must not be filtered or selected in any way by the WCA Delegate.
-- 4d) Cube puzzles and Megaminx must be scrambled with the lightest-coloured face (usually white) on top and darkest-coloured adjacent face (usually green) in front. Pyraminx must be scrambled with the lightest-coloured face (usually yellow) on bottom and darkest-coloured face (usually green) in front. Square-1 must be scrambled with the darkest-coloured face in front (of the two possible scrambling orientations).
-- 4f) Competition scrambles must be generated using the current official version of the WCA scrambling program (available via the WCA website).
+- 4b) Puzzles must be scrambled using computer-generated random scramble sequences or scrambled positions available only to the WCA Delegate and the scrambler. [NOTE BY SARAH: The "must" employed at the beginning of the sentence applies to all clauses in said sentence -- no need to write it in twice.] Generated scrambles must not be inspected before the competition, and must not be filtered or selected in any way by the WCA Delegate.
+- 4d) Cube puzzles and Megaminx must be scrambled with the white (otherwise the lightest colour) face on top and green (or the darkest adjacent face by default) on the front. Pyraminx must be scrambled with the yellow (or the lightest colour by default) face on bottom and green (or the darkest adjacent colour by default) on the front. Square-1 must be scrambled with the darkest colour on front (out of the 2 possible scrambling orientations).
+- 4f) Competition scrambles must be generated using the current official version of the official WCA scrambling program (available via the WCA website). [NOTE BY LUCAS: How do we make clear that the redundancy is intentional?]
 
 ## Article 5: Puzzle Defects
 - 5a) Examples of puzzle defects include: popped pieces; broken wires; and detached screws,caps, and stickers.
-- 5b) If a puzzle defect occurs during the solve, the competitor may choose to repair the defect and continue the solve, or to discontinue the solve.
-    - 5b1) If a competitor chooses to repair the puzzle, he must repair only the defective pieces. Tools and/or pieces of other puzzles must not be used to repair the original puzzle. Noncompliant competitors shall be disqualified for the duration of the solve.
-    - 5b2) Any repair to a puzzle must not confer upon the competitor any advantage in solving said puzzle. Noncompliant competitors shall be disqualified for the duration of the solve.
-    - 5b3) If, after repairing the puzzle but before the end of the solve, the competitor finds that the puzzle is unsolvable, he may disassemble and assemble a maximum of four pieces to render the puzzle solvable.
-    - 5b4) In blindfolded events, a puzzle defect may only be repaired during the solve, and all repairs must be performed blindfolded. Noncompliant competitors shall be disqualified for the duration of the solve.
-    - 5b5) If, after the solve,  parts of the puzzle(e.g. a centre cap of a cube)  are still defective or not fully rotated (e.g. a 5x5x5 centre piece twisted in its spot), the result shall be recorded as the worst state obtainable via reassembly of the puzzle (e.g. a pyraminx with a detached tip may be reassembled in three states one fully solved, and two "+2" states; said solve would be recorded as a "+2" state). [NOTE: Is the term "+2" the most correct technical definition? If so, perhaps the quotation marks should be removed.]  
-- 5c) If a competitor's puzzle presents a defect during a solve, he is not permitted an extra attempt.
+- 5b) If a puzzle defect occurs during the solve, the competitor may choose to repair the defect and continue the solve, or to stop the solve.
+    - 5b1) If a competitor chooses to repair the puzzle, he must repair only the defective pieces. Tools and/or pieces of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the solve.
+    - 5b2) Any repair to a puzzle must not give the competitor any advantage in solving said puzzle. Penalty: disqualification of the solve.
+    - 5b3) If, after repairing the puzzle but before the end of the solve, the competitor finds that the puzzle is unsolvable, he may disassemble and assemble a maximum of 4 pieces to make the puzzle solvable.
+    - 5b4) In blindfolded events, a puzzle defect may only be repaired during the solve, and all repairs must be performed blindfolded. Penalty: disqualification of the solve.
+    - 5b5) If, at the end of the solve [NOTE BY LUCAS: Moving this before the next comma would be better, if we didn't have app those parentheses], parts of the puzzle (e.g. a centre cap of a cube) are still defective or not fully rotated (e.g. a 5x5x5 centre piece twisted in its spot), the result shall be recorded as the worst state obtainable via reassembly of the puzzle (e.g. a pyraminx with a detached tip may be reassembled in three states one fully solved, and two "+2" states; the solve would be recorded as a "+2" state).
+- 5c) If a competitor has a puzzle defect, this does not give him the right to an extra attempt.
 
 ## Article 7: Environment
-- 7a) Competitions may be held atany location, indoors or outdoors.
-- 7b) Spectators must remain at least 1.50 meters away from the competition stage when it is in use..
-- 7c) Lighting of the competition area ought be paid special attention, [NOTE: Is this an advisory or a regulation?] White light is preferred. [NOTE: If the latter clause is necessary, perhaps "such that competitors may readily differentiate between the colours on the puzzles."]
+- 7a) Competitions may be held at any location, indoors or outdoors.
+- 7b) Spectators must remain at least 1.50 meters away from the competition stage when it is in use. [NOTE BY LUCAS: when... competitors are using it... for official solves?]
+- 7c) Lighting of the competition area must be given special attention. [NOTE BY SARAH: Is this an advisory or a regulation?] White light is preferred, such that competitors may easily differentiate among the colours on the puzzles. [NOTE BY SARAH: If the latter clause is necessary, perhaps "such that competitors may readily differentiate between the colours on the puzzles."]
 - 7e) The competition area must be smoke-free.
-- 7f) The timer must be attached to the mat and placed upright on the table, desk or other suitable console , with the device on the near side of the mat. [NOTE: Specify -- near to whom/what? The competitor? The judge? e.g. "the side of the mat nearest the competitor".] The mat must be placed flush against the surface of the table.
-    - 7f1) Exception: In Solving With Feet the timer must be placed directly on the floor. The timer device may [NOTE: is this an advisory or a regulation?] be placed on the far side of the mat. [NOTE: again, specify -- is this the far side from the competitor's perspective?]
-- 7h) A competitors area must be designated within the competition area.
-    - 7h1) Competitors who have been called to compete - and only those competitors - must remain within the competitors area until all solves of the round have been completed. [NOTE: does this mean all of their own solves of the round, or all the solves of all competitors in the round?]
-    - 7h3) Competitors in the competitors area must not communicate with each other about the scrambled positions of the puzzles of the round in progress. Noncompliant competitors may be disqualified at the discretion of the Delegate.
+- 7f) The timer must be attached to the mat and placed directly on the table, desk or other suitable console, with the timer on the side of the mat nearest to the competitor. [NOTE BY SARAH: Specify -- near to whom/what? The competitor? The judge? e.g. "the side of the mat nearest the competitor".] The mat must be placed flush against the surface of the table.
+    - 7f1) Exception: In Feet Solving the timer must be placed directly on the floor. The timer device may [NOTE BY SARAH: is this an advisory or a regulation?] be placed on the far side of the mat. [NOTE BY SARAH: again, specify -- is this the far side from the competitor's perspective?]
+- 7h) The competition area must have a competitors area. [NOTE BY LUCAS: Competitors Area, capitalized?)
+    - 7h1) A competitor who have been called to compete must remain within the competitors area until he has completed all of his solves for the round. [NOTE BY SARAH: does this mean all of their own solves of the round, or all the solves of all competitors in the round?] [NOTE BY LUCAS: Should we add a sentence like "Competitors who are not competing and currently helping run the competition must not be in the competitors area."? That would be hard to phrase ("helping out" is vague, but how else do you encapsulate "judging, scrambling, or otherwise helping the organizatino team"), and it would probably get violated quite a bit in some competition scenarios.]
+    - 7h3) Competitors in the competitors area must not communicate with each other about the scrambled positions of the puzzles of the round in progress. Penalty: disqualification of competitor at the discretion of the WCA Delegate.
 
 ## Article 8: Competitions
 - 8a) An official WCA competition must:
     - 8a1) be approved by the WCA Board.
-    - 8a2) follow WCA regulations.
+    - 8a2) follow the WCA Regulations.
     - 8a3) have a WCA Delegate (appointed by WCA Board) in attendance.
     - 8a4) be announced on the WCA website at least two weeks  before the start of the competition.
     - 8a6) be publicly accessible.
     - 8a7) use the authentic Speedstacks Stackmat timer (Generation 2 or Pro) for time measurement.
-    - 8a8) be open, by default, to all who wish to compete. Restrictions thereto must be approved by the WCA Board and clearly stated on the competition website when the competition is announced.
-- 8c) A closed competition may be open (courtesy of WCA Board) to persons with a specific nationalityies. No other distinctions are allowed to declare a competition closed.
-- 8d) Competitions may have time limits per round of an event, to make sure that the time schedule can be followed.
-- 8b) If WCA regulations are not correctly observed at any point during a competition, the WCA Board may declare affected events or solves, or the competition as a whole, invalid.
+    - 8a8) be open, by default, to all who wish to compete. Restrictions must be approved by the WCA Board and clearly stated on the competition website when the competition is announced.
+- 8b) If WCA regulations are not correctly observed at any point during a competition, the WCA Board may declare affected events or solves, or the competition as a whole, invalid. [NOTE BY LUCAS: Does this sound like a good way to phrase "refuse to accep the results"?]
 
 ## Article 9: Events
 - 9a) The puzzles for which competitions are governed by the WCA are:
-all puzzles known as Rubik puzzles;
-all other puzzles that are manipulated by twisting the sides, commonly known as 'Twisty puzzles'.
-
+    - puzzles known as Rubik puzzles; [NOTE BY LUCAS: Took out "all" because e.g. Magis are not necessarily "governed" by the WCA]
+    - other puzzles that are manipulated by twisting the sides, commonly known as 'twisty puzzles'.
 - 9b) Official events and formats of WCA are:
-    - Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Magic, Master Magic, Megaminx, Pyraminx, Square-1, Rubik's Cube: One-handed and Rubik's Cube: With Feet. 
+    - Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Magic, Master Magic, Megaminx, Pyraminx, Square-1, Rubik's Cube: One-handed and Rubik's Cube: With Feet.
 
       Allowed formats are 'Best of x' and 'Average of 5'
 
-    - 6x6x6 Cube and 7x7x7 Cube. 
+    - 6x6x6 Cube and 7x7x7 Cube.
 
       Allowed formats are 'Best of x' and 'Mean of 3'
 
-    - Rubik's Cube: Fewest moves, Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded and Rubik's Cube: Multiple Blindfolded. 
+    - Rubik's Cube: Fewest moves, Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded and Rubik's Cube: Multiple Blindfolded.
 
       Allowed format is 'Best of x'
 
@@ -172,7 +169,7 @@ all other puzzles that are manipulated by twisting the sides, commonly known as 
     - 9i3) If the regulations for an event are changed, then the old regional records stand until they are broken under the new regulations.
 - 9j) Events must be held only once during a competition.
 - 9k) If an event is held, then all competitors may participate in that event.
-- 9l) Rounds must be finished before the next round of the event starts. 
+- 9l) Rounds must be finished before the next round of the event starts.
 - 9m) Events must have at most four rounds.
     - 9m1) Events with 99 or fewer competitors must have at most three rounds.
     - 9m2) Events with 15 or fewer competitors must have at most two rounds.
@@ -311,7 +308,7 @@ All misalignments <= 45° Solved, with penalty
     - A5a) While inspecting or solving the puzzle, the competitor must not have any communication with anyone other than the judge. Penalty: disqualification of the solve.
     - A5b) While inspecting or solving the puzzle, the competitor must not have any assistance from anyone or any object (other than the surface). Penalty: disqualification of the solve.
 - A6) Ending the solve
-    - A6a) The competitor ends the solve by releasing the puzzle and then stopping the timer. If a stopwatch is being used as the timing device, the competitor ends the solve by releasing the puzzle and notifying the judge that he has finished. The default signal is when a competitor releases any puzzle(s) being solved and places his hands palms down on the surface. The competitor and the judge can also agree upon another appropriate notification before the beginning of the solve. 
+    - A6a) The competitor ends the solve by releasing the puzzle and then stopping the timer. If a stopwatch is being used as the timing device, the competitor ends the solve by releasing the puzzle and notifying the judge that he has finished. The default signal is when a competitor releases any puzzle(s) being solved and places his hands palms down on the surface. The competitor and the judge can also agree upon another appropriate notification before the beginning of the solve.
     - A6b) It is the competitor's responsibility that the timer is stopped correctly.
     - A6b1) If the timer stops earlier than the end of the solve, and the timer shows a time strictly below 0.06 then the solve is replaced by additional solve, unless the competitor intentionally forced the early timer stop (at the discretion of the WCA Delegate).
     - A6b2) If the timer stops earlier than the end of the solve, and the timer shows 0.06 or higher then the solve is disqualified, unless the competitor can demonstrate to the WCA delegate's satisfaction that the timer was malfunctioning.
@@ -395,7 +392,7 @@ All misalignments <= 45° Solved, with penalty
 - F2) Scrambling
     - F2a) After the scrambling the judge places the puzzle onto the Stackmat in a standing position.
 - F3) Inspection
-    - F3a) After the inspection the competitor places the puzzle onto the Stackmat in a standing position. If the positions of any pins are changed in any way, a +2 penalty shall be applied. 
+    - F3a) After the inspection the competitor places the puzzle onto the Stackmat in a standing position. If the positions of any pins are changed in any way, a +2 penalty shall be applied.
 
 ## Article G: Magic (and similar puzzles) Solving
 - G1) Standard procedure is followed as described in Article A (Speed Solving). Additional/special regulations for Magic Solving are described below.
