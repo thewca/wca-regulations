@@ -1,10 +1,10 @@
 ## Article 1: Officials
-- 1a) A competition must include the following officials: an organisation team (consisting of one or more individuals), a World Cube Association (hereafter abbreviated as WCA) Delegate, and sufficient judges, scramblers and score takers. [NOTE BY SARAH: Are the WCA Delegate, judges, etc. members of the organisation team? This affects the wording of 1c.]
+- 1a) A competition must include the following officials: an organisation team (consisting of one or more individuals), a WCA Delegate, and sufficient judges, scramblers and score takers. [NOTE BY SARAH: Are the WCA Delegate, judges, etc. members of the organisation team? This affects the wording of 1c.]
 - 1b) The organisation team of a competition is responsible for:
     - 1b1) Event logistics before and during the competition.
-    - 1b2) Making a copy of the WCA regulations available at the competition (both print and electronic documents are acceptable).
-- 1c) The WCA Delegate may delegate responsibilities to other members of the organization team, but is ultimately accountable for all consequences thereof [NOTE BY LUCAS: simplify wording]. The WCA Delegate for a competition is responsible for:
-    - 1c1) Reporting to the WCA Board regarding adherence to WCA regulations during the competition, the competition proceedings, and any incidents or abnormalities therein. Reports must be available within one week of the competition date. [NOTE BY SARAH: To whom are reports required to be made available? Are they closed to the Board, between the Board and the organisation team, or open to the public/WCA community? This ought to be specified.]
+    - 1b2) Making a copy of the WCA regulations available at the competition (either print and electronic documents are acceptable).
+- 1c) The WCA Delegate may delegate responsibilities to other members of the organization team, but is ultimately accountable for how these responsibilities are carried out. The WCA Delegate for a competition is responsible for:
+    - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be available within one week of the competition date. [NOTE BY SARAH: To whom are reports required to be made available? Are they closed to the Board, between the Board and the organisation team, or open to the public/WCA community? This ought to be specified.]
     - 1c3) Sending the competition results to the WCA Results Team. [NOTE BY SARAH: Who/what is the Results Team? This needs to be defined in the document, or else a referred definition ought to be provided.] Results should be ready at the end of the last day of competition.
     - 1c3a) All scrambles used during a competition should be sent with the results of the competition.
     - 1c4) Sending corrections to the competition results to the WCA Board. Corrections should be available within one week of the competition date.
@@ -13,9 +13,9 @@
     - 1c7) Decisions on disqualification of a competitor during the competition, as described in other articles. [NOTE BY SARAH: Provide the specific article numbers where the rules for disqualification may be found.]
     - 1c8) Providing the scrambles. [NOTE BY SARAH: Is there another article with further clarification? If so, provide the article number.]
     - 1c9) Decisions on changes to the scheduled times of rounds. In cases of such changes, a clear announcement should be made to all competitors.
-- 1e) Each event must be assigned one or more judges.
+- 1e) Each [NOTEL: round of an?] event must be assigned one or more judges. [NOTEL: Phrasing?]
     - 1e1) A judge for an event is responsible for executing the procedures of the event.
-    - 1e1a) A judge may judge multiple competitors simultaneously, so long as the judge is able ensure that all Competition Regulations are followed at all times.
+    - 1e1a) A judge may judge multiple competitors simultaneously, as long as the judge is able ensure that all Competition Regulations are followed at all times.
     - 1e2) All competitors must be available for judging, if needed by organisation team. Penalty: disqualification of the competitor for the competition.
 - 1f) Each event (except for puzzles that are not scrambled) must have one or more scramblers.
     - 1f1) A scrambler is responsible for applying the scramble sequences to the puzzles for the event [NOTE BY SARAH: for the round? group?].
@@ -25,13 +25,13 @@
     - 1g2) Any changes to the score sheets must made with the consent of the WCA Delegate.
 - 1h) Competitors in the same round of an event may be divided into groups. [NOTE BY SARAH: "flight" may be a debate-centric term; you might prefer another, less specific term, such as "shift"]  [NOTE BY SARAH: Is it necessary to spell out the reasons for splitting an event into flights? Does that affect the competition in a regulatory capacity?]
     - 1h1) Judges/scramblers for a round must not judge or scramble for competitors in their own group before they have completed all of their solves for the round.
-    - 1h2) Different groups must use different scramble sequences and same [groups] must use the same scramble sequences.
+    - 1h2) Competitors in the same group must use the same scramble sequences. [NOTEL: Competitors in?] Different groups must use different scramble sequences.
 - 1i) The WCA Delegate must be announced to the competitors [NOTE BY LUCAS: to the... public/community?] before the competition starts.
 - 1j) All officials may compete in the competition.
 - 1k) Officials may serve multiple roles (e.g. organisation team, WCA Delegate, judge, score taker, scrambler).
 
 ## Article 2: Competitors
-- 2a) Any person is allowed to [NOTE BY LUCAS: exact phrasing?] compete in a WCA competition, if he:
+- 2a) Any person is permitted to [NOTE BY LUCAS: exact phrasing?] compete in a WCA competition, if he:
     - 2a1) complies with WCA regulations;
     - 2a2) meets the competition requirements, which must be clearly announced before the competition;
     - 2a3) is not suspended by WCA Board.
@@ -39,9 +39,9 @@
 - 2c) Competitors must provide all information required by the organization team (minimally comprising: name, country, date of birth, gender, contact information, selected events) for their registration to be considered complete.
     - 2c1) A competitor shall not be eligible to compete without a completed registration. [NOTE BY SARAH: Please decide the exact person(s) who shall determine the composition of a "complete registration," and use one designation for said person(s) throughout. In the space of two sub-articles, you've used "organisation team," "competition organiser" and "WCA Delegate".]
 - 2d) All information (except: name, country, date of birth [NOTE BY SARAH: I find it hard to believe that date of birth is not considered confidential. Most organisations (especially online transactions/registries) will not release DOBs for fear of identity theft/fraud liability], gender, selected events and competition results [NOTE BY SARAH: also, given the breadth of such exceptions, what personal information remains protected?]) must be used for the competition only, and may only be disclosed to outside organisations/persons with the consent of the competitor. A competitor's date of birth is considered confidential information, and must never be shared with other parties without prior consent of the competitor or legal guardian, as applicable.
-- 2e) Competitors may only [NOTE BY LUCAS: Rephrease using "must"] represent countries of which they hold citizenship. The WCA Delegate should verify citizenship standing by means of  documents (e.g. a passport). If a competitor is found ineligible to represent the country under which they have registered, the competitor may be retroactively disqualified and/or suspended at the discretion of the WCA Board.
+- 2e) Competitors must [NOTE BY LUCAS: Rephrease using "must"] represent a countries of which they hold citizenship. The WCA Delegate should verify citizenship standing by means of  documents (e.g. a passport). If a competitor is found ineligible to represent the country under which they have registered, the competitor may be retroactively disqualified and/or suspended at the discretion of the WCA Board.
     - 2e1a) The eligible countries are defined by Wikipedia List of sovereign states ("Internationally recognized sovereign states" and "Other states"). [NOTE BY SARAH: Why Wikipedia? You could use the UN list, or something actually recognized by sovereign governments.]
-    - 2e2) Competitors with more than one citizenship may change their country of representation in their first competition of a calendar year.
+    - 2e2) Competitors with more than one citizenship [NOTEL: This doesn't technically account for citizenship changes] may change their country of representation in their first competition of a calendar year.
 - 2f) Competitors must obey venue regulations and conduct themselves in a manner considerate of others.
 - 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from active competitors [NOTE BY LUCAS: Was "those competing". Resolve.].
 - 2h) Competitors shall be fully dressed while in the competition venue. At the discretion of the Delegate, competitors may be disqualified for inappropriate clothing.
@@ -85,7 +85,7 @@
 - 3l) Puzzles must be approved by  the WCA Delegate before use in the competition.
 - 3m) Cube puzzles must have at most one logo. For the Rubik's Cube or bigger cube puzzles the logo must be placed on one of the centre pieces.
     - 3m1) Colourless engravings (max. 1 per colour) are not considered as logos.
-- 3n) All brands of puzzles and puzzle parts are allowed, so long as the puzzles comply with all WCA regulations.
+- 3n) All brands of puzzles and puzzle parts are allowed, as long as the puzzles comply with all WCA regulations.
 
 ## Article 4: Scrambling
 - 4a) A scrambler must apply the scramble sequences.
