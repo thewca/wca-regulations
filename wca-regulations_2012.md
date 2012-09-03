@@ -279,10 +279,10 @@ All misalignments <= 45Â° Solved, with penalty
     - 12a1) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
     - 12a2) Counter clockwise, 90 degrees: F', B', R', L', U', D' (see 12a1).
     - 12a3) 180 degrees: F2, B2, R2, L2, U2, D2 (see 12a1).
-- Multiple Outer Slice Moves (outer slice plus adjacent inner slices; n is defined as total number of slices to move):
-    - 12a5) Clockwise, 90 degrees: nF, nB, nR, nL, nU, nD. (see 12a1).
-    - 12a6) Counter clockwise, 90 degrees: nF', nB', nR', nL', nU', nD' (see 12a5).
-    - 12a7) 180 degrees: nF2, nB2, nR2, nL2, nU2, nD2 (see 12a5).
+- Multiple Outer Slice Moves (outer slice plus adjacent inner slices; n is defined as total number of slices to move; n may be omitted for two slices):
+    - 12a5) Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw. (see 12a1).
+    - 12a6) Counter clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw' (see 12a5).
+    - 12a7) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2 (see 12a5).
 - Block Turn Metric (BTM) is defined as:
     - 12a17) Each move of the categories Face Moves and Multiple Outer Slice Moves is counted as 1 move.
     - 12a19) Each rotation is counted as 0 moves.
