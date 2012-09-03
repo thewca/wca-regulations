@@ -7,10 +7,10 @@
     - 1b2) Making a copy of the WCA regulations available at the competition (either print and electronic documents are acceptable).
 - 1c) The WCA Delegate may delegate responsibilities to other members of the organization team, but is ultimately accountable for how these responsibilities are carried out. The WCA Delegate for a competition is responsible for:
     - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the competition date.
-    - 1c3) Sending the competition results to the WCA Results Team. Results should be ready at the end of the last day of competition. [ACTION: Move last sentence to Guidelines]
+    - 1c3) Sending the competition results to the WCA Results Team.
     - 1c3a) All scrambles used during a competition must be sent with the results of the competition.
-        - 1c3a) Official scrambles must be labeled with the events, rounds, and heats for which they were used. If there are multiple groups, it not necessary to identify which competitor was in which heats.
-    - 1c4) Sending corrections to the competition results to the WCA Board. Corrections should be available within one week of the competition date. [ACTION: Move last sentence to Guidelines]
+    - 1c3b) Scrambles must be labeled with the events, rounds, and heats for which they were used. If there are multiple groups, it not necessary to identify which competitor was in which heats.
+    - 1c4) Sending corrections to the competition results to the WCA Board.
     - 1c5) Advising the other officials where necessary.
     - 1c6) Approving all events and event formats of a competition, before the competition starts, and if changes are required during the competition.
     - 1c7) Decisions on disqualification of a competitor during the competition.
@@ -40,9 +40,9 @@
 - 2b) Competitors below the age of 18 must obtain consent from their parent(s)/guardian(s) to register and compete.
 - 2c) Competitors must provide all information required by the organization team (minimally comprising: name, country, date of birth, gender, contact information, selected events) for their registration to be considered complete.
     - 2c1) A competitor shall not be eligible to compete without a completed registration, as determined by the organisation team.
-- 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and may only be disclosed to outside organizations/persons with the consent of the competitor. [ACTION: Guideline: Date of birth and contact information should be especially secured. Also, Ron's policy of askinging the competitor before putting them in contact with e.g. media.]
+- 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and may only be disclosed to outside organizations/persons with the consent of the competitor.
 - 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship standing by means of documents (e.g. a passport). If a competitor is found ineligible to represent the country under which they have registered, the competitor may be retroactively disqualified and/or suspended at the discretion of the WCA Board.
-    - 2e1a) The eligible countries are defined by Wikipedia List of sovereign states ("Internationally recognized sovereign states" and "Other states"). [ACTION: We need an impartial, updating list without getting into politics.]
+    - 2e1a) The eligible countries are defined by Wikipedia List of sovereign states ("Internationally recognized sovereign states" and "Other states").
     - 2e2) Competitors with updates to their citizenship status may change their country of representation in their first competition of a calendar year.
 - 2f) Competitors must obey venue regulations and conduct themselves in a manner considerate of others.
 - 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
@@ -70,7 +70,7 @@
 
 ## Article 3: Puzzles
 - 3a) Competitors must provide their own puzzles for the competition. Competitors may borrow puzzles from other competitors.
-    - 3a1) Competitors must be present and ready to compete when they are called to compete for a round. Penalty: disqualification from the event. [ACTION: Guideline: can be disqualified if they try to take too long to practice or trying to use another competitor's puzzle after them.]
+    - 3a1) Competitors must be present and ready to compete when they are called to compete for a round. Penalty: disqualification from the event.
 - 3b) Puzzles must be in fully operational, such that normal scrambling is possible.
 - 3c) Polyhedral puzzles must use a colour scheme with one colour per face in the solved state.  All puzzle variations must have moves, positions and solutions functionally identical to the original puzzle.
 - 3d) Puzzles must have coloured stickers, coloured tiles, textures or painted/printed colours. Textured puzzles must have uniform texture patterns on all exposed faces.
@@ -79,7 +79,7 @@
 - 3e) The colours of puzzles must be solid and of uniform shade per face; each colour on the puzzle must be clearly distinct from other colours thereupon.
 - 3f) Stickers/tiles/textures/paint must not be thicker than 1.5 mm, or the generally available thickness for non-cube puzzles.
 - 3g) Puzzles may be refined internally by sanding or applying any form of lubricant.
-- 3h) Modifications that enhance the basic concept of a puzzle are not permitted. Examples of such enhancement include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, more or other solved states. [ACTION: Move examples to Guidelines]
+- 3h) Modifications that enhance the basic concept of a puzzle are not permitted.
 - 3i) "Pillowed" and other modified versions of puzzles are permitted if and only if the modification does not make any additional information available to the competitor (e.g. identity of faces). as compared to a non-pillowed version of the same puzzle. This is subject to the following exceptions and clarifications:
     - 3i1) Exception to 3i: Pillowed 7x7x7 cubes are permitted.
     - 3i2) "Stickerless" cubes, and other cubes whose face colours are visible inside the cube, are not permitted.
@@ -92,7 +92,7 @@
 
 ## Article 4: Scrambling
 - 4a) A scrambler must apply the scramble sequences.
-- 4b) Puzzles must be scrambled using computer-generated random scramble sequences. Scrambles must be available only to the WCA Delegate and the scrambler. Generated scrambles must not be inspected before the competition, and must not be filtered or selected for in any way by the WCA Delegate. [ACTION: Guideline: We should make clear that delegates should never re-generate any scrambles to replace other ones, because that is considered filtering. Thus, it would not be permitted to glance at the scrambles and generate the entire competition again in order to generate "fairer" scrambles.]
+- 4b) Puzzles must be scrambled using computer-generated random scramble sequences. Scrambles must be available only to the WCA Delegate and the scrambler. Generated scrambles must not be inspected before the competition, and must not be filtered or selected for in any way by the WCA Delegate.
 - 4d) Scrambling orientation
     - Cube puzzles and Megaminx must be scrambled with the white (otherwise the lightest colour) face on top and green (or the darkest adjacent face by default) on the front.
     - Pyraminx must be scrambled with the yellow (or the lightest colour by default) face on bottom and green (or the darkest adjacent colour by default) on the front.
@@ -103,10 +103,10 @@
 - 5a) Examples of puzzle defects include: popped pieces; broken wires; and detached screws,caps, and stickers.
 - 5b) If a puzzle defect occurs during the solve, the competitor may choose to repair the defect and continue the solve, or to stop the solve.
     - 5b1) If a competitor chooses to repair the puzzle, he must repair only the defective pieces. Tools and/or pieces of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the solve.
-    - 5b2) Any repair to a puzzle must not give the competitor any advantage in solving said puzzle. Penalty: disqualification of the solve.
+    - 5b2) Any repair to a puzzle must not give the competitor any advantage in solving the puzzle. Penalty: disqualification of the solve.
     - 5b3) If, after repairing the puzzle but before the end of the solve, the competitor finds that the puzzle is unsolvable, he may disassemble and assemble a maximum of 4 pieces to make the puzzle solvable.
     - 5b4) In blindfolded events, a puzzle defect may only be repaired during the solve, and all repairs must be performed blindfolded. Penalty: disqualification of the solve.
-    - 5b5) If parts of the puzzle (e.g. a centre cap of a cube) are still defective or not fully rotated (e.g. a 5x5x5 centre piece twisted in its spot) at the end of the attempt, the result shall be recorded as the worst state obtainable via reassembly of the puzzle (e.g. a pyraminx with a detached tip may be reassembled in three states one fully solved, and two "+2" states; the solve would be recorded as a "+2" state). [ACTION: Move the exalpmes to Guidelines]
+    - 5b5) If parts of the puzzle are still defective or not fully placed at the end of the attempt, the result shall be recorded as the worst state obtainable via reassembly of the puzzle.
 - 5c) If a competitor has a puzzle defect, this does not give him the right to an extra attempt.
 
 ## Article 7: Environment
@@ -213,7 +213,7 @@
     - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle shall be considered solved without penalty.
     - 10e3) If one move is required, the puzzle shall be considered solved with a penalty of 2 seconds.
     - 10e4) If more than one move is required, the solve is ruled DNF.
-- 10f) Limits of acceptable misalignment for puzzles: [ACTION: Guideline for spirit of the rule (i.e. separating states)]
+- 10f) Limits of acceptable misalignment for puzzles:
     - cube-shaped puzzles: =< 45 degrees
     - Megaminx: =< 36 degrees
     - Pyraminx: =< 60 degrees
@@ -245,11 +245,11 @@ All misalignments <= 45Â° Solved, with penalty
     - 11a1) Incorrect execution of event procedures, by officials or competitors.
     - 11a2) Interference or facility malfunctions (such as power failure, emergency alarm activation, etc.).
     - 11a3) Equipment malfunction.
-- 11b) Should an incident occur during an event, the WCA Delegate must determine an impartial and appropriate course of actione.
+- 11b) Should an incident occur during an event, the WCA Delegate must determine an impartial and appropriate course of action.
 - 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA regulations, then the WCA Delegate must make his decision based on fair sportsmanship.
-- 11e) Should an incident occur during an event, the WCA Delegate may award a competitor another attempt, replacing the attempt during which the incident occurred. The competitor must appeal at the time of the incident, before completing the original attempt, to be eligible for another attempt. An appeal does not guarantee the competitor an extra attempt. [ACTION: Guideline that the timer should keep running.]
-  - 11e1) Scrambles for all extra attempts must be generated with the current official version of the official WCA scramble program. [ACTION: Guideline: generate these ahead of time. If done on the fly, they must be saved.]
-- 11f) The WCA Delegate must not support his decisions with video or photographic analysis. A competitor may, however, submit video or photographic evidence supporting an appeal to the WCA Board. [ACTION: Guideline about why]
+- 11e) Should an incident occur during an event, the WCA Delegate may award a competitor another attempt, replacing the attempt during which the incident occurred. The competitor must appeal at the time of the incident, before completing the original attempt, to be eligible for another attempt. An appeal does not guarantee the competitor an extra attempt.
+  - 11e1) Scrambles for all extra attempts must be generated with the current official version of the official WCA scramble program.
+- 11f) The WCA Delegate must not support his decisions with video or photographic analysis. A competitor may, however, submit video or photographic evidence supporting an appeal to the WCA Board.
 
 ## Article 12: Notation
 - 12a) Notation for Rubik's Cube and similar puzzles:
@@ -293,7 +293,7 @@ All misalignments <= 45Â° Solved, with penalty
     - A1a) The organization team may enforce time limits for solves and/or rounds.
     - A1a1) The default time limit per solve is 10 minutes, though the organization team may announce a higher/lower time limit.
     - A1a2) Cumulative time limits may be enforced (e.g. 3 attempts with a cumulative time limit of 20 minutes). The time elapsed in a "DNF" result counts towards the cumulative time limit.
-    - A1a3) For any round, time limits must be announced before the round begins, and must not be changed after it has begun. [ACTION: Guideline: This is not flexible.]
+    - A1a3) For any round, time limits must be announced before the round begins, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who shall carefully consider the fairness of the change.
     - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
       - A1b1) Simultaneous use of a Stackmat is optional.
       - A1b2) If the Stackmat time is available, it is the result; otherwise the stopwatch time is the result. 
@@ -332,8 +332,8 @@ All misalignments <= 45Â° Solved, with penalty
     - A6a) The competitor ends the solve by releasing the puzzle and then stopping the timer.
     - A6a1) If a stopwatch is in use as the timing device, the competitor ends the solve by releasing the puzzle and notifying the judge that he has finished.
     - A6a2) When using a stopwatch without a Stackmat, the competitor's default signal consists of the release of any puzzle(s) in hand and the placing of his hands on the surface, with palms down. The competitor and the judge may agree upon another appropriate notification before the start of the solve.
-    - A6b) The competitor is responsible for stopping the timer correctly. [ACTION: Guideline explaining that 0.06 is because of practical Stackmat concerns.]
-    - A6b1) If the timer stops before the end of the solve and the timer shows a time strictly below 0.06 seconds, then the solve shall be replaced by an additional solve. A competitor forfeits his right to said additional solve if the WCA Delegate determines that the timer was stopped deliberately. [ACTION: We need a clear explanation of how the scramble for an additional solve is generated.]
+    - A6b) The competitor is responsible for stopping the timer correctly.
+    - A6b1) If the timer stops before the end of the solve and the timer shows a time strictly below 0.06 seconds, then the solve shall be replaced by an additional solve. A competitor forfeits his right to said additional solve if the WCA Delegate determines that the timer was stopped deliberately.
     - A6b2) If the timer stops before the end of the solve and displays a time of 0.06 seconds or higher then the solve shall be disqualified, unless the competitor can demonstrate to the WCA Delegate's satisfaction that the timer malfunctioned during the solve.
     - A6c) The timer must be stopped using both hands, which shall be placed flat on the sensors with palms down. Penalty: 2 seconds.
     - A6d) The competitor must fully release the puzzle before stopping the timer. Penalty: 2 seconds.
@@ -392,14 +392,14 @@ All misalignments <= 45Â° Solved, with penalty
 - D1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
     - D1a) During the solve, the competitor must sit in a chair, sit on the surface, or stand.
     - D1b) During the inspection and the solve, the competitor must only use his feet) and the surface. The competitor may wear socks while solving. Penalty: disqualification of the solve.
-    - D1c) Other body parts or other objects must not touch the puzzle. Penalty: disqualification of the solve. [ACTION: Guideline that this also applies to puzzle defects]
+    - D1c) Other body parts or other objects must not touch the puzzle. Penalty: disqualification of the solve.
 - D3) Starting the solve
     - D3a) Competitor must place his feet onto the timer sensors.
     - D3b) Competitor must remove his feet from the timer sensors to start the solve.
 - D4) Ending the solve
     - D4a) Competitor must stop the timer by placing his feet onto the timer sensors.
 
-## Article E: Fewest Moves Solving [ACTION: Guideline: All final rounds / FMC rouns should a single set of scrambles / 1 heat]
+## Article E: Fewest Moves Solving
 - E1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
     - E1a) The competitor is permitted a maximum solution length of 80 (moves and rotations).
 - E2) Procedure for Fewest Moves Solving:
@@ -436,7 +436,7 @@ All misalignments <= 45Â° Solved, with penalty
     - H1a1) A competitor must not change the number of puzzles after the start of the attempt.
     - H1a2) A competitor's requested number of puzzles must not be disclosed until the start of the attempt.
     - H1b) A competitor is allotted 10 minutes times the number of puzzles in the attempt, up to a maximum of 60 minutes. The time shall be measured with a stopwatch.
-    - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge attempt shall stop the competitor. [ACTION: Guideline: Competitors may keep solving unofficially, but the attempt must be interrupted and finished first.]
+    - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge attempt shall stop the competitor.
     - H1d) Time penalties for each puzzle of the attempt are additive (e.g. if a competitor attempts 10 cubes, finishes with a time of 59:57, and is penalized two times, the final recorded time is 59:57 + 2*2 = 60:01.).
 
 ## Article Z: Optional Regulations
