@@ -13,19 +13,19 @@
     - 1c7) Decisions on disqualification of a competitor during the competition, as described in other articles. [NOTE BY SARAH: Provide the specific article numbers where the rules for disqualification may be found.]
     - 1c8) Providing the scrambles. [NOTE BY SARAH: Is there another article with further clarification? If so, provide the article number.]
     - 1c9) Decisions on changes to the scheduled times of rounds. In cases of such changes, a clear announcement should be made to all competitors.
-- 1e) Each [NOTE BY LUCAS: round of an?] event must be assigned one or more judges. [NOTE BY LUCAS: Phrasing?]
-    - 1e1) A judge for an event is responsible for executing the procedures of the event.
-    - 1e1a) A judge may judge multiple competitors simultaneously, as long as the judge is able ensure that all Competition Regulations are followed at all times.
+- 1e) Each event must have one or more judges.
+    - 1e1) A judge for a round is responsible for executing the procedures of the event.
+    - 1e1a) A judge may judge multiple competitors simultaneously, as long as the judge is able ensure that all Regulations are followed at all times.
     - 1e2) All competitors must be available for judging, if needed by organisation team. Penalty: disqualification of the competitor for the competition.
 - 1f) Each event (except for puzzles that are not scrambled) must have one or more scramblers.
-    - 1f1) A scrambler is responsible for applying the scramble sequences to the puzzles for the event [NOTE BY SARAH: for the round? group?].
+    - 1f1) A scrambler is responsible for applying the scramble sequences to the puzzles for the event.
     - 1f2) All competitors must be available for scrambling, if needed by organisation team. Penalty: disqualification of the competitor for the competition.
 - 1g) Each event must have one or more score takers.
     - 1g1) A score taker for an event is responsible for registering the event results [NOTE BY SARAH: in what manner?].
     - 1g2) Any changes to the score sheets must made with the consent of the WCA Delegate.
-- 1h) Competitors in the same round of an event may be divided into groups. [NOTE BY SARAH: "flight" may be a debate-centric term; you might prefer another, less specific term, such as "shift"]  [NOTE BY SARAH: Is it necessary to spell out the reasons for splitting an event into flights? Does that affect the competition in a regulatory capacity?]
-    - 1h1) Judges/scramblers for a round must not judge or scramble for competitors in their own group before they have completed all of their solves for the round.
-    - 1h2) Competitors in the same group must use the same scramble sequences. [NOTE BY LUCAS: Competitors in?] Different groups must use different scramble sequences.
+- 1h) Competitors in the same round of an event may be divided into heats.
+    - 1h1) Judges/scramblers for a round must not judge or scramble for competitors in their own heat before they have completed all of their solves for the round.
+    - 1h2) Competitors in the same heat must use the same scramble sequences. Different heats must use different scramble sequences.
 - 1i) The WCA Delegate must be announced to the competitors [NOTE BY LUCAS: to the... public/community?] before the competition starts.
 - 1j) All officials may compete in the competition.
 - 1k) Officials may serve multiple roles (e.g. organisation team, WCA Delegate, judge, score taker, scrambler).
