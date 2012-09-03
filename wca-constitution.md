@@ -27,7 +27,7 @@
     - 2a3a8) Planning and executing the official world championships at least once every three years;
     - 2a3a9) Updating the official WCA website and/or forum in a timely manner, taking into account changes in WCA representatives and agents.
     - 2a3b) The Board may request investigations by the Independent Advisory Committee in special cases, and may use its advice in its decision making. The Board may use any and all forms of evidence, including video and other recordings, to make its decisions.
-    - 2a3c) The Board shall have sole authority to disqualify results, competitions, or ban competitors from taking part in WCA events.
+    - 2a3c) The Board shall have sole authority to disqualify results and/or suspend competitors from taking part in WCA events.
     - 2a3d) The Board shall have the power to appoint and revoke titles, committee memberships, and/or duties previously designated as belonging to the Board.
     - 2a3e) The Board shall ensure the financial well-being of the WCA. This includes duties as:
     - 2a3e1) Keeping a concise and clear financial record of all incomes and expenditures of the WCA;

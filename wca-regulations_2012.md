@@ -20,7 +20,7 @@
     - 1c9) Decisions on changes to the scheduled times of rounds. In cases of such changes, a clear announcement should be made to all competitors.
 - 1e) Each event must have one or more judges.
     - 1e1) A judge is responsible for executing the procedures of the event.
-    - 1e1a) A judge may judge multiple competitors simultaneously, as long as the judge is able ensure that all Regulations are followed at all times.
+    - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the Delegate, as long as the judge is able ensure that all Regulations are followed at all times.
     - 1e2) All competitors must be available for judging, if needed by organisation team. Penalty: disqualification of the competitor for the competition.
 - 1f) Each event (except for puzzles that are not scrambled) must have one or more scramblers.
     - 1f1) A scrambler is responsible for applying the scramble sequences to the puzzles for the event.
@@ -29,7 +29,7 @@
     - 1g1) A score taker is responsible for compiling results.
     - 1g2) Any changes to the score sheets must made with the consent of the WCA Delegate.
 - 1h) Competitors in the same round of an event may be divided into heats.
-    - 1h1) Judges/scramblers for a round must not judge or scramble for competitors in their own heat before they have completed all of their solves for the round.
+    - 1h1) Judges/scramblers for a round must not judge or scramble for competitors in their own heat before they have completed all of their attempts for the round.
     - 1h2) Competitors in the same heat must use the same scramble sequences. Different heats must use different scramble sequences.
 - 1j) All officials may compete in the competition.
 - 1k) Officials may serve multiple roles (e.g. organisation team, WCA Delegate, judge, score taker, scrambler).
@@ -111,11 +111,11 @@
 ## Article 5: Puzzle Defects
 
 - 5a) Examples of puzzle defects include: popped pieces; broken wires; and detached screws,caps, and stickers.
-- 5b) If a puzzle defect occurs during the solve, the competitor may choose to repair the defect and continue the solve, or to stop the solve.
-    - 5b1) If a competitor chooses to repair the puzzle, he must repair only the defective pieces. Tools and/or pieces of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the solve.
-    - 5b2) Any repair to a puzzle must not give the competitor any advantage in solving the puzzle. Penalty: disqualification of the solve.
-    - 5b3) If, after repairing the puzzle but before the end of the solve, the competitor finds that the puzzle is unsolvable, he may disassemble and assemble a maximum of 4 pieces to make the puzzle solvable.
-    - 5b4) In blindfolded events, a puzzle defect may only be repaired during the solve, and all repairs must be performed blindfolded. Penalty: disqualification of the solve.
+- 5b) If a puzzle defect occurs during the attempt, the competitor may choose to repair the defect and continue the attempt, or to stop the attempt.
+    - 5b1) If a competitor chooses to repair the puzzle, he must repair only the defective pieces. Tools and/or pieces of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the attempt.
+    - 5b2) Any repair to a puzzle must not give the competitor any advantage in solving the puzzle. Penalty: disqualification of the attempt.
+    - 5b3) If, after repairing the puzzle but before the end of the attempt, the competitor finds that the puzzle is unsolvable, he may disassemble and assemble a maximum of 4 pieces to make the puzzle solvable.
+    - 5b4) In blindfolded events, a puzzle defect may only be repaired during the attempt, and all repairs must be performed blindfolded. Penalty: disqualification of the attempt.
     - 5b5) If parts of the puzzle are still defective or not fully placed at the end of the attempt, the result shall be recorded as the worst state obtainable via reassembly of the puzzle.
 - 5c) If a competitor has a puzzle defect, this does not give him the right to an extra attempt.
 
@@ -135,7 +135,7 @@
     - 7f2) The timer must be attached to the mat and placed directly on the table, desk or other suitable console, with the timer on the side of the mat nearest to the competitor. The mat must be placed flush against the surface of the table.
     - 7f1) Exception: In Feet Solving the timer must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
 - 7h) The competition area must have a competitors area.
-    - 7h1) The organization team may require that a competitor who have been called to compete must remain within the competitors area until he has completed all of his solves for the round.
+    - 7h1) The organization team may require that a competitor who have been called to compete must remain within the competitors area until he has completed all of his attempts for the round.
     - 7h3) Competitors in the competitors area must not communicate with each other about the scrambled positions of the puzzles of the round in progress. Penalty: disqualification of competitor at the discretion of the WCA Delegate.
 
 
@@ -149,7 +149,7 @@
     - 8a6) be publicly accessible.
     - 8a7) use the authentic Speedstacks Stackmat timer (Generation 2 or Pro) for time measurement.
     - 8a8) be open, by default, to all who wish to compete. Restrictions must be approved by the WCA Board and clearly stated on the competition website when the competition is announced.
-- 8f) If WCA regulations are not correctly observed during a competition, the WCA Board may refuse to accept affected attempts.
+- 8f) If WCA regulations are not correctly observed during a competition, the WCA Board may disqualify affected attempts.
 
 
 ## Article 9: Events
@@ -177,8 +177,8 @@
 - 9f) The results of a round are measured as follows:
     - 9f1) All timed results, averages, and means under 10 minutes are measured and rounded down to the nearest hundredth of a second.
     - 9f2) All timed results, averages, and means over 10 minutes are measured and rounded to the nearest second (x.4 becomes x, x.5 becomes x+1).
-    - 9f4) The result of a solve is recorded as DNF (Did Not Finish) if the solve is disqualified or unfinished.
-    - 9f5) The result of a solve is recorded as DNS (Did Not Start) if a competitor declines an attempt during a round.
+    - 9f4) The result of a attempt is recorded as DNF (Did Not Finish) if the attempt is disqualified or unfinished.
+    - 9f5) The result of a attempt is recorded as DNS (Did Not Start) if a competitor declines an attempt during a round.
     - 9f6) For 'Best of X' rounds, competitors are each allotted X attempts. The best result of these attempts shall count for the competitor's ranking in the round.
     - 9f7) For 'Best of X' rounds, a DNF or DNS is the worst possible result.
     - 9f8) For 'Average of 5' rounds, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts shall be removed, and the mean of the remaining 3 attempts shall count for the competitor's ranking in the round.
@@ -192,7 +192,7 @@
     - 9f13) For 'Mean of 3' and 'Average of X' rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the shorter recorded time.
     - 9f14) For 'Mean of 3' and 'Average of X' rounds where two or more competitors achieve identical average/mean results, rankings are assessed based on the best result per competitor, where "better" is defined as the shorter recorded time.
     - 9f15) Competitors who achieve the same result in a round receive and identical ranking for the round.
-- 9g) A Combined Round consists of two phases of solves, where competitors advance to the second phase only if they meet a designated cutoff during the first phase.
+- 9g) A Combined Round consists of two phases of attempts, where competitors advance to the second phase only if they meet a designated cutoff during the first phase.
     - 9g2) Whether a competitor proceeds to next phase of a Combined round, must be decided by ranking (best x competitors) or by result (all competitors with a best result under x) of the first phase.
 - 9i) Results of official WCA competitions must be listed on the WCA world rankings.
     - 9i1) The WCA shall recognize the following types of regional records: national records, continental records, and world records.
@@ -218,19 +218,19 @@
         - the latest permitted date used to determine the qualifying average/mean time or single solve time on the WCA rankings.
     - 9r2) All competitors of an event who have not directly qualified for the first round of the event must compete in the qualification round in order to participate in the first round.
     - 9r3) A qualification round may be added to accommodate newly registered competitors, and/or the maximum number of competitors in the qualification round or first round of an event may be increased. These changes must be made at least two weeks before the competition.
-- 9s) Each round of each event must have a time limit. If a competitor does not solve within the time limit, the judge may terminate and disqualify the solve. The The competitor may be allowed to continue the round, at the discretion of the WCA delegate.
+- 9s) Each round of each event must have a time limit. If a competitor does not solve within the time limit, the judge may terminate and disqualify the attempt. The The competitor may be allowed to continue the round, at the discretion of the WCA delegate.
 
 
 ## Article 10: Solved state
 
 - 10b) Only the resting state of the puzzle, after the timer has stopped, is considered.
-- 10c) Puzzles may be in any orientation at the end of the solve.
+- 10c) Puzzles may be in any orientation at the end of the attempt.
 - 10d) All pieces of a puzzle must be fully attached to the puzzle in their required positions. Exceptions: see Article 5 Puzzle defects.
 - 10e) A puzzle is solved when all face colours are reassembled and all parts are aligned within the limits specified below:
     - 10e1) For each two adjacent parts (e.g. two parallel adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in Article 10f, the puzzle shall be considered to require one additional move to solve (see "Block Turn Metric" in Article 12).
     - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle shall be considered solved without penalty.
     - 10e3) If one move is required, the puzzle shall be considered solved with a penalty of 2 seconds.
-    - 10e4) If more than one move is required, the solve is ruled DNF.
+    - 10e4) If more than one move is required, the attempt is ruled DNF.
 - 10f) Limits of acceptable misalignment for puzzles:
     - cube-shaped puzzles: =< 45 degrees
     - Megaminx: =< 36 degrees
@@ -314,8 +314,8 @@ All misalignments <= 45Â° Solved, with penalty
 ## Article A: Speed Solving
 
 - A1) Attempts for events categorised under Speed Solving must abide by the following procedure.
-    - A1a) The organization team may enforce time limits for solves and/or rounds.
-    - A1a1) The default time limit per solve is 10 minutes, though the organization team may announce a higher/lower time limit.
+    - A1a) The organization team may enforce time limits for attempts and/or rounds.
+    - A1a1) The default time limit per attempt is 10 minutes, though the organization team may announce a higher/lower time limit.
     - A1a2) Cumulative time limits may be enforced (e.g. 3 attempts with a cumulative time limit of 20 minutes). The time elapsed in a "DNF" result counts towards the cumulative time limit.
     - A1a3) For any round, time limits must be announced before the round begins, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who shall carefully consider the fairness of the change.
     - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
@@ -335,9 +335,9 @@ All misalignments <= 45Â° Solved, with penalty
     - A3b1) When the judge believes the competitor is ready, he asks 'READY?'. The competitor must be ready to begin the attempt within one minute of being called. Penalty: disqualification of the attempt.
     - A3b2) When the competitor confirms his readiness, the judge uncovers the puzzle. If the attempt requires a stopwatch, the judge starts it at the same time.
     - A3c) The competitor may pick up the puzzle during inspection.
-    - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the solve.
+    - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the attempt.
     - A3c2) If the pieces of the puzzle are not fully aligned, then the competitor may align the faces, as long as stays within the limits within the limits described in 10f.
-    - A3c3) The competitor may reset the timer before he starts the solve.
+    - A3c3) The competitor may reset the timer before he starts the attempt.
     - A3d) At the end of the inspection, the competitor must place the puzzle on the mat, in any orientation and position.
     - A3d1) The puzzle must not rest on the timer. Penalty: 2 seconds.
     - A3d2) When 8 seconds of inspection have elapsed, the judge calls '8 seconds'.
@@ -350,27 +350,27 @@ All misalignments <= 45Â° Solved, with penalty
     - A4d2) The competitor must start the solve within 17 seconds of the start of the inspection. Penalty: disqualification of the solve.
     - A4e) Time penalties for Starting the Solve are cumulative.
 - A5) During the solve
-    - A5a) While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge. Penalty: disqualification of the solve.
-    - A5b) While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface. Penalty: disqualification of the solve.
+    - A5a) While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge. Penalty: disqualification of the attempt.
+    - A5b) While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface. Penalty: disqualification of the attempt.
 - A6) Ending the solve
     - A6a) The competitor ends the solve by releasing the puzzle and then stopping the timer.
     - A6a1) If a stopwatch is in use as the timing device, the competitor ends the solve by releasing the puzzle and notifying the judge that he has finished.
     - A6a2) When using a stopwatch without a Stackmat, the competitor's default signal consists of the release of any puzzle(s) in hand and the placing of his hands on the surface, with palms down. The competitor and the judge may agree upon another appropriate notification before the start of the solve.
     - A6b) The competitor is responsible for stopping the timer correctly.
-    - A6b1) If the timer stops before the end of the solve and the timer shows a time strictly below 0.06 seconds, then the solve shall be replaced by an additional solve. A competitor forfeits his right to said additional solve if the WCA Delegate determines that the timer was stopped deliberately.
-    - A6b2) If the timer stops before the end of the solve and displays a time of 0.06 seconds or higher then the solve shall be disqualified, unless the competitor can demonstrate to the WCA Delegate's satisfaction that the timer malfunctioned during the solve.
+    - A6b1) If the timer stops before the end of the solve and the timer shows a time strictly below 0.06 seconds, then the attempt shall be replaced by an additional attempt. A competitor forfeits his right to said additional attempt if the WCA Delegate determines that the timer was stopped deliberately.
+    - A6b2) If the timer stops before the end of the solve and displays a time of 0.06 seconds or higher then the attempt shall be disqualified, unless the competitor can demonstrate to the WCA Delegate's satisfaction that the timer malfunctioned during the attempt.
     - A6c) The timer must be stopped using both hands, which shall be placed flat on the sensors with palms down. Penalty: 2 seconds.
     - A6d) The competitor must fully release the puzzle before stopping the timer. Penalty: 2 seconds.
-    - A6e) The competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the solve.
-    - A6f) The competitor must not reset the timer until the judge has recorded the result on the score sheet. Penalty: disqualification of the solve, at the discretion of the judge.
+    - A6e) The competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt.
+    - A6f) The competitor must not reset the timer until the judge has recorded the result on the score sheet. Penalty: disqualification of the attempt, at the discretion of the judge.
     - A6g) The judge must determine whether the puzzle has been completely solved. He must not make moves or align faces when examining the puzzle.
-    - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle prior to the resolution of said dispute. Penalty: disqualification of the solve, at the discretion of the WCA Delegate.
+    - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle prior to the resolution of said dispute. Penalty: disqualification of the attempt, at the discretion of the WCA Delegate.
     - A6i) Time penalties for Ending the Solve are cumulative.
 - A7) Recording results
     - A7a) If the judge finds that the puzzle is solved, he shall call 'OK'.
     - A7b) The judge shall record the result of the approved solve on a score sheet.
     - A7b1) If penalties are applied, the judge shall record the result displayed on the timer, and record the penalty adjacent, in the format "X + T + Y = F", where X represents a sum total of penalties incurred before a solve, T represents the time displayed on the timer, Y represents a sum total of penalties incurred during/after a solve, and F represents the final result. If the value of X and/or Y is zero, the relevant term is omitted (e.g. 2 + 17.65 + 2 = 21.65, or 17.65 + 2 = 19.65).
-    - A7c) The judge and competitor must both sign the score sheet to acknowledge the result. Should either one of them refuse to sign the score sheet, the WCA Delegate may sign in their place.
+    - A7c) The judge and competitor must both sign the score sheet to acknowledge the result. Should either of them refuse to sign the score sheet, the WCA Delegate may sign in their place.
     - A7d) If the judge assigns a penalty, the judge shall call 'PENALTY'.
     - A7e) If the result is DNF, then judge calls 'DNF'.
     - A7f) At the end of a competitor's round the judge shall deliver the score sheet to the score taker.
@@ -386,12 +386,12 @@ All misalignments <= 45Â° Solved, with penalty
     - B2a) The judge shall reset the timer and stopwatch.
     - B2b) The competitor must place his hands on the elevated sensor unit of the Stackmat, with his fingers touching the sensors and palms down. Penalty: 2 seconds.
     - B2c) The competitor must have no physical contact with the puzzle before the start of the solve. Penalty: 2 seconds.
-    - B2d) The competitor starts the solve by removing his hands from the timer, thereby starting the timer.
+    - B2d) The competitor starts the attempt by removing his hands from the timer, thereby starting the timer.
     - B2d1) The competitor removes the cover from the puzzle after starting the timer.
     - B2e) If a stopwatch is in use, the judge shall start the stopwatch as soon as the competitor starts the solve.
 - B3) Memorisation phase
     - B3a) The competitor may pick up the puzzle during the memorisation phase and the solve.
-    - B3b) The competitor must not make physical notes. Penalty: disqualification of the solve.
+    - B3b) The competitor must not make physical notes. Penalty: disqualification of the attempt.
 - B4) Blindfolded phase
     - B4a) The competitor shall don the blindfold after the memorisation phase.
     - B4b) The competitor must not apply moves to the puzzle before he has fully donned the blindfold.
@@ -400,21 +400,21 @@ All misalignments <= 45Â° Solved, with penalty
     - B4c2) By default, the judge should place the object (e.g. a sheet of paper or cardboard) between the competitor and the puzzle while the competitor is wearing the blindfold.
     - B4c3) If the judge and competitor agree beforehand, the competitor may choose to place the puzzle behind a suitable object himself (e.g. a music stand, the surface of the table) while solving.
 
-    - B4d) The competitor must not look at the puzzle at any point during the solve. Penalty: disqualification of the solve.
+    - B4d) The competitor must not look at the puzzle at any point during the solve. Penalty: disqualification of the attempt.
     - B4e) Until he applies the first move to the puzzle, the competitor may remove and don the blindfold at will.
 - B5) Ending the solve
     - B5a) When using the Stackmat, the competitor ends the solve by releasing the puzzle and then stopping the timer.
     - B5b) When using a stopwatch, the competitor ends the solve by placing the puzzle back onto the surface and notifying the judge that the solve has ended. At that moment, the judge stops the timer.
-    - B5c) The competitor may remove the blindfold before he stops the timer; he must not apply any moves to the puzzle after the blindfold is removed. Penalty: disqualification of the solve.
+    - B5c) The competitor may remove the blindfold before he stops the timer; he must not apply any moves to the puzzle after the blindfold is removed. Penalty: disqualification of the attempt.
 
 
 ## Article C: One-handed Solving
 
 - C1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
-    - C1a) During the solve the competitor must use only one hand and the surface. Penalty: disqualification of the solve.
-    - C1b) During the solve no other body part, nor any object other than the surface, shall touch the puzzle. Penalty: disqualification of the solve.
-    - C1b2) If a puzzle defect occurs, and the competitor chooses to repair it, he must repair it with the solving hand. Use of the surface is permitted. Penalty: disqualification of the solve.
-    - C1c) During the solve, once a competitor touches the puzzle with one hand, he must not touch the puzzle with the other hand. Penalty: disqualification of the solve.
+    - C1a) During the solve the competitor must use only one hand and the surface. Penalty: disqualification of the attempt.
+    - C1b) During the solve no other body part, nor any object other than the surface, shall touch the puzzle. Penalty: disqualification of the attempt.
+    - C1b2) If a puzzle defect occurs, and the competitor chooses to repair it, he must repair it with the solving hand. Use of the surface is permitted. Penalty: disqualification of the attempt.
+    - C1c) During the solve, once a competitor touches the puzzle with one hand, he must not touch the puzzle with the other hand. Penalty: disqualification of the attempt.
 
 
 ## Article D: Solving With Feet
@@ -422,7 +422,7 @@ All misalignments <= 45Â° Solved, with penalty
 - D1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
     - D1a) During the solve, the competitor must sit in a chair, sit on the surface, or stand.
     - D1b) During the inspection and the solve, the competitor must only use his feet) and the surface. The competitor may wear socks while solving. Penalty: disqualification of the solve.
-    - D1c) Other body parts or other objects must not touch the puzzle. Penalty: disqualification of the solve.
+    - D1c) Other body parts or other objects must not touch the puzzle. Penalty: disqualification of the attempt.
 - D3) Starting the solve
     - D3a) Competitor must place his feet onto the timer sensors.
     - D3b) Competitor must remove his feet from the timer sensors to start the solve.
@@ -438,11 +438,11 @@ All misalignments <= 45Â° Solved, with penalty
     - E2a) The judge distributes a scramble sequence to all competitors. The judge then starts the stopwatch and says 'GO'.
     - E2b) The competitor is allotted a total of 60 minutes to devise a solution.
     - E2b1) A judge announces the remaining time when 5 minutes remain, and call 'STOP' at 60 minutes.
-    - E2c) At the end of the 60 minutes the competitor must give the judge a legibly written solution, using the notation defined for Block Turn Metric (described in Article 12a). Penalty: disqualification of the solve.
+    - E2c) At the end of the 60 minutes the competitor must give the judge a legibly written solution, using the notation defined for Block Turn Metric (described in Article 12a). Penalty: disqualification of the attempt.
     - E2d) The length of the solution shall be calculated in Block Turn Metric (described in Article 12a).
-    - E2e) The solution of the competitor must not be directly derived from any part of the scrambling algorithm. Penalty: disqualification of the solve.
+    - E2e) The solution of the competitor must not be directly derived from any part of the scrambling algorithm. Penalty: disqualification of the attempt.
     - E2e1) The WCA Delegate may ask the competitor must to explain the purpose of each move in his solution, irrespective of scrambling algorithm. The WCA Delegate shall determine the validity of the solution.
-- E3) The competitor may use the following objects during the solve. Penalty for using unauthorized objects: disqualification of the solve.
+- E3) The competitor may use the following objects during the solve. Penalty for using unauthorized objects: disqualification of the attempt.
     - paper and pen (both supplied by judge)
     - 1-3 puzzles corresponding to the event (self-supplied)
     - coloured stickers (self-supplied).
@@ -458,6 +458,7 @@ All misalignments <= 45Â° Solved, with penalty
 ## Article G: Magic Solving {The following regulations also apply to differently named, like puzzles.)
 
 - G1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
+    - G1a) The competitor may do at most two practice solves on the competition timer. When the judge and competitor mutually agree, the official attempts will begin. At that point, all attempts will be treated as official attempts.
 - G2) Scrambling
     - G2a) The puzzle is not scrambled.
     - G2b) The puzzle is not covered by judge.
@@ -470,7 +471,7 @@ All misalignments <= 45Â° Solved, with penalty
 ## Article H: Multiple Blindfolded Solving
 
 - H1) Standard speed solving procedures shall be followed, as described in Article B (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in Article B are described below.
-    - H1a) Before an attempt, the competitor must notify the judge of the number of puzzles he wishes to solve blindfolded. The number of puzzles must be at least 2.
+    - H1a) Before an attempt, the competitor must notify the judge of the number of puzzles he wishes to attempt blindfolded. The number of puzzles must be at least 2.
     - H1a1) A competitor must not change the number of puzzles after the start of the attempt.
     - H1a2) A competitor's requested number of puzzles must not be disclosed until the start of the attempt.
     - H1b) A competitor is allotted 10 minutes times the number of puzzles in the attempt, up to a maximum of 60 minutes. The time shall be measured with a stopwatch.
