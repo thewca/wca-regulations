@@ -9,6 +9,7 @@
     - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the competition date.
     - 1c3) Sending the competition results to the WCA Results Team. Results should be ready at the end of the last day of competition. [ACTION: Move last sentence to Guidelines]
     - 1c3a) All scrambles used during a competition must be sent with the results of the competition.
+        - 1c3a) Official scrambles must be labeled with the events, rounds, and heats for which they were used. If there are multiple groups, it not necessary to identify which competitor was in which heats.
     - 1c4) Sending corrections to the competition results to the WCA Board. Corrections should be available within one week of the competition date. [ACTION: Move last sentence to Guidelines]
     - 1c5) Advising the other officials where necessary.
     - 1c6) Approving all events and event formats of a competition, before the competition starts, and if changes are required during the competition.
@@ -84,7 +85,7 @@
     - 3i2) "Stickerless" cubes, and other cubes whose face colours are visible inside the cube, are not permitted.
 - 3j) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
 - 3k) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that distinguish one piece from any similar piece.
-- 3l) Puzzles must be approved by  the WCA Delegate before use in the competition.
+- 3l) Puzzles must be approved by the WCA Delegate before use in the competition.
 - 3m) Cube puzzles must have at most one logo. For the Rubik's Cube or bigger cube puzzles the logo must be placed on one of the centre pieces.
     - 3m1) Colourless engravings (max. 1 per colour) are not considered as logos.
 - 3n) All brands of puzzles and puzzle parts are allowed, as long as the puzzles comply with all WCA regulations.
@@ -113,7 +114,13 @@
 - 7b) Spectators must remain at least 1.5 meters away from the competition stage when it is in use.
 - 7c) Lighting of the competition area must be given special attention. Lighting should be neutral, such that competitors may easily differentiate among the colours on the puzzles.
 - 7e) The competition area must be smoke-free.
-- 7f) The timer must be attached to the mat and placed directly on the table, desk or other suitable console, with the timer on the side of the mat nearest to the competitor. The mat must be placed flush against the surface of the table.
+- 7f) Solving Station
+    - 7f1) Definitions: 
+    - 7f1a) Stackmat: The Speedstacks Stackmat, which includes both the timer and the associated mat.
+    - 7f1b) Mat: The mat of the Stackmat.
+    - 7f1c) Timer: The timer of the Stackmat.
+    - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
+    - 7f2) The timer must be attached to the mat and placed directly on the table, desk or other suitable console, with the timer on the side of the mat nearest to the competitor. The mat must be placed flush against the surface of the table.
     - 7f1) Exception: In Feet Solving the timer must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
 - 7h) The competition area must have a competitors area.
     - 7h1) The organization team may require that a competitor who have been called to compete must remain within the competitors area until he has completed all of his solves for the round.
@@ -287,8 +294,10 @@ All misalignments <= 45Â° Solved, with penalty
     - A1a1) The default time limit per solve is 10 minutes, though the organization team may announce a higher/lower time limit.
     - A1a2) Cumulative time limits may be enforced (e.g. 3 attempts with a cumulative time limit of 20 minutes). The time elapsed in a "DNF" result counts towards the cumulative time limit.
     - A1a3) For any round, time limits must be announced before the round begins, and must not be changed after it has begun. [ACTION: Guideline: This is not flexible.]
-    - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping in addition to a Stackmat. If the puzzle is solved within 10 minutes, the Stackmat time is the result; otherwise the stopwatch time is the result.
-    - A1c) A competitor participating in an event must be able to fulfil the event's requirements. A competitor competing with expectation of a "DNF" result may be disqualified from the event at the discretion of the Delegate.
+    - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
+      - A1b1) Simultaneous use of a Stackmat is optional.
+      - A1b2) If the Stackmat time is available, it is the result; otherwise the stopwatch time is the result. 
+    - A1c) A competitor participating in an event must be able to fulfill the event's requirements. A competitor competing with expectation of a "DNF" result may be disqualified from the event at the discretion of the Delegate.
 - A2) Scrambling
     - A2a) At the beginning of the event, the competitor submits his puzzle, in its solved state, to the scrambler and waits in the competitors area until he is called to compete.
     - A2b) A scrambler scrambles the puzzle according to the regulations in Article 4.
@@ -306,11 +315,11 @@ All misalignments <= 45Â° Solved, with penalty
     - A3c2) If the pieces of the puzzle are not fully aligned, then the competitor may align the faces, as long as stays within the limits within the limits described in 10f.
     - A3c3) The competitor may reset the timer before he starts the solve.
     - A3d) At the end of the inspection, the competitor must place the puzzle on the mat, in any orientation and position.
-    - A3d1) The puzzle must not rest on the timer unit of the Stackmat. Penalty : 2 seconds.
+    - A3d1) The puzzle must not rest on the timer. Penalty: 2 seconds.
     - A3d2) When 8 seconds of inspection have elapsed, the judge calls '8 seconds'.
     - A3d3) When 12 seconds of inspection have elapsed, the judge calls 'GO', and the competitor shall begin the solve.
 - A4) Starting the solve
-    - A4b) The competitor must place his hands on the elevated sensor unit of the Stackmat, with his fingers touching the sensors and palms down. Penalty: 2 seconds.
+    - A4b) The competitor must place his hands on the elevated sensor unit of the timer, with his fingers touching the sensors and palms down. Penalty: 2 seconds.
     - A4b1) The competitor must have no physical contact with the puzzle between the inspection period and the start of the solve. Penalty: 2 seconds.
     - A4d) The competitor starts the solve by confirming that the timer light is green and then removing his hands from the timer, thereby starting the timer.
     - A4d1) The competitor must start the solve within 15 seconds of the start of the inspection. Penalty: 2 seconds.
@@ -322,7 +331,7 @@ All misalignments <= 45Â° Solved, with penalty
 - A6) Ending the solve
     - A6a) The competitor ends the solve by releasing the puzzle and then stopping the timer.
     - A6a1) If a stopwatch is in use as the timing device, the competitor ends the solve by releasing the puzzle and notifying the judge that he has finished.
-    - A6a2) The competitor's default signal consists of the release of any puzzle(s) in hand and the placing of his hands on the surface, with palms down. The competitor and the judge may agree upon another appropriate notification before the start of the solve.
+    - A6a2) When using a stopwatch without a Stackmat, the competitor's default signal consists of the release of any puzzle(s) in hand and the placing of his hands on the surface, with palms down. The competitor and the judge may agree upon another appropriate notification before the start of the solve.
     - A6b) The competitor is responsible for stopping the timer correctly. [ACTION: Guideline explaining that 0.06 is because of practical Stackmat concerns.]
     - A6b1) If the timer stops before the end of the solve and the timer shows a time strictly below 0.06 seconds, then the solve shall be replaced by an additional solve. A competitor forfeits his right to said additional solve if the WCA Delegate determines that the timer was stopped deliberately. [ACTION: We need a clear explanation of how the scramble for an additional solve is generated.]
     - A6b2) If the timer stops before the end of the solve and displays a time of 0.06 seconds or higher then the solve shall be disqualified, unless the competitor can demonstrate to the WCA Delegate's satisfaction that the timer malfunctioned during the solve.
@@ -408,8 +417,8 @@ All misalignments <= 45Â° Solved, with penalty
 
 ## Article F: Clock Solving
 - F1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
-- F2) The judge shall place scrambled puzzle onto the Stackmat in a standing position.
-- F3) At the end of the inspection period, the competitor shall place the puzzle onto the Stackmat in a standing position. If the positions of any pins have been in any way changed from their scrambled positions, a +2 penalty shall be applied.
+- F2) The judge shall place scrambled puzzle onto the mat in a standing position.
+- F3) At the end of the inspection period, the competitor shall place the puzzle onto the mat in a standing position. If the positions of any pins have been in any way changed from their scrambled positions, a +2 penalty shall be applied.
 
 ## Article G: Magic Solving {The following regulations also apply to differently named, like puzzles.)
 - G1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
