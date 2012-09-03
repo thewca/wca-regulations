@@ -1,32 +1,31 @@
 ## Article 1: Officials
-- 1a) A competition must include the following officials: an organisation team (consisting of one or more individuals), a WCA Delegate, and sufficient judges, scramblers and score takers. [NOTE BY SARAH: Are the WCA Delegate, judges, etc. members of the organisation team? This affects the wording of 1c.]
+- 1a) A competition must include a WCA Delegate and an organisation team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
 - 1b) The organisation team of a competition is responsible for:
     - 1b1) Event logistics before and during the competition.
     - 1b2) Making a copy of the WCA regulations available at the competition (either print and electronic documents are acceptable).
 - 1c) The WCA Delegate may delegate responsibilities to other members of the organization team, but is ultimately accountable for how these responsibilities are carried out. The WCA Delegate for a competition is responsible for:
-    - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be available within one week of the competition date. [NOTE BY SARAH: To whom are reports required to be made available? Are they closed to the Board, between the Board and the organisation team, or open to the public/WCA community? This ought to be specified.]
-    - 1c3) Sending the competition results to the WCA Results Team. [NOTE BY SARAH: Who/what is the Results Team? This needs to be defined in the document, or else a referred definition ought to be provided.] Results should be ready at the end of the last day of competition.
-    - 1c3a) All scrambles used during a competition should be sent with the results of the competition.
-    - 1c4) Sending corrections to the competition results to the WCA Board. Corrections should be available within one week of the competition date.
+    - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the competition date.
+    - 1c3) Sending the competition results to the WCA Results Team. [NOTE BY SARAH: Who/what is the Results Team? This needs to be defined in the document, or else a referred definition ought to be provided.] Results should be ready at the end of the last day of competition. [NOTE: Move to Guidelines]
+    - 1c3a) All scrambles used during a competition must be sent with the results of the competition.
+    - 1c4) Sending corrections to the competition results to the WCA Board. Corrections should be available within one week of the competition date. [NOTE: Move to Guidelines]
     - 1c5) Advising the other officials where necessary.
-    - 1c6) Approving all events and event formats of a competition, before the competition starts and if changes should be [NOTE BY LUCAS: are?] required during the competition.
-    - 1c7) Decisions on disqualification of a competitor during the competition, as described in other articles. [NOTE BY SARAH: Provide the specific article numbers where the rules for disqualification may be found.]
+    - 1c6) Approving all events and event formats of a competition, before the competition starts, and if changes are required during the competition.
+    - 1c7) Decisions on disqualification of a competitor during the competition.
     - 1c8) Providing the scrambles. [NOTE BY SARAH: Is there another article with further clarification? If so, provide the article number.]
     - 1c9) Decisions on changes to the scheduled times of rounds. In cases of such changes, a clear announcement should be made to all competitors.
 - 1e) Each event must have one or more judges.
-    - 1e1) A judge for a round is responsible for executing the procedures of the event.
+    - 1e1) A judge is responsible for executing the procedures of the event.
     - 1e1a) A judge may judge multiple competitors simultaneously, as long as the judge is able ensure that all Regulations are followed at all times.
     - 1e2) All competitors must be available for judging, if needed by organisation team. Penalty: disqualification of the competitor for the competition.
 - 1f) Each event (except for puzzles that are not scrambled) must have one or more scramblers.
     - 1f1) A scrambler is responsible for applying the scramble sequences to the puzzles for the event.
     - 1f2) All competitors must be available for scrambling, if needed by organisation team. Penalty: disqualification of the competitor for the competition.
 - 1g) Each event must have one or more score takers.
-    - 1g1) A score taker for an event is responsible for registering the event results [NOTE BY SARAH: in what manner?].
+    - 1g1) A score taker is responsible for compiling results.
     - 1g2) Any changes to the score sheets must made with the consent of the WCA Delegate.
 - 1h) Competitors in the same round of an event may be divided into heats.
     - 1h1) Judges/scramblers for a round must not judge or scramble for competitors in their own heat before they have completed all of their solves for the round.
     - 1h2) Competitors in the same heat must use the same scramble sequences. Different heats must use different scramble sequences.
-- 1i) The WCA Delegate must be announced to the competitors [NOTE BY LUCAS: to the... public/community?] before the competition starts.
 - 1j) All officials may compete in the competition.
 - 1k) Officials may serve multiple roles (e.g. organisation team, WCA Delegate, judge, score taker, scrambler).
 
@@ -61,14 +60,15 @@
 - 2p) The WCA Delegate must resolve the dispute before the start of the next round of the event.
 - 2q) Disputes are only permitted within the parameters of the discretion of the organisation team. [NOTE BY SARAH: This is extremely vague; I'm not sure what this is supposed to mean. Are there actual parameters (and if so, are they listed anywhere in this document?)? If there are parameters, then how much leeway is afforded "the discretion of the organisation team?"]
 - 2r) The competitor must accept the final ruling of the WCA Delegate. Penalty: disqualification of the competitor from the competition.The final ruling of the WCA Delegate may not be disputed; further dispute may lead to disqualification of the competitor in question. [NOTE BY SARAH: Perhaps you should find some way to replace all instances of "Penalty:" with a full sentence, as demonstrated above.]
+- 2s) Exceptions for documented disabilities
     - 2s1) For competitors with hearing disabilities, judges may replace the vocal instructions with hand signals.
     - 2s2) For competitors with physical disabilities, judges may give help with starting and stopping the timer.
-    - 2s3) Competitors with other disabilities that may prevent them from abiding by one or more Competition Regulations may request special accommodations with the WCA Delegate. Such accommodations must be noted in the Delegate Report. [NOTE BY SARAH: All sub-articles (e.g. 2s) with sub-points (e.g. 2s1) should have a heading at the sub-article level.]
-- 2t) All competitors should be familiar with and understand the WCA regulations before the competition.
+    - 2s3) Competitors with other disabilities that may prevent them from abiding by one or more Competition Regulations may request special accommodations with the WCA Delegate. Such accommodations must be noted in the Delegate Report.
+- 2t) All competitors must be familiar with and understand the WCA regulations before the competition.
 
 ## Article 3: Puzzles
 - 3a) Competitors must provide their own puzzles for the competition. Competitors may borrow puzzles from other competitors.
-    - 3a1) Competitors must be present and ready to compete when they are called to compete for a round. [NOTE BY LUCAS: revise] Penalty: disqualification from the event.
+    - 3a1) Competitors must be present and ready to compete when they are called to compete for a round. Penalty: disqualification from the event. [Add Guideline: can be disqualified if they try to take too long to practice or trying to use another competitor's puzzle after them.]
 - 3b) Puzzles must be in fully operational, such that normal scrambling is possible.
 - 3c) Polyhedral puzzles must use a colour scheme with one colour per face in the solved state.  All puzzle variations must have moves, positions and solutions functionally identical to the original puzzle.
 - 3d) Puzzles must have coloured stickers, coloured tiles, textures or painted/printed colours. Textured puzzles must have uniform texture patterns throughout. [NOTE BY LUCAS: Sarah had "throughout"]  Competitors with a medically documented visual disability may use textured puzzles with different textures on each face. Textures/patterns must be uniform per face.
@@ -89,8 +89,8 @@
 
 ## Article 4: Scrambling
 - 4a) A scrambler must apply the scramble sequences.
-- 4b) Puzzles must be scrambled using computer-generated random scramble sequences or scrambled positions available only to the WCA Delegate and the scrambler. [NOTE BY SARAH: The "must" employed at the beginning of the sentence applies to all clauses in said sentence -- no need to write it in twice.] Generated scrambles must not be inspected before the competition, and must not be filtered or selected in any way by the WCA Delegate.
-- 4d) Cube puzzles and Megaminx must be scrambled with the white (otherwise the lightest colour) face on top and green (or the darkest adjacent face by default) on the front. Pyraminx must be scrambled with the yellow (or the lightest colour by default) face on bottom and green (or the darkest adjacent colour by default) on the front. Square-1 must be scrambled with the darkest colour on front (out of the 2 possible scrambling orientations).
+- 4b) Puzzles must be scrambled using computer-generated random scramble sequences or scrambled positions available only to the WCA Delegate and the scrambler. [NOTE BY SARAH: The "must" employed at the beginning of the sentence applies to all clauses in said sentence -- no need to write it in twice.] Generated scrambles must not be inspected before the competition, and must not be filtered or selected in any way by the WCA Delegate. [NOTE BY LUCAS: e should make clear that delegates should never re-generate any scrambles to replace other ones, because that is considered filtering. Thus, it would not be permitted to glance at the scrambles and generate the entire competition again in order to generate "fairer" scrambles.]
+- 4d) Cube puzzles and Megaminx must be scrambled with the white (otherwise the lightest colour) face on top and green (or the darkest adjacent face by default) on the front. Pyraminx must be scrambled with the yellow (or the lightest colour by default) face on bottom and green (or the darkest adjacent colour by default) on the front. Square-1 must be scrambled with the darkest colour on front (out of the 2 possible scrambling orientations). [NOTE BY LUCAS: Split into subrules]
 - 4f) Competition scrambles must be generated using the current official version of the official WCA scrambling program (available via the WCA website). [NOTE BY LUCAS: How do we make clear that the redundancy is intentional?]
 
 ## Article 5: Puzzle Defects
@@ -118,12 +118,12 @@
 - 8a) An official WCA competition must:
     - 8a1) be approved by the WCA Board.
     - 8a2) follow the WCA Regulations.
-    - 8a3) have a WCA Delegate (appointed by WCA Board) in attendance.
+    - 8a3) have a designated WCA Delegate (appointed by WCA Board) in attendance.
     - 8a4) be announced on the WCA website at least two weeks  before the start of the competition.
     - 8a6) be publicly accessible.
     - 8a7) use the authentic Speedstacks Stackmat timer (Generation 2 or Pro) for time measurement.
     - 8a8) be open, by default, to all who wish to compete. Restrictions must be approved by the WCA Board and clearly stated on the competition website when the competition is announced.
-- 8b) If WCA regulations are not correctly observed at any point during a competition, the WCA Board may declare affected events or solves, or the competition as a whole, invalid. [NOTE BY LUCAS: Does this sound like a good way to phrase "refuse to accep the results"?]
+- 8f) If WCA regulations are not correctly observed at any point during a competition, the WCA Board may declare affected events or solves, or the competition as a whole, invalid. [NOTE BY LUCAS: Does this sound like a good way to phrase "refuse to accep the results"?]
 
 ## Article 9: Events
 - 9a) The WCA governs competitions for:
@@ -150,8 +150,8 @@
     - 9f1) All timed results under 10 minutes and corresponding averages/means are measured in hundredths of a second, with averages/means rounded down to the nearest hundredth of a second (x.009 becomes x.00, x.010 becomes x.01). [NOTE BY SARAH: choose either the term "average" or the term "mean" and use it consistently throughout the document. No need to have both. I'll stop commenting on this henceforth -- just pick one and use it throughout.] [NOTE BY LUCAS: Averages and means do have a distinction, but this certainly doesn't make sense here on someone's first read-through. Improve?]
     - 9f2) All timed results over 10 minutes and corresponding averages/means are measured in seconds, with averages/means rounded to the nearest second (x.4 becomes x, x.5 becomes x+1).
     - 9f4) The result of a solve shall be recorded as DNF (Did Not Finish) if the solve is disqualified or unfinished.
-    - 9f5) The result of a solve shall be recorded as DNS (Did Not Start) if a competitor skips an attempt during a round.
-    - 9f6) For 'Best of x' rounds, competitors are each allotted x (at most 3) attempts. [NOTE BY SARAH: The meaning is vague. Do you mean that x is less than or equal to 3? In that case, write "competitors are allotted x attempts. x may/shall/must not exceed 3."] The best result of x attempts shall count for the competitor's ranking in the round. The organization team may enforce a cumulative time limit for the event, e.g. 30 minutes for 'Best of 2'.
+    - 9f5) The result of a solve shall be recorded as DNS (Did Not Start) if a competitor declines an attempt during a round.
+    - 9f6) For 'Best of x' rounds, competitors are each allotted x (at most 3) attempts. [NOTE BY SARAH: The meaning is vague. Do you mean that x is less than or equal to 3? In that case, write "competitors are allotted x attempts. x may/shall/must not exceed 3."] The best result of x attempts shall count for the competitor's ranking in the round.
     - 9f7) For 'Best of x' rounds, a DNF or DNS is the worst possible result. If all results are DNF and/or DNS, the best result of the competitor is recorded as DNF. [NOTE BY SARAH: Is the second sentence really necessary?] [NOTE BY LUCAS: For thoroughness, yes. Guideline?]
     - 9f8) For 'Average of 5' rounds, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts shall be removed, and the mean of the remaining 3 attempts shall count for the competitor's ranking in the round.
     - 9f9) For 'Average of 5' rounds, one DNF or DNS is permitted to count as the competitor's worst result of said round. If a competitor receives more than one DNF and/or DNS in the round, his average score for the round is DNF.
@@ -199,7 +199,7 @@
     - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle shall be considered solved without penalty.
     - 10e3) If one move is required, the puzzle shall be considered solved with a penalty of 2 seconds.
     - 10e4) If more than one move is required, the solve is ruled DNF.
-- 10f) Limits of acceptable misalignment for puzzles:
+- 10f) Limits of acceptable misalignment for puzzles: [NOTE: Guideline for spirit of the rule (i.e. separating states)]
     - cube-shaped puzzles: =< 45 degrees
     - Megaminx: =< 36 degrees
     - Pyraminx: =< 60 degrees
@@ -233,8 +233,8 @@ All misalignments <= 45Â° Solved, with penalty
     - 11a3) Equipment malfunction.
 - 11b) Should an incident occur during an event, the WCA Delegate must determine an impartial and appropriate course of actione. [NOTE BY SARAH: I merged 11d into 11b (there was no 11c).]
 - 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA regulations, then the WCA Delegate must make his decision based on fair sportsmanship. [NOTE BY LUCAS: Also, something like: ... and report the incident]
-- 11e) Should an incident occur during an event, the WCA Delegate may award a competitor another attempt, replacing the attempt during which the incident occurred. The competitor must appeal at the time of the incident, before completing the solve, to be eligible for another attempt. An appeal does not guarantee the competitor an extra attempt.
-- 11f) The WCA Delegate must not support his decisions with video or photographic analysis. A competitor may, however, submit video or photographic evidence supporting an appeal to the WCA Board.
+- 11e) Should an incident occur during an event, the WCA Delegate may award a competitor another attempt, replacing the attempt during which the incident occurred. The competitor must appeal at the time of the incident, before completing the solve, to be eligible for another attempt. An appeal does not guarantee the competitor an extra attempt. [NOTE: Catch-22]
+- 11f) The WCA Delegate must not support his decisions with video or photographic analysis. A competitor may, however, submit video or photographic evidence supporting an appeal to the WCA Board. [NOTE: Guideline about why]
 
 ## Article 12: Notation [NOTE BY SARAH: okay, I'm not even going to try to edit this article.]
 - 12a) Notation for Rubik's Cube and similar puzzles:
@@ -278,7 +278,7 @@ All misalignments <= 45Â° Solved, with penalty
     - A1a) The organization team may enforce time limits for solves and/or rounds.
     - A1a1) The default time limit per solve is 10 minutes, though the organization team may announce a higher/lower time limit.
     - A1a2) Cumulative time limits may be enforced (e.g. 3 attempts with a cumulative time limit of 20 minutes). The time elapsed in a "DNF" result counts towards the cumulative time limit.
-    - A1a3) For any round, time limits must be announced before the round begins must not be changed after it has begun.
+    - A1a3) For any round, time limits must be announced before the round begins, and must not be changed after it has begun. [Guideline: This is not flexible.]
     - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used [NOTE BY LUCAS: The judge must use a stopwatch? While the competitor must use the Stackmat?] for timekeeping, in addition to a Stackmat. If the puzzle is solved within 10 minutes, the Stackmat time is the result; otherwise the stopwatch time is the result.
     - A1c) A competitor participating in an event must be able to fulfil the event's requirements. A competitor competing with expectation of a "DNF" result may be disqualified from the event at the discretion of the Delegate.
 - A2) Scrambling
