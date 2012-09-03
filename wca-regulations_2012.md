@@ -1,6 +1,8 @@
 # WCA Regulations 2012 (Draft)
 
+
 ## Article 1: Officials
+
 - 1a) A competition must include a WCA Delegate and an organisation team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
 - 1b) The organisation team of a competition is responsible for:
     - 1b1) Event logistics before and during the competition.
@@ -32,7 +34,9 @@
 - 1j) All officials may compete in the competition.
 - 1k) Officials may serve multiple roles (e.g. organisation team, WCA Delegate, judge, score taker, scrambler).
 
+
 ## Article 2: Competitors
+
 - 2a) Any person may compete in a WCA competition, if he:
     - 2a1) complies with WCA regulations;
     - 2a2) meets the competition requirements, which must be clearly announced before the competition;
@@ -68,7 +72,9 @@
     - 2s3) Competitors with other disabilities that may prevent them from abiding by one or more Competition Regulations may request special accommodations with the WCA Delegate. Such accommodations must be noted in the Delegate Report.
 - 2t) All competitors must be familiar with and understand the WCA regulations before the competition.
 
+
 ## Article 3: Puzzles
+
 - 3a) Competitors must provide their own puzzles for the competition. Competitors may borrow puzzles from other competitors.
     - 3a1) Competitors must be present and ready to compete when they are called to compete for a round. Penalty: disqualification from the event.
 - 3b) Puzzles must be in fully operational, such that normal scrambling is possible.
@@ -90,7 +96,9 @@
     - 3m1) Colourless engravings (max. 1 per colour) are not considered as logos.
 - 3n) All brands of puzzles and puzzle parts are allowed, as long as the puzzles comply with all WCA regulations.
 
+
 ## Article 4: Scrambling
+
 - 4a) A scrambler must apply the scramble sequences.
 - 4b) Puzzles must be scrambled using computer-generated random scramble sequences. Scrambles must be available only to the WCA Delegate and the scrambler. Generated scrambles must not be inspected before the competition, and must not be filtered or selected for in any way by the WCA Delegate.
 - 4d) Scrambling orientation
@@ -99,7 +107,9 @@
     - Square-1 must be scrambled with the darkest colour on front (out of the 2 possible scrambling orientations).
 - 4f) Competition scrambles must be generated using the current official version of the official WCA scrambling program (available via the WCA website).
 
+
 ## Article 5: Puzzle Defects
+
 - 5a) Examples of puzzle defects include: popped pieces; broken wires; and detached screws,caps, and stickers.
 - 5b) If a puzzle defect occurs during the solve, the competitor may choose to repair the defect and continue the solve, or to stop the solve.
     - 5b1) If a competitor chooses to repair the puzzle, he must repair only the defective pieces. Tools and/or pieces of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the solve.
@@ -109,7 +119,9 @@
     - 5b5) If parts of the puzzle are still defective or not fully placed at the end of the attempt, the result shall be recorded as the worst state obtainable via reassembly of the puzzle.
 - 5c) If a competitor has a puzzle defect, this does not give him the right to an extra attempt.
 
+
 ## Article 7: Environment
+
 - 7a) Competitions may be held at any location, indoors or outdoors.
 - 7b) Spectators must remain at least 1.5 meters away from the competition stage when it is in use.
 - 7c) Lighting of the competition area must be given special attention. Lighting should be neutral, such that competitors may easily differentiate among the colours on the puzzles.
@@ -126,7 +138,9 @@
     - 7h1) The organization team may require that a competitor who have been called to compete must remain within the competitors area until he has completed all of his solves for the round.
     - 7h3) Competitors in the competitors area must not communicate with each other about the scrambled positions of the puzzles of the round in progress. Penalty: disqualification of competitor at the discretion of the WCA Delegate.
 
+
 ## Article 8: Competitions
+
 - 8a) An official WCA competition must:
     - 8a1) be approved by the WCA Board.
     - 8a2) follow the WCA Regulations.
@@ -137,7 +151,9 @@
     - 8a8) be open, by default, to all who wish to compete. Restrictions must be approved by the WCA Board and clearly stated on the competition website when the competition is announced.
 - 8f) If WCA regulations are not correctly observed during a competition, the WCA Board may refuse to accept affected attempts.
 
+
 ## Article 9: Events
+
 - 9a) The WCA governs competitions for:
     - Puzzles known as Rubik's puzzles.
     - Other puzzles that are manipulated by twisting the sides, commonly known as 'twisty puzzles'.
@@ -204,7 +220,9 @@
     - 9r3) A qualification round may be added to accommodate newly registered competitors, and/or the maximum number of competitors in the qualification round or first round of an event may be increased. These changes must be made at least two weeks before the competition.
 - 9s) Each round of each event must have a time limit. If a competitor does not solve within the time limit, the judge may terminate and disqualify the solve. The The competitor may be allowed to continue the round, at the discretion of the WCA delegate.
 
+
 ## Article 10: Solved state
+
 - 10b) Only the resting state of the puzzle, after the timer has stopped, is considered.
 - 10c) Puzzles may be in any orientation at the end of the solve.
 - 10d) All pieces of a puzzle must be fully attached to the puzzle in their required positions. Exceptions: see Article 5 Puzzle defects.
@@ -240,7 +258,9 @@ All misalignments <= 45Â° Solved, with penalty
     - 10g1) If at most two pairs of adjacent tiles are at a smaller angle, and the puzzle is otherwise solved, the puzzle shall be considered solved with a penalty of 2 seconds. For all other cases, the result shall be recorded as DNF.
 - 10h) Puzzles not specified in this article shall be adjudicated according to the solved state as defined by the generally accepted goal of the puzzle, applying where relevant the regulations of the Rubik's cube's solved state.
 
+
 ## Article 11: Incidents
+
 - 11a) Incidents include:
     - 11a1) Incorrect execution of event procedures, by officials or competitors.
     - 11a2) Interference or facility malfunctions (such as power failure, emergency alarm activation, etc.).
@@ -251,7 +271,9 @@ All misalignments <= 45Â° Solved, with penalty
   - 11e1) Scrambles for all extra attempts must be generated with the current official version of the official WCA scramble program.
 - 11f) The WCA Delegate must not support his decisions with video or photographic analysis. A competitor may, however, submit video or photographic evidence supporting an appeal to the WCA Board.
 
+
 ## Article 12: Notation
+
 - 12a) Notation for Rubik's Cube and similar puzzles:
 - Face Moves:
     - 12a1) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
@@ -288,7 +310,9 @@ All misalignments <= 45Â° Solved, with penalty
     - 12g3) Turn a wheel next to an up-position pin and move all pins down afterwards: x+ (x clockwise turns), x- (x counter clockwise turns).
     - 12g4) Turn around the puzzle so that twelve is still on top and move all pins down: y2
 
+
 ## Article A: Speed Solving
+
 - A1) Attempts for events categorised under Speed Solving must abide by the following procedure.
     - A1a) The organization team may enforce time limits for solves and/or rounds.
     - A1a1) The default time limit per solve is 10 minutes, though the organization team may announce a higher/lower time limit.
@@ -351,7 +375,9 @@ All misalignments <= 45Â° Solved, with penalty
     - A7e) If the result is DNF, then judge calls 'DNF'.
     - A7f) At the end of a competitor's round the judge shall deliver the score sheet to the score taker.
 
+
 ## Article B: Blindfolded Solving
+
 - B1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
     - B1a) The competitor is not permitted an inspection period.
     - B1b1) The competitor must supply his own blindfold.
@@ -381,14 +407,18 @@ All misalignments <= 45Â° Solved, with penalty
     - B5b) When using a stopwatch, the competitor ends the solve by placing the puzzle back onto the surface and notifying the judge that the solve has ended. At that moment, the judge stops the timer.
     - B5c) The competitor may remove the blindfold before he stops the timer; he must not apply any moves to the puzzle after the blindfold is removed. Penalty: disqualification of the solve.
 
+
 ## Article C: One-handed Solving
+
 - C1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
     - C1a) During the solve the competitor must use only one hand and the surface. Penalty: disqualification of the solve.
     - C1b) During the solve no other body part, nor any object other than the surface, shall touch the puzzle. Penalty: disqualification of the solve.
     - C1b2) If a puzzle defect occurs, and the competitor chooses to repair it, he must repair it with the solving hand. Use of the surface is permitted. Penalty: disqualification of the solve.
     - C1c) During the solve, once a competitor touches the puzzle with one hand, he must not touch the puzzle with the other hand. Penalty: disqualification of the solve.
 
+
 ## Article D: Solving With Feet
+
 - D1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
     - D1a) During the solve, the competitor must sit in a chair, sit on the surface, or stand.
     - D1b) During the inspection and the solve, the competitor must only use his feet) and the surface. The competitor may wear socks while solving. Penalty: disqualification of the solve.
@@ -399,7 +429,9 @@ All misalignments <= 45Â° Solved, with penalty
 - D4) Ending the solve
     - D4a) Competitor must stop the timer by placing his feet onto the timer sensors.
 
+
 ## Article E: Fewest Moves Solving
+
 - E1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
     - E1a) The competitor is permitted a maximum solution length of 80 (moves and rotations).
 - E2) Procedure for Fewest Moves Solving:
@@ -415,12 +447,16 @@ All misalignments <= 45Â° Solved, with penalty
     - 1-3 puzzles corresponding to the event (self-supplied)
     - coloured stickers (self-supplied).
 
+
 ## Article F: Clock Solving
+
 - F1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
 - F2) The judge shall place scrambled puzzle onto the mat in a standing position.
 - F3) At the end of the inspection period, the competitor shall place the puzzle onto the mat in a standing position. If the positions of any pins have been in any way changed from their scrambled positions, a +2 penalty shall be applied.
 
+
 ## Article G: Magic Solving {The following regulations also apply to differently named, like puzzles.)
+
 - G1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
 - G2) Scrambling
     - G2a) The puzzle is not scrambled.
@@ -430,7 +466,9 @@ All misalignments <= 45Â° Solved, with penalty
 - G4) Starting the solve
     - G4a) At the start of the solve, the puzzle must lie completely flat on the surface. Either of its two sides may face up.
 
+
 ## Article H: Multiple Blindfolded Solving
+
 - H1) Standard speed solving procedures shall be followed, as described in Article B (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in Article B are described below.
     - H1a) Before an attempt, the competitor must notify the judge of the number of puzzles he wishes to solve blindfolded. The number of puzzles must be at least 2.
     - H1a1) A competitor must not change the number of puzzles after the start of the attempt.
@@ -439,7 +477,9 @@ All misalignments <= 45Â° Solved, with penalty
     - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge attempt shall stop the competitor.
     - H1d) Time penalties for each puzzle of the attempt are additive (e.g. if a competitor attempts 10 cubes, finishes with a time of 59:57, and is penalized two times, the final recorded time is 59:57 + 2*2 = 60:01.).
 
+
 ## Article Z: Optional Regulations
+
 Optional regulations may be applied to a competition by its organisation team to facilitate the administration of the competition.
 The WCA Board must approve the application of (an) optional regulation(s) to a competition.
 

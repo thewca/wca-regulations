@@ -1,13 +1,16 @@
 
 
 ## Article 1: Purpose
+
 - 1a) The World Cube Association (WCA) is the official governing body of competitions and other events for Rubik’s puzzles and other twisty puzzles.
 - 1b) The mission of the World Cube Association is to organize competitions, expand the international speedsolving community and ensure fair standards and conditions for competition.
 - 1c) The spirit of the World Cube Association is to encourage people from all over the world to have fun and help each other in a friendly atmosphere and to encourage sportsmanlike behaviour.
 
 
 ## Article 2: Organization
+
 ### Section A: WCA Board
+
 - 2a1) Description
     - 2a1a) The WCA Board (the Board) is the governing body of the WCA. It is the highest representative of the WCA, and is responsible for the organization, well-being, and mission of the WCA. All official action and business of the WCA is conducted under the approval of the Board. The Board provides the final decision making in all matters, except where otherwise prescribed in this Constitution. Members of the Board are considered representatives of the WCA.
     - 2a2) Membership
@@ -32,6 +35,7 @@
     - 2a3a8) Acting as signatories for any official expenditures of the WCA. Any official expenditure shall have the signature of at least one Board member.
 
 ### Section B: Independent Advisory Committee
+
 - 2b1) Description
     - 2b1a) The Independent Advisory Committee (IAC) is a committee charged with the investigation, reporting, and, when appropriate, publishing of major incidents in the WCA. As an entity, the IAC advises and reports directly to the Board on WCA matters. Members of the IAC are considered a representative of the WCA.
 - 2b2) Membership
@@ -47,6 +51,7 @@
     - 2b3b) IAC investigations are initiated by request of the Board. Individual members of the WCA community may also approach the IAC with concerns about violations of WCA Regulations or the spirit of the WCA, or if they disagree with a decision made by a WCA Delegate or the WCA Board.
 
 ### Section C: WCA Regulations Committee
+
 - 2c1) Description
     - 2c1a) The WCA Regulations Committee (WRC) is an appointed Committee responsible for the publishing, upkeep, and update of official WCA documents. In addition, the WRC is responsible for ensuring year-to-year updates to the Regulations and Guidelines in a reasonable amount of time. Members of the WRC are considered representatives of the WCA.
 - 2c2) Membership
@@ -68,6 +73,7 @@
     - 2c3f) Announce changes to WCA Regulations once they are finalized.
 
 ### Section D: WCA Delegates
+
 - 2d1) Description
     - 2d1a) WCA Delegates (Delegates) are representatives of the WCA. Delegates ensure that WCA Regulations are followed at competitions. In order for a competition and its results to be recognized by the WCA, a Delegate must be present and certify that a competition has been run fulfilling all relevant WCA Regulations..
 - 2d2) Membership
@@ -83,6 +89,7 @@
     - 2d3a5) Screen potential new Delegates as needed, and submit nominations for new Delegates to the WCA Board.
 
 ### Section E: WCA Results Team
+
 - 2e1) Description
     - 2e1a) The WCA Results Team (Results Team) is appointed by the WCA Board. The Results Team is responsible for general procedural tasks on the WCA end with regards to competitions.
 - 2e2) Membership
@@ -98,7 +105,9 @@
 
 
 ## Article 3: WCA Documents
+
 ### Section A: WCA Constitution
+
 - 3a1) Description
     - 3a1a) The WCA Constitution (Constitution) contains all regulations pertaining to the organization of the WCA, including descriptions and duties of its associated committees.
     - 3a1b) This Constitution shall be the supreme law of the WCA, and any rulings, regulations, and other official business conducted by the WCA or any of its entities and representatives shall fall under the jurisdiction of this Constitution.
@@ -115,6 +124,7 @@
     - 3a2b8) The WRC shall conduct both a WRC and a Delegate vote on the amendment “as is” at the time of return. Only members with Delegate status at the time of amendment announcement are eligible to vote. A unanimous vote among WRC votes cast passes the amendment. A ¾+ vote among Delegate votes cast also passes the amendment.  Any other result kills the amendment.
 
 ### Section B: WCA Regulations and WCA Regulation Guidelines
+
 - 3b1) Description
     - 3b1a) The WCA Regulations (Regulations) and WCA Regulation Guidelines (Guidelines) contain all regulations and guidelines that must be followed by WCA sponsored competitions.
     - 3b1b) The Regulations should contain all clear, concise, normative rules about competitions.
@@ -131,6 +141,7 @@
     - 3b2b5) Decisions on amendments to Regulations and Guidelines shall be announced to the public in a timely manner, along with sufficient justification for decisions. Amendments and changes to the Regulations and Guidelines do not take effect until they are announced by the WRC. 
 
 ### Section C: WCA Incidents Log
+
 - 3c1) Description
     - 3c1a) The WCA Incidents Log (Incidents Log) is a log of all incidents. An incident is a notable occurrence related to the WCA Regulations, including (but not limited to):
     - 3c1a1) Exceptions granted to any competition or competitor;
@@ -146,6 +157,7 @@
     - 3c2b3) Any incidents in the Incidents Log may be accompanied by an official announcement about the incident by the Board which includes descriptions of the incident, its circumstances, and its resolution.
 
 ### Section D: WCA Scramblers
+
 - 3d1) Description
     - 3d1a) An official WCA Scrambler is a scramble program that
     - 3d1a1) Generates random-state scrambles for all puzzles for which this is practical;
@@ -162,10 +174,12 @@
 
 
 ## Article 4: Other Powers
+
 - 4a) The powers and responsibilities not expressly mentioned and delegated in this Constitution, or any of its listed subsidiary documents, are reserved for the Board.
 
 
 ## Article 5: Dissolution
+
 - 5a) Dissolution of the WCA shall only occur by a supermajority vote of the eligible Delegates in conjunction with unanimous votes by both the WRC and the Board for a Dissolution Resolution.
 - 5b) A Dissolution Resolution shall take effect immediately upon fulfillment of the required conditions.
 
