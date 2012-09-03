@@ -361,7 +361,7 @@ All misalignments <= 45Â° Solved, with penalty
     - A6b2) If the timer stops before the end of the solve and displays a time of 0.06 seconds or higher then the attempt shall be disqualified, unless the competitor can demonstrate to the WCA Delegate's satisfaction that the timer malfunctioned during the attempt.
     - A6c) The timer must be stopped using both hands, which shall be placed flat on the sensors with palms down. Penalty: 2 seconds.
     - A6d) The competitor must fully release the puzzle before stopping the timer. Penalty: 2 seconds.
-    - A6e) The competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt.
+    - A6e) The competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt. If no moves have been done, a penalty of 2 seconds may be given instead, at the discretion of the judge.
     - A6f) The competitor must not reset the timer until the judge has recorded the result on the score sheet. Penalty: disqualification of the attempt, at the discretion of the judge.
     - A6g) The judge must determine whether the puzzle has been completely solved. He must not make moves or align faces when examining the puzzle.
     - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle prior to the resolution of said dispute. Penalty: disqualification of the attempt, at the discretion of the WCA Delegate.
