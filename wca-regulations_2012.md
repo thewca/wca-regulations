@@ -1,3 +1,5 @@
+# WCA Regulations 2012 (Draft)
+
 ## Article 1: Officials
 - 1a) A competition must include a WCA Delegate and an organisation team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
 - 1b) The organisation team of a competition is responsible for:
