@@ -2,23 +2,23 @@
 
 ## Corresponding to Regulations
 
-    - 1c3a) Official scrambles must be labeled with the events, rounds, and groups for which they were used, but if there are multiple groups it not necessary to report which competitor was in which group. 
-
-- 3l) Since puzzle approval is likely to be delegated to the scramblers, they must make sure to check puzzles before scrambling them.
-
 ## Article 6: Awards/prizes/honours
 - 6a) Awards, prizes or honours may be given to competitors according to the announcement of the competition.
-- 6b) Competitors should attend the winner's ceremony to be eligible for awards/prizes/honours.
+- 6b) Competitors should attend the winner's ceremony to receive awards/prizes/honours.
     - 6b1) The winner's ceremony should be held in the competition venue, within one hour after the end of the last event.
 - 6c) Winners of awards, prizes or honours should be prepared to talk to journalists or any media covering the competition.
-- 6d) Organisation teams of competitions should have (at least) certificates for all category winners, signed by the leader of the organisation team and by the WCA delegate.
-- 6d) The temperature of the competition area should preferably be 21 to 25 degrees Celsius.
-- 6e) The competition area should have a reasonable noise level.
-    - 6h2)  The competitors in the competitors area should not be able to see the puzzles of the competitors on stage.
+- 6d) Organisation teams of competitions should have certificates for all category winners, signed by the leader of the organisation team and by the WCA delegate.
 
-    - 8a3) [NOTEL: not 8a3?] Changes to increase the maximum number of competitors in qualification round or first round, or to add a qualfiication round for newly registered competitors should be made at least one month before the competition.
+
+- 7d) The temperature of the competition area should preferably be 21 to 25 degrees Celsius.
+- 7e) The competition area should have a reasonable noise level.
+    - 7h2) The competitors in the competitors area should not be able to see the puzzles of the competitors on stage.
+
+
+    - 8a4) [NOTEL: not 8a3?] Changes to increase the maximum number of competitors in qualification round or first round, or to add a qualfiication round for newly registered competitors should be made at least one month before the competition.
     - 8a4) Ideally, a competition should be announced at least one month before the competition starts.
     - 8a5) The competition should have at least 12 competitors.
+
 
 - 9b) The preferred format for the final of an event is ‘Average of 5’ or ‘Mean of 3’ if possible
 - 9q) Events and rounds should have at least 2 competitors.    
