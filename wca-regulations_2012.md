@@ -161,15 +161,15 @@
 - 9b) The official events and formats of the WCA are:
     - 9b1) Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Magic, Master Magic, Megaminx, Pyraminx, Square-1, Rubik's Cube: One-handed and Rubik's Cube: With Feet.
 
-      Permissible competition formats for these events are: 'Best of X' (where X is 1, 2, 3, 4, or 5), 'Average of 5', and 'Mean of 3'.
+      Permissible competition formats for these events are: 'Best of X' (where X is 1, 2, or 3) and 'Average of 5'.
 
     - 9b2) 6x6x6 Cube and 7x7x7 Cube.
 
-      Permissible competition formats for these events are: 'Best of X' (where X is 1, 2, 3, 4, or 5) and 'Mean of 3'.
+      Permissible competition formats for these events are: 'Best of X' (where X is 1, 2, or 3) and 'Mean of 3'.
 
     - 9b3) Rubik's Cube: Fewest moves, Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded and Rubik's Cube: Multiple Blindfolded.
 
-      Permissible competition formats for these events are: 'Best of X' (where X is 1, 2, 3, 4, or 5).
+      Permissible competition formats for these events are: 'Best of X' (where X is 1, 2, or 3).
 
 - 9e) New official events may be added, and existing official events removed, each calendar year.
     - 9e1) The decision to add or remove an event is made by the WCA Board, based on feedback from the WCA delegates and the community at large.
