@@ -68,7 +68,7 @@
 - 2r) The competitor must accept the final ruling of the WCA Delegate. Penalty: disqualification of the competitor from the competition.
 - 2s) Exceptions for documented disabilities
     - 2s1) For competitors with hearing disabilities, judges may replace the vocal instructions with hand signals.
-    - 2s2) For competitors with physical disabilities, judges may give help with starting and stopping the timer.
+    - 2s2) For competitors with physical disabilities, judges may assist with starting and stopping the timer.
     - 2s3) Competitors with other disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations with the WCA Delegate. Such accommodations must be noted in the Delegate Report.
 - 2t) All competitors must be familiar with and understand the WCA Regulations before the competition.
 
@@ -105,12 +105,12 @@
     - 4d1) Cube puzzles and Megaminx must be scrambled with the white (otherwise the lightest colour) face on top and green (or the darkest adjacent face by default) on the front.
     - 4d2) Pyraminx must be scrambled with the yellow (or the lightest colour by default) face on bottom and green (or the darkest adjacent colour by default) on the front.
     - 4d3) Square-1 must be scrambled with the darkest colour on front (out of the 2 possible scrambling orientations).
-- 4f) Competition scrambles must be generated using the current official version of the official WCA scrambling program (available via the WCA website).
+- 4f) Competition scramble sequences must be generated using the current official version of the official WCA scrambling program (available via the WCA website).
 
 
 ## Article 5: Puzzle Defects
 
-- 5a) Examples of puzzle defects include: popped pieces; broken wires; and detached screws, caps, and stickers.
+- 5a) Examples of puzzle defects include: popped pieces, broken wires, and detached screws/caps/stickers.
 - 5b) If a puzzle defect occurs during the attempt, the competitor may choose to repair the defect and continue the attempt, or to stop the attempt.
     - 5b1) If a competitor chooses to repair the puzzle, he must repair only the defective pieces. Tools and/or pieces of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the attempt.
     - 5b2) Any repairs to a puzzle must not give the competitor any advantage in solving the puzzle. Penalty: disqualification of the attempt.
@@ -218,7 +218,7 @@
 
 - 10b) Only the resting state of the puzzle, after the timer has stopped, is considered.
 - 10c) Puzzles may be in any orientation at the end of the attempt.
-- 10d) All pieces of a puzzle must be fully attached to the puzzle in their required positions. Exceptions: see Article 5 Puzzle defects.
+- 10d) All pieces of a puzzle must be fully attached to the puzzle in their required positions. Exceptions: see Article 5.
 - 10e) A puzzle is solved when all face colours are reassembled and all parts are aligned within the limits specified below:
     - 10e1) For each two adjacent parts (e.g. two parallel adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in Regulation 10f, the puzzle shall be considered to require one additional move to solve (see "Block Turn Metric" in Article 12).
     - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle shall be considered solved without penalty.
@@ -243,7 +243,7 @@
 - 11b) Should an incident occur during an event, the WCA Delegate must determine an impartial and appropriate course of action.
 - 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make his decision based on fair sportsmanship.
 - 11e) Should an incident occur during an event, the WCA Delegate may award a competitor another attempt, replacing the attempt during which the incident occurred. The competitor must appeal at the time of the incident, before completing the original attempt, to be eligible for another attempt. An appeal does not guarantee the competitor an extra attempt.
-    - 11e1) Scrambles for all extra attempts must be generated with the current official version of the official WCA scramble program.
+    - 11e1) If a competitor is awarded an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble must be generated using the current official version of the official WCA scramble program (see Regulation 4f).
 - 11f) The WCA Delegate must not support his decisions with video or photographic analysis. A competitor may, however, submit video or photographic evidence supporting an appeal to the WCA Board.
 
 
@@ -252,19 +252,19 @@
 - 12a) Notation for Rubik's Cube and similar puzzles:
 - 12a1) Face Moves:
     - 12a1a) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
-    - 12a1b) Counter clockwise, 90 degrees: F', B', R', L', U', D' (see 12a1).
-    - 12a1c) 180 degrees: F2, B2, R2, L2, U2, D2 (see 12a1).
+    - 12a1b) Counter clockwise, 90 degrees: F', B', R', L', U', D' (see Regulation 12a1).
+    - 12a1c) 180 degrees: F2, B2, R2, L2, U2, D2 (see Regulation 12a1).
 - 12a2) Multiple Outer Slice Moves (outer slice plus adjacent inner slices; n is defined as total number of slices to move; n may be omitted for two slices):
-    - 12a2a) Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw. (see 12a1).
-    - 12a2b) Counter clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw' (see 12a5).
-    - 12a2c) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2 (see 12a5).
+    - 12a2a) Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw. (see Regulation 12a1).
+    - 12a2b) Counter clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw' (see Regulation 12a5).
+    - 12a2c) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2 (see Regulation 12a5).
 - 12a3) Block Turn Metric (BTM) is defined as:
     - 12a3a) Each move of the categories Face Moves and Multiple Outer Slice Moves is counted as 1 move.
     - 12a3b) Each rotation is counted as 0 moves.
 - 12b) Rotations for all cube shaped puzzles:
-    - 12b1) Clockwise, 90 degrees: [f] or z, [b] or z', [r] or x, [l] or x', [u] or y, [d] or y'. (see 12a1).
-    - 12b2) Counter clockwise, 90 degrees: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y (see 12b1).
-    - 12b3) 180 degrees: [f2] or z2, [b2] or z2, [r2] or x2, [l2] or x2, [u2] or y2, [d2] or y2 (see 12b1).
+    - 12b1) Clockwise, 90 degrees: [f] or z, [b] or z', [r] or x, [l] or x', [u] or y, [d] or y'. (see Regulation 12a1).
+    - 12b2) Counter clockwise, 90 degrees: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y (see Regulation 12b1).
+    - 12b3) 180 degrees: [f2] or z2, [b2] or z2, [r2] or x2, [l2] or x2, [u2] or y2, [d2] or y2 (see Regulation 12b1).
 - 12c) Notation for Square-1:
     - 12c1) Moves are applied with the smallest slice of the middle layer on left side of front face.
     - 12c2) (x,y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise.
