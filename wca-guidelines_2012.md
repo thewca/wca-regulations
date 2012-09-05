@@ -5,6 +5,7 @@ The WCA Guidelines supplement the WCA Regulations. Guidelines are numbered in co
 
 ## Article 1: Officials
 
+    - 1b2) It is sufficient to ensure access to a digital copy of the Regulations.
     - 1c3) [CORRESPONDING] Results should be ready at the end of the last day of competition.
     - 1c4) [CORRESPONDING] Corrections to the results should be available within one week of the competition date.
 
@@ -13,13 +14,15 @@ The WCA Guidelines supplement the WCA Regulations. Guidelines are numbered in co
 
 ## Article 2: Competitors
 
-- 2d) [CORRESPONDING] Date of birth and contact information should be especially secured. Also, Ron's policy of asking the competitor before putting them in contact with e.g. media.
+- 2d) [CORRESPONDING] Date of birth and contact information should be especially secured.
+- 2d [CORRESPONDING] If a third party (e.g. journalist) asks the organisation team to be put in contact with any competitors, the competitor should first be asked for consent.
 
     - 3a1) [CORRESPONDING] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit.
 
 
 ## Article 3: Puzzles
 
+- 3c) [CORRESPONDING] Competitors may use puzzles of any reasonable size, at the discretion of the Delegate.
 - 3i) [CORRESPONDING] Examples of such enhancement include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, more or other solved states.
 
 
@@ -52,7 +55,7 @@ The WCA Guidelines supplement the WCA Regulations. Guidelines are numbered in co
 ## Article 8: Competitions
 
     - 8a4) [CORRESPONDING] Changes to increase the maximum number of competitors in qualification round or first round, or to add a qualification round for newly registered competitors should be made at least one month before the competition.
-    - 8a4) [CORRESPONDING] Ideally, a competition should be announced at least one month before the competition starts.
+    - 8a4) [CORRESPONDING] A competition should be announced at least one month before the competition starts.
     - 8a5) [CORRESPONDING] The competition should have at least 12 competitors.
 
 

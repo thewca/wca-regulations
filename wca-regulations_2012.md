@@ -6,7 +6,7 @@
 - 1a) A competition must include a WCA Delegate and an organisation team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
 - 1b) The organisation team of a competition is responsible for:
     - 1b1) Event logistics before and during the competition.
-    - 1b2) Making a copy of the WCA Regulations available at the competition (either print or electronic documents are acceptable).
+    - 1b2) Making a copy of the WCA Regulations available at the competition.
 - 1c) The WCA Delegate may delegate responsibilities to other members of the organisation team, but is ultimately accountable for how these responsibilities are carried out. The WCA Delegate for a competition is responsible for:
     - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the competition date.
     - 1c3) Sending the competition results to the WCA Results Team.
