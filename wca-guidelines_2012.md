@@ -7,10 +7,10 @@
 
 1h) [CORRESPONDING] All final rounds of all events, as well as all Fewst Moves Solving rounds, should have the same scrambles for all competitors (i.e. only 1 heat).
 
-- 2d) [CORRESPONDING] Guideline: Date of birth and contact information should be especially secured. Also, Ron's policy of askinging the competitor before putting them in contact with e.g. media.
+- 2d) [CORRESPONDING] Date of birth and contact information should be especially secured. Also, Ron's policy of askinging the competitor before putting them in contact with e.g. media.
 
     - 3a1) [CORRESPONDING] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit.
-- 3i) [CORRESPONDING] Examples of such enhancement include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, more or other solved states. [ACTION: Move examples to Guidelines]
+- 3i) [CORRESPONDING] Examples of such enhancement include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, more or other solved states.
 
 - 4b) [CORRESPONDING] Delegates must never re-generate any scrambles to replace other ones for the purpose of filtering. For example, it is not be permitted to glance at the scrambles for a competition and generate the entire set again in order to generate 'fairer' scrambles.
 

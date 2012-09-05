@@ -6,7 +6,7 @@
 - 1a) A competition must include a WCA Delegate and an organisation team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
 - 1b) The organisation team of a competition is responsible for:
     - 1b1) Event logistics before and during the competition.
-    - 1b2) Making a copy of the WCA regulations available at the competition (either print and electronic documents are acceptable).
+    - 1b2) Making a copy of the WCA Regulations available at the competition (either print and electronic documents are acceptable).
 - 1c) The WCA Delegate may delegate responsibilities to other members of the organization team, but is ultimately accountable for how these responsibilities are carried out. The WCA Delegate for a competition is responsible for:
     - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the competition date.
     - 1c3) Sending the competition results to the WCA Results Team.
@@ -20,7 +20,7 @@
     - 1c9) Decisions on changes to the scheduled times of rounds. In cases of such changes, a clear announcement should be made to all competitors.
 - 1e) Each event must have one or more judges.
     - 1e1) A judge is responsible for executing the procedures of the event.
-    - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the Delegate, as long as the judge is able ensure that all Regulations are followed at all times.
+    - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the Delegate, as long as the judge is able ensure that all WCA Regulations are followed at all times.
     - 1e2) All competitors must be available for judging, if needed by organisation team. Penalty: disqualification of the competitor for the competition.
 - 1f) Each event (except for puzzles that are not scrambled) must have one or more scramblers.
     - 1f1) A scrambler is responsible for applying the scramble sequences to the puzzles for the event.
@@ -38,7 +38,7 @@
 ## Article 2: Competitors
 
 - 2a) Any person may compete in a WCA competition, if he:
-    - 2a1) complies with WCA regulations;
+    - 2a1) complies with WCA Regulations;
     - 2a2) meets the competition requirements, which must be clearly announced before the competition;
     - 2a3) is not suspended by WCA Board.
 - 2b) Competitors below the age of 18 must obtain consent from their parent(s)/guardian(s) to register and compete.
@@ -48,7 +48,7 @@
 - 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship standing by means of documents (e.g. a passport). If a competitor is found ineligible to represent the country under which they have registered, the competitor may be retroactively disqualified and/or suspended at the discretion of the WCA Board.
     - 2e1a) The eligible countries are defined by Wikipedia List of sovereign states ("Internationally recognized sovereign states" and "Other states").
     - 2e2) Competitors with updates to their citizenship status may change their country of representation in their first competition of a calendar year.
-- 2f) Competitors must obey venue regulations and conduct themselves in a manner considerate of others.
+- 2f) Competitors must obey venue rules and conduct themselves in a manner considerate of others.
 - 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
 - 2h) Competitors shall be fully dressed while in the competition venue. At the discretion of the Delegate, competitors may be disqualified for inappropriate clothing.
     - 2h1) Exception: Competitors may be barefoot if 3x3x3 Feet Solving is being held at the competition.
@@ -59,7 +59,7 @@
     - 2k2) The competitor is suspect of cheating or defrauding the officials during the competition.
     - 2k3) The competitor behaves in a way that is unlawful, violent or indecent; or intentionally damages venue facilities or personal property within the venue.
     - 2k4) The competitor interferes with, or distracts others during, the competition.
-    - 2k5) The competitor fails to abide by WCA regulations during the competition.
+    - 2k5) The competitor fails to abide by WCA Regulations during the competition.
 - 2l) A competitor may be disqualified immediately, or after a warning, depending on the nature and severity of the infraction.
 - 2m) A disqualified competitor is not eligible for the refund of any expenses incurred as a consequence of participation in the competition.
 - 2n) Competitors may verbally dispute a ruling to the WCA Delegate.
@@ -69,8 +69,8 @@
 - 2s) Exceptions for documented disabilities
     - 2s1) For competitors with hearing disabilities, judges may replace the vocal instructions with hand signals.
     - 2s2) For competitors with physical disabilities, judges may give help with starting and stopping the timer.
-    - 2s3) Competitors with other disabilities that may prevent them from abiding by one or more Competition Regulations may request special accommodations with the WCA Delegate. Such accommodations must be noted in the Delegate Report.
-- 2t) All competitors must be familiar with and understand the WCA regulations before the competition.
+    - 2s3) Competitors with other disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations with the WCA Delegate. Such accommodations must be noted in the Delegate Report.
+- 2t) All competitors must be familiar with and understand the WCA Regulations before the competition.
 
 
 ## Article 3: Puzzles
@@ -94,7 +94,7 @@
 - 3l) Puzzles must be approved by the WCA Delegate before use in the competition.
 - 3m) Cube puzzles must have at most one logo. For the Rubik's Cube or bigger cube puzzles the logo must be placed on one of the centre pieces.
     - 3m1) Colourless engravings (max. 1 per colour) are not considered as logos.
-- 3n) All brands of puzzles and puzzle parts are allowed, as long as the puzzles comply with all WCA regulations.
+- 3n) All brands of puzzles and puzzle parts are allowed, as long as the puzzles comply with all WCA Regulations.
 
 
 ## Article 4: Scrambling
@@ -149,7 +149,7 @@
     - 8a6) be publicly accessible.
     - 8a7) use the authentic Speedstacks Stackmat timer (Generation 2 or Pro) for time measurement.
     - 8a8) be open, by default, to all who wish to compete. Restrictions must be approved by the WCA Board and clearly stated on the competition website when the competition is announced.
-- 8f) If WCA regulations are not correctly observed during a competition, the WCA Board may disqualify affected attempts.
+- 8f) If WCA Regulations are not correctly observed during a competition, the WCA Board may disqualify affected attempts.
 
 
 ## Article 9: Events
@@ -197,7 +197,7 @@
 - 9i) Results of official WCA competitions must be listed on the WCA world rankings.
     - 9i1) The WCA shall recognize the following types of regional records: national records, continental records, and world records.
     - 9i2) Results of official WCA competitions are dated to the calendar date of the competition. Should a competition span multiple days, the results of each round are dated to the last scheduled calendar date of the round.
-    - 9i3) If the regulations for an event are changed, existing regional records stand until they are broken under the new regulations.
+    - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
 - 9j) Each event must be held at most once per competition.
 - 9k) All competitors may participate in all events of a competition.
 - 9l) Each round must be finished before any following round of the same event starts.
@@ -256,7 +256,7 @@ All misalignments <= 45Â° Solved, with penalty
 
 - 10g) For Magic (and similar puzzles) the minimum acceptable angle between adjacent tiles is 135Â°.
     - 10g1) If at most two pairs of adjacent tiles are at a smaller angle, and the puzzle is otherwise solved, the puzzle shall be considered solved with a penalty of 2 seconds. For all other cases, the result shall be recorded as DNF.
-- 10h) Puzzles not specified in this article shall be adjudicated according to the solved state as defined by the generally accepted goal of the puzzle, applying where relevant the regulations of the Rubik's cube's solved state.
+- 10h) Puzzles not specified in this article shall be adjudicated according to the solved state as defined by the generally accepted goal of the puzzle, applying where relevant the WCA Regulations of the Rubik's cube's solved state.
 
 
 ## Article 11: Incidents
@@ -266,7 +266,7 @@ All misalignments <= 45Â° Solved, with penalty
     - 11a2) Interference or facility malfunctions (such as power failure, emergency alarm activation, etc.).
     - 11a3) Equipment malfunction.
 - 11b) Should an incident occur during an event, the WCA Delegate must determine an impartial and appropriate course of action.
-- 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA regulations, then the WCA Delegate must make his decision based on fair sportsmanship.
+- 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make his decision based on fair sportsmanship.
 - 11e) Should an incident occur during an event, the WCA Delegate may award a competitor another attempt, replacing the attempt during which the incident occurred. The competitor must appeal at the time of the incident, before completing the original attempt, to be eligible for another attempt. An appeal does not guarantee the competitor an extra attempt.
   - 11e1) Scrambles for all extra attempts must be generated with the current official version of the official WCA scramble program.
 - 11f) The WCA Delegate must not support his decisions with video or photographic analysis. A competitor may, however, submit video or photographic evidence supporting an appeal to the WCA Board.
@@ -455,7 +455,7 @@ All misalignments <= 45Â° Solved, with penalty
 - F3) At the end of the inspection period, the competitor shall place the puzzle onto the mat in a standing position. If the positions of any pins have been in any way changed from their scrambled positions, a +2 penalty shall be applied.
 
 
-## Article G: Magic Solving {The following regulations also apply to differently named, like puzzles.)
+## Article G: Magic Solving and Master Magic Solving
 
 - G1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
     - G1a) The competitor may do at most two practice solves on the competition timer. When the judge and competitor mutually agree, the official attempts will begin. At that point, all attempts will be treated as official attempts.
@@ -482,7 +482,7 @@ All misalignments <= 45Â° Solved, with penalty
 ## Article Z: Optional Regulations
 
 Optional regulations may be applied to a competition by its organisation team to facilitate the administration of the competition.
-The WCA Board must approve the application of (an) optional regulation(s) to a competition.
+The WCA Board must approve any optional regulations for a competition.
 
 - Z1) The organisation team may require competitors to submit puzzles during registration.
 - Z2) The organisation team may limit the number of events per competitor.
