@@ -14,6 +14,8 @@ The WCA Guidelines supplement the WCA Regulations. Guidelines are numbered in co
 
 ## Article 2: Competitors
 
+- 2c) [CORRESPONDING] First-time competitors should register using their legal name. They may register using a reasonable nickname, at the discretion of the Delegate.
+- 2c) [CORRESPONDING] Competitors must not provide intentionally misleading information, and returning competitors should provide information consistent with past information (e.g. exact name and WCA ID).
 - 2d) [CORRESPONDING] Date of birth and contact information should be especially secured.
 - 2d [CORRESPONDING] If a third party (e.g. journalist) asks the organisation team to be put in contact with any competitors, the competitor should first be asked for consent.
 
