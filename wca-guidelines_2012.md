@@ -62,6 +62,7 @@ The WCA Guidelines supplement the WCA Regulations. Guidelines are numbered in co
 ## Article 9: Events
 
 - 9b) [SEPARATE] The preferred format for the final of an event is ‘Average of 5’ or ‘Mean of 3’, if possible.
+    - 9e4) Events other than those specified in article 9b may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
 - 9q) [SEPARATE] Events and rounds should have at least 2 competitors.
 - 9r) [SEPARATE] The goal of a qualification round is to let unranked or low ranked competitors qualify for the first round of an event with many registered competitors.
 

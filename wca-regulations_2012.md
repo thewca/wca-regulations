@@ -159,14 +159,13 @@
     - 9a2) Other puzzles that are manipulated by twisting the sides, commonly known as 'twisty puzzles'.
 - 9b) The official events and formats of the WCA are:
     - 9b1) Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Magic, Master Magic, Megaminx, Pyraminx, Square-1, Rubik's Cube: One-handed and Rubik's Cube: With Feet.
-    - 9b1a) Permissible competition formats for these events are: 'Best of X' (where X is 1, 2, 3, 4, or 5), 'Average of 5', and 'Mean of 3'.
+    - 9b1a) Competition formats for these events are: 'Best of X' (where X is 1, 2, 3, 4, or 5), 'Average of 5', and 'Mean of 3'.
     - 9b2) 6x6x6 Cube and 7x7x7 Cube.
-    - 9b2a) Permissible competition formats for these events are: 'Best of X' (where X is 1, 2, 3, 4, or 5) and 'Mean of 3'.
+    - 9b2a) Competition formats for these events are: 'Best of X' (where X is 1, 2, 3, 4, or 5) and 'Mean of 3'.
     - 9b3) Rubik's Cube: Fewest moves, Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded and Rubik's Cube: Multiple Blindfolded.
-    - 9b3a) Permissible competition formats for these events are: 'Best of X' (where X is 1, 2, 3, 4, or 5).
+    - 9b3a) Competition formats for these events are: 'Best of X' (where X is 1, 2, 3, 4, or 5).
 - 9e) New official events may be added, and existing official events removed, each calendar year.
     - 9e1) The decision to add or remove an event is made by the WCA Board, based on feedback from the WCA delegates and the community at large.
-    - 9e4) Events other than those specified in article 9b may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
 - 9f) The results of a round are measured as follows:
     - 9f1) All timed results, averages, and means under 10 minutes are measured and rounded down to the nearest hundredth of a second.
     - 9f2) All timed results, averages, and means over 10 minutes are measured and rounded to the nearest second (x.4 becomes x, x.5 becomes x+1).
