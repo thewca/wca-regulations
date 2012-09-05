@@ -417,9 +417,9 @@
     - E2e) The solution of the competitor must not be directly derived from any part of the scrambling algorithm. Penalty: disqualification of the attempt.
     - E2e1) The WCA Delegate may ask the competitor must to explain the purpose of each move in his solution, irrespective of scrambling algorithm. The WCA Delegate shall determine the validity of the solution.
 - E3) The competitor may use the following objects during the solve. Penalty for using unauthorised objects: disqualification of the attempt.
-    - paper and pen (both supplied by judge)
-    - 1-3 puzzles corresponding to the event (self-supplied)
-    - coloured stickers (self-supplied).
+    - E3a) Paper and pens (both supplied by judge).
+    - E3b) 1-3 puzzles corresponding to the event (self-supplied).
+    - E3c) Coloured stickers (self-supplied).
 
 
 ## Article F: Clock Solving
