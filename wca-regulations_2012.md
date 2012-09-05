@@ -220,7 +220,7 @@
 - 10c) Puzzles may be in any orientation at the end of the attempt.
 - 10d) All pieces of a puzzle must be fully attached to the puzzle in their required positions. Exceptions: see Article 5 Puzzle defects.
 - 10e) A puzzle is solved when all face colours are reassembled and all parts are aligned within the limits specified below:
-    - 10e1) For each two adjacent parts (e.g. two parallel adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in Article 10f, the puzzle shall be considered to require one additional move to solve (see "Block Turn Metric" in Article 12).
+    - 10e1) For each two adjacent parts (e.g. two parallel adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in Regulation 10f, the puzzle shall be considered to require one additional move to solve (see "Block Turn Metric" in Article 12).
     - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle shall be considered solved without penalty.
     - 10e3) If one move is required, the puzzle shall be considered solved with a penalty of 2 seconds.
     - 10e4) If more than one move is required, the attempt is ruled DNF.
@@ -229,9 +229,9 @@
     - 10f2) Megaminx: =< 36 degrees
     - 10f3) Pyraminx: =< 60 degrees
     - 10f4) Square-1: =< 45 degrees (U/D) or 90 degrees (/)
-- 10g) For Magic (and similar puzzles) the minimum acceptable angle between adjacent tiles is 135Â°.
+- 10g) For Magic (and similar puzzles) the minimum acceptable angle between adjacent tiles is 135 degrees.
     - 10g1) If at most two pairs of adjacent tiles are at a smaller angle, and the puzzle is otherwise solved, the puzzle shall be considered solved with a penalty of 2 seconds. For all other cases, the result shall be recorded as DNF.
-- 10h) Puzzles not specified in this article shall be adjudicated according to the solved state as defined by the generally accepted goal of the puzzle, applying where relevant the WCA Regulations of the Rubik's cube's solved state.
+- 10h) Puzzles not specified in this article shall be judged according to the solved state as defined by the generally accepted goal of the puzzle, applying the relevant regulations for the Rubik's Cube.
 
 
 ## Article 11: Incidents
@@ -266,7 +266,7 @@
     - 12b2) Counter clockwise, 90 degrees: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y (see 12b1).
     - 12b3) 180 degrees: [f2] or z2, [b2] or z2, [r2] or x2, [l2] or x2, [u2] or y2, [d2] or y2 (see 12b1).
 - 12c) Notation for Square-1:
-    - 12c1) Moves are applied with the smallest slice in middle layer on left side of front face.
+    - 12c1) Moves are applied with the smallest slice of the middle layer on left side of front face.
     - 12c2) (x,y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise.
     - 12c3) "/" means: turn the right half of the puzzle 180 degrees.
 - 12d) Notation for Megaminx (scrambling notation only):
@@ -276,14 +276,14 @@
     - 12d2c) Clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R++ (vertical slices), D++ (horizontal slices).
     - 12d2d) Counter clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R-- (vertical slices), D-- (horizontal slices).
 - 12e) Notation for Pyraminx:
-    - 12e1) Moves are applied with the bottom face completely horizontal and the front face facing to the person who holds the Pyraminx.
+    - 12e1) The puzzle is held with the bottom face completely horizontal and the front face facing the person who holds the Pyraminx.
     - 12e2) Clockwise, 120 degrees: U (upper 2 layers), L (left 2 layers), R (right 2 layers), B (back 2 layers), u (upper vertex), l (left vertex), r (right vertex), b (back vertex).
     - 12e3) Counter clockwise, 120 degrees: U' (upper 2 layers), L' (left 2 layers), R' (right 2 layers), B' (back 2 layers), u' (upper vertex), l' (left vertex), r' (right vertex), b' (back vertex).
 - 12g) Notation for Clock :
-    - 12g1) The puzzle must be held on either side with twelve on top
+    - 12g1) The puzzle is held with twelve on top, and either side in front.
     - 12g2) Move pins up: UR (top-right), DR (bottom-right), DL (bottom-left), UL (top-left), U (both top), R (both right), D (both bottom), L (both left), ALL (all).
     - 12g3) Turn a wheel next to an up-position pin and move all pins down afterwards: x+ (x clockwise turns), x- (x counter clockwise turns).
-    - 12g4) Turn around the puzzle so that twelve is still on top and move all pins down: y2
+    - 12g4) Turn around the puzzle so that twelve is still on top, and then move all pins down: y2
 
 
 ## Article A: Speed Solving
