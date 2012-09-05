@@ -51,7 +51,7 @@
 - 2f) Competitors must obey venue rules and conduct themselves in a manner considerate of others.
 - 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
 - 2h) Competitors shall be fully dressed while in the competition venue. At the discretion of the Delegate, competitors may be disqualified for inappropriate clothing.
-- 2i) While competing, competitors must not use sound or other electronic equipment (e.g. cell phones, MP3 players, dictaphones, or additional lighting).
+- 2i) While competing, competitors must not use sound or other electronic equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting).
 - 2j) The WCA Delegate may disqualify a competitor who fails arrive in time for a round of any event.
 - 2k) A competitor may be disqualified from a competition by the WCA Delegate if the competitor:
     - 2k1) Fails to show up in time for registration for the competition.
@@ -85,7 +85,7 @@
 - 3f) Stickers/tiles/textures/paint must not be thicker than 1.5 mm, or the generally available thickness for non-cube puzzles.
 - 3g) Puzzles may be refined internally by sanding or applying any form of lubricant.
 - 3h) Modifications that enhance the basic concept of a puzzle are not permitted.
-- 3i) "Pillowed" and other modified versions of puzzles are permitted if and only if the modification does not make any additional information available to the competitor (e.g. identity of faces). as compared to a non-pillowed version of the same puzzle. This is subject to the following exceptions and clarifications:
+- 3i) "Pillowed" and other modified versions of puzzles are permitted if and only if the modification does not make any additional information available to the competitor (e.g. identity of pieces). as compared to a non-pillowed version of the same puzzle. This is subject to the following exceptions and clarifications:
     - 3i1) Exception to 3i: Pillowed 7x7x7 cubes are permitted.
     - 3i2) "Stickerless" cubes, and other cubes whose face colours are visible inside the cube, are not permitted.
 - 3j) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
@@ -167,7 +167,7 @@
     - 9e1) The decision to add or remove an event is made by the WCA Board, based on feedback from the WCA delegates and the community at large.
 - 9f) The results of a round are measured as follows:
     - 9f1) All timed results, averages, and means under 10 minutes are measured and rounded down to the nearest hundredth of a second.
-    - 9f2) All timed results, averages, and means over 10 minutes are measured and rounded to the nearest second (x.4 becomes x, x.5 becomes x+1).
+    - 9f2) All timed results, averages, and means over 10 minutes are measured and rounded to the nearest second (e.g. x.4 becomes x, x.5 becomes x+1).
     - 9f4) The result of an attempt is recorded as DNF (Did Not Finish) if the attempt is disqualified or unfinished.
     - 9f5) The result of an attempt is recorded as DNS (Did Not Start) if a competitor declines an attempt during a round.
     - 9f6) For 'Best of X' rounds, competitors are each allotted X attempts. The best result of these attempts shall count for the competitor's ranking in the round.
@@ -218,7 +218,7 @@
 - 10c) Puzzles may be in any orientation at the end of the attempt.
 - 10d) All pieces of a puzzle must be fully attached to the puzzle in their required positions. Exceptions: see Article 5.
 - 10e) A puzzle is solved when all face colours are reassembled and all parts are aligned within the limits specified below:
-    - 10e1) For each two adjacent parts (e.g. two parallel adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in Regulation 10f, the puzzle shall be considered to require one additional move to solve (see "Block Turn Metric" in Article 12).
+    - 10e1) For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in Regulation 10f, the puzzle shall be considered to require one additional move to solve (see "Block Turn Metric" in Article 12).
     - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle shall be considered solved without penalty.
     - 10e3) If one move is required, the puzzle shall be considered solved with a penalty of 2 seconds.
     - 10e4) If more than one move is required, the attempt is ruled DNF.
@@ -411,7 +411,7 @@
     - E2b) The competitor is allotted a total of 60 minutes to devise a solution.
     - E2b1) A judge announces the remaining time when 5 minutes remain, and call 'STOP' at 60 minutes.
     - E2c) At the end of the 60 minutes the competitor must give the judge a legibly written solution, using the notation defined for Block Turn Metric (described in Article 12a). Penalty: disqualification of the attempt.
-    - E2d) The length of the solution shall be calculated in Block Turn Metric (described in Article 12a).
+    - E2d) The length of the solution shall be calculated in Block Turn Metric (see Article 12a).
     - E2e) The solution of the competitor must not be directly derived from any part of the scrambling algorithm. Penalty: disqualification of the attempt.
     - E2e1) The WCA Delegate may ask the competitor must to explain the purpose of each move in his solution, irrespective of scrambling algorithm. The WCA Delegate shall determine the validity of the solution.
 - E3) The competitor may use the following objects during the solve. Penalty for using unauthorised objects: disqualification of the attempt.
@@ -448,7 +448,7 @@
     - H1a2) A competitor's requested number of puzzles must not be disclosed until the start of the attempt.
     - H1b) A competitor is allotted 10 minutes times the number of puzzles in the attempt, up to a maximum of 60 minutes. The time shall be measured with a stopwatch.
     - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge attempt shall stop the competitor.
-    - H1d) Time penalties for each puzzle of the attempt are additive (e.g. if a competitor attempts 10 cubes, finishes with a time of 59:57, and has two time penalties, the final recorded time is 59:57 + 2*2 = 60:01.).
+    - H1d) Time penalties for each puzzle of the attempt are additive (e.g. if a competitor attempts 10 cubes, finishes with a time of 59:57, and has two time penalties, the final recorded time is 59:57 + 2*2 = 60:01).
 
 
 ## Article Z: Optional Regulations

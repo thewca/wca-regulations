@@ -14,7 +14,7 @@
 - 2a1) Description
     - 2a1a) The WCA Board (the Board) is the governing body of the WCA. It is the highest representative of the WCA, and is responsible for the organisation, well-being, and mission of the WCA. All official action and business of the WCA is conducted under the approval of the Board. The Board provides the final decision making in all matters, except where otherwise prescribed in this Constitution. Members of the Board are considered representatives of the WCA.
     - 2a2) Membership
-    - 2a2a) The Board shall consist of 3-7 members. The Board members should each represent a significant portion of the world (e.g. Americas, Europe, Asia, etc.).
+    - 2a2a) The Board shall consist of 3-7 members. The Board members should each represent a significant portion of the world (e.g. Americas, Europe, Asia).
     - 2a2b) Members of The Board shall be appointed by a unanimous vote of existing members of the Board. WCA Board membership shall be limited to an aggregated ten year time period. Members serve until they either voluntarily step down, are removed by a supermajority ((2/3)+%) vote by the existing Board members, or serve their term to its limit.
     - 2a2c) If and only if the Board is vacated by all existing members, a new member shall be elected to the Board by a supermajority vote from the WCA Delegates.
     - 2a3) Duties
@@ -44,9 +44,9 @@
     - 2b2c) Members of the IAC serve at the discretion of the Board and Chairman. The Board and Chairman have the sole authority to appoint and remove members from the IAC.
 - 2b3) Duties
     - 2b3a) The duties of the IAC are to:
-    - 2b3a1) Perform independent investigations in cases involving alleged violations of the WCA Constitution, Regulations, mission, or spirit;
-    - 2b3a2) Conduct open and transparent investigations, except where limited by law and/or discretion (e.g. information pertaining to minors);
-    - 2b3a3) Advise and provide recommendations to WCA Board and WCA Regulations Committee on final rulings and decisions based on the results of its investigations;
+    - 2b3a1) Perform independent investigations in cases involving alleged violations of the WCA Constitution, Regulations, mission, or spirit.
+    - 2b3a2) Conduct open and transparent investigations, except where limited by law and/or discretion (e.g. information pertaining to minors).
+    - 2b3a3) Advise and provide recommendations to WCA Board and WCA Regulations Committee on final rulings and decisions based on the results of its investigations.
     - 2b3a4) Publish (with discretion) accounts of investigations and incidents in the WCA Incidents Log.
     - 2b3b) IAC investigations are initiated by request of the Board. Individual members of the WCA community may also approach the IAC with concerns about violations of WCA Regulations or the spirit of the WCA, or if they disagree with a decision made by a WCA Delegate or the WCA Board.
 
@@ -97,10 +97,10 @@
     - 2e2b) Members should be familiar with the technologies used for WCA results submission and other website/database maintenance tasks, and should be willing and able to devote time on a weekly basis to posting competition results.
 - 2e3) Duties
     - 2e3a) The duties of the Results Team are to:
-    - 2e3a1) Announce new competitions on WCA website, subject to WCA Board's approval;
-    - 2e3a2) Receive and post results from WCA competitions to the WCA website and results database in a timely fashion, no later than one week after the competition (subject to acceptable submissions from Delegates);
-    - 2e3a3) Make corrections to results of posted competitions, as requested by WCA Delegates and/or Board;
-    - 2e3a4) Check results for violations of WCA Regulations;
+    - 2e3a1) Announce new competitions on WCA website, subject to WCA Board's approval.
+    - 2e3a2) Receive and post results from WCA competitions to the WCA website and results database in a timely fashion, no later than one week after the competition (subject to acceptable submissions from Delegates).
+    - 2e3a3) Make corrections to results of posted competitions, as requested by WCA Delegates and/or Board.
+    - 2e3a4) Check results for violations of WCA Regulations.
     - 2e3a5) Report any irregularities in the results to the WCA Board.
 
 
@@ -150,9 +150,9 @@
 - 3c2) Policies and procedures
     - 3c2a) Stewardship
     - 3c2a1) Incident Reports shall be submitted to the log in a (form prescribed by the WRC) by the WCA representative(s) most knowledgeable about the incident.
-    - 3c2a2) The WRC shall keep the Incidents Log up to date and ensure it contains all significant WCA incidents. The WRC has full responsibility and power to add or edit entries in the Incidents Log, as well as limit the extent of information published and available to the public in the log (e.g. names of minors or other sensitive details or confidential information).
+    - 3c2a2) The WRC shall keep the Incidents Log up to date and ensure it contains all significant WCA incidents. The WRC has full responsibility and power to add or edit entries in the Incidents Log, as well as limit the extent of information published and available to the public in the log (e.g. names of minors, sensitive details, confidential information).
     - 3c2b) Incidents
-    - 3c2b1) The Board and the WRC shall be informed of all incidents. Incidents may be investigated by the IAC at the Board’s request..
+    - 3c2b1) The Board and the WRC shall be informed of all incidents. Incidents may be investigated by the IAC at the Board’s request.
     - 3c2b2) Incidents noted by Delegates must be included in submitted delegate reports to the Board. Incidents may also be submitted to the Board for investigation by any member of the WCA community.
     - 3c2b3) Any incidents in the Incidents Log may be accompanied by an official announcement about the incident by the Board which includes descriptions of the incident, its circumstances, and its resolution.
 
@@ -165,8 +165,8 @@
     - 3d1a3) Uses a sufficiently robust source of randomness;
     - 3d1a4) Makes a reasonable effort to prevent unwarranted or unauthorised access to generated scrambles;
     - 3d1a5) Is relatively user-friendly and time efficient;
-    - 3d1a6) Produces scrambles that are easy to archive and publish in a digital format (e.g. plain text scrambles or PDF files of scramble printouts).
-    - 3d1b) Scramblers should be able to run offline and are recommended to be a single unified program with the capability to generate scrambles for all official events (as opposed to individual scramblers for individual events or puzzles).
+    - 3d1a6) Produces scrambles that are easy to archive and publish in a digital format (e.g. plain text scrambles, PDF files).
+    - 3d1b) Scramblers should be able to run offline and should be a single unified program with the capability to generate scrambles for all official events.
 - 3d2) Policies and procedures
     - 3d2a) Stewardship
     - 3d2a1) The WRC is responsible for maintaining a set of official scramblers and making the scramblers available for use and/or download.
