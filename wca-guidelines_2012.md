@@ -41,6 +41,23 @@
     - B1b2) [SEPARATE] Blindfolds should be checked by the WCA Delegate before use in the competition.
 
 10f) [CORRESPONDING] The misalignment limits are selected so that they provide a natural cutoff between one state of a puzzle (without penalty) and a state one move away.
+10f) Examples of judging misalignments
+
+Solved = no penalty
+Misalignment <= 45Â° Solved, with penalty
+Only 2 adjacent parts misaligned > 45Â° Not solved
+2 misalignments > 45Â°
+
+Solved, with penalty
+1 misalignment > 45Â° Solved = no penalty
+All misalignments <= 45Â° Solved = no penalty
+Misalignment <= 45Â°
+
+Not solved
+2 misalignments > 45Â° Solved = no penalty
+All misalignments <= 45Â° Solved, with penalty
+1 misalignment > 45Â°
+
 
 11e) [CORRESPONDING] Because an appeal may not be successful, the competitor may choose to keep the timer running and continue the solve while appealing it.
     - 11e1) [CORRSPONDING]

@@ -52,7 +52,7 @@
 - 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
 - 2h) Competitors shall be fully dressed while in the competition venue. At the discretion of the Delegate, competitors may be disqualified for inappropriate clothing.
     - 2h1) Exception: Competitors may be barefoot if 3x3x3 Feet Solving is being held at the competition.
-- 2i) While competing, competitors must not use sound  or other electronic equipment (e.g. cell phones, MP3 players, dictaphones, or additional lighting).
+- 2i) While competing, competitors must not use sound or other electronic equipment (e.g. cell phones, MP3 players, dictaphones, or additional lighting).
 - 2j) The WCA Delegate may disqualify a competitor who fails arrive in time for a round of any event.
 - 2k) A competitor may be disqualified from a competition by the WCA Delegate if:
     - 2k1) The competitor fails to show up in time for registration for the competition.
@@ -78,7 +78,7 @@
 - 3a) Competitors must provide their own puzzles for the competition. Competitors may borrow puzzles from other competitors.
     - 3a1) Competitors must be present and ready to compete when they are called to compete for a round. Penalty: disqualification from the event.
 - 3b) Puzzles must be in fully operational, such that normal scrambling is possible.
-- 3c) Polyhedral puzzles must use a colour scheme with one colour per face in the solved state.  All puzzle variations must have moves, positions and solutions functionally identical to the original puzzle.
+- 3c) Polyhedral puzzles must use a colour scheme with one colour per face in the solved state. All puzzle variations must have moves, positions and solutions functionally identical to the original puzzle.
 - 3d) Puzzles must have coloured stickers, coloured tiles, textures or painted/printed colours. Textured puzzles must have uniform texture patterns on all exposed faces.
     - 3d1) Textured puzzles must have different colours on each face to aid in scrambling and judging.
     - 3d2) Competitors with a medically documented visual disability may use textured puzzles with different textures on each face. Textures/patterns must be uniform per face.
@@ -102,9 +102,9 @@
 - 4a) A scrambler must apply the scramble sequences.
 - 4b) Puzzles must be scrambled using computer-generated random scramble sequences. Scrambles must be available only to the WCA Delegate and the scrambler. Generated scrambles must not be inspected before the competition, and must not be filtered or selected for in any way by the WCA Delegate.
 - 4d) Scrambling orientation
-    - Cube puzzles and Megaminx must be scrambled with the white (otherwise the lightest colour) face on top and green (or the darkest adjacent face by default) on the front.
-    - Pyraminx must be scrambled with the yellow (or the lightest colour by default) face on bottom and green (or the darkest adjacent colour by default) on the front.
-    - Square-1 must be scrambled with the darkest colour on front (out of the 2 possible scrambling orientations).
+    - 4d1) Cube puzzles and Megaminx must be scrambled with the white (otherwise the lightest colour) face on top and green (or the darkest adjacent face by default) on the front.
+    - 4d2) Pyraminx must be scrambled with the yellow (or the lightest colour by default) face on bottom and green (or the darkest adjacent colour by default) on the front.
+    - 4d3) Square-1 must be scrambled with the darkest colour on front (out of the 2 possible scrambling orientations).
 - 4f) Competition scrambles must be generated using the current official version of the official WCA scrambling program (available via the WCA website).
 
 
@@ -127,7 +127,7 @@
 - 7c) Lighting of the competition area must be given special attention. Lighting should be neutral, such that competitors may easily differentiate among the colours on the puzzles.
 - 7e) The competition area must be smoke-free.
 - 7f) Solving Station
-    - 7f1) Definitions: 
+    - 7f1) Definitions:
     - 7f1a) Stackmat: The Speedstacks Stackmat, which includes both the timer and the associated mat.
     - 7f1b) Mat: The mat of the Stackmat.
     - 7f1c) Timer: The timer of the Stackmat.
@@ -145,7 +145,7 @@
     - 8a1) be approved by the WCA Board.
     - 8a2) follow the WCA Regulations.
     - 8a3) have a designated WCA Delegate (appointed by WCA Board) in attendance.
-    - 8a4) be announced on the WCA website at least two weeks  before the start of the competition.
+    - 8a4) be announced on the WCA website at least two weeks before the start of the competition.
     - 8a6) be publicly accessible.
     - 8a7) use the authentic Speedstacks Stackmat timer (Generation 2 or Pro) for time measurement.
     - 8a8) be open, by default, to all who wish to compete. Restrictions must be approved by the WCA Board and clearly stated on the competition website when the competition is announced.
@@ -155,22 +155,15 @@
 ## Article 9: Events
 
 - 9a) The WCA governs competitions for:
-    - Puzzles known as Rubik's puzzles.
-    - Other puzzles that are manipulated by twisting the sides, commonly known as 'twisty puzzles'.
-
+    - 9a1) Puzzles known as Rubik's puzzles.
+    - 9a2) Other puzzles that are manipulated by twisting the sides, commonly known as 'twisty puzzles'.
 - 9b) The official events and formats of the WCA are:
     - 9b1) Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Magic, Master Magic, Megaminx, Pyraminx, Square-1, Rubik's Cube: One-handed and Rubik's Cube: With Feet.
-
-      Permissible competition formats for these events are: 'Best of X' (where X is 1, 2, 3, 4, or 5), 'Average of 5', and 'Mean of 3'.
-
+    - 9b1a) Permissible competition formats for these events are: 'Best of X' (where X is 1, 2, 3, 4, or 5), 'Average of 5', and 'Mean of 3'.
     - 9b2) 6x6x6 Cube and 7x7x7 Cube.
-
-      Permissible competition formats for these events are: 'Best of X' (where X is 1, 2, 3, 4, or 5) and 'Mean of 3'.
-
+    - 9b2a) Permissible competition formats for these events are: 'Best of X' (where X is 1, 2, 3, 4, or 5) and 'Mean of 3'.
     - 9b3) Rubik's Cube: Fewest moves, Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded and Rubik's Cube: Multiple Blindfolded.
-
-      Permissible competition formats for these events are: 'Best of X' (where X is 1, 2, 3, 4, or 5).
-
+    - 9b3a) Permissible competition formats for these events are: 'Best of X' (where X is 1, 2, 3, 4, or 5).
 - 9e) New official events may be added, and existing official events removed, each calendar year.
     - 9e1) The decision to add or remove an event is made by the WCA Board, based on feedback from the WCA delegates and the community at large.
     - 9e4) Events other than those specified in article 9b may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
@@ -186,9 +179,9 @@
     - 9f10) For 'Mean of 3' rounds competitors are allotted 3 attempts. The mean of the 3 attempts shall count for the competitor's ranking in the round.
     - 9f11) For 'Mean of 3' rounds, if the competitor scores at least one DNF or DNS, his average score for the round is DNF.
     - 9f12) For 'Best of X' rounds rankings are assessed based on the best result per competitor. The following shall be used to compare results:
-      - 9f12a) "Better" is defined as the shorter recorded time.
-      - 9f12b) For Rubik's Cube: Fewest Moves Solving, "better" is defined as the shorter solution length.
-      - 9f12c) For Rubik's Cube: Multiple Blindfolded, rankings are assessed based on number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, the result is disqualified. If competitors achieve the same result, rankings shall be assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings shall be assessed based on the number of puzzles the competitors fail to solve, where fewer unsolved puzzles is better.
+    - 9f12a) "Better" is defined as the shorter recorded time.
+    - 9f12b) For Rubik's Cube: Fewest Moves Solving, "better" is defined as the shorter solution length.
+    - 9f12c) For Rubik's Cube: Multiple Blindfolded, rankings are assessed based on number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, the result is disqualified. If competitors achieve the same result, rankings shall be assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings shall be assessed based on the number of puzzles the competitors fail to solve, where fewer unsolved puzzles is better.
     - 9f13) For 'Mean of 3' and 'Average of X' rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the shorter recorded time.
     - 9f14) For 'Mean of 3' and 'Average of X' rounds where two or more competitors achieve identical average/mean results, rankings are assessed based on the best result per competitor, where "better" is defined as the shorter recorded time.
     - 9f15) Competitors who achieve the same result in a round receive and identical ranking for the round.
@@ -212,10 +205,10 @@
     - 9p3) If a qualifying competitor withdraws from a round, he may be replaced by the best ranked competitor below the cutoff from the preceeding round.
 - 9r) Any qualification round must be held before the first round of the event.
     - 9r1) When announcing an event, the organisation team must include:
-        - the number of competitors competing in the first round of the event
-        - the maximum number of competitors permitted in the qualification round of the event, and the number of said competitors who will proceed to the first round
-        - the average/mean time or single solve time, achieved in previous competition, required to qualify directly for the first round of the event
-        - the latest permitted date used to determine the qualifying average/mean time or single solve time on the WCA rankings.
+    - 9r1a) the number of competitors competing in the first round of the event
+    - 9r1b) the maximum number of competitors permitted in the qualification round of the event, and the number of said competitors who will proceed to the first round
+    - 9r1c) the average/mean time or single solve time, achieved in previous competition, required to qualify directly for the first round of the event
+    - 9r1d) the latest permitted date used to determine the qualifying average/mean time or single solve time on the WCA rankings.
     - 9r2) All competitors of an event who have not directly qualified for the first round of the event must compete in the qualification round in order to participate in the first round.
     - 9r3) A qualification round may be added to accommodate newly registered competitors, and/or the maximum number of competitors in the qualification round or first round of an event may be increased. These changes must be made at least two weeks before the competition.
 - 9s) Each round of each event must have a time limit. If a competitor does not solve within the time limit, the judge may terminate and disqualify the attempt. The The competitor may be allowed to continue the round, at the discretion of the WCA delegate.
@@ -232,28 +225,10 @@
     - 10e3) If one move is required, the puzzle shall be considered solved with a penalty of 2 seconds.
     - 10e4) If more than one move is required, the attempt is ruled DNF.
 - 10f) Limits of acceptable misalignment for puzzles:
-    - cube-shaped puzzles: =< 45 degrees
-    - Megaminx: =< 36 degrees
-    - Pyraminx: =< 60 degrees
-    - Square-1: =< 45 degrees (U/D) or 90 degrees (/)
-
-Examples:
-
-Solved = no penalty
-Misalignment <= 45Â° Solved, with penalty
-Only 2 adjacent parts misaligned > 45Â° Not solved
-2 misalignments > 45Â°
-
-Solved, with penalty
-1 misalignment > 45Â° Solved = no penalty
-All misalignments <= 45Â° Solved = no penalty
-Misalignment <= 45Â°
-
-Not solved
-2 misalignments > 45Â° Solved = no penalty
-All misalignments <= 45Â° Solved, with penalty
-1 misalignment > 45Â°
-
+    - 10f1) cube-shaped puzzles: =< 45 degrees
+    - 10f2) Megaminx: =< 36 degrees
+    - 10f3) Pyraminx: =< 60 degrees
+    - 10f4) Square-1: =< 45 degrees (U/D) or 90 degrees (/)
 - 10g) For Magic (and similar puzzles) the minimum acceptable angle between adjacent tiles is 135Â°.
     - 10g1) If at most two pairs of adjacent tiles are at a smaller angle, and the puzzle is otherwise solved, the puzzle shall be considered solved with a penalty of 2 seconds. For all other cases, the result shall be recorded as DNF.
 - 10h) Puzzles not specified in this article shall be adjudicated according to the solved state as defined by the generally accepted goal of the puzzle, applying where relevant the WCA Regulations of the Rubik's cube's solved state.
@@ -268,24 +243,24 @@ All misalignments <= 45Â° Solved, with penalty
 - 11b) Should an incident occur during an event, the WCA Delegate must determine an impartial and appropriate course of action.
 - 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make his decision based on fair sportsmanship.
 - 11e) Should an incident occur during an event, the WCA Delegate may award a competitor another attempt, replacing the attempt during which the incident occurred. The competitor must appeal at the time of the incident, before completing the original attempt, to be eligible for another attempt. An appeal does not guarantee the competitor an extra attempt.
-  - 11e1) Scrambles for all extra attempts must be generated with the current official version of the official WCA scramble program.
+    - 11e1) Scrambles for all extra attempts must be generated with the current official version of the official WCA scramble program.
 - 11f) The WCA Delegate must not support his decisions with video or photographic analysis. A competitor may, however, submit video or photographic evidence supporting an appeal to the WCA Board.
 
 
 ## Article 12: Notation
 
 - 12a) Notation for Rubik's Cube and similar puzzles:
-- Face Moves:
-    - 12a1) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
-    - 12a2) Counter clockwise, 90 degrees: F', B', R', L', U', D' (see 12a1).
-    - 12a3) 180 degrees: F2, B2, R2, L2, U2, D2 (see 12a1).
-- Multiple Outer Slice Moves (outer slice plus adjacent inner slices; n is defined as total number of slices to move; n may be omitted for two slices):
-    - 12a5) Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw. (see 12a1).
-    - 12a6) Counter clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw' (see 12a5).
-    - 12a7) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2 (see 12a5).
-- Block Turn Metric (BTM) is defined as:
-    - 12a17) Each move of the categories Face Moves and Multiple Outer Slice Moves is counted as 1 move.
-    - 12a19) Each rotation is counted as 0 moves.
+- 12a1) Face Moves:
+    - 12a1a) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
+    - 12a1b) Counter clockwise, 90 degrees: F', B', R', L', U', D' (see 12a1).
+    - 12a1c) 180 degrees: F2, B2, R2, L2, U2, D2 (see 12a1).
+- 12a2) Multiple Outer Slice Moves (outer slice plus adjacent inner slices; n is defined as total number of slices to move; n may be omitted for two slices):
+    - 12a2a) Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw. (see 12a1).
+    - 12a2b) Counter clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw' (see 12a5).
+    - 12a2c) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2 (see 12a5).
+- 12a3) Block Turn Metric (BTM) is defined as:
+    - 12a3a) Each move of the categories Face Moves and Multiple Outer Slice Moves is counted as 1 move.
+    - 12a3b) Each rotation is counted as 0 moves.
 - 12b) Rotations for all cube shaped puzzles:
     - 12b1) Clockwise, 90 degrees: [f] or z, [b] or z', [r] or x, [l] or x', [u] or y, [d] or y'. (see 12a1).
     - 12b2) Counter clockwise, 90 degrees: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y (see 12b1).
@@ -319,8 +294,8 @@ All misalignments <= 45Â° Solved, with penalty
     - A1a2) Cumulative time limits may be enforced (e.g. 3 attempts with a cumulative time limit of 20 minutes). The time elapsed in a "DNF" result counts towards the cumulative time limit.
     - A1a3) For any round, time limits must be announced before the round begins, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who shall carefully consider the fairness of the change.
     - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
-      - A1b1) Simultaneous use of a Stackmat is optional.
-      - A1b2) If the Stackmat time is available, it is the result; otherwise the stopwatch time is the result. 
+    - A1b1) Simultaneous use of a Stackmat is optional.
+    - A1b2) If the Stackmat time is available, it is the result; otherwise the stopwatch time is the result.
     - A1c) A competitor participating in an event must be able to fulfill the event's requirements. A competitor competing with expectation of a "DNF" result may be disqualified from the event at the discretion of the Delegate.
 - A2) Scrambling
     - A2a) At the beginning of the event, the competitor submits his puzzle, in its solved state, to the scrambler and waits in the competitors area until he is called to compete.
@@ -399,7 +374,6 @@ All misalignments <= 45Â° Solved, with penalty
     - B4c1) In all cases, the competitor must wear the blindfold such that his view of the puzzle would still be clearly blocked if the opaque object were not in the way.
     - B4c2) By default, the judge should place the object (e.g. a sheet of paper or cardboard) between the competitor and the puzzle while the competitor is wearing the blindfold.
     - B4c3) If the judge and competitor agree beforehand, the competitor may choose to place the puzzle behind a suitable object himself (e.g. a music stand, the surface of the table) while solving.
-
     - B4d) The competitor must not look at the puzzle at any point during the solve. Penalty: disqualification of the attempt.
     - B4e) Until he applies the first move to the puzzle, the competitor may remove and don the blindfold at will.
 - B5) Ending the solve
