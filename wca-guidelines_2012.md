@@ -18,9 +18,9 @@ The WCA Guidelines supplement the WCA Regulations. Guidelines are numbered in co
 - 2c) [CORRESPONDING] Competitors must not provide intentionally misleading information, and returning competitors should provide information consistent with past information (e.g. exact name and WCA ID).
 - 2d) [CORRESPONDING] Date of birth and contact information should be especially secured.
 - 2d [CORRESPONDING] If a third party (e.g. journalist) asks the organisation team to be put in contact with any competitors, the competitor should first be asked for consent.
+- 2h1) [CORRESPONDING] Competitors may be barefoot for Solving With Feet.
 
     - 3a1) [CORRESPONDING] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit.
-
 
 ## Article 3: Puzzles
 

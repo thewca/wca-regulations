@@ -51,7 +51,6 @@
 - 2f) Competitors must obey venue rules and conduct themselves in a manner considerate of others.
 - 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
 - 2h) Competitors shall be fully dressed while in the competition venue. At the discretion of the Delegate, competitors may be disqualified for inappropriate clothing.
-    - 2h1) Exception: Competitors may be barefoot if 3x3x3 Feet Solving is being held at the competition.
 - 2i) While competing, competitors must not use sound or other electronic equipment (e.g. cell phones, MP3 players, dictaphones, or additional lighting).
 - 2j) The WCA Delegate may disqualify a competitor who fails arrive in time for a round of any event.
 - 2k) A competitor may be disqualified from a competition by the WCA Delegate if the competitor:
@@ -133,7 +132,7 @@
     - 7f1c) Timer: The timer of the Stackmat.
     - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
     - 7f2) The timer must be attached to the mat and placed directly on the table, desk or other suitable console, with the timer on the side of the mat nearest to the competitor. The mat must be placed flush against the surface of the table.
-    - 7f2a) Exception: In Feet Solving the timer must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
+    - 7f2a) Exception: In Solving With Feet the timer must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
 - 7h) The competition area must have a competitors area.
     - 7h1) The organisation team may require that a competitor who have been called to compete must remain within the competitors area until he has completed all of his attempts for the round.
     - 7h3) Competitors in the competitors area must not communicate with each other about the scrambled positions of the puzzles of the round in progress. Penalty: disqualification of competitor at the discretion of the WCA Delegate.
@@ -157,12 +156,12 @@
 - 9a) The WCA governs competitions for:
     - 9a1) Puzzles known as Rubik's puzzles.
     - 9a2) Other puzzles that are manipulated by twisting the sides, commonly known as 'twisty puzzles'.
-- 9b) The official events and formats of the WCA are:
-    - 9b1) Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Magic, Master Magic, Megaminx, Pyraminx, Square-1, Rubik's Cube: One-handed and Rubik's Cube: With Feet.
+- 9b) The official puzzles and event formats of the WCA are:
+    - 9b1) Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Magic, Master Magic, Megaminx, Pyraminx, Square-1, Rubik's Cube: One-Handed and Rubik's Cube: With Feet.
     - 9b1a) Competition formats for these events are: 'Best of X' (where X is 1, 2, 3, 4, or 5), 'Average of 5', and 'Mean of 3'.
     - 9b2) 6x6x6 Cube and 7x7x7 Cube.
     - 9b2a) Competition formats for these events are: 'Best of X' (where X is 1, 2, 3, 4, or 5) and 'Mean of 3'.
-    - 9b3) Rubik's Cube: Fewest moves, Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded and Rubik's Cube: Multiple Blindfolded.
+    - 9b3) Rubik's Cube: Fewest Moves, Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded and Rubik's Cube: Multiple Blindfolded.
     - 9b3a) Competition formats for these events are: 'Best of X' (where X is 1, 2, 3, 4, or 5).
 - 9e) New official events may be added, and existing official events removed, each calendar year.
     - 9e1) The decision to add or remove an event is made by the WCA Board, based on feedback from the WCA delegates and the community at large.
@@ -381,7 +380,7 @@
     - B5c) The competitor may remove the blindfold before he stops the timer. He must not apply any moves to the puzzle after the blindfold is removed. Penalty: disqualification of the attempt.
 
 
-## Article C: One-handed Solving
+## Article C: One-Handed Solving
 
 - C1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
     - C1a) During the solve the competitor must use only one hand and the surface. Penalty: disqualification of the attempt.
