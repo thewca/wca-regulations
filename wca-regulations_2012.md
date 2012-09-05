@@ -6,12 +6,12 @@
 - 1a) A competition must include a WCA Delegate and an organisation team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
 - 1b) The organisation team of a competition is responsible for:
     - 1b1) Event logistics before and during the competition.
-    - 1b2) Making a copy of the WCA Regulations available at the competition (either print and electronic documents are acceptable).
-- 1c) The WCA Delegate may delegate responsibilities to other members of the organization team, but is ultimately accountable for how these responsibilities are carried out. The WCA Delegate for a competition is responsible for:
+    - 1b2) Making a copy of the WCA Regulations available at the competition (either print or electronic documents are acceptable).
+- 1c) The WCA Delegate may delegate responsibilities to other members of the organisation team, but is ultimately accountable for how these responsibilities are carried out. The WCA Delegate for a competition is responsible for:
     - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the competition date.
     - 1c3) Sending the competition results to the WCA Results Team.
     - 1c3a) All scrambles used during a competition must be sent with the results of the competition.
-    - 1c3b) Scrambles must be labeled with the events, rounds, and heats for which they were used. If there are multiple groups, it not necessary to identify which competitor was in which heats.
+    - 1c3b) Scrambles must be labelled with the events, rounds, and heats for which they were used. If there are multiple groups, it not necessary to identify which competitor was in which heats.
     - 1c4) Sending corrections to the competition results to the WCA Board.
     - 1c5) Advising the other officials where necessary.
     - 1c6) Approving all events and event formats of a competition, before the competition starts, and if changes are required during the competition.
@@ -42,11 +42,11 @@
     - 2a2) meets the competition requirements, which must be clearly announced before the competition;
     - 2a3) is not suspended by WCA Board.
 - 2b) Competitors below the age of 18 must obtain consent from their parent(s)/guardian(s) to register and compete.
-- 2c) Competitors must provide all information required by the organization team (minimally comprising: name, country, date of birth, gender, contact information, selected events) for their registration to be considered complete.
+- 2c) Competitors must provide all information required by the organisation team (minimally comprising: name, country, date of birth, gender, contact information, selected events) for their registration to be considered complete.
     - 2c1) A competitor shall not be eligible to compete without a completed registration, as determined by the organisation team.
-- 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and may only be disclosed to outside organizations/persons with the consent of the competitor.
+- 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and may only be disclosed to outside organisations/persons with the consent of the competitor.
 - 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship standing by means of documents (e.g. a passport). If a competitor is found ineligible to represent the country under which they have registered, the competitor may be retroactively disqualified and/or suspended at the discretion of the WCA Board.
-    - 2e1a) The eligible countries are defined by Wikipedia List of sovereign states ("Internationally recognized sovereign states" and "Other states").
+    - 2e1a) The eligible countries are defined by Wikipedia List of sovereign states ("Internationally recognised sovereign states" and "Other states").
     - 2e2) Competitors with updates to their citizenship status may change their country of representation in their first competition of a calendar year.
 - 2f) Competitors must obey venue rules and conduct themselves in a manner considerate of others.
 - 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
@@ -82,7 +82,7 @@
 - 3d) Puzzles must have coloured stickers, coloured tiles, textures or painted/printed colours. Textured puzzles must have uniform texture patterns on all exposed faces.
     - 3d1) Textured puzzles must have different colours on each face to aid in scrambling and judging.
     - 3d2) Competitors with a medically documented visual disability may use textured puzzles with different textures on each face. Textures/patterns must be uniform per face.
-- 3e) The colours of puzzles must be solid and of uniform shade per face; each colour on the puzzle must be clearly distinct from other colours thereupon.
+- 3e) The colours of puzzles must be solid and of uniform shade per face; each colour on the puzzle must be clearly distinct from the other colours.
 - 3f) Stickers/tiles/textures/paint must not be thicker than 1.5 mm, or the generally available thickness for non-cube puzzles.
 - 3g) Puzzles may be refined internally by sanding or applying any form of lubricant.
 - 3h) Modifications that enhance the basic concept of a puzzle are not permitted.
@@ -110,20 +110,20 @@
 
 ## Article 5: Puzzle Defects
 
-- 5a) Examples of puzzle defects include: popped pieces; broken wires; and detached screws,caps, and stickers.
+- 5a) Examples of puzzle defects include: popped pieces; broken wires; and detached screws, caps, and stickers.
 - 5b) If a puzzle defect occurs during the attempt, the competitor may choose to repair the defect and continue the attempt, or to stop the attempt.
     - 5b1) If a competitor chooses to repair the puzzle, he must repair only the defective pieces. Tools and/or pieces of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the attempt.
-    - 5b2) Any repair to a puzzle must not give the competitor any advantage in solving the puzzle. Penalty: disqualification of the attempt.
+    - 5b2) Any repairs to a puzzle must not give the competitor any advantage in solving the puzzle. Penalty: disqualification of the attempt.
     - 5b3) If, after repairing the puzzle but before the end of the attempt, the competitor finds that the puzzle is unsolvable, he may disassemble and assemble a maximum of 4 pieces to make the puzzle solvable.
-    - 5b4) In blindfolded events, a puzzle defect may only be repaired during the attempt, and all repairs must be performed blindfolded. Penalty: disqualification of the attempt.
-    - 5b5) If parts of the puzzle are still defective or not fully placed at the end of the attempt, the result shall be recorded as the worst state obtainable via reassembly of the puzzle.
+    - 5b4) During blindfolded events, a puzzle defect may only be repaired during the attempt, and all repairs must be performed blindfolded. Penalty: disqualification of the attempt.
+    - 5b5) If parts of the puzzle are still defective or not fully placed at the end of the attempt, the result shall be recorded as the worst state obtainable by reassembling the puzzle.
 - 5c) If a competitor has a puzzle defect, this does not give him the right to an extra attempt.
 
 
 ## Article 7: Environment
 
 - 7a) Competitions may be held at any location, indoors or outdoors.
-- 7b) Spectators must remain at least 1.5 meters away from the competition stage when it is in use.
+- 7b) Spectators must remain at least 1.5 metres away from the competition stage when it is in use.
 - 7c) Lighting of the competition area must be given special attention. Lighting should be neutral, such that competitors may easily differentiate among the colours on the puzzles.
 - 7e) The competition area must be smoke-free.
 - 7f) Solving Station
@@ -135,7 +135,7 @@
     - 7f2) The timer must be attached to the mat and placed directly on the table, desk or other suitable console, with the timer on the side of the mat nearest to the competitor. The mat must be placed flush against the surface of the table.
     - 7f1) Exception: In Feet Solving the timer must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
 - 7h) The competition area must have a competitors area.
-    - 7h1) The organization team may require that a competitor who have been called to compete must remain within the competitors area until he has completed all of his attempts for the round.
+    - 7h1) The organisation team may require that a competitor who have been called to compete must remain within the competitors area until he has completed all of his attempts for the round.
     - 7h3) Competitors in the competitors area must not communicate with each other about the scrambled positions of the puzzles of the round in progress. Penalty: disqualification of competitor at the discretion of the WCA Delegate.
 
 
@@ -147,7 +147,7 @@
     - 8a3) have a designated WCA Delegate (appointed by WCA Board) in attendance.
     - 8a4) be announced on the WCA website at least two weeks before the start of the competition.
     - 8a6) be publicly accessible.
-    - 8a7) use the authentic Speedstacks Stackmat timer (Generation 2 or Pro) for time measurement.
+    - 8a7) use the authentic Speed Stacks Stackmat timer (Generation 2 or Pro) for time measurement.
     - 8a8) be open, by default, to all who wish to compete. Restrictions must be approved by the WCA Board and clearly stated on the competition website when the competition is announced.
 - 8f) If WCA Regulations are not correctly observed during a competition, the WCA Board may disqualify affected attempts.
 
@@ -170,8 +170,8 @@
 - 9f) The results of a round are measured as follows:
     - 9f1) All timed results, averages, and means under 10 minutes are measured and rounded down to the nearest hundredth of a second.
     - 9f2) All timed results, averages, and means over 10 minutes are measured and rounded to the nearest second (x.4 becomes x, x.5 becomes x+1).
-    - 9f4) The result of a attempt is recorded as DNF (Did Not Finish) if the attempt is disqualified or unfinished.
-    - 9f5) The result of a attempt is recorded as DNS (Did Not Start) if a competitor declines an attempt during a round.
+    - 9f4) The result of an attempt is recorded as DNF (Did Not Finish) if the attempt is disqualified or unfinished.
+    - 9f5) The result of an attempt is recorded as DNS (Did Not Start) if a competitor declines an attempt during a round.
     - 9f6) For 'Best of X' rounds, competitors are each allotted X attempts. The best result of these attempts shall count for the competitor's ranking in the round.
     - 9f7) For 'Best of X' rounds, a DNF or DNS is the worst possible result.
     - 9f8) For 'Average of 5' rounds, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts shall be removed, and the mean of the remaining 3 attempts shall count for the competitor's ranking in the round.
@@ -188,7 +188,7 @@
 - 9g) A Combined Round consists of two phases of attempts, where competitors advance to the second phase only if they meet a designated cutoff during the first phase.
     - 9g2) Whether a competitor proceeds to next phase of a Combined round, must be decided by ranking (best x competitors) or by result (all competitors with a best result under x) of the first phase.
 - 9i) Results of official WCA competitions must be listed on the WCA world rankings.
-    - 9i1) The WCA shall recognize the following types of regional records: national records, continental records, and world records.
+    - 9i1) The WCA shall recognise the following types of regional records: national records, continental records, and world records.
     - 9i2) Results of official WCA competitions are dated to the calendar date of the competition. Should a competition span multiple days, the results of each round are dated to the last scheduled calendar date of the round.
     - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
 - 9j) Each event must be held at most once per competition.
@@ -201,8 +201,8 @@
 - 9o) A Combined round and a Qualification round count as one round when counting the number of rounds per event.
 - 9p) If an event has multiple rounds, then:
     - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
-    - 9p2) The competitors who advance to the next round shall be determined by either a cutoff rank or a cutoff time in the preceeding elimination round. The cutoff must be specified before the preceeding elimination round begins.
-    - 9p3) If a qualifying competitor withdraws from a round, he may be replaced by the best ranked competitor below the cutoff from the preceeding round.
+    - 9p2) The competitors who advance to the next round shall be determined by either a cutoff rank or a cutoff time in the preceding elimination round. The cutoff must be specified before the preceding elimination round begins.
+    - 9p3) If a qualifying competitor withdraws from a round, he may be replaced by the best-ranked competitor below the cutoff from the preceding round.
 - 9r) Any qualification round must be held before the first round of the event.
     - 9r1) When announcing an event, the organisation team must include:
     - 9r1a) the number of competitors competing in the first round of the event
@@ -211,7 +211,7 @@
     - 9r1d) the latest permitted date used to determine the qualifying average/mean time or single solve time on the WCA rankings.
     - 9r2) All competitors of an event who have not directly qualified for the first round of the event must compete in the qualification round in order to participate in the first round.
     - 9r3) A qualification round may be added to accommodate newly registered competitors, and/or the maximum number of competitors in the qualification round or first round of an event may be increased. These changes must be made at least two weeks before the competition.
-- 9s) Each round of each event must have a time limit. If a competitor does not solve within the time limit, the judge may terminate and disqualify the attempt. The The competitor may be allowed to continue the round, at the discretion of the WCA delegate.
+- 9s) Each round of each event must have a time limit. If a competitor does not solve within the time limit, the judge may terminate and disqualify the attempt. The competitor may be allowed to continue the round, at the discretion of the WCA delegate.
 
 
 ## Article 10: Solved state
@@ -289,8 +289,8 @@
 ## Article A: Speed Solving
 
 - A1) Attempts for events categorised under Speed Solving must abide by the following procedure.
-    - A1a) The organization team may enforce time limits for attempts and/or rounds.
-    - A1a1) The default time limit per attempt is 10 minutes, though the organization team may announce a higher/lower time limit.
+    - A1a) The organisation team may enforce time limits for attempts and/or rounds.
+    - A1a1) The default time limit per attempt is 10 minutes, though the organisation team may announce a higher/lower time limit.
     - A1a2) Cumulative time limits may be enforced (e.g. 3 attempts with a cumulative time limit of 20 minutes). The time elapsed in a "DNF" result counts towards the cumulative time limit.
     - A1a3) For any round, time limits must be announced before the round begins, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who shall carefully consider the fairness of the change.
     - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
@@ -300,7 +300,7 @@
 - A2) Scrambling
     - A2a) At the beginning of the event, the competitor submits his puzzle, in its solved state, to the scrambler and waits in the competitors area until he is called to compete.
     - A2b) A scrambler scrambles the puzzle according to the regulations in Article 4.
-    - A2c) After the scrambler starts the scramble, the competitor must not see the puzzle until the the inspection phase begins.
+    - A2c) After the scrambler starts the scramble, the competitor must not see the puzzle until the inspection phase begins.
     - A2d) When taking a puzzle from the scrambler, the judge shall briefly inspect the puzzle to ensure thorough scrambling of said puzzle. The judge shall raise any concerns with the scrambler, who shall then conduct a detailed check.
     - A2e) The judge shall place the puzzle onto the mat in an arbitrary orientation and shall cover it completely. The competitor must not request a specific orientation.
 - A3) Inspection
@@ -416,7 +416,7 @@
     - E2d) The length of the solution shall be calculated in Block Turn Metric (described in Article 12a).
     - E2e) The solution of the competitor must not be directly derived from any part of the scrambling algorithm. Penalty: disqualification of the attempt.
     - E2e1) The WCA Delegate may ask the competitor must to explain the purpose of each move in his solution, irrespective of scrambling algorithm. The WCA Delegate shall determine the validity of the solution.
-- E3) The competitor may use the following objects during the solve. Penalty for using unauthorized objects: disqualification of the attempt.
+- E3) The competitor may use the following objects during the solve. Penalty for using unauthorised objects: disqualification of the attempt.
     - paper and pen (both supplied by judge)
     - 1-3 puzzles corresponding to the event (self-supplied)
     - coloured stickers (self-supplied).
@@ -432,7 +432,7 @@
 ## Article G: Magic Solving and Master Magic Solving
 
 - G1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
-    - G1a) The competitor may do at most two practice solves on the competition timer. When the judge and competitor mutually agree, the official attempts will begin. At that point, all attempts will be treated as official attempts.
+    - G1a) The competitor may do at most two practise solves on the competition timer. When the judge and competitor mutually agree, the official attempts will begin. At that point, all attempts will be treated as official attempts.
 - G2) Scrambling
     - G2a) The puzzle is not scrambled.
     - G2b) The puzzle is not covered by judge.
@@ -450,7 +450,7 @@
     - H1a2) A competitor's requested number of puzzles must not be disclosed until the start of the attempt.
     - H1b) A competitor is allotted 10 minutes times the number of puzzles in the attempt, up to a maximum of 60 minutes. The time shall be measured with a stopwatch.
     - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge attempt shall stop the competitor.
-    - H1d) Time penalties for each puzzle of the attempt are additive (e.g. if a competitor attempts 10 cubes, finishes with a time of 59:57, and is penalized two times, the final recorded time is 59:57 + 2*2 = 60:01.).
+    - H1d) Time penalties for each puzzle of the attempt are additive (e.g. if a competitor attempts 10 cubes, finishes with a time of 59:57, and has two time penalties, the final recorded time is 59:57 + 2*2 = 60:01.).
 
 
 ## Article Z: Optional Regulations
@@ -462,5 +462,5 @@ The WCA Board must approve any optional regulations for a competition.
 - Z2) The organisation team may limit the number of events per competitor.
 - Z3) The organisation team may select competitors who directly qualify for certain rounds of certain events, based on the results of specific previous
 - Z4) The organisation team may limit the number of competitors per event, on either a "first come first serve" basis, or based upon qualification times or positions in the current WCA world rankings.
-- Z5) The organisation team may prohibit competitors from participating in specfic combinations of events.
+- Z5) The organisation team may prohibit competitors from participating in specific combinations of events.
 

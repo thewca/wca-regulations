@@ -8,12 +8,12 @@ The WCA Guidelines supplement the WCA Regulations. Guidelines are numbered in co
     - 1c3) [CORRESPONDING] Results should be ready at the end of the last day of competition.
     - 1c4) [CORRESPONDING] Corrections to the results should be available within one week of the competition date.
 
-1h) [CORRESPONDING] All final rounds of all events, as well as all Fewst Moves Solving rounds, should have the same scrambles for all competitors (i.e. only 1 heat).
+1h) [CORRESPONDING] All final rounds of all events, as well as all Fewest Moves Solving rounds, should have the same scrambles for all competitors (i.e. only 1 heat).
 
 
 ## Article 2: Competitors
 
-- 2d) [CORRESPONDING] Date of birth and contact information should be especially secured. Also, Ron's policy of askinging the competitor before putting them in contact with e.g. media.
+- 2d) [CORRESPONDING] Date of birth and contact information should be especially secured. Also, Ron's policy of asking the competitor before putting them in contact with e.g. media.
 
     - 3a1) [CORRESPONDING] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit.
 
@@ -30,7 +30,7 @@ The WCA Guidelines supplement the WCA Regulations. Guidelines are numbered in co
     - 5b5) [CORRESPONDING] Example of a piece not fully placed: a 5x5x5 centre piece twisted in its spot
     - 5b5) [CORRESPONDING] Example of judging an attempt ending with a defective puzzle: A pyraminx with a detached tip may be reassembled in three states, one fully solved, and two "+2" states. A solve ending in such a position would be assigned a "+2" penalty.
 
-- 4f) The WCA Delegate should generate sufficient scrambles for the entire compeitition ahead of time, including spare scrambles for extra attempts. If he generates any additional scrambles, he must save them (see 1c3a in the Regulations).
+- 4f) The WCA Delegate should generate sufficient scrambles for the entire competition ahead of time, including spare scrambles for extra attempts. If he generates any additional scrambles, he must save them (see 1c3a in the Regulations).
 
 
 ## Article 6: Awards/prizes/honours
@@ -51,7 +51,7 @@ The WCA Guidelines supplement the WCA Regulations. Guidelines are numbered in co
 
 ## Article 8: Competitions
 
-    - 8a4) [CORRESPONDING] Changes to increase the maximum number of competitors in qualification round or first round, or to add a qualfiication round for newly registered competitors should be made at least one month before the competition.
+    - 8a4) [CORRESPONDING] Changes to increase the maximum number of competitors in qualification round or first round, or to add a qualification round for newly registered competitors should be made at least one month before the competition.
     - 8a4) [CORRESPONDING] Ideally, a competition should be announced at least one month before the competition starts.
     - 8a5) [CORRESPONDING] The competition should have at least 12 competitors.
 
@@ -89,14 +89,14 @@ All misalignments <= 45 degrees: Solved, with penalty
 ## Article 11: Incidents
 
 11e) [CORRESPONDING] Because an appeal may not be successful, the competitor may choose to keep the timer running and continue the solve while appealing it.
-    - 11e1) [CORRSPONDING]
+    - 11e1) [CORRESPONDING]
 11f) [CORRESPONDING] [NOTE: We need the board to give us a good justification for the video evidence rule.]
 
 
 ## Article A: Speed Solving
 
 A1a3) [CORRESPONDING] The organisation team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two solves in hopes of meeting a cutoff in a combined round), and that changing time limits after the beginning of the round can disadvantage some competitors unfairly.
-A6b) [CORRESPONDING] The arbitrary value of 0.06 seconds was chosen to accomodate concerns about Stackmat timers.
+A6b) [CORRESPONDING] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timers.
 
 
 ## Article D: Solving With Feet

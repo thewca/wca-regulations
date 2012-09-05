@@ -3,22 +3,22 @@
 ## Article 1: Purpose
 
 - 1a) The World Cube Association (WCA) is the official governing body of competitions and other events for Rubik’s puzzles and other twisty puzzles.
-- 1b) The mission of the World Cube Association is to organize competitions, expand the international speedsolving community and ensure fair standards and conditions for competition.
+- 1b) The mission of the World Cube Association is to organise competitions, expand the international speedsolving community and ensure fair standards and conditions for competition.
 - 1c) The spirit of the World Cube Association is to encourage people from all over the world to have fun and help each other in a friendly atmosphere and to encourage sportsmanlike behaviour.
 
 
-## Article 2: Organization
+## Article 2: Organisation
 
 ### Section A: WCA Board
 
 - 2a1) Description
-    - 2a1a) The WCA Board (the Board) is the governing body of the WCA. It is the highest representative of the WCA, and is responsible for the organization, well-being, and mission of the WCA. All official action and business of the WCA is conducted under the approval of the Board. The Board provides the final decision making in all matters, except where otherwise prescribed in this Constitution. Members of the Board are considered representatives of the WCA.
+    - 2a1a) The WCA Board (the Board) is the governing body of the WCA. It is the highest representative of the WCA, and is responsible for the organisation, well-being, and mission of the WCA. All official action and business of the WCA is conducted under the approval of the Board. The Board provides the final decision making in all matters, except where otherwise prescribed in this Constitution. Members of the Board are considered representatives of the WCA.
     - 2a2) Membership
     - 2a2a) The Board shall consist of 3-7 members. The Board members should each represent a significant portion of the world (e.g. Americas, Europe, Asia, etc.).
     - 2a2b) Members of The Board shall be appointed by a unanimous vote of existing members of the Board. WCA Board membership shall be limited to an aggregated ten year time period. Members serve until they either voluntarily step down, are removed by a supermajority ((2/3)+%) vote by the existing Board members, or serve their term to its limit.
     - 2a2c) If and only if the Board is vacated by all existing members, a new member shall be elected to the Board by a supermajority vote from the WCA Delegates.
     - 2a3) Duties
-    - 2a3a) The Board oversees the organization of the WCA. This includes such duties as:
+    - 2a3a) The Board oversees the organisation of the WCA. This includes such duties as:
     - 2a3a1) Approving competitions and submitted results of competitions;
     - 2a3a2) Appointing members of various WCA committees and WCA Delegates as needed;
     - 2a3a3) Approving updates and changes to the WCA Regulations;
@@ -26,7 +26,7 @@
     - 2a3a5) Ruling on incidents and results as needed. The board has the power to override existing regulations if necessary;
     - 2a3a8) Planning and executing the official world championships at least once every three years;
     - 2a3a9) Updating the official WCA website and/or forum in a timely manner, taking into account changes in WCA representatives and agents.
-    - 2a3b) The Board may request investigations by the Independent Advisory Committee in special cases, and may use its advice in its decision making. The Board may use any and all forms of evidence, including video and other recordings, to make its decisions.
+    - 2a3b) The Board may request investigations by the Independent Advisory Committee in special cases, and may use its advice to make decisions. The Board may use any and all forms of evidence, including video and other recordings, to make its decisions.
     - 2a3c) The Board shall have sole authority to disqualify results and/or suspend competitors from taking part in WCA events.
     - 2a3d) The Board shall have the power to appoint and revoke titles, committee memberships, and/or duties previously designated as belonging to the Board.
     - 2a3e) The Board shall ensure the financial well-being of the WCA. This includes duties as:
@@ -70,12 +70,12 @@
     - 2c3c) Receive and review proposed changes to the WCA Constitution, Regulations, and Guidelines;
     - 2c3d) Review and discuss the WCA Constitution, Regulations, and Guidelines both annually and as needed;
     - 2c3e) Screen and vote on amendments and clarifications to the WCA Constitution, Regulations, and Guidelines and submit updates to the WCA Board;
-    - 2c3f) Announce changes to WCA Regulations once they are finalized.
+    - 2c3f) Announce changes to WCA Regulations once they are finalised.
 
 ### Section D: WCA Delegates
 
 - 2d1) Description
-    - 2d1a) WCA Delegates (Delegates) are representatives of the WCA. Delegates ensure that WCA Regulations are followed at competitions. In order for a competition and its results to be recognized by the WCA, a Delegate must be present and certify that a competition has been run fulfilling all relevant WCA Regulations..
+    - 2d1a) WCA Delegates (Delegates) are representatives of the WCA. Delegates ensure that WCA Regulations are followed at competitions. In order for a competition and its results to be recognised by the WCA, a Delegate must be present and certify that a competition has been run fulfilling all relevant WCA Regulations..
 - 2d2) Membership
     - 2d2a) WCA Delegates shall be nominated by either a current Delegate or Board member. The Board shall have sole authority to appoint nominated parties as Delegates. The Board shall also have sole authority to remove Delegates. Delegates should be removed if they grossly violate the WCA mission, spirit, or provisions on any of the WCA’s official documents.
     - 2d2b) All members of the Board are also considered Delegates, and receive all privileges and responsibilities that come with Delegate status.
@@ -85,7 +85,7 @@
     - 2d3a1) Provide scrambles, ensure adherence to WCA Regulations, and make decisions on ambiguous situations during competitions;
     - 2d3a2) Note any incidents during competitions. Incidents include possible regulation violations or situations where regulations are unclear and a final ruling is debatable;
     - 2d3a3) Submit complete and properly formatted results to the Results Team;
-    - 2d3a4) Submit a competition delegate report to the WCA Board. The delegate report must include any incidents that occurred during the competition, and may also include notes on general organization of the competition;
+    - 2d3a4) Submit a competition delegate report to the WCA Board. The delegate report must include any incidents that occurred during the competition, and may also include notes on general organisation of the competition;
     - 2d3a5) Screen potential new Delegates as needed, and submit nominations for new Delegates to the WCA Board.
 
 ### Section E: WCA Results Team
@@ -94,7 +94,7 @@
     - 2e1a) The WCA Results Team (Results Team) is appointed by the WCA Board. The Results Team is responsible for general procedural tasks on the WCA end with regards to competitions.
 - 2e2) Membership
     - 2e2a) The Results Team shall be appointed by the Board. Each member remains a part of the Results Team until removed by the Board, or resignation.
-    - 2e2b) Members should be familiar with  the technologies used for WCA results submission and other website/database maintenance tasks, and should be willing and able to devote time on a weekly basis to posting competition results.
+    - 2e2b) Members should be familiar with the technologies used for WCA results submission and other website/database maintenance tasks, and should be willing and able to devote time on a weekly basis to posting competition results.
 - 2e3) Duties
     - 2e3a) The duties of the Results Team are to:
     - 2e3a1) Announce new competitions on WCA website, subject to WCA Board's approval;
@@ -109,7 +109,7 @@
 ### Section A: WCA Constitution
 
 - 3a1) Description
-    - 3a1a) The WCA Constitution (Constitution) contains all regulations pertaining to the organization of the WCA, including descriptions and duties of its associated committees.
+    - 3a1a) The WCA Constitution (Constitution) contains all regulations pertaining to the organisation of the WCA, including descriptions and duties of its associated committees.
     - 3a1b) This Constitution shall be the supreme law of the WCA, and any rulings, regulations, and other official business conducted by the WCA or any of its entities and representatives shall fall under the jurisdiction of this Constitution.
 - 3a2) Policies and procedures
     - 3a2a) Stewardship
@@ -119,18 +119,18 @@
     - 3a2b1) Passed amendments take immediate effect, and replace or supercede previous language in the Constitution or amendments previously passed.
     - 3a2b2) Proposed amendments to the WCA Constitution shall have the sponsorship of at least one Delegate.
     - 3a2b3) Proposed amendments to the WCA Constitution shall be submitted (in a format prescribed by the WRC) to the WRC. The WRC shall review and announce proposed announcements no more than two (2) weeks after submission, provided that two weeks is enough time for the WRC to thoroughly research the background and future effects of said proposal. The WRC may edit any proposed amendments for clarity or based on research; however, any edits may not affect the spirit of proposed amendments.
-    - 3a2b4) The WRC shall vote on proposed amendments no later than two (2) weeks after the official announcement. Only members of the WRC at the time of announcement shall be eligible to vote on proposed amendments. A majority among casted votes shall result in the proposed amendment being  forwarded to the Board for consideration within two days of the WRC vote.
-    - 3a2b5) The Board shall vote on proposed amendments “as is” when forwarded, no more than two weeks after  forwarding. Only members of the Board at the time of forwarding shall be eligible to vote on proposed amendments. A supermajority among casted votes passes the proposed amendment. Otherwise, the proposed amendment is returned to the WRC.
-    - 3a2b8) The WRC shall conduct both a WRC and a Delegate vote on the amendment “as is” at the time of return. Only members with Delegate status at the time of amendment announcement are eligible to vote. A unanimous vote among WRC votes cast passes the amendment. A ¾+ vote among Delegate votes cast also passes the amendment.  Any other result kills the amendment.
+    - 3a2b4) The WRC shall vote on proposed amendments no later than two (2) weeks after the official announcement. Only members of the WRC at the time of announcement shall be eligible to vote on proposed amendments. A majority among cast votes shall result in the proposed amendment being forwarded to the Board for consideration within two days of the WRC vote.
+    - 3a2b5) The Board shall vote on proposed amendments “as is” when forwarded, no more than two weeks after forwarding. Only members of the Board at the time of forwarding shall be eligible to vote on proposed amendments. A supermajority among cast votes passes the proposed amendment. Otherwise, the proposed amendment is returned to the WRC.
+    - 3a2b8) The WRC shall conduct both a WRC and a Delegate vote on the amendment “as is” at the time of return. Only members with Delegate status at the time of amendment announcement are eligible to vote. A unanimous vote among WRC votes cast passes the amendment. A ¾+ vote among Delegate votes cast also passes the amendment. Any other result kills the amendment.
 
 ### Section B: WCA Regulations and WCA Regulation Guidelines
 
 - 3b1) Description
     - 3b1a) The WCA Regulations (Regulations) and WCA Regulation Guidelines (Guidelines) contain all regulations and guidelines that must be followed by WCA sponsored competitions.
     - 3b1b) The Regulations should contain all clear, concise, normative rules about competitions.
-    - 3b1c) The Guidelines should contain non-normative information about the regulations that the WCA Board, Delegates, competition organizers, judges, competitors and community members may need in order to make informed, consistent decisions about the regulations. This may include supplementary material including (but not limited to) interpretations, clarifications, recommendations, citations or explanations.
+    - 3b1c) The Guidelines should contain non-normative information about the regulations that the WCA Board, Delegates, competition organisers, judges, competitors and community members may need in order to make informed, consistent decisions about the regulations. This may include supplementary material including (but not limited to) interpretations, clarifications, recommendations, citations or explanations.
     - 3b1d) The Guidelines shall not contain any information that contradicts the Constitution or Regulations.
-- 3b2)  Policies and procedures
+- 3b2) Policies and procedures
     - 3b2a) Stewardship
     - 3b2a1) The WRC shall keep the Regulations and Guidelines up to date and accessible to the public.
     - 3b2b) Amendments
@@ -163,7 +163,7 @@
     - 3d1a1) Generates random-state scrambles for all puzzles for which this is practical;
     - 3d1a2) Generates scrambles of a sufficient degree of randomness to ensure competition equity;
     - 3d1a3) Uses a sufficiently robust source of randomness;
-    - 3d1a4) Makes a reasonable effort to prevent unwarranted or unauthorized access to generated scrambles;
+    - 3d1a4) Makes a reasonable effort to prevent unwarranted or unauthorised access to generated scrambles;
     - 3d1a5) Is relatively user-friendly and time efficient;
     - 3d1a6) Produces scrambles that are easy to archive and publish in a digital format (e.g. plain text scrambles or PDF files of scramble printouts).
     - 3d1b) Scramblers should be able to run offline and are recommended to be a single unified program with the capability to generate scrambles for all official events (as opposed to individual scramblers for individual events or puzzles).
@@ -181,7 +181,7 @@
 ## Article 5: Dissolution
 
 - 5a) Dissolution of the WCA shall only occur by a supermajority vote of the eligible Delegates in conjunction with unanimous votes by both the WRC and the Board for a Dissolution Resolution.
-- 5b) A Dissolution Resolution shall take effect immediately upon fulfillment of the required conditions.
+- 5b) A Dissolution Resolution shall take effect immediately upon fulfilment of the required conditions.
 
 
 Signed: Board Member, World Cube Association Board, Time, Date
