@@ -71,7 +71,7 @@ The WCA Guidelines supplement the WCA Regulations. Guidelines are numbered in co
     - B1b2) [SEPARATE] Blindfolds should be checked by the WCA Delegate before use in the competition.
 
 
-## Article 10: Solved state
+## Article 10: Solved State
 
 10f) [CORRESPONDING] The misalignment limits are selected so that they provide a natural cutoff between one state of a puzzle (without penalty) and a state one move away.
 10f) Examples of judging misalignments
