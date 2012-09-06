@@ -11,7 +11,7 @@
   - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the competition date.
   - 1c3) Sending the competition results to the WCA Results Team.
     - 1c3a) All scrambles used during a competition must be sent with the results of the competition.
-    - 1c3b) Scrambles must be labelled with the events, rounds, and heats for which they were used. If there are multiple groups, it not necessary to identify which competitor was in which heats.
+    - 1c3b) Scrambles must be labelled with the events, rounds, and heats for which they were used.
   - 1c4) Sending corrections to the competition results to the WCA Board.
   - 1c5) Advising the other officials where necessary.
   - 1c6) Approving all events and event formats of a competition, before the competition starts, and if changes are required during the competition.
@@ -138,7 +138,7 @@
     - 7f2a) Exception: In Solving With Feet the timer must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
 - 7h) The competition area must have a competitors area.
   - 7h1) The organisation team may require that a competitor who have been called to compete must remain within the competitors area until he has completed all of his attempts for the round.
-  - 7h3) Competitors in the competitors area must not communicate with each other about the scrambled positions of the puzzles of the round in progress. Penalty: disqualification of competitor from the event, at the discretion of the WCA Delegate.
+  - 7h3) Competitors in the competitors area must not communicate with each other about the scrambled positions of the puzzles of the round in progress. Penalty: disqualification of the competitor from the event, at the discretion of the WCA Delegate.
 
 
 ## Article 8: Competitions
@@ -181,8 +181,8 @@
   - 9f11) For 'Mean of 3' rounds, if the competitor scores at least one DNF or DNS, his average score for the round is DNF.
   - 9f12) For 'Best of X' rounds rankings are assessed based on the best result per competitor. The following shall be used to compare results:
     - 9f12a) "Better" is defined as the shorter recorded time.
-    - 9f12b) For Rubik's Cube: Fewest Moves Solving, "better" is defined as the shorter solution length.
-    - 9f12c) For Rubik's Cube: Multiple Blindfolded, rankings are assessed based on number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, the attempt is disqualified. If competitors achieve the same result, rankings shall be assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings shall be assessed based on the number of puzzles the competitors fail to solve, where fewer unsolved puzzles is better.
+    - 9f12b) For Fewest Moves Solving, "better" is defined as the shorter solution length.
+    - 9f12c) For Multiple Blindfolded Solving, rankings are assessed based on number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, the attempt is disqualified. If competitors achieve the same result, rankings shall be assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings shall be assessed based on the number of puzzles the competitors fail to solve, where fewer unsolved puzzles is better.
   - 9f13) For 'Mean of 3' and 'Average of X' rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the shorter recorded time.
   - 9f14) For 'Mean of 3' and 'Average of X' rounds where two or more competitors achieve identical average/mean results, rankings are assessed based on the best result per competitor, where "better" is defined as the shorter recorded time.
   - 9f15) Competitors who achieve the same result in a round receive and identical ranking for the round.
@@ -212,7 +212,7 @@
     - 9r1d) The latest permitted date used to determine the qualifying average/mean time or single solve time on the WCA rankings.
   - 9r2) All competitors of an event who have not directly qualified for the first round of the event must compete in the qualification round in order to participate in the first round.
   - 9r3) A qualification round may be added to accommodate newly registered competitors, and/or the maximum number of competitors in the qualification round or first round of an event may be increased. These changes must be made at least two weeks before the competition.
-- 9s) Each round of each event must have a time limit. If a competitor does not solve within the time limit, the judge may terminate and disqualify the attempt. The competitor may be allowed to continue the round, at the discretion of the WCA Delegate.
+- 9s) Each round of each event must have a time limit (see Regulation A1a).
 
 
 ## Article 10: Solved State

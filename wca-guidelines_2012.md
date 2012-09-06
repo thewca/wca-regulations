@@ -17,6 +17,7 @@ Note the following:
 
 - 1b2) [CLARIFICATION] It is sufficient to ensure access to a digital copy of the Regulations.
 - 1c3) [RECOMMENDATION] Results should be ready at the end of the last day of competition.
+- 1c3b) [CLARIFICATION] If there are multiple groups, it not necessary to identify which competitor was in which heats.
 - 1c4) [RECOMMENDATION] Corrections to the results should be available within one week of the competition date.
 - 1h) [RECOMMENDATION] All final rounds of all events, as well as all Fewest Moves Solving rounds, should have the same scrambles for all competitors (i.e. only 1 heat).
 
@@ -125,7 +126,7 @@ All misalignments <= 45 degrees: Solved, with penalty
 
 ## Article D: Solving With Feet
 
-- D1c) [REMINDER] This rule still applies while repairing puzzle defects.
+- D1c) [REMINDER] While repairing puzzle defects, other body parts must still not touch the puzzle.
 
 
 ## Article H: Multiple Blindfolded Solving
