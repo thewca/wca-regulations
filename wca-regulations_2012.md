@@ -166,7 +166,7 @@
 - 9e) New official events may be added, and existing official events removed, each calendar year.
     - 9e1) The decision to add or remove an event is made by the WCA Board, based on feedback from the WCA Delegates and the community at large.
 - 9f) The results of a round are measured as follows:
-    - 9f1) All timed results, averages, and means under 10 minutes are measured and rounded down to the nearest hundredth of a second.
+    - 9f1) All timed results under 10 minutes are measured and rounded down to the nearest hundredth of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second. 
     - 9f2) All timed results, averages, and means over 10 minutes are measured and rounded to the nearest second (e.g. x.4 becomes x, x.5 becomes x+1).
     - 9f4) The result of an attempt is recorded as DNF (Did Not Finish) if the attempt is disqualified or unfinished.
     - 9f5) The result of an attempt is recorded as DNS (Did Not Start) if a competitor declines an attempt during a round.
