@@ -172,9 +172,9 @@
   - 9f5) The result of an attempt is recorded as DNS (Did Not Start) if a competitor declines an attempt during a round.
   - 9f6) For 'Best of X' rounds, competitors are each allotted X attempts. The best result of these attempts shall count for the competitor's ranking in the round.
   - 9f7) For 'Best of X' rounds, a DNF or DNS is the worst possible result.
-  - 9f8) For 'Average of 5' rounds, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts shall be removed, and the mean of the remaining 3 attempts shall count for the competitor's ranking in the round.
+  - 9f8) For 'Average of 5' rounds, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts shall be removed, and the arithmetic mean of the remaining 3 attempts shall count for the competitor's ranking in the round.
   - 9f9) For 'Average of 5' rounds, one DNF or DNS is permitted to count as the competitor's worst result of the round. If a competitor receives more than one DNF and/or DNS in the round, his average score for the round is DNF.
-  - 9f10) For 'Mean of 3' rounds competitors are allotted 3 attempts. The mean of the 3 attempts shall count for the competitor's ranking in the round.
+  - 9f10) For 'Mean of 3' rounds competitors are allotted 3 attempts. The arithmetic mean of the 3 attempts shall count for the competitor's ranking in the round.
   - 9f11) For 'Mean of 3' rounds, if the competitor scores at least one DNF or DNS, his average score for the round is DNF.
   - 9f12) For 'Best of X' rounds rankings are assessed based on the best result per competitor. The following shall be used to compare results:
     - 9f12a) "Better" is defined as the shorter recorded time.
@@ -203,8 +203,8 @@
   - 9p3) If a qualifying competitor withdraws from a round, he may be replaced by the best-ranked competitor below the cutoff from the preceding round.
 - 9r) Any qualification round must be held before the first round of the event.
   - 9r1) When announcing an event, the organisation team must include:
-    - 9r1a) Any limit to number of competitors competing in the first round of the event.
-    - 9r1b) The maximum number of competitors permitted in the qualification round of the event, and the number of those competitors who will proceed to the first round.
+    - 9r1a) Any limit to the number of competitors competing in the first round of the event.
+    - 9r1b) Any limit to the number of competitors permitted in the qualification round of the event, and any limit tothe maximum number of those competitors who will proceed to the first round.
     - 9r1c) The average/mean time or single solve time, achieved in previous competition, required to qualify directly for the first round of the event.
     - 9r1d) The latest permitted date used to determine the qualifying average/mean time or single solve time on the WCA rankings.
   - 9r2) All competitors of an event who have not directly qualified for the first round of the event must compete in the qualification round in order to participate in the first round.
@@ -447,13 +447,13 @@
     - H1a1) A competitor must not change the number of puzzles after the start of the attempt.
     - H1a2) A competitor's requested number of puzzles must not be disclosed until the start of the attempt.
   - H1b) A competitor is allotted 10 minutes times the number of puzzles in the attempt, up to a maximum of 60 minutes. The time shall be measured with a stopwatch.
-    - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge attempt shall stop the competitor.
+    - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge shall stop the attempt.
   - H1d) Time penalties for each puzzle of the attempt are additive (e.g. if a competitor attempts 10 cubes, finishes with a time of 59:57, and has two time penalties, the final recorded time is 59:57 + 2*2 = 60:01).
 
 
 ## Article Z: Optional Regulations
 
-Optional regulations may be applied to a competition by its organisation team to facilitate the administration of the competition.
+Organisation teams may adopt optional regulations to facilitate the administration of the competition.
 The WCA Board must approve any optional regulations for a competition.
 
 - Z1) The organisation team may require competitors to submit puzzles during registration.

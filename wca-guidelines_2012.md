@@ -56,7 +56,7 @@ The WCA Guidelines supplement the WCA Regulations. Guidelines are numbered in co
 
 ## Article 8: Competitions
 
-  - 8a4) [CORRESPONDING] Changes to increase the maximum number of competitors in qualification round or first round, or to add a qualification round for newly registered competitors should be made at least one month before the competition.
+  - 8a4) [CORRESPONDING] Changes to increase the maximum number of competitors in qualification round or first round, or to add a qualification round for newly registered competitors should be made at least one month before the competition (see Regulation 9r3).
   - 8a4) [CORRESPONDING] A competition should be announced at least one month before the competition starts.
   - 8a5) [CORRESPONDING] The competition should have at least 12 competitors.
 
@@ -74,7 +74,7 @@ The WCA Guidelines supplement the WCA Regulations. Guidelines are numbered in co
 ## Article 10: Solved State
 
 - 10f) [CORRESPONDING] The misalignment limits are selected so that they provide a natural cutoff between one state of a puzzle (without penalty) and a state one move away.
-- 10f) Examples of judging misalignments
+- 10f) [CORRESPONDING] Examples of judging misalignments:
 
 Solved = no penalty
 Misalignment <= 45 degrees: Solved, with penalty
