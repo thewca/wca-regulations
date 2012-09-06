@@ -180,11 +180,11 @@
   - 9f10) For 'Mean of 3' rounds competitors are allotted 3 attempts. The arithmetic mean of the 3 attempts shall count for the competitor's ranking in the round.
   - 9f11) For 'Mean of 3' rounds, if the competitor scores at least one DNF or DNS, his average score for the round is DNF.
   - 9f12) For 'Best of X' rounds rankings are assessed based on the best result per competitor. The following shall be used to compare results:
-    - 9f12a) "Better" is defined as the shorter recorded time.
+    - 9f12a) "Better" is defined as the shorter time.
     - 9f12b) For Fewest Moves Solving, "better" is defined as the shorter solution length.
     - 9f12c) For Multiple Blindfolded Solving, rankings are assessed based on number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, the attempt is disqualified. If competitors achieve the same result, rankings shall be assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings shall be assessed based on the number of puzzles the competitors fail to solve, where fewer unsolved puzzles is better.
   - 9f13) For 'Mean of 3' and 'Average of X' rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the shorter recorded time.
-  - 9f14) For 'Mean of 3' and 'Average of X' rounds where two or more competitors achieve identical average/mean results, rankings are assessed based on the best result per competitor, where "better" is defined as the shorter recorded time.
+  - 9f14) For 'Mean of 3' and 'Average of X' rounds where two or more competitors achieve identical average/mean results, rankings are assessed based on the best result per competitor, where "better" is defined as the shorter time.
   - 9f15) Competitors who achieve the same result in a round receive and identical ranking for the round.
 - 9g) A Combined Round consists of two phases of attempts, where competitors advance to the second phase only if they meet a designated cutoff during the first phase.
   - 9g2) Whether a competitor proceeds to next phase of a Combined round, must be decided by ranking (best x competitors) or by result (all competitors with a best result under x) of the first phase.
@@ -208,8 +208,8 @@
   - 9r1) When announcing an event, the organisation team must include:
     - 9r1a) Any limit to the number of competitors competing in the first round of the event.
     - 9r1b) Any limit to the number of competitors permitted in the qualification round of the event, and any limit tothe maximum number of those competitors who will proceed to the first round.
-    - 9r1c) The average/mean time or single solve time, achieved in previous competition, required to qualify directly for the first round of the event.
-    - 9r1d) The latest permitted date used to determine the qualifying average/mean time or single solve time on the WCA rankings.
+    - 9r1c) The average/mean result or single solve result, achieved in previous competition, required to qualify directly for the first round of the event.
+    - 9r1d) The latest permitted date used to determine the qualifying average/mean result or single solve result on the WCA rankings.
   - 9r2) All competitors of an event who have not directly qualified for the first round of the event must compete in the qualification round in order to participate in the first round.
   - 9r3) A qualification round may be added to accommodate newly registered competitors, and/or the maximum number of competitors in the qualification round or first round of an event may be increased. These changes must be made at least two weeks before the competition.
 - 9s) Each round of each event must have a time limit (see Regulation A1a).
@@ -224,7 +224,7 @@
   - 10e1) For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in Regulation 10f, the puzzle shall be considered to require one additional move to solve (see "Block Turn Metric" in Article 12).
   - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle shall be considered solved without penalty.
   - 10e3) If one move is required, the puzzle shall be considered solved with a penalty of 2 seconds.
-  - 10e4) If more than one move is required, the attempt is ruled DNF.
+  - 10e4) If more than one move is required, the attempt is disqualified.
 - 10f) Limits of acceptable misalignment for puzzles:
   - 10f1) Cube-shaped puzzles: at most 45 degrees.
   - 10f2) Megaminx: at most 36 degrees.
@@ -298,7 +298,7 @@
     - A1a5) An attempt shall be considered to meet the time limit if and only if the original recorded time, before any time penalties are applied, is strictly less than the time limit. Exception: Multiple Blindfolded Solving (see Regulation H1b1).
   - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
     - A1b1) Simultaneous use of a Stackmat is optional.
-    - A1b2) If the Stackmat time is available, it is the result. Otherwise, the stopwatch time is the result.
+    - A1b2) If the Stackmat time is available, it is the original recorded time. Otherwise, the stopwatch time is the original recorded time.
   - A1c) A competitor participating in an event must be able to fulfill the event's requirements. A competitor competing with expectation of a "DNF" result may be disqualified from the event at the discretion of the Delegate.
 - A2) Scrambling:
   - A2a) At the beginning of the event, the competitor submits his puzzle, in its solved state, to the scrambler and waits in the competitors area until he is called to compete.
@@ -339,7 +339,7 @@
     - A6b2) If the timer stops before the end of the solve and displays a time of 0.06 seconds or higher then the attempt shall be disqualified, unless the competitor can demonstrate to the WCA Delegate's satisfaction that the timer malfunctioned during the attempt.
   - A6c) The timer must be stopped using both hands, which shall be placed flat on the sensors with palms down. Penalty: 2 seconds.
   - A6d) The competitor must fully release the puzzle before stopping the timer. Penalty: 2 seconds.
-  - A6e) The competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt. If no moves have been done, a penalty of 2 seconds may be given instead, at the discretion of the judge.
+  - A6e) The competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt. Exception: If no moves have been done, a penalty of 2 seconds may be given instead, at the discretion of the judge.
   - A6f) The competitor must not reset the timer until the judge has recorded the result on the score sheet. Penalty: disqualification of the attempt, at the discretion of the judge.
   - A6g) The judge must determine whether the puzzle has been completely solved. He must not make moves or align faces when examining the puzzle.
   - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle prior to the resolution of said dispute. Penalty: disqualification of the attempt, at the discretion of the WCA Delegate.
