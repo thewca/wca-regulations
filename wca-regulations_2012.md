@@ -164,7 +164,7 @@
     - 9b3) Rubik's Cube: Fewest Moves, Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded and Rubik's Cube: Multiple Blindfolded.
     - 9b3a) Competition formats for these events are: 'Best of X' (where X is 1, 2, 3, 4, or 5).
 - 9e) New official events may be added, and existing official events removed, each calendar year.
-    - 9e1) The decision to add or remove an event is made by the WCA Board, based on feedback from the WCA delegates and the community at large.
+    - 9e1) The decision to add or remove an event is made by the WCA Board, based on feedback from the WCA Delegates and the community at large.
 - 9f) The results of a round are measured as follows:
     - 9f1) All timed results, averages, and means under 10 minutes are measured and rounded down to the nearest hundredth of a second.
     - 9f2) All timed results, averages, and means over 10 minutes are measured and rounded to the nearest second (e.g. x.4 becomes x, x.5 becomes x+1).
@@ -209,7 +209,7 @@
     - 9r1d) The latest permitted date used to determine the qualifying average/mean time or single solve time on the WCA rankings.
     - 9r2) All competitors of an event who have not directly qualified for the first round of the event must compete in the qualification round in order to participate in the first round.
     - 9r3) A qualification round may be added to accommodate newly registered competitors, and/or the maximum number of competitors in the qualification round or first round of an event may be increased. These changes must be made at least two weeks before the competition.
-- 9s) Each round of each event must have a time limit. If a competitor does not solve within the time limit, the judge may terminate and disqualify the attempt. The competitor may be allowed to continue the round, at the discretion of the WCA delegate.
+- 9s) Each round of each event must have a time limit. If a competitor does not solve within the time limit, the judge may terminate and disqualify the attempt. The competitor may be allowed to continue the round, at the discretion of the WCA Delegate.
 
 
 ## Article 10: Solved State
