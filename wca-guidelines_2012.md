@@ -8,7 +8,6 @@ The WCA Guidelines supplement the WCA Regulations. Guidelines are numbered in co
   - 1b2) [CORRESPONDING] It is sufficient to ensure access to a digital copy of the Regulations.
   - 1c3) [CORRESPONDING] Results should be ready at the end of the last day of competition.
   - 1c4) [CORRESPONDING] Corrections to the results should be available within one week of the competition date.
-
 1h) [CORRESPONDING] All final rounds of all events, as well as all Fewest Moves Solving rounds, should have the same scrambles for all competitors (i.e. only 1 heat).
 
 
@@ -20,10 +19,9 @@ The WCA Guidelines supplement the WCA Regulations. Guidelines are numbered in co
 - 2d [CORRESPONDING] If a third party (e.g. journalist) asks the organisation team to be put in contact with any competitors, the competitor should first be asked for consent.
   - 2h1) [CORRESPONDING] Competitors may be barefoot for Solving With Feet.
 
-  - 3a1) [CORRESPONDING] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit.
-
 ## Article 3: Puzzles
 
+  - 3a1) [CORRESPONDING] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit.
 - 3c) [CORRESPONDING] Competitors may use puzzles of any reasonable size, at the discretion of the Delegate.
 - 3i) [CORRESPONDING] Examples of such enhancement include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, more or other solved states.
 
@@ -31,11 +29,13 @@ The WCA Guidelines supplement the WCA Regulations. Guidelines are numbered in co
 ## Article 4: Scrambling
 
 - 4b) [CORRESPONDING] Delegates must never re-generate any scrambles to replace other ones for the purpose of filtering. For example, it is not be permitted to glance at the scrambles for a competition and generate the entire set again in order to generate 'fairer' scrambles.
+- 4f) [CORRESPONDING] The WCA Delegate should generate sufficient scrambles for the entire competition ahead of time, including spare scrambles for extra attempts. If he generates any additional scrambles during the competition, he must save them (see Regulation 1c3a).
+
+
+## Article 5: Puzzle Defects
 
   - 5b5) [CORRESPONDING] Example of a piece not fully placed: a 5x5x5 centre piece twisted in its spot
   - 5b5) [CORRESPONDING] Example of judging an attempt ending with a defective puzzle: A pyraminx with a detached tip may be reassembled in three states, one fully solved, and two "+2" states. A solve ending in such a position would be assigned a "+2" penalty.
-
-- 4f) [CORRESPONDING] The WCA Delegate should generate sufficient scrambles for the entire competition ahead of time, including spare scrambles for extra attempts. If he generates any additional scrambles during the competition, he must save them (see Regulation 1c3a).
 
 
 ## Article 6: Awards/prizes/honours
@@ -67,8 +67,6 @@ The WCA Guidelines supplement the WCA Regulations. Guidelines are numbered in co
   - 9e4) Events other than those specified in article 9b may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
 - 9q) [SEPARATE] Events and rounds should have at least 2 competitors.
 - 9r) [SEPARATE] The goal of a qualification round is to let unranked or low ranked competitors qualify for the first round of an event with many registered competitors.
-
-    - B1b2) [SEPARATE] Blindfolds should be checked by the WCA Delegate before use in the competition.
 
 
 ## Article 10: Solved State
@@ -105,6 +103,11 @@ All misalignments <= 45 degrees: Solved, with penalty
     - A1a4) [CORRESPONDING] If a competitor has accidentally been allowed to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and Delegate should be informed (see Regulation 1g2). Judges should always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
     - A1a5) [CORRESPONDING] Since it is only required that the original recorded time must be under the time limit, the final result for an attempt may be over the time limit after time penalties are applied.
   - A6b) [CORRESPONDING] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timers.
+
+
+## Article B: Blindfolded Solving
+
+    - B1b2) [SEPARATE] Blindfolds should be checked by the WCA Delegate before use in the competition.
 
 
 ## Article D: Solving With Feet
