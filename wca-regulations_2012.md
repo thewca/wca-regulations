@@ -15,16 +15,16 @@
   - 1c4) Sending corrections to the competition results to the WCA Board.
   - 1c5) Advising the other officials where necessary.
   - 1c6) Approving all events and event formats of a competition, before the competition starts, and if changes are required during the competition.
-  - 1c7) Decisions on disqualification of a competitor during the competition.
+  - 1c7) Decisions about disqualifying competitors during the competition.
   - 1c8) Providing the scrambles.
   - 1c9) Decisions on changes to the scheduled times of rounds. In cases of such changes, a clear announcement should be made to all competitors.
 - 1e) Each event must have one or more judges.
   - 1e1) A judge is responsible for executing the procedures of the event.
     - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the Delegate, as long as the judge is able ensure that all WCA Regulations are followed at all times.
-  - 1e2) All competitors must be available for judging, if needed by organisation team. Penalty: disqualification of the competitor for the competition.
+  - 1e2) All competitors must be available for judging, if needed by organisation team. Penalty: disqualification from the competition.
 - 1f) Each event (except for puzzles that are not scrambled) must have one or more scramblers.
   - 1f1) A scrambler is responsible for applying the scramble sequences to the puzzles for the event.
-  - 1f2) All competitors must be available for scrambling, if needed by organisation team. Penalty: disqualification of the competitor for the competition.
+  - 1f2) All competitors must be available for scrambling, if needed by organisation team. Penalty: disqualification from the competition.
 - 1g) Each event must have one or more score takers.
   - 1g1) A score taker is responsible for compiling results.
   - 1g2) Any changes to the score sheets must made with the consent of the WCA Delegate.
@@ -50,12 +50,15 @@
   - 2e2) Competitors with updates to their citizenship status may change their country of representation in their first competition of a calendar year.
 - 2f) Competitors must obey venue rules and conduct themselves in a manner considerate of others.
 - 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
-- 2h) Competitors shall be fully dressed while in the competition venue. At the discretion of the Delegate, competitors may be disqualified for inappropriate clothing.
+- 2h) Competitors shall be fully dressed while in the competition venue. At the discretion of the Delegate, competitors may be disqualified from the competition for inappropriate clothing.
 - 2i) While competing, competitors must not use sound or other electronic equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting).
-- 2j) The WCA Delegate may disqualify a competitor who fails arrive in time for a round of any event.
-- 2k) A competitor may be disqualified from a competition by the WCA Delegate if the competitor:
+- 2j) The WCA Delegate may disqualify a competitor from a specific event.
+  - 2j1) If a competitor is disqualified from an event for any reason, he is not eligible for any more attempts in the event.
+  - 2j2) If a competitor is disqualified during the course of the event, his earlier results shall remain valid. Exception: cheating or defrauding (see Regulation 2k2a).
+- 2k) The WCA Delegate may disqualify a competitor from the competition (i.e. from all events of the competition) if the competitor:
   - 2k1) Fails to show up in time for registration for the competition.
   - 2k2) Is suspected of cheating or defrauding the officials during the competition.
+    - 2k2a) The WCA Delegate may disqualify any suspected results.
   - 2k3) Behaves in a way that is unlawful, violent or indecent; or intentionally damages venue facilities or personal property within the venue.
   - 2k4) Interferes with, or distracts others during, the competition.
   - 2k5) Fails to abide by WCA Regulations during the competition.
@@ -64,7 +67,7 @@
 - 2n) Competitors may verbally dispute a ruling to the WCA Delegate.
 - 2o) Disputes are only permitted during the competition, within 30 minutes after the disputed incident happened and before the start of the next round of the event.
 - 2p) The WCA Delegate must resolve the dispute before the start of the next round of the event.
-- 2r) The competitor must accept the final ruling of the WCA Delegate. Penalty: disqualification of the competitor from the competition.
+- 2r) The competitor must accept all final rulings of the WCA Delegate. Penalty: disqualification from the competition.
 - 2s) Exceptions for documented disabilities:
   - 2s1) For competitors with hearing disabilities, judges may replace the vocal instructions with hand signals.
   - 2s2) For competitors with physical disabilities, judges may assist with starting and stopping the timer.
@@ -135,7 +138,7 @@
     - 7f2a) Exception: In Solving With Feet the timer must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
 - 7h) The competition area must have a competitors area.
   - 7h1) The organisation team may require that a competitor who have been called to compete must remain within the competitors area until he has completed all of his attempts for the round.
-  - 7h3) Competitors in the competitors area must not communicate with each other about the scrambled positions of the puzzles of the round in progress. Penalty: disqualification of competitor at the discretion of the WCA Delegate.
+  - 7h3) Competitors in the competitors area must not communicate with each other about the scrambled positions of the puzzles of the round in progress. Penalty: disqualification of competitor from the event, at the discretion of the WCA Delegate.
 
 
 ## Article 8: Competitions
@@ -179,7 +182,7 @@
   - 9f12) For 'Best of X' rounds rankings are assessed based on the best result per competitor. The following shall be used to compare results:
     - 9f12a) "Better" is defined as the shorter recorded time.
     - 9f12b) For Rubik's Cube: Fewest Moves Solving, "better" is defined as the shorter solution length.
-    - 9f12c) For Rubik's Cube: Multiple Blindfolded, rankings are assessed based on number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, the result is disqualified. If competitors achieve the same result, rankings shall be assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings shall be assessed based on the number of puzzles the competitors fail to solve, where fewer unsolved puzzles is better.
+    - 9f12c) For Rubik's Cube: Multiple Blindfolded, rankings are assessed based on number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, the attempt is disqualified. If competitors achieve the same result, rankings shall be assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings shall be assessed based on the number of puzzles the competitors fail to solve, where fewer unsolved puzzles is better.
   - 9f13) For 'Mean of 3' and 'Average of X' rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the shorter recorded time.
   - 9f14) For 'Mean of 3' and 'Average of X' rounds where two or more competitors achieve identical average/mean results, rankings are assessed based on the best result per competitor, where "better" is defined as the shorter recorded time.
   - 9f15) Competitors who achieve the same result in a round receive and identical ranking for the round.
@@ -322,7 +325,7 @@
     - A4b1) The competitor must have no physical contact with the puzzle between the inspection period and the start of the solve. Penalty: 2 seconds.
   - A4d) The competitor starts the solve by confirming that the timer light is green and then removing his hands from the timer, thereby starting the timer.
     - A4d1) The competitor must start the solve within 15 seconds of the start of the inspection. Penalty: 2 seconds.
-    - A4d2) The competitor must start the solve within 17 seconds of the start of the inspection. Penalty: disqualification of the solve.
+    - A4d2) The competitor must start the solve within 17 seconds of the start of the inspection. Penalty: disqualification of the attempt.
   - A4e) Time penalties for Starting the Solve are cumulative.
 - A5) During the solve:
   - A5a) While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge. Penalty: disqualification of the attempt.
@@ -395,7 +398,7 @@
 
 - D1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
   - D1a) During the solve, the competitor must sit in a chair, sit on the surface, or stand.
-  - D1b) During the inspection and the solve, the competitor must only use his feet) and the surface. The competitor may wear socks while solving. Penalty: disqualification of the solve.
+  - D1b) During the inspection and the solve, the competitor must only use his feet) and the surface. The competitor may wear socks while solving. Penalty: disqualification of the attempt.
   - D1c) Other body parts or other objects must not touch the puzzle. Penalty: disqualification of the attempt.
 - D3) Starting the solve:
   - D3a) Competitor must place his feet onto the timer sensors.

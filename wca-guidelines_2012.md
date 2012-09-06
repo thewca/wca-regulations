@@ -28,6 +28,7 @@ Note the following:
 - 2d) [ADDITION] Date of birth and contact information should be especially secured.
 - 2d) [RECOMMENDATION] If a third party (e.g. journalist) asks the organisation team to be put in contact with any competitors, the competitor should first be asked for consent.
 - 2h1) [CLARIFICATION] Competitors may be barefoot for Solving With Feet.
+- 2j2) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, his results from earlier rounds remain valid.
 
 
 ## Article 3: Puzzles
