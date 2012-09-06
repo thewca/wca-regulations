@@ -291,6 +291,8 @@
     - A1a1) The default time limit per attempt is 10 minutes, though the organisation team may announce a higher/lower time limit.
     - A1a2) Cumulative time limits may be enforced (e.g. 3 attempts with a cumulative time limit of 20 minutes). The time elapsed in a "DNF" result counts towards the cumulative time limit.
     - A1a3) For any round, time limits must be announced before the round begins, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who shall carefully consider the fairness of the change.
+    - A1a4) The competitor must end the attempt within the time limit. If a competitor reaches the time limit for an attempt/round, the judge shall stop the attempt immediately and record the result as DNF. Exception: Multiple Blindfolded Solving (see Regulation H1b1).
+    - A1a5) An attempt shall be considered to meet the time limit if and only if the original recorded time, before any time penalties are applied, is strictly less than the time limit. Exception: Multiple Blindfolded Solving (see Regulation H1b1).
   - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
     - A1b1) Simultaneous use of a Stackmat is optional.
     - A1b2) If the Stackmat time is available, it is the result. Otherwise, the stopwatch time is the result.
@@ -446,9 +448,10 @@
   - H1a) Before an attempt, the competitor must notify the judge of the number of puzzles he wishes to attempt blindfolded. The number of puzzles must be at least 2.
     - H1a1) A competitor must not change the number of puzzles after the start of the attempt.
     - H1a2) A competitor's requested number of puzzles must not be disclosed until the start of the attempt.
-  - H1b) A competitor is allotted 10 minutes times the number of puzzles in the attempt, up to a maximum of 60 minutes. The time shall be measured with a stopwatch.
-    - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge shall stop the attempt.
-  - H1d) Time penalties for each puzzle of the attempt are additive (e.g. if a competitor attempts 10 cubes, finishes with a time of 59:57, and has two time penalties, the final recorded time is 59:57 + 2*2 = 60:01).
+  - H1b) A competitor is allotted 10 minutes times the number of puzzles in the attempt, up to a maximum of 60 minutes.
+    - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge shall stop the attempt, and the attempt shall then be judged; the time limit for the attempt shall count as the original recorded time.
+    - H1b2) When there are 10 seconds until the time limit, the judge shall call '10 SECONDS REMAINING. PLEASE FINISH YOUR ATTEMPT'. If the competitor is still holding any puzzles when the judge stops the attempt, they shall be judged as unsolved.
+  - H1d) Time penalties for the puzzles of the attempt are cumulative.
 
 
 ## Article Z: Optional Regulations

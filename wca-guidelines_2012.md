@@ -102,6 +102,8 @@ All misalignments <= 45 degrees: Solved, with penalty
 ## Article A: Speed Solving
 
     - A1a3) [CORRESPONDING] The organisation team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two solves in hopes of meeting a cutoff in a combined round), and that changing time limits after the beginning of the round can disadvantage some competitors unfairly.
+    - A1a4) [CORRESPONDING] If a competitor has accidentally been allowed to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and Delegate should be informed (see Regulation 1g2). Judges should always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
+    - A1a5) [CORRESPONDING] Since it is only required that the original recorded time must be under the time limit, the final result for an attempt may be over the time limit after time penalties are applied.
   - A6b) [CORRESPONDING] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timers.
 
 
@@ -113,3 +115,5 @@ All misalignments <= 45 degrees: Solved, with penalty
 ## Article H: Multiple Blindfolded Solving
 
     - H1b1) [CORRESPONDING] The judge may allow the competitor to continue the attempt unofficially, but the attempt must be interrupted and finished first, in full accordance with the Regulations.
+- H1d) [CORRESPONDING] Example: If a competitor attempts 10 cubes, finishes with a time of 59:57, and has two time penalties, the final recorded time is 59:57 + 2*2 = 60:01 (also see Guideline A1a5).
+- H1d) [CORRESPONDING] Example: If a competitor attempts 10 cubes, finishes with a time of 59:57, and has two time penalties, the final recorded time is 59:57 + 2*2 = 60:01 (also see Guideline A1a5).
