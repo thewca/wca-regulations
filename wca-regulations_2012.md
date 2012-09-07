@@ -130,7 +130,7 @@
 - 7e) The competition area must be smoke-free.
 - 7f) Solving station:
   - 7f1) Definitions:
-    - 7f1a) Stackmat: The Speedstacks Stackmat, which includes both the timer and the associated mat.
+    - 7f1a) Stackmat: The Speedstacks Stackmat timer and a full-size compatible mat.
     - 7f1b) Mat: The mat of the Stackmat.
     - 7f1c) Timer: The timer of the Stackmat.
     - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
