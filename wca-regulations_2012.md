@@ -21,13 +21,13 @@
 - 1e) Each event must have one or more judges.
   - 1e1) A judge is responsible for executing the procedures of the event.
     - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the Delegate, as long as the judge is able ensure that all WCA Regulations are followed at all times.
-  - 1e2) All competitors shall be available for judging, if needed by organisation team. Penalty: disqualification from the competition.
+  - 1e2) Each competitor shall be available for judging, if needed by organisation team. Penalty: disqualification from the competition.
 - 1f) Each event (except for puzzles that are not scrambled) must have one or more scramblers.
   - 1f1) A scrambler applies scramble sequences to prepare solved puzzles for attempts.
-  - 1f2) All competitors shall be available for scrambling, if needed by organisation team. Penalty: disqualification from the competition.
+  - 1f2) Each competitor shall be available for scrambling, if needed by organisation team. Penalty: disqualification from the competition.
 - 1g) Each event must have one or more score takers.
   - 1g1) A score taker is responsible for compiling results.
-  - 1g2) Any changes to the score sheets are at the discretion of the WCA Delegate.
+  - 1g2) Any change to the result on a score sheet must be made the discretion of the WCA Delegate.
 - 1h) Competitors in the same round of an event may be divided into heats.
   - 1h1) Scramblers for a round must not scramble for competitors in their own heat before they have finished all of their attempts for the round. Scramblers and judges must not see or judge any scrambles from their heat that they have not attempted yet.
   - 1h2) Competitors in the same heat must use the same scramble sequences. Different heats must use different scramble sequences.
@@ -72,7 +72,7 @@
   - 2s1) For competitors with hearing disabilities, judges may replace the vocal instructions with hand signals.
   - 2s2) For competitors with physical disabilities, judges may assist with starting and stopping the timer.
   - 2s3) Competitors with other disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations with the WCA Delegate.
-- 2t) All competitors must be familiar with and understand the WCA Regulations before the competition.
+- 2t) Each competitor must be familiar with and understand the WCA Regulations before the competition.
 
 
 ## Article 3: Puzzles
@@ -80,10 +80,10 @@
 - 3a) Competitors must provide their own puzzles for the competition. Competitors may borrow puzzles from other competitors.
   - 3a1) Competitors must be present and ready to compete when they are called to compete for a round. Penalty: disqualification from the event.
 - 3b) Puzzles must be fully operational, such that normal scrambling is possible.
-- 3c) Polyhedral puzzles must use a colour scheme with one colour per face in the solved state. All puzzle variations must have moves, states and solutions functionally identical to the original puzzle.
-- 3d) Puzzles must have coloured stickers, coloured tiles, textures, or painted/printed colours. Textured puzzles must have uniform texture patterns on all exposed faces.
-  - 3d1) Textured puzzles must have different colours on each face to aid in scrambling and judging.
-  - 3d2) Competitors with a medically documented visual disability may use textured puzzles with different textures on each face. Textures/patterns must be uniform per face.
+- 3c) Polyhedral puzzles must use a colour scheme with one colour per face in the solved state. Each puzzle variation must have moves, states and solutions functionally identical to the original puzzle.
+- 3d) Puzzles must have coloured stickers, coloured tiles, textures, or painted/printed colours.
+  - 3d1) Textured puzzles must have uniform texture patterns over all exposed faces.
+  - 3d2) Exception: Competitors with a medically documented visual disability may use textured puzzles with different textures on different faces. Textures/patterns must be uniform per face. Face should also have a (distinct) colours, to aid in scrambling and judging.
 - 3e) The colours of puzzles must be solid, with one uniform colour per face. Each colour on the puzzle must be clearly distinct from the other colours.
 - 3f) Stickers/tiles/textures/paint must not be thicker than 1.5 mm, or the generally available thickness for non-cube puzzles.
 - 3g) Puzzles may be refined internally by sanding or applying any form of lubricant.
@@ -115,7 +115,7 @@
 - 5a) Examples of puzzle defects include: popped pieces, broken wires, and detached screws/caps/stickers.
 - 5b) If a puzzle defect occurs during the attempt, the competitor may choose to repair the defect and continue the attempt, or to stop the attempt.
   - 5b1) If a competitor chooses to repair the puzzle, he must repair only the defective pieces. Tools and/or pieces of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the attempt (DNF).
-  - 5b2) Any repairs to a puzzle must not give the competitor any advantage in solving the puzzle. Penalty: disqualification of the attempt (DNF).
+  - 5b2) Any repair to a puzzle must not give the competitor any advantage in solving the puzzle. Penalty: disqualification of the attempt (DNF).
   - 5b3) If, after repairing the puzzle but before the end of the attempt, the competitor finds that the puzzle is unsolvable, he may disassemble and assemble a maximum of 4 pieces to make the puzzle solvable.
   - 5b4) During blindfolded events, a puzzle defect shall only be repaired during the attempt, and all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
   - 5b5) If parts of the puzzle are still defective or not fully placed at the end of the attempt, the result shall be recorded as the worst state obtainable by reassembling the puzzle.
@@ -192,7 +192,7 @@
   - 9i1) The WCA shall recognise the following types of regional records: national records, continental records, and world records.
   - 9i2) Results of official WCA competitions are dated to the calendar date of the competition. If a competition spans multiple days, the results of each round are dated to the last scheduled calendar date of the round.
   - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
-- 9j) Each event must be held at most once per competition.
+- 9j) Each event shall be held at most once per competition.
 - 9k) All competitors may participate in all events of a competition.
 - 9l) Each round must be completed before any following round of the same event starts.
 - 9m) Events must have at most four rounds.
@@ -210,7 +210,7 @@
     - 9r1b) Any limit to the number of competitors permitted in the qualification round of the event, and any limit tothe maximum number of those competitors who will proceed to the first round.
     - 9r1c) The average/mean result or single solve result, achieved in previous competition, required to qualify directly for the first round of the event.
     - 9r1d) The latest permitted date used to determine the qualifying average/mean result or single solve result on the WCA rankings.
-  - 9r2) All competitors of an event who have not directly qualified for the first round of the event must compete in the qualification round in order to participate in the first round.
+  - 9r2) Each competitor of an event who has not directly qualified for the first round of the event must compete in the qualification round in order to participate in the first round.
   - 9r3) A qualification round may be added to accommodate newly registered competitors, and/or the maximum number of competitors in the qualification round or first round of an event may be increased. These changes must be made at least two weeks before the competition.
 - 9s) Each round of each event must have a time limit (see Regulation A1a).
 
@@ -218,7 +218,7 @@
 ## Article 10: Solved State
 
 - 10b) Only the resting state of the puzzle, after the timer has been stopped, is considered.
-- 10c) Puzzles may be in any orientation at the end of the attempt.
+- 10c) The puzzle may be in any orientation at the end of the attempt.
 - 10d) All pieces of a puzzle must be fully attached to the puzzle in their required positions. Exceptions: see Article 5.
 - 10e) A puzzle is solved when all face colours are reassembled and all parts are aligned within the limits specified below:
   - 10e1) For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in Regulation 10f, the puzzle shall be considered to require one additional move to solve (see 'Block Turn Metric' in Article 12).
@@ -293,7 +293,7 @@
   - A1a) The organisation team may enforce time limits for attempts and/or rounds.
     - A1a1) The default time limit per attempt is 10 minutes, though the organisation team may announce a higher/lower time limit.
     - A1a2) Cumulative time limits may be enforced (e.g. 3 attempts with a cumulative time limit of 20 minutes). The time elapsed in a DNF result counts towards the cumulative time limit.
-    - A1a3) For any round, time limits must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who shall carefully consider the fairness of the change.
+    - A1a3) For each round, any time limits must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who shall carefully consider the fairness of the change.
     - A1a4) The competitor must end the attempt within the time limit. If a competitor reaches the time limit for an attempt/round, the judge shall stop the attempt immediately and record the result as DNF. Exception: Multiple Blindfolded Solving (see Regulation H1b1).
     - A1a5) An attempt shall be considered to meet the time limit if and only if the original recorded time, before any time penalties are applied, is strictly less than the time limit. Exception: Multiple Blindfolded Solving (see Regulation H1b1).
   - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
@@ -430,7 +430,7 @@
 
 - F1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
 - F2) The judge shall place scrambled puzzle onto the mat in a standing position.
-- F3) At the end of the inspection period, the competitor shall place the puzzle onto the mat in a standing position. The positions of any pins must not have been changed from their scrambled positions. Penalty: time penalty (+2 seconds).
+- F3) At the end of the inspection period, the competitor shall place the puzzle onto the mat in a standing position. He must changed the positions of any pins from their scrambled positions. Penalty: time penalty (+2 seconds).
 
 
 ## Article G: Magic Solving and Master Magic Solving
