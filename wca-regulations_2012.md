@@ -27,7 +27,7 @@
   - 1f2) All competitors must be available for scrambling, if needed by organisation team. Penalty: disqualification from the competition.
 - 1g) Each event must have one or more score takers.
   - 1g1) A score taker is responsible for compiling results.
-  - 1g2) Any changes to the score sheets must made with the consent of the WCA Delegate.
+  - 1g2) Any changes to the score sheets are at the discretion of the WCA Delegate.
 - 1h) Competitors in the same round of an event may be divided into heats.
   - 1h1) Scramblers for a round must not scramble for competitors in their own heat before they have completed all of their attempts for the round. Scramblers and judges must see or judge any scrambles from their heat that they have not attempted yet.
   - 1h2) Competitors in the same heat must use the same scramble sequences. Different heats must use different scramble sequences.
