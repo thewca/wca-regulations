@@ -80,7 +80,7 @@
 - 3a) Competitors must provide their own puzzles for the competition. Competitors may borrow puzzles from other competitors.
   - 3a1) Competitors must be present and ready to compete when they are called to compete for a round. Penalty: disqualification from the event.
 - 3b) Puzzles must be in fully operational, such that normal scrambling is possible.
-- 3c) Polyhedral puzzles must use a colour scheme with one colour per face in the solved state. All puzzle variations must have moves, positions and solutions functionally identical to the original puzzle.
+- 3c) Polyhedral puzzles must use a colour scheme with one colour per face in the solved state. All puzzle variations must have moves, states and solutions functionally identical to the original puzzle.
 - 3d) Puzzles must have coloured stickers, coloured tiles, textures or painted/printed colours. Textured puzzles must have uniform texture patterns on all exposed faces.
   - 3d1) Textured puzzles must have different colours on each face to aid in scrambling and judging.
   - 3d2) Competitors with a medically documented visual disability may use textured puzzles with different textures on each face. Textures/patterns must be uniform per face.
@@ -138,7 +138,7 @@
     - 7f2a) Exception: In Solving With Feet the timer must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
 - 7h) The competition area must have a competitors area.
   - 7h1) The organisation team may require that a competitor who have been called to compete must remain within the competitors area until he has completed all of his attempts for the round.
-  - 7h3) Competitors in the competitors area must not communicate with each other about the scrambled positions of the puzzles of the round in progress. Penalty: disqualification of the competitor from the event, at the discretion of the WCA Delegate.
+  - 7h3) Competitors in the competitors area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor from the event, at the discretion of the WCA Delegate.
 
 
 ## Article 8: Competitions

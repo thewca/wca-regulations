@@ -50,7 +50,7 @@ Note the following:
 ## Article 5: Puzzle Defects
 
 - 5b5) [EXAMPLE] Example of a piece not fully placed: a 5x5x5 centre piece twisted in its spot
-- 5b5) [EXAMPLE] Example of judging an attempt ending with a defective puzzle: A pyraminx with a detached tip may be reassembled in three states, one fully solved, and two "+2" states. An attempt ending in such a position would be assigned a "+2" penalty.
+- 5b5) [EXAMPLE] Example of judging an attempt ending with a defective puzzle: A pyraminx with a detached tip may be reassembled in three states, one fully solved, and two "+2" states. An attempt ending in such a situation would be assigned a "+2" penalty.
 
 
 ## Article 6: Awards/prizes/honours
