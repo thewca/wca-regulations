@@ -104,9 +104,9 @@
 - 4a) A scrambler shall apply scramble sequences to the puzzles.
 - 4b) Puzzles must be scrambled using computer-generated random scramble sequences. Scramble sequences for a round must be available only to the WCA Delegate and the scrambler until the end of the round. Generated scrambles must not be inspected before the competition, and must not be filtered or selected for in any way by the WCA Delegate.
 - 4d) Scrambling orientation:
-  - 4d1) Cube puzzles and Megaminx must be scrambled with the white (otherwise the lightest colour) face on top and green (or the darkest adjacent face by default) on the front.
-  - 4d2) Pyraminx must be scrambled with the yellow (or the lightest colour by default) face on bottom and green (or the darkest adjacent colour by default) on the front.
-  - 4d3) Square-1 must be scrambled with the darkest colour on front (out of the 2 possible scrambling orientations).
+  - 4d1) Cube puzzles and Megaminx must be scrambled with the white (if not possible, then the lightest face) face on top and green (if not possible, then the darkest adjacent face) on the front.
+  - 4d2) Pyraminx must be scrambled with the yellow (if not possible, then the lightest face) face on bottom and green (if not possible, then the darkest adjacent colour) on the front.
+  - 4d3) Square-1 must be scrambled with the darker colour on front (out of the 2 possible scrambling orientations).
 - 4f) Competition scramble sequences must be generated using the current official version of the official WCA scramble program (available via the WCA website).
 
 
