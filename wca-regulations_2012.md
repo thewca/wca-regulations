@@ -10,13 +10,13 @@
 - 1c) The WCA Delegate may delegate responsibilities to other members of the organisation team, but is ultimately accountable for how these responsibilities are carried out. The WCA Delegate for a competition is responsible for:
   - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the competition date.
   - 1c3) Sending the competition results to the WCA Results Team.
-    - 1c3a) All scrambles used during a competition must be sent with the results of the competition.
-    - 1c3b) Scrambles must be labelled with the events, rounds, and heats for which they were used.
+    - 1c3a) All scramble sequences used during a competition must be sent with the results of the competition.
+    - 1c3b) Scramble sequences must be labelled with the events, rounds, and heats for which they were used.
   - 1c4) Sending corrections to the competition results to the WCA Board.
   - 1c5) Advising the other officials where necessary.
   - 1c6) Approving all events and round formats of a competition, before the competition starts, and if changes are required during the competition.
   - 1c7) Decisions about disqualifying competitors during the competition.
-  - 1c8) Providing the scrambles.
+  - 1c8) Providing the scramble sequences.
   - 1c9) Decisions on changes to the scheduled times of rounds. In cases of such changes, a clear announcement should be made to all competitors.
 - 1e) Each event must have one or more judges.
   - 1e1) A judge is responsible for executing the procedures of the event.
@@ -101,13 +101,13 @@
 
 ## Article 4: Scrambling
 
-- 4a) A scrambler must apply the scramble sequences.
-- 4b) Puzzles must be scrambled using computer-generated random scramble sequences. Scrambles must be available only to the WCA Delegate and the scrambler. Generated scrambles must not be inspected before the competition, and must not be filtered or selected for in any way by the WCA Delegate.
+- 4a) A scrambler shall apply scramble sequences to the puzzles.
+- 4b) Puzzles must be scrambled using computer-generated random scramble sequences. Scramble sequences must be available only to the WCA Delegate and the scrambler. Generated scrambles must not be inspected before the competition, and must not be filtered or selected for in any way by the WCA Delegate.
 - 4d) Scrambling orientation:
   - 4d1) Cube puzzles and Megaminx must be scrambled with the white (otherwise the lightest colour) face on top and green (or the darkest adjacent face by default) on the front.
   - 4d2) Pyraminx must be scrambled with the yellow (or the lightest colour by default) face on bottom and green (or the darkest adjacent colour by default) on the front.
   - 4d3) Square-1 must be scrambled with the darkest colour on front (out of the 2 possible scrambling orientations).
-- 4f) Competition scramble sequences must be generated using the current official version of the official WCA scrambling program (available via the WCA website).
+- 4f) Competition scramble sequences must be generated using the current official version of the official WCA scramble program (available via the WCA website).
 
 
 ## Article 5: Puzzle Defects
@@ -244,7 +244,7 @@
 - 11b) Should an incident occur, the WCA Delegate must determine an impartial and appropriate course of action.
 - 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make his decision based on fair sportsmanship.
 - 11e) Should an incident occur during an event, the WCA Delegate may award a competitor an extra attempt, replacing the attempt during which the incident occurred. The competitor must appeal at the time of the incident, before completing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.
-  - 11e1) If a competitor is awarded an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble must be generated using the current official version of the official WCA scramble program (see Regulation 4f).
+  - 11e1) If a competitor is awarded an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble sequence must be generated using the current official version of the official WCA scramble program (see Regulation 4f).
 - 11f) The WCA Delegate must not support his decisions with video or photographic analysis. A competitor may, however, submit video or photographic evidence supporting an appeal to the WCA Board.
 
 
