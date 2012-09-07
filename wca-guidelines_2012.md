@@ -20,7 +20,7 @@ Note the following:
 - 1c3b) [CLARIFICATION] If there are multiple groups, it not necessary to identify which competitor was in which heats.
 - 1c4) [RECOMMENDATION] Corrections to the results should be available within one week of the competition date.
 - 1h) [RECOMMENDATION] All final rounds of all events, as well as all Fewest Moves Solving rounds, should have the same scrambles for all competitors (i.e. only 1 heat).
-1h1) [CLARIFICATION] Judges should not start judging other competitors in their own heat before they have finished all their attempts. Sometimes it is useful to permit judges to start judging other competitors in their own heat before they have finished all their attempts, but the organization team must ensure that no judge is able to see a scramble for one of their attempts before they attempt it.
+- 1h1) [CLARIFICATION] Judges should not start judging other competitors in their own heat before they have finished all their attempts. Sometimes it is useful to permit judges to start judging other competitors in their own heat before they have finished all their attempts, but the organization team must ensure that no judge is able to see a scramble for one of their attempts before they attempt it.
 
 
 ## Article 2: Competitors
@@ -31,11 +31,13 @@ Note the following:
 - 2d) [RECOMMENDATION] If a third party (e.g. journalist) asks the organisation team to be put in contact with any competitors, the competitor should first be asked for consent.
 - 2h1) [CLARIFICATION] Competitors may be barefoot for Solving With Feet.
 - 2j2) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, his results from earlier rounds remain valid.
+- 2s3) [REMINDER] Special accommodations shall be noted in the Delegate Report.
 
 
 ## Article 3: Puzzles
 
-- 3a1) [CLARIFICATION] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit.
+- 3a1) [CLARIFICATION] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit their puzzle at the moment).
+- 3a) [ADDITION] By default, a competitor shall use the same puzzle for consecutive attempts in a speed solving round. A competitor may switch puzzles between attempts, at the discretion of the judge or Delegate.
 - 3c) [CLARIFICATION] Competitors may use puzzles of any reasonable size, at the discretion of the Delegate.
 - 3i) [EXAMPLE] Examples of such enhancement include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, more or other solved states.
 
@@ -43,6 +45,8 @@ Note the following:
 ## Article 4: Scrambling
 
 - 4b) [REMINDER] Delegates must never re-generate any scrambles to replace other ones for the purpose of filtering. For example, it is not be permitted to glance at the scrambles for a competition and generate the entire set again in order to generate 'fairer' scrambles.
+- 4b) [CLARIFICATION] In general, all official scramble sequences should be published together after the end of the competition. In some cases (e.g. world records), the organisation team may wish to release specific scrambles earlier.
+- 4d1) [CLARIFICATION] Some puzzles use standard color schemes, except that black is replaced with white. In this case, black shall not be treated as white.
 - 4f) [RECOMMENDATION] The WCA Delegate should generate sufficient scrambles for the entire competition ahead of time, including spare scrambles for extra attempts.
 - 4f) [REMINDER] If the Delegate generates any additional scrambles during the competition, he must save them (see Regulation 1c3a).
 
@@ -143,6 +147,7 @@ All misalignments <= 45 degrees: Solved, with penalty
 
 ## Article H: Multiple Blindfolded Solving
 
+- H1b1) [REMINDER] The attempt is not disqualified for reaching the time limit, due to exceptions for Multiple Blindfolded Solving (see Regulations A1a4 and A1a5).
 - H1b1) [ADDITION] The judge may permit the competitor to continue the attempt unofficially, but the attempt must be interrupted and stopped first, in full accordance with the Regulations.
-- H1d) [EXAMPLE] Example: If a competitor attempts 10 cubes, stops with a time of 59:57, and has two time penalties, the result is 59:57 + 2*2 = 60:01 (also see Guideline A1a5).
-- H1d) [EXAMPLE] Example: If a competitor attempts 10 cubes, stops with a time of 59:57, and has two time penalties, the result is 59:57 + 2*2 = 60:01 (also see Guideline A1a5).
+- H1d) [EXAMPLE] Example: If a competitor attempts 10 cubes, stops with a time of 59:57, and has two time penalties, the time for the result is 59:57 + 2*2 = 60:01 (also see Guideline A1a5).
+- H1d) [EXAMPLE] Example: If a competitor attempts 10 cubes, and the judge stops him at one 60 minutes, and has two time penalties, the time for the result is 60:00 + 2*2 = 60:04 (also see Guideline A1a5).

@@ -29,7 +29,7 @@
   - 1g1) A score taker is responsible for compiling results.
   - 1g2) Any changes to the score sheets are at the discretion of the WCA Delegate.
 - 1h) Competitors in the same round of an event may be divided into heats.
-  - 1h1) Scramblers for a round must not scramble for competitors in their own heat before they have finished all of their attempts for the round. Scramblers and judges must see or judge any scrambles from their heat that they have not attempted yet.
+  - 1h1) Scramblers for a round must not scramble for competitors in their own heat before they have finished all of their attempts for the round. Scramblers and judges must not see or judge any scrambles from their heat that they have not attempted yet.
   - 1h2) Competitors in the same heat must use the same scramble sequences. Different heats must use different scramble sequences.
 - 1j) All officials may compete in the competition.
 - 1k) Officials may serve multiple roles (e.g. organisation team, WCA Delegate, judge, score taker, scrambler).
@@ -71,7 +71,7 @@
 - 2s) Exceptions for documented disabilities:
   - 2s1) For competitors with hearing disabilities, judges may replace the vocal instructions with hand signals.
   - 2s2) For competitors with physical disabilities, judges may assist with starting and stopping the timer.
-  - 2s3) Competitors with other disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations with the WCA Delegate. Such accommodations shall be noted in the Delegate Report.
+  - 2s3) Competitors with other disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations with the WCA Delegate.
 - 2t) All competitors must be familiar with and understand the WCA Regulations before the competition.
 
 
@@ -79,12 +79,12 @@
 
 - 3a) Competitors must provide their own puzzles for the competition. Competitors may borrow puzzles from other competitors.
   - 3a1) Competitors must be present and ready to compete when they are called to compete for a round. Penalty: disqualification from the event.
-- 3b) Puzzles must be in fully operational, such that normal scrambling is possible.
+- 3b) Puzzles must be fully operational, such that normal scrambling is possible.
 - 3c) Polyhedral puzzles must use a colour scheme with one colour per face in the solved state. All puzzle variations must have moves, states and solutions functionally identical to the original puzzle.
 - 3d) Puzzles must have coloured stickers, coloured tiles, textures or painted/printed colours. Textured puzzles must have uniform texture patterns on all exposed faces.
   - 3d1) Textured puzzles must have different colours on each face to aid in scrambling and judging.
   - 3d2) Competitors with a medically documented visual disability may use textured puzzles with different textures on each face. Textures/patterns must be uniform per face.
-- 3e) The colours of puzzles must be solid and of uniform shade per face. Each colour on the puzzle must be clearly distinct from the other colours.
+- 3e) The colours of puzzles must be solid, with one uniform colour per face. Each colour on the puzzle must be clearly distinct from the other colours.
 - 3f) Stickers/tiles/textures/paint must not be thicker than 1.5 mm, or the generally available thickness for non-cube puzzles.
 - 3g) Puzzles may be refined internally by sanding or applying any form of lubricant.
 - 3h) Modifications that enhance the basic concept of a puzzle are not permitted.
@@ -102,7 +102,7 @@
 ## Article 4: Scrambling
 
 - 4a) A scrambler shall apply scramble sequences to the puzzles.
-- 4b) Puzzles must be scrambled using computer-generated random scramble sequences. Scramble sequences must be available only to the WCA Delegate and the scrambler. Generated scrambles must not be inspected before the competition, and must not be filtered or selected for in any way by the WCA Delegate.
+- 4b) Puzzles must be scrambled using computer-generated random scramble sequences. Scramble sequences for a round must be available only to the WCA Delegate and the scrambler until the end of the round. Generated scrambles must not be inspected before the competition, and must not be filtered or selected for in any way by the WCA Delegate.
 - 4d) Scrambling orientation:
   - 4d1) Cube puzzles and Megaminx must be scrambled with the white (otherwise the lightest colour) face on top and green (or the darkest adjacent face by default) on the front.
   - 4d2) Pyraminx must be scrambled with the yellow (or the lightest colour by default) face on bottom and green (or the darkest adjacent colour by default) on the front.
@@ -117,7 +117,7 @@
   - 5b1) If a competitor chooses to repair the puzzle, he must repair only the defective pieces. Tools and/or pieces of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the attempt (DNF).
   - 5b2) Any repairs to a puzzle must not give the competitor any advantage in solving the puzzle. Penalty: disqualification of the attempt (DNF).
   - 5b3) If, after repairing the puzzle but before the end of the attempt, the competitor finds that the puzzle is unsolvable, he may disassemble and assemble a maximum of 4 pieces to make the puzzle solvable.
-  - 5b4) During blindfolded events, a puzzle defect may only be repaired during the attempt, and all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
+  - 5b4) During blindfolded events, a puzzle defect shall only be repaired during the attempt, and all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
   - 5b5) If parts of the puzzle are still defective or not fully placed at the end of the attempt, the result shall be recorded as the worst state obtainable by reassembling the puzzle.
 - 5c) If a competitor has a puzzle defect, this does not give him the right to an extra attempt.
 
@@ -135,7 +135,7 @@
     - 7f1c) Timer: The timer of the Stackmat.
     - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
   - 7f2) The timer must be attached to the mat and placed directly on the table, desk or other suitable console, with the timer on the side of the mat nearest to the competitor. The mat must be placed flush against the surface of the table.
-    - 7f2a) Exception: In Solving With Feet the timer must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
+    - 7f2a) Exception: In Solving With Feet, the timer must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
 - 7h) The competition area must have a competitors area.
   - 7h1) The organisation team may require that a competitor who have been called to compete must remain within the competitors area until he has finished all of his attempts for the round.
   - 7h3) Competitors in the competitors area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor from the event, at the discretion of the WCA Delegate.
@@ -183,8 +183,8 @@
     - 9f12a) "Better" is defined as the shorter time.
     - 9f12b) For Fewest Moves Solving, "better" is defined as the shorter solution length.
     - 9f12c) For Multiple Blindfolded Solving, rankings are assessed based on number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, the attempt is unsolved (DNF). If competitors achieve the same result, rankings shall be assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings shall be assessed based on the number of puzzles the competitors fail to solve, where fewer unsolved puzzles is better.
-  - 9f13) For 'Mean of 3' and 'Average of X' rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the shorter recorded time.
-  - 9f14) For 'Mean of 3' and 'Average of X' rounds where two or more competitors achieve identical average/mean results, rankings are assessed based on the best result per competitor, where "better" is defined as the shorter time.
+  - 9f13) For 'Mean of 3' and 'Average of 5' rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the shorter recorded time.
+  - 9f14) For 'Mean of 3' and 'Average of 5' rounds where two or more competitors achieve identical average/mean results, rankings are assessed based on the best result per competitor, where "better" is defined as the shorter time.
   - 9f15) Competitors who achieve the same result in a round receive and identical ranking for the round.
 - 9g) A Combined Round consists of two phases of attempts, where competitors advance to the second phase only if they meet a designated cutoff during the first phase.
   - 9g2) Whether a competitor proceeds to next phase of a Combined round, must be decided by ranking (best x competitors) or by result (all competitors with a best result under x) of the first phase.
@@ -340,7 +340,7 @@
     - A6b2) If the timer stops before the end of the solve and displays a time of 0.06 seconds or higher, then the attempt shall be disqualified (DNF), unless the competitor can demonstrate to the WCA Delegate's satisfaction that the timer malfunctioned during the attempt.
   - A6c) The timer must be stopped using both hands, which shall be placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
   - A6d) The competitor must fully release the puzzle before stopping the timer. Penalty: time penalty (+2 seconds).
-  - A6e) The competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been done, a time penalty (+2 seconds) may be given instead, at the discretion of the judge.
+  - A6e) The competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been done, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
   - A6f) The competitor must not reset the timer until the judge has recorded the result on the score sheet. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
   - A6g) The judge shall determine whether the puzzle is solved. He must not make moves or align faces when examining the puzzle.
   - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle prior to the resolution of said dispute. Penalty: disqualification of the attempt (DNF), at the discretion of the WCA Delegate.
@@ -383,7 +383,7 @@
 - B5) Stopping the solve:
   - B5a) When using the Stackmat, the competitor stops the attempt by releasing the puzzle and then stopping the timer.
   - B5b) When using a stopwatch, the competitor ends the attempt by placing the puzzle back onto the surface and notifying the judge that he is stopping the attempt. At that moment, the judge stops the timer.
-  - B5c) The competitor may remove the blindfold before he stops the timer. He must not apply any moves to the puzzle after the blindfold is removed. Penalty: disqualification of the attempt (DNF).
+  - B5c) If he is not touching the puzzle, the competitor may remove the blindfold before he stops the timer. He must not touch the puzzle until the end of the attempt. Penalty: disqualification of the attempt (DNF).
 
 
 ## Article C: One-Handed Solving
@@ -402,10 +402,10 @@
   - D1b) During the attempt, the competitor must only use his feet and the surface. The competitor may wear socks while solving. Penalty: disqualification of the attempt (DNF).
   - D1c) Other body parts or other objects must not touch the puzzle. Penalty: disqualification of the attempt (DNF).
 - D3) Starting the solve:
-  - D3a) Competitor shall place his feet onto the timer sensors.
-  - D3b) Competitor shall remove his feet from the timer sensors to start the solve.
+  - D3a) The competitor shall place his feet onto the timer sensors.
+  - D3b) The competitor shall remove his feet from the timer sensors to start the solve.
 - D4) Stopping the solve:
-  - D4a) Competitor shall stop the timer by placing his feet onto the timer sensors.
+  - D4a) The competitor shall stop the timer by placing his feet onto the timer sensors.
 
 
 ## Article E: Fewest Moves Solving
