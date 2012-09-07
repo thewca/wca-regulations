@@ -323,7 +323,7 @@
 - A4) Starting the solve:
   - A4b) The competitor must place his hands on the elevated sensor unit of the timer, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
     - A4b1) The competitor must have no physical contact with the puzzle between the inspection period and the start of the solve. Penalty: time penalty (+2 seconds).
-  - A4d) The competitor starts the solve by confirming that the timer light is green and then removing his hands from the timer, thereby starting the timer.
+  - A4d) The competitor starts the solve by confirming that the timer light is green and then removing his hands from the timer, thus starting the timer.
     - A4d1) The competitor must start the solve within 15 seconds of the start of the inspection. Penalty: time penalty (+2 seconds).
     - A4d2) The competitor must start the solve within 17 seconds of the start of the inspection. Penalty: disqualification of the attempt (DNF).
   - A4e) Time penalties for Starting the Solve are cumulative.
@@ -364,7 +364,7 @@
   - B2a) The judge shall reset the timer and stopwatch.
   - B2b) The competitor must place his hands on the elevated sensor unit of the Stackmat, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
   - B2c) The competitor must have no physical contact with the puzzle before the start of the attempt. Penalty: time penalty (+2 seconds).
-  - B2d) The competitor starts the attempt by removing his hands from the timer, thereby starting the timer.
+  - B2d) The competitor starts the attempt by removing his hands from the timer, thus starting the timer.
     - B2d1) The competitor removes the cover from the puzzle after starting the timer.
   - B2e) If a stopwatch is in use, the judge shall start the stopwatch as soon as the competitor starts the solve.
 - B3) Memorisation phase:
