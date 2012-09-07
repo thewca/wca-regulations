@@ -23,7 +23,7 @@
     - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the Delegate, as long as the judge is able ensure that all WCA Regulations are followed at all times.
   - 1e2) All competitors must be available for judging, if needed by organisation team. Penalty: disqualification from the competition.
 - 1f) Each event (except for puzzles that are not scrambled) must have one or more scramblers.
-  - 1f1) A scrambler is responsible for applying the scramble sequences to the puzzles for the event.
+  - 1f1) A scrambler applies scramble sequences to prepare solved puzzles for attempts.
   - 1f2) All competitors must be available for scrambling, if needed by organisation team. Penalty: disqualification from the competition.
 - 1g) Each event must have one or more score takers.
   - 1g1) A score taker is responsible for compiling results.
@@ -224,7 +224,7 @@
   - 10e1) For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in Regulation 10f, the puzzle shall be considered to require one additional move to solve (see "Block Turn Metric" in Article 12).
   - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle shall be considered solved without penalty.
   - 10e3) If one move is required, the puzzle shall be considered solved with a time penalty (+2 seconds).
-  - 10e4) If more than one move is required, the puzzle is considered unsolved (DNF).
+  - 10e4) If more than one move is required, the puzzle shall be considered unsolved (DNF).
 - 10f) Limits of acceptable misalignment for puzzles:
   - 10f1) Cube-shaped puzzles: at most 45 degrees.
   - 10f2) Megaminx: at most 36 degrees.
@@ -318,8 +318,8 @@
     - A3c3) The competitor may reset the timer before he starts the solve.
   - A3d) At the end of the inspection, the competitor must place the puzzle on the mat, in any orientation and position.
     - A3d1) The puzzle must not rest on the timer. Penalty: time penalty (+2 seconds).
-    - A3d2) When 8 seconds of inspection have elapsed, the judge calls '8 seconds'.
-    - A3d3) When 12 seconds of inspection have elapsed, the judge calls 'GO', and the competitor shall start the solve.
+    - A3d2) When 8 seconds of inspection have elapsed, the judge shall call '8 SECONDS'.
+    - A3d3) When 12 seconds of inspection have elapsed, the judge shall call 'GO', and the competitor shall start the solve.
 - A4) Starting the solve:
   - A4b) The competitor must place his hands on the elevated sensor unit of the timer, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
     - A4b1) The competitor must have no physical contact with the puzzle between the inspection period and the start of the solve. Penalty: time penalty (+2 seconds).
@@ -347,7 +347,7 @@
 - A7) Recording results:
   - A7a) If the judge finds that the puzzle is solved, he shall call 'OK'.
   - A7b) The judge shall record the result on a score sheet.
-    - A7b1) If penalties are applied, the judge shall record the result displayed on the timer, and record the penalty adjacent, in the format "X + T + Y = F", where X represents a sum total of penalties incurred before the solve, T represents the time displayed on the timer, Y represents a sum total of penalties incurred during/after the solve, and F represents the final result. If the value of X and/or Y is zero, the relevant term is omitted (e.g. 2 + 17.65 + 2 = 21.65, or 17.65 + 2 = 19.65).
+    - A7b1) If penalties are assigned, the judge shall record the result displayed on the timer, and record the penalty adjacent, in the format "X + T + Y = F", where X represents a sum total of penalties incurred before the solve, T represents the time displayed on the timer, Y represents a sum total of penalties incurred during/after the solve, and F represents the final result. If the value of X and/or Y is zero, the relevant term is omitted (e.g. 2 + 17.65 + 2 = 21.65, or 17.65 + 2 = 19.65).
   - A7c) The judge and competitor must both sign the score sheet to acknowledge the result. Should either of them refuse to sign the score sheet, the WCA Delegate may sign in their place.
   - A7d) If the judge assigns a penalty, the judge shall call 'PENALTY'.
   - A7e) If the result is DNF, then judge shall call 'DNF'.
@@ -412,9 +412,9 @@
 - E1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
   - E1a) The competitor is permitted a maximum solution length of 80 (moves and rotations).
 - E2) Procedure for Fewest Moves Solving:
-  - E2a) The judge distributes a scramble sequence to all competitors. The judge then starts the stopwatch and says 'GO'.
+  - E2a) The judge distributes a scramble sequence to all competitors. The judge shall then start stopwatch and call 'GO'.
   - E2b) The competitor is allotted a total of 60 minutes to devise a solution.
-    - E2b1) A judge announces the remaining time when 5 minutes remain, and call 'STOP' at 60 minutes.
+    - E2b1) A judge shall call '5 MINUTES REMAINING' when 5 minutes remain, and call 'STOP' at 60 minutes.
   - E2c) At the end of the 60 minutes the competitor must give the judge a legibly written solution, using the notation defined for Block Turn Metric (described in Article 12a). Penalty: disqualification of the attempt (DNF).
   - E2d) The length of the solution shall be calculated in Block Turn Metric (see Article 12a).
   - E2e) The solution of the competitor must not be directly derived from any part of the scrambling algorithm. Penalty: disqualification of the attempt (DNF).
@@ -429,7 +429,7 @@
 
 - F1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
 - F2) The judge shall place scrambled puzzle onto the mat in a standing position.
-- F3) At the end of the inspection period, the competitor shall place the puzzle onto the mat in a standing position. If the positions of any pins have been in any way changed from their scrambled positions, a time penalty (+2 seconds) shall be applied.
+- F3) At the end of the inspection period, the competitor shall place the puzzle onto the mat in a standing position. The positions of any pins must not have been changed from their scrambled positions. Penalty: time penalty (+2 seconds).
 
 
 ## Article G: Magic Solving and Master Magic Solving
