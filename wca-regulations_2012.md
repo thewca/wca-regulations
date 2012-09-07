@@ -21,10 +21,10 @@
 - 1e) Each event must have one or more judges.
   - 1e1) A judge is responsible for executing the procedures of the event.
     - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the Delegate, as long as the judge is able ensure that all WCA Regulations are followed at all times.
-  - 1e2) All competitors must be available for judging, if needed by organisation team. Penalty: disqualification from the competition.
+  - 1e2) All competitors shall be available for judging, if needed by organisation team. Penalty: disqualification from the competition.
 - 1f) Each event (except for puzzles that are not scrambled) must have one or more scramblers.
   - 1f1) A scrambler applies scramble sequences to prepare solved puzzles for attempts.
-  - 1f2) All competitors must be available for scrambling, if needed by organisation team. Penalty: disqualification from the competition.
+  - 1f2) All competitors shall be available for scrambling, if needed by organisation team. Penalty: disqualification from the competition.
 - 1g) Each event must have one or more score takers.
   - 1g1) A score taker is responsible for compiling results.
   - 1g2) Any changes to the score sheets are at the discretion of the WCA Delegate.
@@ -44,7 +44,7 @@
 - 2b) Competitors below the age of 18 must obtain consent from their parent(s)/guardian(s) to register and compete.
 - 2c) Competitors must register by providing all information required by the organisation team (including: name, country, date of birth, gender, contact information, selected events).
   - 2c1) A competitor shall not be eligible to compete without a completed registration, as determined by the organisation team.
-- 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and may only be disclosed to outside organisations/persons with the consent of the competitor.
+- 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and must not be disclosed to outside organisations/persons without the consent of the competitor.
 - 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship standing by means of documents (e.g. a passport). If a competitor is found ineligible to represent the country under which they have registered, the competitor may be retroactively disqualified and/or suspended at the discretion of the WCA Board.
     - 2e1a) The eligible countries are defined by Wikipedia List of sovereign states ("Internationally recognised sovereign states" and "Other states").
   - 2e2) Competitors with updates to their citizenship status may change their country of representation in their first competition of a calendar year.
@@ -71,7 +71,7 @@
 - 2s) Exceptions for documented disabilities:
   - 2s1) For competitors with hearing disabilities, judges may replace the vocal instructions with hand signals.
   - 2s2) For competitors with physical disabilities, judges may assist with starting and stopping the timer.
-  - 2s3) Competitors with other disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations with the WCA Delegate. Such accommodations must be noted in the Delegate Report.
+  - 2s3) Competitors with other disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations with the WCA Delegate. Such accommodations shall be noted in the Delegate Report.
 - 2t) All competitors must be familiar with and understand the WCA Regulations before the competition.
 
 
@@ -317,12 +317,12 @@
     - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the attempt (DNF).
     - A3c2) If the pieces of the puzzle are not fully aligned, then the competitor may align the faces, as long as stays within the limits within the limits described in 10f.
     - A3c3) The competitor may reset the timer before he starts the solve.
-  - A3d) At the end of the inspection, the competitor must place the puzzle on the mat, in any orientation and position.
+  - A3d) At the end of the inspection, the competitor shall place the puzzle on the mat, in any orientation and position.
     - A3d1) The puzzle must not rest on the timer. Penalty: time penalty (+2 seconds).
     - A3d2) When 8 seconds of inspection have elapsed, the judge shall call '8 SECONDS'.
     - A3d3) When 12 seconds of inspection have elapsed, the judge shall call 'GO', and the competitor shall start the solve.
 - A4) Starting the solve:
-  - A4b) The competitor must place his hands on the elevated sensor unit of the timer, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
+  - A4b) The competitor shall place his hands on the elevated sensor unit of the timer, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
     - A4b1) The competitor must have no physical contact with the puzzle between the inspection period and the beginning of the solve. Penalty: time penalty (+2 seconds).
   - A4d) The competitor starts the solve by confirming that the timer light is green and then removing his hands from the timer, thus starting the timer.
     - A4d1) The competitor must start the solve within 15 seconds of the beginning of the inspection. Penalty: time penalty (+2 seconds).
@@ -342,7 +342,7 @@
   - A6d) The competitor must fully release the puzzle before stopping the timer. Penalty: time penalty (+2 seconds).
   - A6e) The competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been done, a time penalty (+2 seconds) may be given instead, at the discretion of the judge.
   - A6f) The competitor must not reset the timer until the judge has recorded the result on the score sheet. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
-  - A6g) The judge must determine whether the puzzle is solved. He must not make moves or align faces when examining the puzzle.
+  - A6g) The judge shall determine whether the puzzle is solved. He must not make moves or align faces when examining the puzzle.
   - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle prior to the resolution of said dispute. Penalty: disqualification of the attempt (DNF), at the discretion of the WCA Delegate.
   - A6i) Time penalties for Stopping the Solve are cumulative.
 - A7) Recording results:
@@ -359,11 +359,11 @@
 
 - B1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
   - B1a) The competitor is not permitted an inspection period.
-    - B1b1) The competitor must supply his own blindfold.
-  - B1d) The competitor must use a tiled, stickered, or painted puzzle without textures or markings that distinguish the pieces.
+    - B1b1) The competitor shall supply his own blindfold.
+  - B1d) The competitor shall use a tiled, stickered, or painted puzzle without textures or markings that distinguish the pieces.
 - B2) Starting the attempt:
   - B2a) The judge shall reset the timer and stopwatch.
-  - B2b) The competitor must place his hands on the elevated sensor unit of the Stackmat, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
+  - B2b) The competitor shall place his hands on the elevated sensor unit of the Stackmat, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
   - B2c) The competitor must have no physical contact with the puzzle before the beginning of the attempt. Penalty: time penalty (+2 seconds).
   - B2d) The competitor starts the attempt by removing his hands from the timer, thus starting the timer.
     - B2d1) The competitor removes the cover from the puzzle after starting the timer.
@@ -402,10 +402,10 @@
   - D1b) During the attempt, the competitor must only use his feet and the surface. The competitor may wear socks while solving. Penalty: disqualification of the attempt (DNF).
   - D1c) Other body parts or other objects must not touch the puzzle. Penalty: disqualification of the attempt (DNF).
 - D3) Starting the solve:
-  - D3a) Competitor must place his feet onto the timer sensors.
-  - D3b) Competitor must remove his feet from the timer sensors to start the solve.
+  - D3a) Competitor shall place his feet onto the timer sensors.
+  - D3b) Competitor shall remove his feet from the timer sensors to start the solve.
 - D4) Stopping the solve:
-  - D4a) Competitor must stop the timer by placing his feet onto the timer sensors.
+  - D4a) Competitor shall stop the timer by placing his feet onto the timer sensors.
 
 
 ## Article E: Fewest Moves Solving
@@ -450,7 +450,7 @@
 
 - H1) Standard speed solving procedures shall be followed, as described in Article B (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in Article B are described below.
   - H1a) Before an attempt, the competitor must notify the judge of the number of puzzles he wishes to attempt blindfolded. The number of puzzles must be at least 2.
-    - H1a1) A competitor must not change the number of puzzles after the beginning of the attempt.
+    - H1a1) A competitor is not premitted to change the number of puzzles after the beginning of the attempt.
     - H1a2) A competitor's requested number of puzzles must not be disclosed until the beginning of the attempt.
   - H1b) A competitor is allotted 10 minutes times the number of puzzles in the attempt, up to a maximum of 60 minutes.
     - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge shall stop the attempt, and the attempt shall then be judged; the time limit for the attempt shall count as the original recorded time.
