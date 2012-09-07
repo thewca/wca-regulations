@@ -202,7 +202,7 @@
 - 9o) A Combined round and a Qualification round count as one round when counting the number of rounds per event.
 - 9p) If an event has multiple rounds, then:
   - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
-  - 9p2) The competitors who advance to the next round shall be determined by either a cutoff ranking or a cutoff time in the preceding elimination round. The cutoff must be specified before the preceding elimination round begins.
+  - 9p2) The competitors who advance to the next round shall be determined by either a cutoff ranking or a cutoff time in the preceding elimination round. The cutoff must be specified before the preceding elimination round starts.
   - 9p3) If a qualifying competitor withdraws from a round, he may be replaced by the best-ranked competitor below the cutoff from the preceding round.
 - 9r) Any qualification round must be held before the first round of the event.
   - 9r1) When announcing an event, the organisation team must include:
@@ -293,7 +293,7 @@
   - A1a) The organisation team may enforce time limits for attempts and/or rounds.
     - A1a1) The default time limit per attempt is 10 minutes, though the organisation team may announce a higher/lower time limit.
     - A1a2) Cumulative time limits may be enforced (e.g. 3 attempts with a cumulative time limit of 20 minutes). The time elapsed in a DNF result counts towards the cumulative time limit.
-    - A1a3) For any round, time limits must be announced before the round begins, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who shall carefully consider the fairness of the change.
+    - A1a3) For any round, time limits must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who shall carefully consider the fairness of the change.
     - A1a4) The competitor must end the attempt within the time limit. If a competitor reaches the time limit for an attempt/round, the judge shall stop the attempt immediately and record the result as DNF. Exception: Multiple Blindfolded Solving (see Regulation H1b1).
     - A1a5) An attempt shall be considered to meet the time limit if and only if the original recorded time, before any time penalties are applied, is strictly less than the time limit. Exception: Multiple Blindfolded Solving (see Regulation H1b1).
   - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
@@ -303,14 +303,14 @@
 - A2) Scrambling:
   - A2a) When called for a round, the competitor submits his puzzle, in its solved state, to the scrambler and waits in the competitors area until he is called to compete.
   - A2b) A scrambler scrambles the puzzle according to the regulations in Article 4.
-  - A2c) After the scrambler starts the scramble, the competitor must not see the puzzle until the inspection phase begins.
+  - A2c) After the scrambler starts the scramble, the competitor must not see the puzzle until the inspection phase starts.
   - A2d) When taking a puzzle from the scrambler, the judge shall briefly inspect the puzzle to ensure thorough scrambling of said puzzle. The judge shall raise any concerns with the scrambler, who shall then conduct a detailed check.
   - A2e) The judge shall place the puzzle onto the mat in an arbitrary orientation and shall cover it completely. The competitor must not request a specific orientation.
 - A3) Inspection:
-  - A3a) The competitor may inspect the puzzle at the beginning of each attempt.
+  - A3a) The competitor may inspect the puzzle at the start of each attempt.
     - A3a1) The competitor is allotted a maximum of 15 seconds to inspect the puzzle and start the solve.
-  - A3b) Before the competitor begins the attempt, the judge shall reset the timer and, where applicable, the stopwatch.
-    - A3b1) When the judge believes the competitor is ready, he asks 'READY?'. The competitor must be ready to begin the attempt within one minute of being called. Penalty: disqualification of the attempt (DNF).
+  - A3b) Before the competitor starts the attempt, the judge shall reset the timer and, where applicable, the stopwatch.
+    - A3b1) When the judge believes the competitor is ready, he asks 'READY?'. The competitor must be ready to start the attempt within one minute of being called. Penalty: disqualification of the attempt (DNF).
     - A3b2) When the competitor confirms his readiness, the judge uncovers the puzzle. If the attempt requires a stopwatch, the judge starts it at the same time.
   - A3c) The competitor may pick up the puzzle during inspection.
     - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the attempt (DNF).
@@ -319,7 +319,7 @@
   - A3d) At the end of the inspection, the competitor must place the puzzle on the mat, in any orientation and position.
     - A3d1) The puzzle must not rest on the timer. Penalty: time penalty (+2 seconds).
     - A3d2) When 8 seconds of inspection have elapsed, the judge calls '8 seconds'.
-    - A3d3) When 12 seconds of inspection have elapsed, the judge calls 'GO', and the competitor shall begin the solve.
+    - A3d3) When 12 seconds of inspection have elapsed, the judge calls 'GO', and the competitor shall start the solve.
 - A4) Starting the solve:
   - A4b) The competitor must place his hands on the elevated sensor unit of the timer, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
     - A4b1) The competitor must have no physical contact with the puzzle between the inspection period and the start of the solve. Penalty: time penalty (+2 seconds).
@@ -435,7 +435,7 @@
 ## Article G: Magic Solving and Master Magic Solving
 
 - G1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
-  - G1a) The competitor may do at most two practise solves on the competition timer. When the judge and competitor mutually agree, the official attempts will begin. At that point, all attempts will be treated as official attempts.
+  - G1a) The competitor may do at most two practise solves on the competition timer. When the judge and competitor mutually agree, the official attempts will start. At that point, all attempts will be treated as official attempts.
 - G2) Scrambling:
   - G2a) The puzzle is not scrambled.
   - G2b) The puzzle is not covered by judge.
