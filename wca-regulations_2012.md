@@ -46,7 +46,7 @@
   - 2c1) A competitor shall not be eligible to compete without a completed registration, as determined by the organisation team.
 - 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and must not be disclosed to outside organisations/persons without the consent of the competitor.
 - 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship standing by means of documents (e.g. a passport). If a competitor is found ineligible to represent the country under which they have registered, the competitor may be retroactively disqualified and/or suspended at the discretion of the WCA Board.
-  - 2e1) The eligible countries are defined by the Wikipedia article "List of sovereign states" ("UN member states and observer states" and "Other states")."
+  - 2e1) The eligible countries are defined by the Wikipedia article 'List of sovereign states' ('UN member states and observer states' and 'Other states').
   - 2e2) Competitors with updates to their citizenship status may change their country of representation in their first competition of a calendar year.
 - 2f) Competitors must obey venue rules and conduct themselves in a manner considerate of others.
 - 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
@@ -88,9 +88,9 @@
 - 3f) Stickers/tiles/textures/paint must not be thicker than 1.5 mm, or the generally available thickness for non-cube puzzles.
 - 3g) Puzzles may be refined internally by sanding or applying any form of lubricant.
 - 3h) Modifications that enhance the basic concept of a puzzle are not permitted.
-- 3i) "Pillowed" and other modified versions of puzzles are permitted if and only if the modification does not make any additional information available to the competitor (e.g. identity of pieces). as compared to a non-pillowed version of the same puzzle. This is subject to the following exceptions and clarifications:
+- 3i) 'Pillowed' and other modified versions of puzzles are permitted if and only if the modification does not make any additional information available to the competitor (e.g. identity of pieces). as compared to a non-pillowed version of the same puzzle. This is subject to the following exceptions and clarifications:
   - 3i1) Exception to 3i: Pillowed 7x7x7 cubes are permitted.
-  - 3i2) "Stickerless" cubes, and other cubes whose face colours are visible inside the cube, are not permitted.
+  - 3i2) 'Stickerless' cubes, and other cubes whose face colours are visible inside the cube, are not permitted.
 - 3j) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
 - 3k) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that distinguish one piece from any similar piece.
 - 3l) Puzzles must be approved by the WCA Delegate before use in the competition.
@@ -180,11 +180,11 @@
   - 9f10) For 'Mean of 3' rounds competitors are allotted 3 attempts. The arithmetic mean of the 3 attempts shall count for the competitor's ranking in the round.
   - 9f11) For 'Mean of 3' rounds, if the competitor scores at least one DNF or DNS, his average score for the round is DNF.
   - 9f12) For 'Best of X' rounds, rankings are assessed based on the best result per competitor. The following shall be used to compare results:
-    - 9f12a) "Better" is defined as the shorter time.
-    - 9f12b) For Fewest Moves Solving, "better" is defined as the shorter solution length.
+    - 9f12a) 'Better' is defined as the shorter time.
+    - 9f12b) For Fewest Moves Solving, 'better' is defined as the shorter solution length.
     - 9f12c) For Multiple Blindfolded Solving, rankings are assessed based on number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, the attempt is unsolved (DNF). If competitors achieve the same result, rankings shall be assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings shall be assessed based on the number of puzzles the competitors fail to solve, where fewer unsolved puzzles is better.
-  - 9f13) For 'Mean of 3' and 'Average of 5' rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the shorter recorded time.
-  - 9f14) For 'Mean of 3' and 'Average of 5' rounds where two or more competitors achieve identical average/mean results, rankings are assessed based on the best result per competitor, where "better" is defined as the shorter time.
+  - 9f13) For 'Mean of 3' and 'Average of 5' rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where 'better' is the shorter recorded time.
+  - 9f14) For 'Mean of 3' and 'Average of 5' rounds where two or more competitors achieve identical average/mean results, rankings are assessed based on the best result per competitor, where 'better' is defined as the shorter time.
   - 9f15) Competitors who achieve the same result in a round receive and identical ranking for the round.
 - 9g) A Combined Round consists of two phases of attempts, where competitors advance to the second phase only if they meet a designated cutoff during the first phase.
   - 9g2) Whether a competitor proceeds to next phase of a Combined round, must be decided by ranking (best x competitors) or by result (all competitors with a best result under x) of the first phase.
@@ -221,7 +221,7 @@
 - 10c) Puzzles may be in any orientation at the end of the attempt.
 - 10d) All pieces of a puzzle must be fully attached to the puzzle in their required positions. Exceptions: see Article 5.
 - 10e) A puzzle is solved when all face colours are reassembled and all parts are aligned within the limits specified below:
-  - 10e1) For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in Regulation 10f, the puzzle shall be considered to require one additional move to solve (see "Block Turn Metric" in Article 12).
+  - 10e1) For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in Regulation 10f, the puzzle shall be considered to require one additional move to solve (see 'Block Turn Metric' in Article 12).
   - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle shall be considered solved without penalty.
   - 10e3) If one move is required, the puzzle shall be considered solved with a time penalty (+2 seconds).
   - 10e4) If more than one move is required, the puzzle shall be considered unsolved (DNF).
@@ -269,7 +269,7 @@
 - 12c) Notation for Square-1:
   - 12c1) Moves are applied with the smallest slice of the middle layer on left side of front face.
   - 12c2) (x,y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise.
-  - 12c3) "/" means: turn the right half of the puzzle 180 degrees.
+  - 12c3) '/' means: turn the right half of the puzzle 180 degrees.
 - 12d) Notation for Megaminx (scrambling notation only):
     - 12d1a) Clockwise, 72 degrees: U (upper face).
     - 12d1b) Counter clockwise, 72 degrees: U' (upper face).
@@ -348,7 +348,7 @@
 - A7) Recording results:
   - A7a) If the judge finds that the puzzle is solved, he shall call 'OK'.
   - A7b) The judge shall record the result on a score sheet.
-    - A7b1) If penalties are assigned, the judge shall record the result displayed on the timer, and record the penalty adjacent, in the format "X + T + Y = F", where X represents a sum total of penalties incurred before the solve, T represents the time displayed on the timer, Y represents a sum total of penalties incurred during/after the solve, and F represents the final result. If the value of X and/or Y is zero, the relevant term is omitted (e.g. 2 + 17.65 + 2 = 21.65, or 17.65 + 2 = 19.65).
+    - A7b1) If penalties are assigned, the judge shall record the result displayed on the timer, and record the penalty adjacent, in the format 'X + T + Y = F', where X represents a sum total of penalties incurred before the solve, T represents the time displayed on the timer, Y represents a sum total of penalties incurred during/after the solve, and F represents the final result. If the value of X and/or Y is zero, the relevant term is omitted (e.g. 2 + 17.65 + 2 = 21.65, or 17.65 + 2 = 19.65).
   - A7c) The judge and competitor must both sign the score sheet to acknowledge the result. Should either of them refuse to sign the score sheet, the WCA Delegate may sign in their place.
   - A7d) If the judge assigns a penalty, the judge shall call 'PENALTY'.
   - A7e) If the result is DNF, then judge shall call 'DNF'.
@@ -466,6 +466,6 @@ The WCA Board must approve any optional regulations for a competition.
 - Z1) The organisation team may require competitors to submit puzzles during registration.
 - Z2) The organisation team may limit the number of events per competitor.
 - Z3) The organisation team may select competitors who directly qualify for certain rounds of certain events, based on the results of specific previous
-- Z4) The organisation team may limit the number of competitors per event, on either a "first come first serve" basis, or based upon qualification times or rankings in the current WCA world rankings.
+- Z4) The organisation team may limit the number of competitors per event, on either a 'first come first serve' basis, or based upon qualification times or rankings in the current WCA world rankings.
 - Z5) The organisation team may prohibit competitors from participating in specific combinations of events.
 
