@@ -81,7 +81,7 @@
   - 3a1) Competitors must be present and ready to compete when they are called to compete for a round. Penalty: disqualification from the event.
 - 3b) Puzzles must be fully operational, such that normal scrambling is possible.
 - 3c) Polyhedral puzzles must use a colour scheme with one colour per face in the solved state. All puzzle variations must have moves, states and solutions functionally identical to the original puzzle.
-- 3d) Puzzles must have coloured stickers, coloured tiles, textures or painted/printed colours. Textured puzzles must have uniform texture patterns on all exposed faces.
+- 3d) Puzzles must have coloured stickers, coloured tiles, textures, or painted/printed colours. Textured puzzles must have uniform texture patterns on all exposed faces.
   - 3d1) Textured puzzles must have different colours on each face to aid in scrambling and judging.
   - 3d2) Competitors with a medically documented visual disability may use textured puzzles with different textures on each face. Textures/patterns must be uniform per face.
 - 3e) The colours of puzzles must be solid, with one uniform colour per face. Each colour on the puzzle must be clearly distinct from the other colours.
@@ -160,7 +160,7 @@
   - 9a1) Puzzles known as Rubik's puzzles.
   - 9a2) Other puzzles that are manipulated by twisting the sides, commonly known as 'twisty puzzles'.
 - 9b) The official puzzles and event formats of the WCA are:
-  - 9b1) Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Magic, Master Magic, Megaminx, Pyraminx, Square-1, Rubik's Cube: One-Handed and Rubik's Cube: With Feet.
+  - 9b1) Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Magic, Master Magic, Megaminx, Pyraminx, Square-1, Rubik's Cube: One-Handed, and Rubik's Cube: With Feet.
     - 9b1a) Competition formats for these events are: 'Best of X' (where X is 1, 2, or 3), and 'Average of 5'.
   - 9b2) 6x6x6 Cube and 7x7x7 Cube.
     - 9b2a) Competition formats for these events are: 'Best of X' (where X is 1, 2, or 3) and 'Mean of 3'.
@@ -466,6 +466,6 @@ The WCA Board must approve any optional regulations for a competition.
 - Z1) The organisation team may require competitors to submit puzzles during registration.
 - Z2) The organisation team may limit the number of events per competitor.
 - Z3) The organisation team may select competitors who directly qualify for certain rounds of certain events, based on the results of specific previous
-- Z4) The organisation team may limit the number of competitors per event, on either a 'first come first serve' basis, or based upon qualification times or rankings in the current WCA world rankings.
+- Z4) The organisation team may limit the number of competitors per event, on either a 'first come first serve' basis or based upon qualification times or rankings in the current WCA world rankings.
 - Z5) The organisation team may prohibit competitors from participating in specific combinations of events.
 
