@@ -20,7 +20,7 @@ Note the following:
 - 1c3b) [CLARIFICATION] If there are multiple groups, it not necessary to identify which competitor was in which heats.
 - 1c4) [RECOMMENDATION] Corrections to the results should be available within one week of the competition date.
 - 1h) [RECOMMENDATION] All final rounds of all events, as well as all Fewest Moves Solving rounds, should have the same scrambles for all competitors (i.e. only 1 heat).
-1h1) [CLARIFICATION] Judges should not begin judging other competitors in their own heat before they have finished all their attempts. Sometimes it is useful to allow judges to start judging other competitors in their own heat before they have completed all their solves, but the organization team must ensure that no judge is able to see a scramble for one of their attempts before they attempt it.
+1h1) [CLARIFICATION] Judges should not begin judging other competitors in their own heat before they have finished all their attempts. Sometimes it is useful to permit judges to start judging other competitors in their own heat before they have completed all their attempts, but the organization team must ensure that no judge is able to see a scramble for one of their attempts before they attempt it.
 
 
 ## Article 2: Competitors
@@ -115,14 +115,22 @@ All misalignments <= 45 degrees: Solved, with penalty
 ## Article A: Speed Solving
 
 - A1a3) [REMINDER] The organisation team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the beginning of the round can disadvantage some competitors unfairly.
-- A1a4) [REMINDER] If a competitor has accidentally been allowed to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and Delegate should be informed (see Regulation 1g2). Judges should always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
+- A1a4) [REMINDER] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and Delegate should be informed (see Regulation 1g2). Judges should always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
 - A1a5) [CLARIFICATION] Since it is only required that the original recorded time must be under the time limit, the result for an attempt may be over the time limit after time penalties are applied.
+- A3c3) [CLARIFICATION] Although the judge is require to reset the timer for the competitor (see Regulation A3b), the competitor may rest it during inspection if the judge neglected to do so.
 - A6b) [EXPLANATION] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timers.
 
 
 ## Article B: Blindfolded Solving
 
 - B1b2) [SEPARATE][RECOMMENDATION] Blindfolds should be checked by the WCA Delegate before use in the competition.
+
+
+## Article C: One-Handed Solving
+
+- C1a) [CLARIFICATION] The competitor may still use both hands during inspection.
+- C1a) [CLARIFICATION] The competitor is not required to use the same hand for different attempts.
+- C1b2) [REMINDER] Use of the surface is permitted while repairing the puzzle.
 
 
 ## Article D: Solving With Feet
@@ -132,6 +140,6 @@ All misalignments <= 45 degrees: Solved, with penalty
 
 ## Article H: Multiple Blindfolded Solving
 
-- H1b1) [ADDITION] The judge may allow the competitor to continue the attempt unofficially, but the attempt must be interrupted and finished first, in full accordance with the Regulations.
+- H1b1) [ADDITION] The judge may permit the competitor to continue the attempt unofficially, but the attempt must be interrupted and finished first, in full accordance with the Regulations.
 - H1d) [EXAMPLE] Example: If a competitor attempts 10 cubes, finishes with a time of 59:57, and has two time penalties, the result is 59:57 + 2*2 = 60:01 (also see Guideline A1a5).
 - H1d) [EXAMPLE] Example: If a competitor attempts 10 cubes, finishes with a time of 59:57, and has two time penalties, the result is 59:57 + 2*2 = 60:01 (also see Guideline A1a5).
