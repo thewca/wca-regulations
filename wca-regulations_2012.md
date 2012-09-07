@@ -305,7 +305,7 @@
   - A2b) A scrambler scrambles the puzzle according to the regulations in Article 4.
   - A2c) After the scrambler starts the scramble, the competitor must not see the puzzle until the inspection phase starts.
   - A2c1) The scrambler shall place a cover over the puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover shall remain over the puzzle until the beginning of the attempt.
-  - A2d) When taking a puzzle from the scrambler, the judge shall briefly inspect the puzzle to ensure thorough scrambling of said puzzle. The judge shall raise any concerns with the scrambler, who shall then conduct a detailed check.
+  - A2d) When taking a puzzle from the scrambler, the judge shall briefly inspect the puzzle to ensure thorough scrambling of the puzzle. The judge shall raise any concerns with the scrambler, who shall then conduct a detailed check.
   - A2e) The judge shall place the puzzle onto the mat in an arbitrary orientation and ensure it is covered completely. The competitor is not permitted to request a specific orientation.
 - A3) Inspection:
   - A3a) The competitor may inspect the puzzle at the beginning of each attempt.
@@ -336,14 +336,14 @@
     - A6a1) If a stopwatch is in use as the timing device, the competitor ends the solve by releasing the puzzle and notifying the judge that he has stopped the solve.
     - A6a2) When using a stopwatch without a Stackmat, the competitor's default notification signal consists of the release of any puzzle(s) in his hand and the placing of his hands on the surface, with palms down. The competitor and the judge may agree upon another appropriate notification before the beginning of the solve.
   - A6b) The competitor is responsible for stopping the timer correctly.
-    - A6b1) If the timer stops before the end of the solve and the timer shows a time strictly below 0.06 seconds, then the attempt shall be replaced by an additional attempt. A competitor forfeits his right to said additional attempt if the WCA Delegate determines that the timer was stopped deliberately.
+    - A6b1) If the timer stops before the end of the solve and the timer shows a time strictly below 0.06 seconds, then the attempt shall be replaced by an additional attempt. A competitor forfeits his right to the additional attempt if the WCA Delegate determines that the timer was stopped deliberately.
     - A6b2) If the timer stops before the end of the solve and displays a time of 0.06 seconds or higher, then the attempt shall be disqualified (DNF), unless the competitor can demonstrate to the WCA Delegate's satisfaction that the timer malfunctioned during the attempt.
   - A6c) The timer must be stopped using both hands, which shall be placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
   - A6d) The competitor must fully release the puzzle before stopping the timer. Penalty: time penalty (+2 seconds).
   - A6e) The competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been done, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
   - A6f) The competitor must not reset the timer until the judge has recorded the result on the score sheet. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
   - A6g) The judge shall determine whether the puzzle is solved. He must not make moves or align faces when examining the puzzle.
-  - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle prior to the resolution of said dispute. Penalty: disqualification of the attempt (DNF), at the discretion of the WCA Delegate.
+  - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle prior to the resolution of the dispute. Penalty: disqualification of the attempt (DNF), at the discretion of the WCA Delegate.
   - A6i) Time penalties for Stopping the Solve are cumulative.
 - A7) Recording results:
   - A7a) If the judge finds that the puzzle is solved, he shall call 'OK'.
