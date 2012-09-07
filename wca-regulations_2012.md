@@ -179,7 +179,7 @@
   - 9f9) For 'Average of 5' rounds, one DNF or DNS is permitted to count as the competitor's worst result of the round. If a competitor receives more than one DNF and/or DNS in the round, his average score for the round is DNF.
   - 9f10) For 'Mean of 3' rounds competitors are allotted 3 attempts. The arithmetic mean of the 3 attempts shall count for the competitor's ranking in the round.
   - 9f11) For 'Mean of 3' rounds, if the competitor scores at least one DNF or DNS, his average score for the round is DNF.
-  - 9f12) For 'Best of X' rounds rankings are assessed based on the best result per competitor. The following shall be used to compare results:
+  - 9f12) For 'Best of X' rounds, rankings are assessed based on the best result per competitor. The following shall be used to compare results:
     - 9f12a) "Better" is defined as the shorter time.
     - 9f12b) For Fewest Moves Solving, "better" is defined as the shorter solution length.
     - 9f12c) For Multiple Blindfolded Solving, rankings are assessed based on number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, the attempt is disqualified. If competitors achieve the same result, rankings shall be assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings shall be assessed based on the number of puzzles the competitors fail to solve, where fewer unsolved puzzles is better.
@@ -202,7 +202,7 @@
 - 9o) A Combined round and a Qualification round count as one round when counting the number of rounds per event.
 - 9p) If an event has multiple rounds, then:
   - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
-  - 9p2) The competitors who advance to the next round shall be determined by either a cutoff rank or a cutoff time in the preceding elimination round. The cutoff must be specified before the preceding elimination round begins.
+  - 9p2) The competitors who advance to the next round shall be determined by either a cutoff ranking or a cutoff time in the preceding elimination round. The cutoff must be specified before the preceding elimination round begins.
   - 9p3) If a qualifying competitor withdraws from a round, he may be replaced by the best-ranked competitor below the cutoff from the preceding round.
 - 9r) Any qualification round must be held before the first round of the event.
   - 9r1) When announcing an event, the organisation team must include:
@@ -465,6 +465,6 @@ The WCA Board must approve any optional regulations for a competition.
 - Z1) The organisation team may require competitors to submit puzzles during registration.
 - Z2) The organisation team may limit the number of events per competitor.
 - Z3) The organisation team may select competitors who directly qualify for certain rounds of certain events, based on the results of specific previous
-- Z4) The organisation team may limit the number of competitors per event, on either a "first come first serve" basis, or based upon qualification times or positions in the current WCA world rankings.
+- Z4) The organisation team may limit the number of competitors per event, on either a "first come first serve" basis, or based upon qualification times or rankings in the current WCA world rankings.
 - Z5) The organisation team may prohibit competitors from participating in specific combinations of events.
 
