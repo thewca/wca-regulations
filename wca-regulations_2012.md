@@ -46,7 +46,7 @@
   - 2c1) A competitor shall not be eligible to compete without a completed registration, as determined by the organisation team.
 - 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and must not be disclosed to outside organisations/persons without the consent of the competitor.
 - 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship standing by means of documents (e.g. a passport). If a competitor is found ineligible to represent the country under which they have registered, the competitor may be retroactively disqualified and/or suspended at the discretion of the WCA Board.
-    - 2e1a) The eligible countries are defined by Wikipedia List of sovereign states ("Internationally recognised sovereign states" and "Other states").
+  - 2e1) The eligible countries are defined by the Wikipedia article "List of sovereign states" ("UN member states and observer states" and "Other states")."
   - 2e2) Competitors with updates to their citizenship status may change their country of representation in their first competition of a calendar year.
 - 2f) Competitors must obey venue rules and conduct themselves in a manner considerate of others.
 - 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
