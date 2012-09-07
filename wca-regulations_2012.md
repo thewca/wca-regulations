@@ -117,7 +117,7 @@
   - 5b1) If a competitor chooses to repair the puzzle, he must repair only the defective pieces. Tools and/or pieces of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the attempt (DNF).
   - 5b2) Any repair to a puzzle must not give the competitor any advantage in solving the puzzle. Penalty: disqualification of the attempt (DNF).
   - 5b3) If, after repairing the puzzle but before the end of the attempt, the competitor finds that the puzzle is unsolvable, he may disassemble and assemble a maximum of 4 pieces to make the puzzle solvable.
-  - 5b4) During blindfolded events, a puzzle defect shall only be repaired during the attempt, and all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
+  - 5b4) During blindfolded events, a puzzle defect must be repaired during the attempt, and all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
   - 5b5) If parts of the puzzle are still defective or not fully placed at the end of the attempt, the result shall be recorded as the worst state obtainable by reassembling the puzzle.
 - 5c) If a competitor has a puzzle defect, this does not give him the right to an extra attempt.
 
@@ -135,7 +135,7 @@
     - 7f1c) Timer: The timer of the Stackmat.
     - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
   - 7f2) The timer must be attached to the mat and placed directly on the table, desk or other suitable console, with the timer on the side of the mat nearest to the competitor. The mat must be placed flush against the surface of the table.
-    - 7f2a) Exception: In Solving With Feet, the timer must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
+    - 7f2a) Exception: For Solving With Feet, the timer must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
 - 7h) The competition area must have a competitors area.
   - 7h1) The organisation team may require that a competitor who have been called to compete must remain within the competitors area until he has finished all of his attempts for the round.
   - 7h3) Competitors in the competitors area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor from the event, at the discretion of the WCA Delegate.
