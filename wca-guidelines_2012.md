@@ -80,6 +80,7 @@ Note the following:
 
 - 9b) [SEPARATE][ADDITION] The preferred format for the final of an event is 'Average of 5' or 'Mean of 3', if possible.
 - 9e4) [SEPARATE][CLARIFICATION] Events other than those specified in article 9b may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
+- 9f5) [CLARIFICATION] The result for an attempt shall only be DNS if the competitor was eligible for the attempt and did not attempt it. If the competitor did not qualify for an attempt (e.g. in a combined round), he does not have any result for the attempt. In case a competitor declines to solve any attempts for a round, 
 - 9q) [SEPARATE][RECOMMENDATION] Events and rounds should have at least 2 competitors.
 - 9r) [SEPARATE][EXPLANATION] The goal of a qualification round is to let unranked or low ranked competitors qualify for the first round of an event with many registered competitors.
 
@@ -114,10 +115,11 @@ All misalignments <= 45 degrees: Solved, with penalty
 
 ## Article A: Speed Solving
 
+- A1a2) [ADDITION] In case of a cumulative time limit, the judge shall record the original recorded time for a DNF on the score sheet in parentheses, e.g. 'DNF (1:02.27)'.
 - A1a3) [REMINDER] The organisation team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the beginning of the round can disadvantage some competitors unfairly.
 - A1a4) [REMINDER] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and Delegate should be informed (see Regulation 1g2). Judges should always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
 - A1a5) [CLARIFICATION] Since it is only required that the original recorded time must be under the time limit, the result for an attempt may be over the time limit after time penalties are applied.
-- A3c3) [CLARIFICATION] Although the judge is require to reset the timer for the competitor (see Regulation A3b), the competitor may rest it during inspection if the judge neglected to do so.
+- A3c3) [CLARIFICATION] Although the judge is require to reset the timer for the competitor (see Regulation A3b), the competitor may reset it during inspection if the judge neglected to do so.
 - A6b) [EXPLANATION] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timers.
 
 
