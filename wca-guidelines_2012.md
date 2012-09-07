@@ -25,7 +25,7 @@ Note the following:
 
 ## Article 2: Competitors
 
-- 2c) [ADDITION] First-time competitors should register using their legal name. They may register using a reasonable nickname, at the discretion of the Delegate.
+- 2c) [ADDITION] First-time competitors should register using their legal name. They may register using a reasonable nickname, at the discretion of the WCA Delegate.
 - 2c) [ADDITION] Competitors must not provide intentionally misleading information, and returning competitors should provide information consistent with past information (e.g. exact name and WCA ID).
 - 2d) [ADDITION] Date of birth and contact information should be especially secured.
 - 2d) [RECOMMENDATION] If a third party (e.g. journalist) asks the organisation team to be put in contact with any competitors, the competitor should first be asked for consent.
@@ -37,18 +37,18 @@ Note the following:
 ## Article 3: Puzzles
 
 - 3a1) [CLARIFICATION] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit their puzzle at the moment).
-- 3a) [ADDITION] By default, a competitor shall use the same puzzle for consecutive attempts in a speed solving round. A competitor may switch puzzles between attempts, at the discretion of the judge or Delegate.
-- 3c) [CLARIFICATION] Competitors may use puzzles of any reasonable size, at the discretion of the Delegate.
+- 3a) [ADDITION] By default, a competitor shall use the same puzzle for consecutive attempts in a speed solving round. A competitor may switch puzzles between attempts, at the discretion of the judge or WCA Delegate.
+- 3c) [CLARIFICATION] Competitors may use puzzles of any reasonable size, at the discretion of the WCA Delegate.
 - 3i) [EXAMPLE] Examples of such enhancement include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, more or other solved states.
 
 
 ## Article 4: Scrambling
 
-- 4b) [REMINDER] Delegates must never re-generate any scrambles to replace other ones for the purpose of filtering. For example, it is not be permitted to glance at the scrambles for a competition and generate the entire set again in order to generate 'fairer' scrambles.
+- 4b) [REMINDER] The WCA Delegate must never re-generate any scrambles to replace other ones for the purpose of filtering. For example, it is not be permitted to glance at the scrambles for a competition and generate the entire set again in order to generate 'fairer' scrambles.
 - 4b) [CLARIFICATION] In general, all official scramble sequences should be published together after the end of the competition. In some cases (e.g. world records), the organisation team may wish to release specific scrambles earlier.
 - 4d1) [CLARIFICATION] Some puzzles use standard color schemes, except that black is replaced with white. In this case, black shall not be treated as white.
 - 4f) [RECOMMENDATION] The WCA Delegate should generate sufficient scrambles for the entire competition ahead of time, including spare scrambles for extra attempts.
-- 4f) [REMINDER] If the Delegate generates any additional scrambles during the competition, he must save them (see Regulation 1c3a).
+- 4f) [REMINDER] If the WCA Delegate generates any additional scrambles during the competition, he must save them (see Regulation 1c3a).
 
 
 ## Article 5: Puzzle Defects
@@ -121,7 +121,7 @@ All misalignments <= 45 degrees: Solved, with penalty
 
 - A1a2) [ADDITION] In case of a cumulative time limit, the judge shall record the original recorded time for a DNF on the score sheet in parentheses, e.g. 'DNF (1:02.27)'.
 - A1a3) [REMINDER] The organisation team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the beginning of the round can disadvantage some competitors unfairly.
-- A1a4) [REMINDER] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and Delegate should be informed (see Regulation 1g2). Judges shall always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
+- A1a4) [REMINDER] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and WCA Delegate should be informed (see Regulation 1g2). Judges shall always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
 - A1a5) [CLARIFICATION] Since it is only required that the original recorded time must be under the time limit, the result for an attempt may be over the time limit after time penalties are assigned.
 - A2c1) [CLARIFICATION] In the past, score cards have been used to cover puzzles while leaving somes sides exposed. This is no longer permitted.
 - A3c3) [CLARIFICATION] Although the judge is require to reset the timer for the competitor (see Regulation A3b), the competitor may reset it during inspection if the judge neglected to do so.

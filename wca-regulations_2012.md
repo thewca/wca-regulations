@@ -299,7 +299,7 @@
   - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
     - A1b1) Simultaneous use of a Stackmat is optional.
     - A1b2) If the Stackmat time is available, it is the original recorded time. Otherwise, the stopwatch time is the original recorded time.
-  - A1c) A competitor participating in an event must be able to fulfill the event's requirements. A competitor competing with expectation of a DNF result may be disqualified from the event at the discretion of the Delegate.
+  - A1c) A competitor participating in an event must be able to fulfill the event's requirements. A competitor competing with expectation of a DNF result may be disqualified from the event at the discretion of the WCA Delegate.
 - A2) Scrambling:
   - A2a) When called for a round, the competitor submits his puzzle, in its solved state, to the scrambler and waits in the competitors area until he is called to compete.
   - A2b) A scrambler scrambles the puzzle according to the regulations in Article 4.
