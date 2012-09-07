@@ -136,9 +136,9 @@
     - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
   - 7f2) The timer must be attached to the mat and placed directly on the table, desk or other suitable console, with the timer on the side of the mat nearest to the competitor. The mat must be placed flush against the surface of the table.
     - 7f2a) Exception: For Solving With Feet, the timer must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
-- 7h) The competition area must have a competitors area.
-  - 7h1) The organisation team may require that a competitor who have been called to compete must remain within the competitors area until he has finished all of his attempts for the round.
-  - 7h3) Competitors in the competitors area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor from the event, at the discretion of the WCA Delegate.
+- 7h) The competition area must have a Competitors Area.
+  - 7h1) The organisation team may require that a competitor who have been called to compete must remain within the Competitors Area until he has finished all of his attempts for the round.
+  - 7h3) Competitors in the Competitors Area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor from the event, at the discretion of the WCA Delegate.
 
 
 ## Article 8: Competitions
@@ -301,7 +301,7 @@
     - A1b2) If the Stackmat time is available, it is the original recorded time. Otherwise, the stopwatch time is the original recorded time.
   - A1c) A competitor participating in an event must be able to fulfill the event's requirements. A competitor competing with expectation of a DNF result may be disqualified from the event, at the discretion of the WCA Delegate.
 - A2) Scrambling:
-  - A2a) When called for a round, the competitor submits his puzzle, in its solved state, to the scrambler and waits in the competitors area until he is called to compete.
+  - A2a) When called for a round, the competitor submits his puzzle, in its solved state, to the scrambler and waits in the Competitors Area until he is called to compete.
   - A2b) A scrambler scrambles the puzzle according to the regulations in Article 4.
   - A2c) After the scrambler starts the scramble, the competitor must not see the puzzle until the inspection phase starts.
   - A2c1) The scrambler shall place a cover over the puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover shall remain over the puzzle until the beginning of the attempt.
