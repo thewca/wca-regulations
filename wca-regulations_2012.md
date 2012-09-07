@@ -5,7 +5,7 @@
 
 - 1a) A competition must include a WCA Delegate and an organisation team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
 - 1b) The organisation team of a competition is responsible for:
-  - 1b1) Event logistics before and during the competition.
+  - 1b1) Logistics before and during the competition.
   - 1b2) Making a copy of the WCA Regulations available at the competition.
 - 1c) The WCA Delegate may delegate responsibilities to other members of the organisation team, but is ultimately accountable for how these responsibilities are carried out. The WCA Delegate for a competition is responsible for:
   - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the competition date.
@@ -14,7 +14,7 @@
     - 1c3b) Scrambles must be labelled with the events, rounds, and heats for which they were used.
   - 1c4) Sending corrections to the competition results to the WCA Board.
   - 1c5) Advising the other officials where necessary.
-  - 1c6) Approving all events and event formats of a competition, before the competition starts, and if changes are required during the competition.
+  - 1c6) Approving all events and round formats of a competition, before the competition starts, and if changes are required during the competition.
   - 1c7) Decisions about disqualifying competitors during the competition.
   - 1c8) Providing the scrambles.
   - 1c9) Decisions on changes to the scheduled times of rounds. In cases of such changes, a clear announcement should be made to all competitors.
@@ -29,7 +29,7 @@
   - 1g1) A score taker is responsible for compiling results.
   - 1g2) Any changes to the score sheets must made with the consent of the WCA Delegate.
 - 1h) Competitors in the same round of an event may be divided into heats.
-  - 1h1) Judges/scramblers for a round must not judge or scramble for competitors in their own heat before they have completed all of their attempts for the round.
+  - 1h1) Scramblers for a round must not scramble for competitors in their own heat before they have completed all of their attempts for the round. Scramblers and judges must see or judge any scrambles from their heat that they have not attempted yet.
   - 1h2) Competitors in the same heat must use the same scramble sequences. Different heats must use different scramble sequences.
 - 1j) All officials may compete in the competition.
 - 1k) Officials may serve multiple roles (e.g. organisation team, WCA Delegate, judge, score taker, scrambler).
@@ -241,9 +241,9 @@
   - 11a1) Incorrect execution of event procedures, by officials or competitors.
   - 11a2) Interference or facility malfunctions (such as power failure, emergency alarm activation, etc.).
   - 11a3) Equipment malfunction.
-- 11b) Should an incident occur during an event, the WCA Delegate must determine an impartial and appropriate course of action.
+- 11b) Should an incident occur, the WCA Delegate must determine an impartial and appropriate course of action.
 - 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make his decision based on fair sportsmanship.
-- 11e) Should an incident occur during an event, the WCA Delegate may award a competitor another attempt, replacing the attempt during which the incident occurred. The competitor must appeal at the time of the incident, before completing the original attempt, to be eligible for another attempt. An appeal does not guarantee the competitor an extra attempt.
+- 11e) Should an incident occur during an event, the WCA Delegate may award a competitor an extra attempt, replacing the attempt during which the incident occurred. The competitor must appeal at the time of the incident, before completing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.
   - 11e1) If a competitor is awarded an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble must be generated using the current official version of the official WCA scramble program (see Regulation 4f).
 - 11f) The WCA Delegate must not support his decisions with video or photographic analysis. A competitor may, however, submit video or photographic evidence supporting an appeal to the WCA Board.
 
@@ -301,7 +301,7 @@
     - A1b2) If the Stackmat time is available, it is the original recorded time. Otherwise, the stopwatch time is the original recorded time.
   - A1c) A competitor participating in an event must be able to fulfill the event's requirements. A competitor competing with expectation of a "DNF" result may be disqualified from the event at the discretion of the Delegate.
 - A2) Scrambling:
-  - A2a) At the beginning of the event, the competitor submits his puzzle, in its solved state, to the scrambler and waits in the competitors area until he is called to compete.
+  - A2a) When called for a round, the competitor submits his puzzle, in its solved state, to the scrambler and waits in the competitors area until he is called to compete.
   - A2b) A scrambler scrambles the puzzle according to the regulations in Article 4.
   - A2c) After the scrambler starts the scramble, the competitor must not see the puzzle until the inspection phase begins.
   - A2d) When taking a puzzle from the scrambler, the judge shall briefly inspect the puzzle to ensure thorough scrambling of said puzzle. The judge shall raise any concerns with the scrambler, who shall then conduct a detailed check.
@@ -351,7 +351,7 @@
   - A7c) The judge and competitor must both sign the score sheet to acknowledge the result. Should either of them refuse to sign the score sheet, the WCA Delegate may sign in their place.
   - A7d) If the judge assigns a penalty, the judge shall call 'PENALTY'.
   - A7e) If the result is DNF, then judge calls 'DNF'.
-  - A7f) At the end of a competitor's round the judge shall deliver the score sheet to the score taker.
+  - A7f) When a competitor's score sheet for a round is complete, the judge shall deliver the score sheet to the score taker.
 
 
 ## Article B: Blindfolded Solving

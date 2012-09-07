@@ -20,6 +20,7 @@ Note the following:
 - 1c3b) [CLARIFICATION] If there are multiple groups, it not necessary to identify which competitor was in which heats.
 - 1c4) [RECOMMENDATION] Corrections to the results should be available within one week of the competition date.
 - 1h) [RECOMMENDATION] All final rounds of all events, as well as all Fewest Moves Solving rounds, should have the same scrambles for all competitors (i.e. only 1 heat).
+1h1) [CLARIFICATION] Judges should not begin judging other competitors in their own heat before they have finished all their attempts. Sometimes it is useful to allow judges to start judging other competitors in their own heat before they have completed all their solves, but the organization team must ensure that no judge is able to see a scramble for one of their attempts before they attempt it.
 
 
 ## Article 2: Competitors
