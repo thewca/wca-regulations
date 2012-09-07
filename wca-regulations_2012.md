@@ -304,8 +304,9 @@
   - A2a) When called for a round, the competitor submits his puzzle, in its solved state, to the scrambler and waits in the competitors area until he is called to compete.
   - A2b) A scrambler scrambles the puzzle according to the regulations in Article 4.
   - A2c) After the scrambler starts the scramble, the competitor must not see the puzzle until the inspection phase starts.
+  - A2c1) The scrambler shall place a cover over the puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover shall remain over the puzzle until the start of the attempt.
   - A2d) When taking a puzzle from the scrambler, the judge shall briefly inspect the puzzle to ensure thorough scrambling of said puzzle. The judge shall raise any concerns with the scrambler, who shall then conduct a detailed check.
-  - A2e) The judge shall place the puzzle onto the mat in an arbitrary orientation and shall cover it completely. The competitor must not request a specific orientation.
+  - A2e) The judge shall place the puzzle onto the mat in an arbitrary orientation and ensure it is covered completely. The competitor is not permitted to request a specific orientation.
 - A3) Inspection:
   - A3a) The competitor may inspect the puzzle at the start of each attempt.
     - A3a1) The competitor is allotted a maximum of 15 seconds to inspect the puzzle and start the solve.
