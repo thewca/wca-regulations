@@ -17,7 +17,7 @@
   - 1c6) Approving all events and round formats of a competition, before the competition starts, and if changes are required during the competition.
   - 1c7) Decisions about disqualifying competitors during the competition.
   - 1c8) Providing the scramble sequences.
-  - 1c9) Decisions on changes to the scheduled times of rounds. In cases of such changes, a clear announcement should be made to all competitors.
+  - 1c9) Decisions on changes to the scheduled times of rounds. In cases of such changes, a clear announcement must be made to all competitors.
 - 1e) Each event must have one or more judges.
   - 1e1) A judge is responsible for executing the procedures of the event.
     - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the Delegate, as long as the judge is able ensure that all WCA Regulations are followed at all times.
@@ -45,7 +45,7 @@
 - 2c) Competitors must register by providing all information required by the organisation team (including: name, country, date of birth, gender, contact information, selected events).
   - 2c1) A competitor shall not be eligible to compete without a completed registration, as determined by the organisation team.
 - 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and must not be disclosed to outside organisations/persons without the consent of the competitor.
-- 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship standing by means of documents (e.g. a passport). If a competitor is found ineligible to represent the country under which they have registered, the competitor may be retroactively disqualified and/or suspended at the discretion of the WCA Board.
+- 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship standing by means of documents (e.g. a passport). If a competitor is found ineligible to represent the country under which they have registered, the competitor may be disqualified retroactively and/or suspended, at the discretion of the WCA Board.
   - 2e1) The eligible countries are defined by the Wikipedia article 'List of sovereign states' ('UN member states and observer states' and 'Other states').
   - 2e2) Competitors with updates to their citizenship status may change their country of representation in their first competition of a calendar year.
 - 2f) Competitors must obey venue rules and conduct themselves in a manner considerate of others.
@@ -150,7 +150,7 @@
   - 8a4) Be announced on the WCA website at least two weeks before the beginning of the competition.
   - 8a6) Be publicly accessible.
   - 8a7) Use the authentic Speed Stacks Stackmat timer (Generation 2 or Pro) for time measurement.
-  - 8a8) Be open, by default, to all who wish to compete. Restrictions must be approved by the WCA Board and clearly stated on the competition website when the competition is announced.
+  - 8a8) Be open to all who wish to compete. Restrictions must be approved by the WCA Board and clearly stated on the competition website when the competition is announced.
 - 8f) If WCA Regulations are not correctly observed during a competition, the WCA Board may disqualify affected attempts.
 
 
@@ -190,7 +190,7 @@
   - 9g2) Whether a competitor proceeds to next phase of a Combined round, must be decided by ranking (best x competitors) or by result (all competitors with a best result under x) of the first phase.
 - 9i) Results of official WCA competitions must be listed on the WCA world rankings.
   - 9i1) The WCA shall recognise the following types of regional records: national records, continental records, and world records.
-  - 9i2) Results of official WCA competitions are dated to the calendar date of the competition. Should a competition span multiple days, the results of each round are dated to the last scheduled calendar date of the round.
+  - 9i2) Results of official WCA competitions are dated to the calendar date of the competition. If a competition spans multiple days, the results of each round are dated to the last scheduled calendar date of the round.
   - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
 - 9j) Each event must be held at most once per competition.
 - 9k) All competitors may participate in all events of a competition.
@@ -239,13 +239,13 @@
 
 - 11a) Incidents include:
   - 11a1) Incorrect execution of event procedures, by officials or competitors.
-  - 11a2) Interference or facility malfunctions (such as power failure, emergency alarm activation, etc.).
+  - 11a2) Interference or facility malfunctions (e.g. power failure, emergency alarm activation).
   - 11a3) Equipment malfunction.
-- 11b) Should an incident occur, the WCA Delegate must determine an impartial and appropriate course of action.
+- 11b) If an incident occurs, the WCA Delegate must determine an impartial and appropriate course of action.
 - 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make his decision based on fair sportsmanship.
-- 11e) Should an incident occur during an event, the WCA Delegate may award a competitor an extra attempt, replacing the attempt during which the incident occurred. The competitor must appeal at the time of the incident, before finishing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.
+- 11e) If an incident occurs during an attempt, the WCA Delegate may award a competitor an extra attempt, replacing the attempt during which the incident occurred. The competitor must appeal at the time of the incident, before finishing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.
   - 11e1) If a competitor is awarded an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble sequence must be generated using the current official version of the official WCA scramble program (see Regulation 4f).
-- 11f) The WCA Delegate must not support his decisions with video or photographic analysis. A competitor may, however, submit video or photographic evidence supporting an appeal to the WCA Board.
+- 11f) The WCA Delegate must not support his decisions with video or photographic analysis. However, a competitor may submit video or photographic evidence supporting an appeal to the WCA Board.
 
 
 ## Article 12: Notation
@@ -299,7 +299,7 @@
   - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
     - A1b1) Simultaneous use of a Stackmat is optional.
     - A1b2) If the Stackmat time is available, it is the original recorded time. Otherwise, the stopwatch time is the original recorded time.
-  - A1c) A competitor participating in an event must be able to fulfill the event's requirements. A competitor competing with expectation of a DNF result may be disqualified from the event at the discretion of the WCA Delegate.
+  - A1c) A competitor participating in an event must be able to fulfill the event's requirements. A competitor competing with expectation of a DNF result may be disqualified from the event, at the discretion of the WCA Delegate.
 - A2) Scrambling:
   - A2a) When called for a round, the competitor submits his puzzle, in its solved state, to the scrambler and waits in the competitors area until he is called to compete.
   - A2b) A scrambler scrambles the puzzle according to the regulations in Article 4.
@@ -349,7 +349,7 @@
   - A7a) If the judge finds that the puzzle is solved, he shall call 'OK'.
   - A7b) The judge shall record the result on a score sheet.
     - A7b1) If penalties are assigned, the judge shall record the result displayed on the timer, and record the penalty adjacent, in the format 'X + T + Y = F', where X represents a sum total of penalties incurred before the solve, T represents the time displayed on the timer, Y represents a sum total of penalties incurred during/after the solve, and F represents the final result. If the value of X and/or Y is zero, the relevant term is omitted (e.g. 2 + 17.65 + 2 = 21.65, or 17.65 + 2 = 19.65).
-  - A7c) The judge and competitor must both sign the score sheet to acknowledge the result. Should either of them refuse to sign the score sheet, the WCA Delegate may sign in their place.
+  - A7c) The judge and competitor must both sign the score sheet to acknowledge the result. If either of them refuses to sign the score sheet, the WCA Delegate may sign in their place.
   - A7d) If the judge assigns a penalty, the judge shall call 'PENALTY'.
   - A7e) If the result is DNF, then judge shall call 'DNF'.
   - A7f) When a competitor's score sheet for a round is complete, the judge shall deliver the score sheet to the score taker.
@@ -414,7 +414,7 @@
   - E1a) The competitor is permitted a maximum solution length of 80 (moves and rotations).
 - E2) Procedure for Fewest Moves Solving:
   - E2a) The judge distributes a scramble sequence to all competitors. The judge shall then start the stopwatch and call 'GO'.
-  - E2b) Each competitor is allotted a total of 60 minutes to devise a solution.
+  - E2b) All competitors have a total of 60 minutes to devise a solution.
     - E2b1) A judge shall call '5 MINUTES REMAINING' when 5 minutes remain, and call 'STOP' at 60 minutes.
   - E2c) At the end of the 60 minutes the competitor must give the judge a legibly written solution, using the notation defined for Block Turn Metric (described in Article 12a). Penalty: disqualification of the attempt (DNF).
   - E2d) The length of the solution shall be calculated in Block Turn Metric (see Article 12a).

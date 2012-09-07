@@ -39,7 +39,7 @@ Note the following:
 - 3a1) [CLARIFICATION] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit their puzzle at the moment).
 - 3a) [ADDITION] By default, a competitor shall use the same puzzle for consecutive attempts in a speed solving round. A competitor may switch puzzles between attempts, at the discretion of the judge or WCA Delegate.
 - 3c) [CLARIFICATION] Competitors may use puzzles of any reasonable size, at the discretion of the WCA Delegate.
-- 3i) [EXAMPLE] Examples of such enhancement include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, more or other solved states.
+- 3i) [EXAMPLE] Examples of such enhancement include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, or the puzzles has more/different solved states.
 
 
 ## Article 4: Scrambling
@@ -143,6 +143,11 @@ All misalignments <= 45 degrees: Solved, with penalty
 ## Article D: Solving With Feet
 
 - D1c) [REMINDER] While repairing puzzle defects, other body parts must still not touch the puzzle.
+
+
+## Article E: Fewest Moves Solving
+
+- E2b) [CLARIFICATION] A competitor may decide to stop his attempt early by handing in a solution before the time limit.
 
 
 ## Article H: Multiple Blindfolded Solving
