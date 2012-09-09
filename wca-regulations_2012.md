@@ -167,7 +167,7 @@
 
       Permissible competition formats for these events are: 'Best of X' (where X is 1, 2, or 3) and 'Mean of 3'.
 
-    - 9b3) Rubik's Cube: Fewest moves, Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded and Rubik's Cube: Multiple Blindfolded.
+    - 9b3) Rubik's Cube: Fewest moves, Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded, and Rubik's Cube: Multiple Blindfolded.
 
       Permissible competition formats for these events are: 'Best of X' (where X is 1, 2, or 3).
 
