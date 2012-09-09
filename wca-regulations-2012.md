@@ -163,11 +163,11 @@
   - 9a1) Puzzles known as Rubik's puzzles.
   - 9a2) Other puzzles that are manipulated by twisting the sides, commonly known as 'twisty puzzles'.
 - 9b) The official puzzles and event formats of the WCA are:
-  - 9b1) Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Magic, Master Magic, Megaminx, Pyraminx, Square-1, Rubik's Cube: One-Handed, and Rubik's Cube: With Feet.
+  - 9b1) Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Magic, Master Magic, Megaminx, Pyraminx, Square-1, and Rubik's Cube: One-Handed.
     - 9b1a) Competition formats for these events are: 'Best of X' (where X is 1, 2, or 3), and 'Average of 5'.
-  - 9b2) 6x6x6 Cube and 7x7x7 Cube.
+  - 9b2) Rubik's Cube: With Feet, 6x6x6 Cube, and 7x7x7 Cube.
     - 9b2a) Competition formats for these events are: 'Best of X' (where X is 1, 2, or 3) and 'Mean of 3'.
-  - 9b3) Rubik's Cube: Fewest Moves, Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded and Rubik's Cube: Multiple Blindfolded.
+  - 9b3) Rubik's Cube: Fewest Moves, Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded, and Rubik's Cube: Multiple Blindfolded.
     - 9b3a) Competition formats for these events are: 'Best of X' (where X is 1, 2, or 3).
 - 9e) New official events may be added, and existing official events removed, each calendar year.
   - 9e1) The decision to add or remove an event is made by the WCA Board, based on feedback from the WCA Delegates and the community at large.
