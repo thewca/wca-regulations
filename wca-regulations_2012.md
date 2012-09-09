@@ -159,11 +159,11 @@
     - Other puzzles that are manipulated by twisting the sides, commonly known as 'twisty puzzles'.
 
 - 9b) The official events and formats of the WCA are:
-    - 9b1) Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Magic, Master Magic, Megaminx, Pyraminx, Square-1, Rubik's Cube: One-handed and Rubik's Cube: With Feet.
+    - 9b1) Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Magic, Master Magic, Megaminx, Pyraminx, Square-1, and Rubik's Cube: One-handed.
 
       Permissible competition formats for these events are: 'Best of X' (where X is 1, 2, or 3) and 'Average of 5'.
 
-    - 9b2) 6x6x6 Cube and 7x7x7 Cube.
+    - 9b2)  Rubik's Cube: With Feet, 6x6x6 Cube, and 7x7x7 Cube.
 
       Permissible competition formats for these events are: 'Best of X' (where X is 1, 2, or 3) and 'Mean of 3'.
 
