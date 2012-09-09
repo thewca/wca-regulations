@@ -112,11 +112,14 @@
 
 ## Article 5: Puzzle Defects
 
-- 5a) Examples of puzzle defects include: popped pieces, broken wires, and detached screws/caps/stickers.
+- 5a) Examples of puzzle defects include: popped pieces, broken wires, pieces twisting in place, and detached screws/caps/stickers.
 - 5b) If a puzzle defect occurs during the attempt, the competitor may choose to repair the defect and continue the attempt, or to stop the attempt.
   - 5b1) If a competitor chooses to repair the puzzle, he must repair only the defective pieces. Tools and/or pieces of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the attempt (DNF).
   - 5b2) Any repair to a puzzle must not give the competitor any advantage in solving the puzzle. Penalty: disqualification of the attempt (DNF).
-  - 5b3) If, after repairing the puzzle but before the end of the attempt, the competitor finds that the puzzle is unsolvable, he may disassemble and assemble a maximum of 4 pieces to make the puzzle solvable.
+  - 5b3) Permitted repairs:
+    - 5b3a) If any pieces have fallen out or moved out of place, the competitor may place them back.
+    - 5b3b) If, after repairing the puzzle but before the end of the attempt, the competitor finds that the puzzle is unsolvable, he may disassemble and reassemble a maximum of 4 pieces to make the puzzle solvable.
+    - 5b3c) If the puzzle is unsolvable, and can be made solvable by rotating a single corner piece, the competitor may correct the corner by twisting it in place without disassembling the puzzle.
   - 5b4) During blindfolded events, a puzzle defect must be repaired during the attempt, and all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
   - 5b5) If parts of the puzzle are still defective or not fully placed at the end of the attempt, the result shall be recorded as the worst state obtainable by reassembling the puzzle.
 - 5c) If a competitor has a puzzle defect, this does not give him the right to an extra attempt.
