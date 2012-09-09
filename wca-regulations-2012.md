@@ -230,7 +230,7 @@
   - 10f2) Megaminx: at most 36 degrees.
   - 10f3) Pyraminx: at most 60 degrees.
   - 10f4) Square-1: at most 45 degrees (U/D) or 90 degrees (/).
-- 10g) For Magic (and similar puzzles) the minimum acceptable angle between adjacent tiles is 135 degrees.
+- 10g) For Magic and Master Magic Solving, the minimum acceptable angle between adjacent tiles is 135 degrees.
   - 10g1) If at most two pairs of adjacent tiles are at a smaller angle, and the puzzle is otherwise solved, the puzzle shall be considered solved with a 2 second time pen. For all other cases, the puzzle is unsolved (DNF).
 - 10h) Puzzles not specified in this article shall be judged according to the solved state as defined by the generally accepted goal of the puzzle, applying the relevant regulations for the Rubik's Cube.
 
