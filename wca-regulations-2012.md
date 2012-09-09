@@ -22,7 +22,7 @@
   - 1e1) A judge is responsible for executing the procedures of the event.
     - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the Delegate, as long as the judge is able ensure that all WCA Regulations are followed at all times.
   - 1e2) Each competitor shall be available for judging, if needed by organisation team. Penalty: disqualification from the competition.
-- 1f) Each event (except for puzzles that are not scrambled) must have one or more scramblers.
+- 1f) Each event must have one or more scramblers. Exception: puzzles that are not scrambled
   - 1f1) A scrambler applies scramble sequences to prepare solved puzzles for attempts.
   - 1f2) Each competitor shall be available for scrambling, if needed by organisation team. Penalty: disqualification from the competition.
 - 1g) Each event must have one or more score takers.
@@ -88,8 +88,8 @@
 - 3f) Stickers/tiles/textures/paint must not be thicker than 1.5 mm, or the generally available thickness for non-cube puzzles.
 - 3g) Puzzles may be refined internally by sanding or applying any form of lubricant.
 - 3h) Modifications that enhance the basic concept of a puzzle are not permitted.
-- 3i) 'Pillowed' and other modified versions of puzzles are permitted if and only if the modification does not make any additional information available to the competitor (e.g. identity of pieces). as compared to a non-pillowed version of the same puzzle. This is subject to the following exceptions and clarifications:
-  - 3i1) Exception to 3i: Pillowed 7x7x7 cubes are permitted.
+- 3i) 'Pillowed' and other modified versions of puzzles are permitted if and only if the modification does not make any additional information available to the competitor (e.g. identity of pieces), as compared to a non-pillowed version of the same puzzle.
+  - 3i1) Exception: Pillowed 7x7x7 cubes are permitted.
   - 3i2) 'Stickerless' cubes, and other cubes whose face colours are visible inside the cube, are not permitted.
 - 3j) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
 - 3k) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that distinguish one piece from any similar piece.
