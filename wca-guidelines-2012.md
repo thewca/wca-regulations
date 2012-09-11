@@ -1,6 +1,9 @@
-# WCA Guidelines 2012 (Draft)
+# WCA Guidelines 2012
 
 The WCA Guidelines supplement the WCA Regulations. Guidelines are numbered in correspondence with related regulations.
+
+To make the Regulations and Guidelines easier to read we use 'he' where the reader should read 'she or he'.
+The use of the words 'must', 'must not', 'shall', 'shall not', 'should', 'should not' and 'may' comply with RFC 2119.
 
 Note the following:
 - Mutiple guidelines may correspond to the same Regulation.

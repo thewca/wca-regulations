@@ -1,4 +1,9 @@
-# WCA Regulations 2012 (Draft)
+# WCA Regulations 2012
+
+The WCA Regulations are supplemented by the WCA Guidelines.
+
+To make the Regulations and Guidelines easier to read we use 'he' where the reader should read 'she or he'.
+The use of the words 'must', 'must not', 'shall', 'shall not', 'should', 'should not' and 'may' comply with RFC 2119.
 
 
 ## Article 1: Officials
