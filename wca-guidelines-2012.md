@@ -2,8 +2,8 @@
 
 The WCA Guidelines supplement the WCA Regulations. Guidelines are numbered in correspondence with related regulations.
 
-To make the Regulations and Guidelines easier to read we use 'he' where the reader should read 'she or he'.
-The use of the words 'must', 'must not', 'shall', 'shall not', 'should', 'should not' and 'may' comply with RFC 2119.
+To make the Regulations and Guidelines easier to read we use "he" where the reader should read "she or he".
+The use of the words "must", "must not", "shall", "shall not", "should", "should not" and "may" comply with RFC 2119.
 
 Note the following:
 - Mutiple guidelines may correspond to the same Regulation.
@@ -48,7 +48,7 @@ Note the following:
 
 ## Article 4: Scrambling
 
-- 4b1) [REMINDER] The WCA Delegate must never re-generate any scrambles to replace other ones for the purpose of filtering. For example, it is not be permitted to glance at the scrambles for a competition and generate the entire set again in order to generate 'fairer' scrambles.
+- 4b1) [REMINDER] The WCA Delegate must never re-generate any scrambles to replace other ones for the purpose of filtering. For example, it is not be permitted to glance at the scrambles for a competition and generate the entire set again in order to generate "fairer" scrambles.
 - 4b2) [CLARIFICATION] In general, all official scramble sequences should be kept secret during the competition and published together after the end of the competition (see Regulation 1c3a). In some cases (e.g. world records), the organisation team may wish to release specific scrambles sooner after the end of a round.
 - 4d) [CLARIFICATION] Some puzzles use standard color schemes, except that black is replaced with white. In this case, black is the darkest color and shall not be treated as white.
 - 4f) [RECOMMENDATION] The WCA Delegate should generate sufficient scrambles for the entire competition ahead of time, including spare scrambles for extra attempts.
@@ -58,7 +58,7 @@ Note the following:
 ## Article 5: Puzzle Defects
 
 - 5b5) [EXAMPLE] Example of a piece not fully placed: a 5x5x5 centre piece twisted in its spot.
-- 5b5) [EXAMPLE] Example of judging an attempt ending with a defective puzzle: A pyraminx with a detached tip may be reassembled in three states, one fully solved, and two '+2' states. An attempt ending in such a situation would be assigned a '+2' penalty.
+- 5b5) [EXAMPLE] Example of judging an attempt ending with a defective puzzle: A pyraminx with a detached tip may be reassembled in three states, one fully solved, and two "+2" states. An attempt ending in such a situation would be assigned a "+2" penalty.
 
 
 ## Article 6: Awards/prizes/honours
@@ -85,7 +85,7 @@ Note the following:
 
 ## Article 9: Events
 
-- 9b) [ADDITION] The preferred format for the final of an event is 'Average of 5' or 'Mean of 3', if possible.
+- 9b) [ADDITION] The preferred format for the final of an event is "Average of 5" or "Mean of 3", if possible.
 - 9b) [Addition] Events other than those specified in Article 9b may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
 - 9f5) [CLARIFICATION] The result for an attempt shall only be DNS if the competitor was eligible for the attempt and did not attempt it. If the competitor did not qualify for an attempt (e.g. in a combined round), he does not have any result for the attempt. In case a competitor declines to solve any attempts for a round, 
 - 9q) [SEPARATE][RECOMMENDATION] Events and rounds should have at least 2 competitors.
@@ -106,7 +106,7 @@ Note the following:
 
 ## Article A: Speed Solving
 
-- A1a2) [ADDITION] In case of a cumulative time limit, the judge shall record the original recorded time for a DNF on the score sheet in parentheses, e.g. 'DNF (1:02.27)'.
+- A1a2) [ADDITION] In case of a cumulative time limit, the judge shall record the original recorded time for a DNF on the score sheet in parentheses, e.g. "DNF (1:02.27)".
 - A1a3) [REMINDER] The organisation team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the beginning of the round can disadvantage some competitors unfairly.
 - A1a4) [REMINDER] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and WCA Delegate should be informed (see Regulation 1g2). Judges shall always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
 - A1a5) [CLARIFICATION] Since it is only required that the original recorded time must be under the time limit, the result for an attempt may be over the time limit after time penalties are assigned.

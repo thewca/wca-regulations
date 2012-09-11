@@ -2,8 +2,8 @@
 
 The WCA Regulations are supplemented by the WCA Guidelines.
 
-To make the Regulations and Guidelines easier to read we use 'he' where the reader should read 'she or he'.
-The use of the words 'must', 'must not', 'shall', 'shall not', 'should', 'should not' and 'may' comply with RFC 2119.
+To make the Regulations and Guidelines easier to read we use "he" where the reader should read "she or he".
+The use of the words "must", "must not", "shall", "shall not", "should", "should not" and "may" comply with RFC 2119.
 
 
 ## Article 1: Officials
@@ -51,7 +51,7 @@ The use of the words 'must', 'must not', 'shall', 'shall not', 'should', 'should
   - 2c1) A competitor shall not be eligible to compete without a completed registration, as determined by the organisation team.
 - 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and must not be disclosed to outside organisations/persons without the consent of the competitor.
 - 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship standing by means of documents (e.g. a passport). If a competitor is found ineligible to represent the country under which they have registered, the competitor may be disqualified retroactively and/or suspended, at the discretion of the WCA Board.
-  - 2e1) The eligible countries are defined by the Wikipedia article 'List of sovereign states' ('UN member states and observer states' and 'Other states').
+  - 2e1) The eligible countries are defined by the Wikipedia article "List of sovereign states" ("UN member states and observer states" and "Other states").
   - 2e2) Competitors with updates to their citizenship status may change their country of representation in their first competition of a calendar year.
 - 2f) Competitors must obey venue rules and conduct themselves in a considerate manner.
 - 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
@@ -92,9 +92,9 @@ The use of the words 'must', 'must not', 'shall', 'shall not', 'should', 'should
 - 3f) Stickers/tiles/textures/paint must not be thicker than 1.5 mm, or the generally available thickness for non-cube puzzles.
 - 3g) Puzzles may be refined internally by sanding or lubricating.
 - 3h) Modifications that enhance the basic concept of a puzzle are not permitted.
-- 3i) 'Pillowed' and other modified versions of puzzles are permitted only if the modification does not make any additional information available to the competitor (e.g. identity of pieces), as compared to an unmodified version of the same puzzle.
+- 3i) "Pillowed" and other modified versions of puzzles are permitted only if the modification does not make any additional information available to the competitor (e.g. identity of pieces), as compared to an unmodified version of the same puzzle.
   - 3i1) Exception: Pillowed 7x7x7 cubes are permitted.
-  - 3i2) 'Stickerless' cubes, and other cubes whose face colours are visible inside the cube, are not permitted.
+  - 3i2) "Stickerless" cubes, and other cubes whose face colours are visible inside the cube, are not permitted.
 - 3j) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
 - 3k) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that distinguish any piece from a similar piece.
 - 3l) Puzzles must be approved by the WCA Delegate before use in the competition.
@@ -167,14 +167,14 @@ The use of the words 'must', 'must not', 'shall', 'shall not', 'should', 'should
 
 - 9a) The WCA governs competitions for:
   - 9a1) Puzzles known as Rubik's puzzles.
-  - 9a2) Other puzzles that are manipulated by twisting the sides, commonly known as 'twisty puzzles'.
+  - 9a2) Other puzzles that are manipulated by twisting the sides, commonly known as "twisty puzzles".
 - 9b) The official puzzles and event formats of the WCA are:
   - 9b1) Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Magic, Master Magic, Megaminx, Pyraminx, Square-1, and Rubik's Cube: One-Handed.
-    - 9b1a) Competition formats for these events are: 'Best of X' (where X is 1, 2, or 3), and 'Average of 5'.
+    - 9b1a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3), and "Average of 5".
   - 9b2) Rubik's Cube: With Feet, 6x6x6 Cube, and 7x7x7 Cube.
-    - 9b2a) Competition formats for these events are: 'Best of X' (where X is 1, 2, or 3) and 'Mean of 3'.
+    - 9b2a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3) and "Mean of 3".
   - 9b3) Rubik's Cube: Fewest Moves, Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded, and Rubik's Cube: Multiple Blindfolded.
-    - 9b3a) Competition formats for these events are: 'Best of X' (where X is 1, 2, or 3).
+    - 9b3a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3).
 - 9e) New official events may be added, and existing official events removed, each calendar year.
   - 9e1) The decision to add or remove an event is made by the WCA Board, based on feedback from the WCA Delegates and the community at large.
 - 9f) The results of a round are measured as follows:
@@ -182,18 +182,18 @@ The use of the words 'must', 'must not', 'shall', 'shall not', 'should', 'should
   - 9f2) All timed results, averages, and means over 10 minutes are measured and rounded to the nearest second (e.g. x.4 becomes x, x.5 becomes x+1).
   - 9f4) The result of an attempt is recorded as DNF (Did Not Finish) if the attempt is disqualified or unsolved/unfinished.
   - 9f5) The result of an attempt is recorded as DNS (Did Not Start) if the competitor is eligible for an attempt but declines it.
-  - 9f6) For 'Best of X' rounds, each competitors is allotted X attempts. The best result of these attempts shall count for the competitor's ranking in the round.
-  - 9f7) For 'Best of X' rounds, a DNF or DNS is the worst possible result.
-  - 9f8) For 'Average of 5' rounds, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts shall be removed, and the arithmetic mean of the remaining 3 attempts shall count for the competitor's ranking in the round.
-  - 9f9) For 'Average of 5' rounds, one DNF or DNS is permitted to count as the competitor's worst result of the round. If a competitor receives more than one DNF and/or DNS in the round, his average score for the round is DNF.
-  - 9f10) For 'Mean of 3' rounds competitors are allotted 3 attempts. The arithmetic mean of the 3 attempts shall count for the competitor's ranking in the round.
-  - 9f11) For 'Mean of 3' rounds, if the competitor scores at least one DNF or DNS, his average score for the round is DNF.
-  - 9f12) For 'Best of X' rounds, rankings are assessed based on the best result per competitor. The following shall be used to compare results:
-    - 9f12a) For timed results, 'better' is defined as the shorter time.
-    - 9f12b) For Fewest Moves Solving, 'better' is defined as the shorter solution length.
+  - 9f6) For "Best of X" rounds, each competitors is allotted X attempts. The best result of these attempts shall count for the competitor's ranking in the round.
+  - 9f7) For "Best of X" rounds, a DNF or DNS is the worst possible result.
+  - 9f8) For "Average of 5" rounds, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts shall be removed, and the arithmetic mean of the remaining 3 attempts shall count for the competitor's ranking in the round.
+  - 9f9) For "Average of 5" rounds, one DNF or DNS is permitted to count as the competitor's worst result of the round. If a competitor receives more than one DNF and/or DNS in the round, his average score for the round is DNF.
+  - 9f10) For "Mean of 3" rounds competitors are allotted 3 attempts. The arithmetic mean of the 3 attempts shall count for the competitor's ranking in the round.
+  - 9f11) For "Mean of 3" rounds, if the competitor scores at least one DNF or DNS, his average score for the round is DNF.
+  - 9f12) For "Best of X" rounds, rankings are assessed based on the best result per competitor. The following shall be used to compare results:
+    - 9f12a) For timed results, "better" is defined as the shorter time.
+    - 9f12b) For Fewest Moves Solving, "better" is defined as the shorter solution length.
     - 9f12c) For Multiple Blindfolded Solving, rankings are assessed based on number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, the attempt is considered unsolved (DNF). If competitors achieve the same result, rankings shall be assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings shall be assessed based on the number of puzzles the competitors failed to solve, where fewer unsolved puzzles is better.
-  - 9f13) For 'Mean of 3' and 'Average of 5' rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where 'better' is the shorter recorded time.
-  - 9f14) For 'Mean of 3' and 'Average of 5' rounds where two or more competitors achieve identical average/mean results, rankings are assessed based on the best result per competitor, where 'better' is defined as the shorter time.
+  - 9f13) For "Mean of 3" and "Average of 5" rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the shorter recorded time.
+  - 9f14) For "Mean of 3" and "Average of 5" rounds where two or more competitors achieve identical average/mean results, rankings are assessed based on the best result per competitor, where "better" is defined as the shorter time.
   - 9f15) Competitors who achieve the same result in a round receive and identical ranking for the round.
 - 9g) A Combined Round consists of two phases of attempts, where competitors advance to the second phase if they meet a designated cutoff during the first phase.
   - 9g2) Whether a competitor proceeds to next phase of a Combined round, must be decided by ranking (best x competitors) or by result (all competitors with a best result under x) of the first phase.
@@ -230,7 +230,7 @@ The use of the words 'must', 'must not', 'shall', 'shall not', 'should', 'should
 - 10c) The puzzle may be in any orientation at the end of the attempt.
 - 10d) All pieces of a puzzle must be fully attached to the puzzle in their required positions. Exceptions: see Article 5.
 - 10e) A puzzle is solved when all face colours are reassembled and all parts are aligned within the limits specified below:
-  - 10e1) For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in Regulation 10f, the puzzle shall be considered to require one additional move to solve (see 'Block Turn Metric' in Article 12).
+  - 10e1) For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in Regulation 10f, the puzzle shall be considered to require one additional move to solve (see "Block Turn Metric" in Article 12).
   - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle shall be considered solved without penalty.
   - 10e3) If one move is required, the puzzle shall be considered solved with a time penalty (+2 seconds).
   - 10e4) If more than one move is required, the puzzle shall be considered unsolved (DNF).
@@ -278,7 +278,7 @@ The use of the words 'must', 'must not', 'shall', 'shall not', 'should', 'should
 - 12c) Notation for Square-1:
   - 12c1) Moves are applied with the smallest slice of the middle layer on left side of front face.
   - 12c2) (x,y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise.
-  - 12c3) '/' means: turn the right half of the puzzle 180 degrees.
+  - 12c3) "/" means: turn the right half of the puzzle 180 degrees.
 - 12d) Notation for Megaminx (scrambling notation only):
     - 12d1a) Clockwise, 72 degrees: U (upper face).
     - 12d1b) Counter clockwise, 72 degrees: U' (upper face).
@@ -320,7 +320,7 @@ The use of the words 'must', 'must not', 'shall', 'shall not', 'should', 'should
   - A3a) The competitor may inspect the puzzle at the beginning of each attempt.
     - A3a1) The competitor is allotted a maximum of 15 seconds to inspect the puzzle and beginning the solve.
   - A3b) Before the competitor starts the attempt, the judge shall reset the timer and, where applicable, the stopwatch.
-    - A3b1) When the judge believes the competitor is ready, he asks 'READY?'. The competitor must be ready to start the attempt within one minute of being called. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
+    - A3b1) When the judge believes the competitor is ready, he asks "READY?". The competitor must be ready to start the attempt within one minute of being called. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
     - A3b2) When the competitor confirms his readiness, the judge uncovers the puzzle. If the attempt requires a stopwatch, the judge starts it at the same time.
   - A3c) The competitor may pick up the puzzle during inspection.
     - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the attempt (DNF).
@@ -328,8 +328,8 @@ The use of the words 'must', 'must not', 'shall', 'shall not', 'should', 'should
     - A3c3) The competitor may reset the timer before he starts the solve.
   - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation and position.
     - A3d1) The puzzle must not rest on the timer. Penalty: time penalty (+2 seconds).
-    - A3d2) When 8 seconds of inspection have elapsed, the judge calls '8 SECONDS'.
-    - A3d3) When 12 seconds of inspection have elapsed, the judge calls 'GO', and the competitor shall start the solve.
+    - A3d2) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
+    - A3d3) When 12 seconds of inspection have elapsed, the judge calls "GO", and the competitor shall start the solve.
 - A4) Starting the solve:
   - A4b) The competitor places his hands on the elevated sensor unit of the timer, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
     - A4b1) The competitor must have no physical contact with the puzzle between the inspection period and the beginning of the solve. Penalty: time penalty (+2 seconds).
@@ -355,13 +355,13 @@ The use of the words 'must', 'must not', 'shall', 'shall not', 'should', 'should
   - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle before the dispute is resolved. Penalty: disqualification of the attempt (DNF), at the discretion of the WCA Delegate.
   - A6i) Time penalties for stopping the solve are cumulative.
 - A7) Recording results:
-  - A7a) If the judge finds that the puzzle is solved, he calls 'OK'.
+  - A7a) If the judge finds that the puzzle is solved, he calls "OK".
   - A7b) The judge records the result on a score sheet.
-    - A7b1) If penalties are assigned, the judge records the original recorded result displayed on the timer, along with any penalties. The format is 'X + T + Y = F', where X represents the sum of time penalties before/starting the solve, T represents the time displayed on the timer, Y represents a sum of time penalties during/after the solve, and F represents the final result. If X and/or Y is 0, the 0 terms are omitted (e.g. 2 + 17.65 + 2 = 21.65, or 17.65 + 2 = 19.65).
+    - A7b1) If penalties are assigned, the judge records the original recorded result displayed on the timer, along with any penalties. The format is "X + T + Y = F", where X represents the sum of time penalties before/starting the solve, T represents the time displayed on the timer, Y represents a sum of time penalties during/after the solve, and F represents the final result. If X and/or Y is 0, the 0 terms are omitted (e.g. 2 + 17.65 + 2 = 21.65, or 17.65 + 2 = 19.65).
   - A7c) The judge and competitor must both sign the score sheet to acknowledge the result.
     - A7c1) If the competitor or the judge refuses to sign the score sheet, the WCA Delegate may sign in their place.
-  - A7d) If the judge assigns a penalty, the judge shall call 'PENALTY'.
-  - A7e) If the result is DNF, then judge shall call 'DNF'.
+  - A7d) If the judge assigns a penalty, the judge shall call "PENALTY".
+  - A7e) If the result is DNF, then judge shall call "DNF".
   - A7f) When a competitor's score sheet for a round is complete, the judge shall deliver the score sheet to the score taker.
 
 
@@ -423,9 +423,9 @@ The use of the words 'must', 'must not', 'shall', 'shall not', 'should', 'should
 - E1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
   - E1a) The competitor is permitted a maximum solution length of 80 (moves and rotations).
 - E2) Procedure for Fewest Moves Solving:
-  - E2a) The judge distributes a scramble sequence to all competitors. The judge shall then start the stopwatch and call 'GO'.
+  - E2a) The judge distributes a scramble sequence to all competitors. The judge shall then start the stopwatch and call "GO".
   - E2b) All competitors have a total time limit of 60 minutes to devise a solution.
-    - E2b1) A judge shall call '5 MINUTES REMAINING' at 55 minutes, and call 'STOP' at 60 minutes.
+    - E2b1) A judge shall call "5 MINUTES REMAINING" at 55 minutes, and call "STOP" at 60 minutes.
   - E2c) At 60 minutes, each competitor must give the judge a legibly written solution, using the notation defined for Block Turn Metric (described in Article 12a). Penalty: disqualification of the attempt (DNF).
   - E2d) The length of the solution shall be calculated in Block Turn Metric (see Article 12a).
   - E2e) The competitor's solution must not be directly derived from any part of the scrambling algorithm. Penalty: disqualification of the attempt (DNF).
@@ -464,7 +464,7 @@ The use of the words 'must', 'must not', 'shall', 'shall not', 'should', 'should
     - H1a2) The organisation team must not disclose the competitor's requested number of puzzles until the beginning of the attempt.
   - H1b) A competitor is allotted a time limit of 10 minutes times the number of puzzles in the attempt, up to a maximum time limit of 60 minutes.
     - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge shall stop the attempt, and the attempt shall then be judged; the time limit for the attempt shall count as the original recorded time.
-    - H1b2) When there are 10 seconds until the time limit, the judge shall call '10 SECONDS REMAINING. PLEASE FINISH YOUR ATTEMPT'. If the competitor is still holding any puzzles when the judge stops the attempt, they shall be judged as unsolved.
+    - H1b2) When there are 10 seconds until the time limit, the judge shall call "10 SECONDS REMAINING. PLEASE FINISH YOUR ATTEMPT". If the competitor is still holding any puzzles when the judge stops the attempt, they shall be judged as unsolved.
   - H1d) Time penalties for the puzzles of the attempt are cumulative.
 
 
@@ -476,6 +476,6 @@ The WCA Board must approve any optional regulations for a competition.
 - Z1) The organisation team may require competitors to submit puzzles during registration.
 - Z2) The organisation team may limit the number of events per competitor.
 - Z3) The organisation team may select competitors who directly qualify for certain rounds of certain events, based on the results of specific previous
-- Z4) The organisation team may limit the number of competitors per event, on either a 'first come first serve' basis or based upon qualification times or rankings in the current WCA world rankings.
+- Z4) The organisation team may limit the number of competitors per event, on either a "first come first serve" basis or based upon qualification times or rankings in the current WCA world rankings.
 - Z5) The organisation team may prohibit competitors from participating in specific combinations of events.
 
