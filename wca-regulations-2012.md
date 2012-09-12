@@ -474,7 +474,7 @@ The WCA Board must approve any optional regulations for a competition.
 
 - Z1) The organisation team may require competitors to submit puzzles during registration.
 - Z2) The organisation team may limit the number of events per competitor.
-- Z3) The organisation team may select competitors who directly qualify for certain rounds of certain events, based on the results of specific previous
+- Z3) The organisation team may select competitors who directly qualify for certain rounds of certain events, based on the results of specific previous.
 - Z4) The organisation team may limit the number of competitors per event, on either a "first come first serve" basis or based upon qualification times or rankings in the current WCA world rankings.
 - Z5) The organisation team may prohibit competitors from participating in specific combinations of events.
 
