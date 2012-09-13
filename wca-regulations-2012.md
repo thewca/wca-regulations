@@ -207,7 +207,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - 9m1) Events with 99 or fewer competitors must have at most three rounds.
   - 9m2) Events with 15 or fewer competitors must have at most two rounds.
   - 9m3) Events with 7 or fewer competitors must have at most one round.
-- 9o) A Combined rounds and Qualification rounds each count as one round when counting the number of rounds per event.
+- 9o) Combined rounds and Qualification rounds each count as one round when counting the number of rounds per event.
 - 9p) If an event has multiple rounds, then:
   - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
   - 9p2) The competitors who advance to the next round must be determined by either a cutoff ranking or a cutoff time in the preceding elimination round. The cutoff must be specified before the preceding elimination round starts.
@@ -475,6 +475,6 @@ The WCA Board must approve any optional regulations for a competition.
 - Z1) The organisation team may require competitors to submit puzzles during registration.
 - Z2) The organisation team may limit the number of events per competitor.
 - Z3) The organisation team may select competitors who directly qualify for certain rounds of certain events, based on the results of specific previous.
-- Z4) The organisation team may limit the number of competitors per event, on either a "first come first serve" basis or based upon qualification times or rankings in the current WCA world rankings.
+- Z4) The organisation team may limit the number of competitors per event, on either a "first come, first serve" basis or based upon qualification times or rankings in the current WCA world rankings.
 - Z5) The organisation team may prohibit competitors from participating in specific combinations of events.
 
