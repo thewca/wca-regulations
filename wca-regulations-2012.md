@@ -431,7 +431,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
     - E2e1) The WCA Delegate may ask the competitor must to explain the purpose of each move in his solution, irrespective of scrambling algorithm. The WCA Delegate shall determine the validity of the solution.
 - E3) The competitor may use the following objects during the attempt. Penalty for using unauthorised objects: disqualification of the attempt (DNF).
   - E3a) Paper and pens (both supplied by judge).
-  - E3b) 1-3 puzzles corresponding to the event (self-supplied).
+  - E3b) 1-3 puzzles corresponding to the event (self-supplied). [NOTE: Do we plan to ever have FM for anything else than 3x3x3?]
   - E3c) Coloured stickers (self-supplied).
 
 
