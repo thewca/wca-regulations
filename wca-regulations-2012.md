@@ -293,7 +293,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - 12g2) Move pins up: UR (top-right), DR (bottom-right), DL (bottom-left), UL (top-left), U (both top), R (both right), D (both bottom), L (both left), ALL (all).
   - 12g3) Turn a wheel next to an up-position pin and move all pins down afterwards: x+ (x clockwise turns), x- (x counter clockwise turns).
   - 12g4) Turn around the puzzle so that twelve is still on top, and then move all pins down: y2.
-
+[NOTE: No slice moves allowed? Competitors can't write M moves on Fewest Moves event?]
 
 ## Article A: Speed Solving
 
@@ -302,7 +302,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
     - A1a1) The default time limit per attempt is 10 minutes, though the organisation team may announce a higher/lower time limit.
     - A1a2) Cumulative time limits may be enforced (e.g. 3 attempts with a cumulative time limit of 20 minutes). The time elapsed in a DNF result counts towards the cumulative time limit.
     - A1a3) For each round, any time limits must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who shall carefully consider the fairness of the change.
-    - A1a4) The competitor must end each attempt within the time limit. If a competitor reaches the time limit for an attempt/round, the judge shall stop the attempt immediately and record the result as DNF. Exception: Multiple Blindfolded Solving (see Regulation H1b1).
+    - A1a4) The competitor must end each attempt within the time limit. If a competitor reaches the time limit for an attempt/round, the judge shall stop the attempt immediately and record the result as DNF. Exception: Multiple Blindfolded Solving (see Regulation H1b1).The WCA Delegate may decide whether the competitor may continue the round, for example if the time was exceeded because of a puzzle defect.
     - A1a5) An attempt shall be considered to meet the time limit if and only if the original recorded time, before any time penalties are applied, is strictly less than the time limit. Exception: Multiple Blindfolded Solving (see Regulation H1b1).
   - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
     - A1b1) Simultaneous use of a Stackmat is optional.
@@ -362,7 +362,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - A7d) If the judge assigns a penalty, the judge shall call "PENALTY".
   - A7e) If the result is DNF, then judge shall call "DNF".
   - A7f) When a competitor's score sheet for a round is complete, the judge shall deliver the score sheet to the score taker.
-
+[NOTE: I think A7 could use some moving of the sub-articles. If ok, call OK. If penalty, call penalty and record...Do judge and competitor sign the sheet at all attempts?]
 
 ## Article B: Blindfolded Solving
 
@@ -419,7 +419,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
 
 ## Article E: Fewest Moves Solving
 
-- E1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
+- E1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below. [NOTE: I don't think FM follows speedsolving rules]
   - E1a) The competitor is permitted a maximum solution length of 80 (moves and rotations).
 - E2) Procedure for Fewest Moves Solving:
   - E2a) The judge distributes a scramble sequence to all competitors. The judge shall then start the stopwatch and call "GO".
@@ -463,7 +463,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
     - H1a2) The organisation team must not disclose the competitor's requested number of puzzles until the beginning of the attempt.
   - H1b) A competitor is allotted a time limit of 10 minutes times the number of puzzles in the attempt, up to a maximum time limit of 60 minutes.
     - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge shall stop the attempt, and the attempt shall then be judged; the time limit for the attempt shall count as the original recorded time.
-    - H1b2) When there are 10 seconds until the time limit, the judge shall call "10 SECONDS REMAINING. PLEASE FINISH YOUR ATTEMPT". If the competitor is still holding any puzzles when the judge stops the attempt, they shall be judged as unsolved.
+    - H1b2) When there are 10 seconds until the time limit, the judge shall call "10 SECONDS REMAINING. PLEASE FINISH YOUR ATTEMPT". If the competitor is still holding any puzzles when the judge stops the attempt, they shall be judged as unsolved. [NOTE: I don't like this. The last thing I want is the judge saying that to me. Just inform the competitor when the time is over. It's not like I'm going to try to rush the last 5 cycles in 10 seconds just because the judge said that]
   - H1d) Time penalties for the puzzles of the attempt are cumulative.
 
 
