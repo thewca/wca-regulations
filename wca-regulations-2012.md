@@ -72,10 +72,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
 - 2o) Disputes are only permitted during the competition, within 30 minutes after the disputed incident happened and before the beginning of the next round of the event.
 - 2p) The WCA Delegate must resolve the dispute before the beginning of the next round of the event.
 - 2r) The competitor must accept all final rulings of the WCA Delegate. Penalty: disqualification from the competition.
-- 2s) Exceptions for documented disabilities:
-  - 2s1) For competitors with hearing disabilities, judges may replace the vocal instructions with hand signals.
-  - 2s2) For competitors with physical disabilities, judges may assist with starting and stopping the timer.
-  - 2s3) Competitors with other disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations with the WCA Delegate.
+- 2s) Competitors with other disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations with the WCA Delegate. [NOTE: Original 2s1 and 2s2 are moved to A3 and A4, to stay consistent with the placement of 3d1, another rule about disabilities, next to the rule that they are making an exception from.]
 - 2t) Each competitor must be familiar with and understand the WCA Regulations before the competition.
 
 
@@ -126,7 +123,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
     - 5b3b) If, after repairing the puzzle but before the end of the attempt, the competitor finds that the puzzle is unsolvable, he may disassemble and reassemble a maximum of 4 pieces to make the puzzle solvable.
     - 5b3c) If the puzzle is unsolvable, and can be made solvable by rotating a single corner piece, the competitor may correct the corner piece by twisting it in place without disassembling the puzzle.
   - 5b4) During blindfolded events, a puzzle defect must be repaired during the attempt, and all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
-  - 5b5) If parts of the puzzle are still defective or not fully placed at the end of the attempt, the result shall be recorded as the worst state obtainable by reassembling the puzzle.
+  - 5b5) If parts of the puzzle are still defective or not fully placed at the end of the attempt, the result shall be recorded as the worst state obtainable by reassembling the puzzle in the manner specified in 5b3. [NOTE: without the reference to 5b3, I think one could argue that every solve with a defect at the end should be a DNF. Perhaps also add something about reassembling into a solvable state.]
 - 5c) If a competitor has a puzzle defect, this does not give him the right to an extra attempt.
 
 
@@ -329,13 +326,15 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
     - A3d1) The puzzle must not rest on the timer. Penalty: time penalty (+2 seconds).
     - A3d2) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
     - A3d3) When 12 seconds of inspection have elapsed, the judge calls "GO", and the competitor shall start the solve.
-- A4) Starting the solve:
-  - A4b) The competitor places his hands on the elevated sensor unit of the timer, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
-    - A4b1) The competitor must have no physical contact with the puzzle between the inspection period and the beginning of the solve. Penalty: time penalty (+2 seconds).
-  - A4d) The competitor starts the solve by confirming that the timer light is green and then removing his hands from the timer, thus starting the timer.
-    - A4d1) The competitor must start the solve within 15 seconds of the beginning of the inspection. Penalty: time penalty (+2 seconds).
-    - A4d2) The competitor must start the solve within 17 seconds of the beginning of the inspection. Penalty: disqualification of the attempt (DNF).
-  - A4e) Time penalties for starting the solve are cumulative.
+    - A3d4) Exception: For competitors with hearing disabilities, judges may replace the vocal instructions with hand signals. [NOTE: Moved from 2s1]
+- A4) Starting the solve: [NOTE: Numbering was was missing an A4a.]
+  - A4a) The competitor places his hands on the elevated sensor unit of the timer, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
+    - A4a1) The competitor must have no physical contact with the puzzle between the inspection period and the beginning of the solve. Penalty: time penalty (+2 seconds).
+  - A4b) The competitor starts the solve by confirming that the timer light is green and then removing his hands from the timer, thus starting the timer.
+    - A4b1) The competitor must start the solve within 15 seconds of the beginning of the inspection. Penalty: time penalty (+2 seconds).
+    - A4b2) The competitor must start the solve within 17 seconds of the beginning of the inspection. Penalty: disqualification of the attempt (DNF).
+  - A4c) For competitors with physical disabilities, judges may assist with starting and stopping the timer. [NOTE: Moved from 2s2]
+  - A4d) Time penalties for starting the solve are cumulative.
 - A5) During the solve:
   - A5a) While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge. Penalty: disqualification of the attempt (DNF).
   - A5b) While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface. Penalty: disqualification of the attempt (DNF).
@@ -464,7 +463,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - H1b) A competitor is allotted a time limit of 10 minutes times the number of puzzles in the attempt, up to a maximum time limit of 60 minutes.
     - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge shall stop the attempt, and the attempt shall then be judged; the time limit for the attempt shall count as the original recorded time.
     - H1b2) When there are 10 seconds until the time limit, the judge shall call "10 SECONDS REMAINING. PLEASE FINISH YOUR ATTEMPT". If the competitor is still holding any puzzles when the judge stops the attempt, they shall be judged as unsolved.
-  - H1d) Time penalties for the puzzles of the attempt are cumulative.
+  - H1d) Time penalties for the puzzles of the attempt are cumulative. [NOTE: It's unclear whether or not a competitor can get a time higher than the time limit if he has the time penalties to do so. This is mostly due to A1a5 referring to an exception for MultiBLD.]
 
 
 ## Article Z: Optional Regulations
