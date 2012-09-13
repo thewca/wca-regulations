@@ -1,3 +1,4 @@
+# WCA Constitution
 
 
 ## Article 1: Purpose
