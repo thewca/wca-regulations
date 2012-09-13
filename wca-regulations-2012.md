@@ -19,13 +19,13 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - 1c5) Advising the other officials where necessary.
   - 1c6) Approving all events and round formats of a competition, before the competition starts, and if changes are required during the competition.
   - 1c7) Decisions about disqualifying competitors during the competition.
-  - 1c8) Providing the scramble sequences.
+  - 1c8) Providing the scramble sequences.[NOTE: digitally or on paper?]
   - 1c9) Decisions about changes to the scheduled times of rounds. In cases of such changes, a clear announcement must be made to all competitors.
   - 1c10) Making a copy of the WCA Regulations available at the competition.
 - 1e) Each event must have one or more judges.
   - 1e1) A judge is responsible for executing the procedures of the event.
     - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the Delegate, as long as the judge is able ensure that all WCA Regulations are followed at all times.
-  - 1e2) Each competitor shall be available for judging, if needed by organisation team. Penalty: disqualification from the competition.
+  - 1e2) Each competitor shall be available for judging, if needed by organisation team. Penalty: disqualification from the competition.[NOTE: I propose a change in this: "all competitors must be available for judging and scrambling FOR THE EVENTS IN WHICH THEY COMPETE". Otherwise competitors arriving lets say only on Sunday should be there already on Saturday (in case of a 2 day competition). Also lets assume there is megaminx right before a break and competitor A is not competing in megaminx. It would mean he has to stay and be available for helping at megaminx instead of taking a nice longer break. The same goes if you don't compete in the first event of a day. You'd have to be there many hours before you'd actually compete. Please note that this is already the case in practically ALL competitions nowadays (at least in Europe).]
 - 1f) Each event must have one or more scramblers. Exception: puzzles that are not scrambled
   - 1f1) A scrambler applies scramble sequences to prepare solved puzzles for attempts.
   - 1f2) Each competitor shall be available for scrambling, if needed by organisation team. Penalty: disqualification from the competition.
@@ -77,7 +77,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - 2s2) For competitors with physical disabilities, judges may assist with starting and stopping the timer.
   - 2s3) Competitors with other disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations with the WCA Delegate.
 - 2t) Each competitor must be familiar with and understand the WCA Regulations before the competition.
-
+[NOTE: I would like to see one more article here, it is about competitors in the waiting area (or while waiting at a stackmat) observing other competing competitors. Especially during blindfolded, it is easy to cheat when simply looking at other people in your round memorizing. In France I had a competition that solved this nicely by placing the waiting area outside of the room. I've had competitions where the waiting area of the finals of 3x3 were RIGHT BEHIND the 2 tables with timers. It was almost impossible not to already see part of the scrambles (especially because I was the last one to solve the scramble). Of course this also goes for other events, I consider this very important.]
 
 ## Article 3: Puzzles
 
@@ -96,7 +96,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - 3i2) "Stickerless" cubes, and other cubes whose face colours are visible inside the cube, are not permitted.
 - 3j) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
 - 3k) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that distinguish any piece from a similar piece.
-- 3l) Puzzles must be approved by the WCA Delegate before use in the competition.
+- 3l) Puzzles must be approved by the WCA Delegate before use in the competition. [NOTE: Does this mean the delegate has to inspect all puzzle from all heats and rounds? Sounds like a lot of work at bigger competitions. Usually (unlike previous regulations: judges) the scramblers do this, since they see all puzzles anyway.]
 - 3m) Cube puzzles must have at most one logo. For the Rubik's Cube or bigger cube puzzles the logo must be placed on one of the centre pieces.
   - 3m1) Colourless engravings (max. 1 per colour) are not considered logos.
 - 3n) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
@@ -107,12 +107,12 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
 - 4a) A scrambler applies scramble sequences to the puzzles.
 - 4b) Puzzles must be scrambled using computer-generated random scramble sequences.
   - 4b1) Generated scrambles must not be inspected before the competition, and must not be filtered or selected in any way by the WCA Delegate.
-  - 4b2) Scramble sequences for a round must be available only to the WCA Delegate and the scramblers for the event, until the end of the round. 
+  - 4b2) Scramble sequences for a round must be available only to the WCA Delegate and the scramblers for the event, until the end of the round. [NOTE: Exception: Fewest moves]
 - 4d) Scrambling orientation:
   - 4d1) Cube puzzles and Megaminx shall be scrambled with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.
-  - 4d2) Pyraminx shall be scrambled with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
+  - 4d2) Pyraminx shall be scrambled with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.[NOTE: I know this was not defined before, but in the scramble program (http://worldcubeassociation.org/regulations/scrambles/scramble_pyraminx2010.htm) the orientation fron: red, bottom: blue was used. I suspect people already got used to it so I would suggest that at the moment you define it, you keep this orientation.]
   - 4d3) Square-1 shall be scrambled with the darker colour on front (out of the 2 possible scrambling orientations).
-- 4f) Competition scramble sequences must be generated using the current official version of the official WCA scramble program (available via the WCA website).
+- 4f) Competition scramble sequences must be generated using the current official version of the official WCA scramble program (available via the WCA website).[NOTE: I assume there will be a link here?]
 
 
 ## Article 5: Puzzle Defects
@@ -126,9 +126,10 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
     - 5b3b) If, after repairing the puzzle but before the end of the attempt, the competitor finds that the puzzle is unsolvable, he may disassemble and reassemble a maximum of 4 pieces to make the puzzle solvable.
     - 5b3c) If the puzzle is unsolvable, and can be made solvable by rotating a single corner piece, the competitor may correct the corner piece by twisting it in place without disassembling the puzzle.
   - 5b4) During blindfolded events, a puzzle defect must be repaired during the attempt, and all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
-  - 5b5) If parts of the puzzle are still defective or not fully placed at the end of the attempt, the result shall be recorded as the worst state obtainable by reassembling the puzzle.
+  - 5b5) If parts of the puzzle are still defective or not fully placed at the end of the attempt, the result shall be recorded as the worst state obtainable by reassembling the puzzle.[NOTE: If I understand correctly, this still means that a missing centrecap is considered solved and a missing pyraminx tip will be a +2 (worst state possible)]
 - 5c) If a competitor has a puzzle defect, this does not give him the right to an extra attempt.
 
+[NOTE: Without article 6: does this mean it is no longer necessary to provide winners with a certificate? I'd be against this.]
 
 ## Article 7: Environment
 
@@ -143,10 +144,10 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
     - 7f1c) Timer: The timer of the Stackmat.
     - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
   - 7f2) The timer must be attached to the mat and placed directly on the table, desk or other suitable console, with the timer on the side of the mat nearest to the competitor. The mat must be placed flush against the surface of the table.
-    - 7f2a) Exception: For Solving With Feet, the timer must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
+    - 7f2a) Exception: For Solving With Feet, the timer must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.[NOTE: I'd just say 'on the opposite side']
 - 7h) The competition area must have a Competitors Area.
   - 7h1) The organisation team may require that a competitor who has been called to compete must remain within the Competitors Area until he has finished all of his attempts for the round.
-  - 7h3) Competitors in the Competitors Area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor from the event, at the discretion of the WCA Delegate.
+  - 7h3) Competitors in the Competitors Area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor from the event, at the discretion of the WCA Delegate.[NOTE: I'd put this in article 2: 'competitors']
 
 
 ## Article 8: Competitions
@@ -154,8 +155,8 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
 - 8a) An official WCA competition must:
   - 8a1) Be approved by the WCA Board.
   - 8a2) Follow the WCA Regulations.
-  - 8a3) Have a designated WCA Delegate in attendance.
-  - 8a4) Be announced on the WCA website at least two weeks before the beginning of the competition.
+  - 8a3) Have a designated WCA Delegate in attendance.[NOTE: who designates this? Is it sufficient to have an oral agreement between organizer and delegate, or should the board assign one? (Or help finding one)]
+  - 8a4) Be announced on the WCA website at least two weeks before the beginning of the competition.[NOTE: imho 2 weeks is too short. I think a month was good. 3 weeks would still be ok, but 2 weeks is not enough.]
   - 8a6) Be publicly accessible.
   - 8a7) Use the authentic Speed Stacks Stackmat timer (Generation 2 or Pro) for time measurement.
   - 8a8) Be open to all who wish to compete. Restrictions must be approved by the WCA Board and clearly when the competition is announced.
@@ -174,7 +175,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
     - 9b2a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3) and "Mean of 3".
   - 9b3) Rubik's Cube: Fewest Moves, Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded, and Rubik's Cube: Multiple Blindfolded.
     - 9b3a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3).
-- 9e) New official events may be added, and existing official events removed, each calendar year.
+- 9e) New official events may be added, and existing official events removed, each calendar year.[NOTE: at the start of each calender year? The way I read it now is just 'throughout a calender year'.]
   - 9e1) The decision to add or remove an event is made by the WCA Board, based on feedback from the WCA Delegates and the community at large.
 - 9f) The results of a round are measured as follows:
   - 9f1) All timed results under 10 minutes are measured and rounded down to the nearest hundredth of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second. 
@@ -233,7 +234,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle shall be considered solved without penalty.
   - 10e3) If one move is required, the puzzle shall be considered solved with a time penalty (+2 seconds).
   - 10e4) If more than one move is required, the puzzle shall be considered unsolved (DNF).
-- 10f) Limits of acceptable misalignment for puzzles:
+- 10f) Limits of acceptable misalignment for puzzles: [NOTE: I am glad there is still the +2 rule, I assume there will be the usual images displayed.]
   - 10f1) Cube-shaped puzzles: at most 45 degrees.
   - 10f2) Megaminx: at most 36 degrees.
   - 10f3) Pyraminx: at most 60 degrees.
@@ -324,7 +325,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - A3c) The competitor may pick up the puzzle during inspection.
     - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the attempt (DNF).
     - A3c2) If the pieces of the puzzle are not fully aligned, then the competitor may align the faces, as long as stays within the limits within the limits described in 10f.
-    - A3c3) The competitor may reset the timer before he starts the solve.
+    - A3c3) The competitor may reset the timer before he starts the solve.[NOTE: may? I would say 'has to']
   - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation and position.
     - A3d1) The puzzle must not rest on the timer. Penalty: time penalty (+2 seconds).
     - A3d2) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
@@ -338,7 +339,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - A4e) Time penalties for starting the solve are cumulative.
 - A5) During the solve:
   - A5a) While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge. Penalty: disqualification of the attempt (DNF).
-  - A5b) While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface. Penalty: disqualification of the attempt (DNF).
+  - A5b) While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface. Penalty: disqualification of the attempt (DNF).[NOTE: I addressed this before, but 'assistance' is a bit vague in this. Are earplugs assisting? Is a pillow under your bottom assisting? Are Chris Hardwick's concentration goggles assisting? Is pointing at a popped piece assisting? I'd say either specify this, or leave it explicitly to the delegate.]
 - A6) Stopping the solve:
   - A6a) The competitor stops the solve by releasing the puzzle and then stopping the timer.
     - A6a1) If a stopwatch is in use as the timing device, the competitor ends the solve by releasing the puzzle and notifying the judge that he has stopped the solve.
@@ -362,21 +363,21 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - A7d) If the judge assigns a penalty, the judge shall call "PENALTY".
   - A7e) If the result is DNF, then judge shall call "DNF".
   - A7f) When a competitor's score sheet for a round is complete, the judge shall deliver the score sheet to the score taker.
-
+[NOTE: I'd add something about how to take the scores of the Pro timer here. My proposal is just to put some tape over the 3rd digit after the comma, or if you insist on doing in the US open way: writing down all 3 digits. (Though I'd higly recommend using a bit of tape, we used pro timers at a recent competition and I have to say it was quite confusing while being a score taker).]
 
 ## Article B: Blindfolded Solving
 
 - B1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
   - B1a) There is no inspection period.
     - B1b1) The competitor shall supply his own blindfold.
-  - B1d) The competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces.
+  - B1d) The competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces.[NOTE: this is unnecessary as it is already stated in 3k.]
 - B2) Starting the attempt:
   - B2a) The judge shall reset the timer and stopwatch.
   - B2b) The competitor shall place his hands on the elevated sensor unit of the Stackmat, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
   - B2c) The competitor must have no physical contact with the puzzle before the beginning of the attempt. Penalty: time penalty (+2 seconds).
   - B2d) The competitor starts the attempt by removing his hands from the timer, thus starting the timer.
     - B2d1) The competitor removes the cover from the puzzle after starting the timer.
-  - B2e) If a stopwatch is in use, the judge shall start the stopwatch as soon as the competitor starts the solve.
+  - B2e) If a stopwatch is in use, the judge shall start the stopwatch as soon as the competitor starts the solve.[NOTE: just like in A1b, I'd add that a judge can also start the stopwatch at the moment the stackmat exceeds the 10 minute barrier. I don't think it is unreasonably hard for a judge to do this. If you don't agree that this should be done, then I would suggest to explicitly state that a competitor must inform the judge that he will exceed 10 minutes before starting the solve (also for other events).]
 - B3) Memorisation phase:
   - B3a) The competitor may pick up the puzzle during the memorisation.
   - B3b) The competitor must not make physical notes. Penalty: disqualification of the attempt (DNF).
@@ -477,4 +478,3 @@ The WCA Board must approve any optional regulations for a competition.
 - Z3) The organisation team may select competitors who directly qualify for certain rounds of certain events, based on the results of specific previous
 - Z4) The organisation team may limit the number of competitors per event, on either a "first come first serve" basis or based upon qualification times or rankings in the current WCA world rankings.
 - Z5) The organisation team may prohibit competitors from participating in specific combinations of events.
-
