@@ -27,7 +27,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
     - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the Delegate, as long as the judge is able ensure that all WCA Regulations are followed at all times.
   - 1e2) Each competitor shall be available for judging, if needed by organisation team. Penalty: disqualification from the competition.
 - 1f) Each event must have one or more scramblers. Exception: puzzles that are not scrambled
-  - 1f1) A scrambler applies scramble sequences to prepare solved puzzles for attempts.
+  - 1f1) A scrambler applies scramble sequences to prepare solved puzzles for attempts. [NOTE: The word “solved” seems superfluous. I assume the point is to stress that a scramble sequence is applied to a solved puzzle, and not to an unsolved puzzle. So there are two points condensed into one point, namely, “scramble sequences must be applied to solved puzzles (not scrambled puzzles)” and “the scrambler applies the scramble sequence to the puzzle for attempts”. I think these points should be made separately, rather than condensing them into one sentence. ]
   - 1f2) Each competitor shall be available for scrambling, if needed by organisation team. Penalty: disqualification from the competition.
 - 1g) Each event must have one or more score takers.
   - 1g1) A score taker is responsible for compiling results.
@@ -66,7 +66,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - 2k3) Behaves in a way that is unlawful, violent or indecent; or intentionally damages venue facilities or personal property within the venue.
   - 2k4) Interferes with, or distracts others during, the competition.
   - 2k5) Fails to abide by WCA Regulations during the competition.
-- 2l) A competitor may be disqualified immediately, or after a warning, depending on the nature and severity of the infraction.
+- 2l) A competitor may be disqualified immediately, or after a warning, depending on the nature and severity of the infraction. [NOTE: 2l-2p: I think this should be re-formatted, seeing as some parts follow directly from others. I think 2m should be 2l1. 2o should be 2n1 and 2p should be 2n2. And what if there isn’t a next round of the event? It should have something like “and before the beginning of the next round of the event, if applicable”. The same goes for 2p. What if there isn’t a next round? How long does the delegate have then?]
 - 2m) A disqualified competitor is not eligible for the refund of any expenses due to participating in the competition.
 - 2n) Competitors may verbally dispute a ruling to the WCA Delegate.
 - 2o) Disputes are only permitted during the competition, within 30 minutes after the disputed incident happened and before the beginning of the next round of the event.
@@ -89,9 +89,9 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - 3d1) Exception: Competitors with a medically documented visual disability may use textured puzzles with different textures on different faces. Textures/patterns must be uniform per face. Each face should have a distinct colours, to aid in scrambling and judging.
 - 3e) The colours of puzzles must be solid, with one uniform colour per face. Each colour on the puzzle must be clearly distinct from the other colours.
 - 3f) Stickers/tiles/textures/paint must not be thicker than 1.5 mm, or the generally available thickness for non-cube puzzles.
-- 3g) Puzzles may be refined internally by sanding or lubricating.
+- 3g) Puzzles may be refined internally by sanding or lubricating. [NOTE: To be honest I think 3g is superfluous, or belongs in the guidelines. If it’s going to stay, 3g should come under 3h, i.e. 3h1.]
 - 3h) Modifications that enhance the basic concept of a puzzle are not permitted.
-- 3i) "Pillowed" and other modified versions of puzzles are permitted only if the modification does not make any additional information available to the competitor (e.g. identity of pieces), as compared to an unmodified version of the same puzzle.
+- 3i) "Pillowed" and other modified versions of puzzles are permitted only if the modification does not make any additional information available to the competitor (e.g. identity of pieces), as compared to an unmodified version of the same puzzle. [NOTE: This is a bit messy. Currently it permits pillowed cubes then bans all of them in the same sentence, then allows pillowed 7x7s in 3i1. I suggest removing the start of 3i, i.e. “”Pillowed” and other”, and just start with “Modified versions of puzzles...”. If it needs to be made explicit that pillowed version of puzzles other than 7x7s are banned, make this point at the end of 3i, or integrate it into 3i1 somehow.]
   - 3i1) Exception: Pillowed 7x7x7 cubes are permitted.
   - 3i2) "Stickerless" cubes, and other cubes whose face colours are visible inside the cube, are not permitted.
 - 3j) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
@@ -123,7 +123,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - 5b2) Any repair to a puzzle must not give the competitor any advantage in solving the puzzle. Penalty: disqualification of the attempt (DNF).
   - 5b3) Permitted repairs:
     - 5b3a) If any pieces have fallen out or moved out of place, the competitor may place them back.
-    - 5b3b) If, after repairing the puzzle but before the end of the attempt, the competitor finds that the puzzle is unsolvable, he may disassemble and reassemble a maximum of 4 pieces to make the puzzle solvable.
+    - 5b3b) If, after repairing the puzzle but before the end of the attempt, the competitor finds that the puzzle is unsolvable, he may disassemble and reassemble a maximum of 4 pieces to make the puzzle solvable. [NOTE: I don’t see the need for 5b3b to be so specific. It can be significantly shortened and eliminate the need for 5b3c by stating that the competitor can take the necessary means to repair their puzzle as long as it doesn’t advance the situation of their solve. This prevents people from popping out the entire last layer and fixing it all up, and a twisted corner could never advance the situation of their solve so it wouldn’t need to be specified.]
     - 5b3c) If the puzzle is unsolvable, and can be made solvable by rotating a single corner piece, the competitor may correct the corner piece by twisting it in place without disassembling the puzzle.
   - 5b4) During blindfolded events, a puzzle defect must be repaired during the attempt, and all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
   - 5b5) If parts of the puzzle are still defective or not fully placed at the end of the attempt, the result shall be recorded as the worst state obtainable by reassembling the puzzle.
@@ -346,7 +346,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - A6b) The competitor is responsible for stopping the timer correctly.
     - A6b1) If the timer stops before the end of the solve and the timer shows a time strictly below 0.06 seconds, then the attempt shall be replaced by an extra attempt. A competitor forfeits his right to the additional attempt if the WCA Delegate determines that the timer was stopped deliberately.
     - A6b2) If the timer stops before the end of the solve and displays a time of 0.06 seconds or higher, then the attempt shall be disqualified (DNF). Exception: if the competitor can demonstrate that the timer malfunctioned, he may receive an extra attempt, at the WCA Delegate's discretion.
-  - A6c) The competitor must stop the timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
+  - A6c) The competitor must stop the timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds). [NOTE: I think these regulations would make sense the other way around, i.e. A6d before A6c]
   - A6d) The competitor must fully release the puzzle before stopping the timer. Penalty: time penalty (+2 seconds).
   - A6e) The competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been applied, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
   - A6f) The competitor must not reset the timer until the judge has recorded the result on the score sheet. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
@@ -368,7 +368,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
 
 - B1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
   - B1a) There is no inspection period.
-    - B1b1) The competitor shall supply his own blindfold.
+    - B1b1) The competitor shall supply his own blindfold. [NOTE: Should this just be B1b?]
   - B1d) The competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces.
 - B2) Starting the attempt:
   - B2a) The judge shall reset the timer and stopwatch.
