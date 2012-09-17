@@ -348,13 +348,14 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle before the dispute is resolved. Penalty: disqualification of the attempt (DNF), at the discretion of the WCA Delegate.
   - A6i) Time penalties for stopping the solve are cumulative.
 - A7) Recording results:
-  - A7a) If the judge finds that the puzzle is solved, he calls "OKAY".
+  - A7a) The judge tells the competitor the result.
+    - A7a1) If the judge finds that the puzzle is solved, he calls "OKAY".
+    - A7a2) If the judge assigns any penalties, the judge calls "PENALTY".
+    - A7a3) If the result is DNF, the judge calls "DNF".
   - A7b) The judge records the result on a score sheet.
     - A7b1) If penalties are assigned, the judge records the original recorded result displayed on the timer, along with any penalties. The format is "X + T + Y = F", where X represents the sum of time penalties before/starting the solve, T represents the time displayed on the timer, Y represents a sum of time penalties during/after the solve, and F represents the final result. If X and/or Y is 0, the 0 terms are omitted (e.g. 2 + 17.65 + 2 = 21.65, or 17.65 + 2 = 19.65).
   - A7c) The judge and competitor must both sign (or initial) the score sheet to acknowledge the result.
-    - A7c1) If the competitor or the judge refuses to sign the score sheet, the WCA Delegate may sign in their place.
-  - A7d) If the judge assigns any penalties, the judge calls "PENALTY".
-  - A7e) If the result is DNF, the judge calls "DNF".
+    - A7c1) If the competitor or the judge refuses to sign the score sheet, the WCA Delegate must resolve the dispute.
   - A7f) When a competitor's score sheet for a round is complete, the judge delivers the score sheet to the score taker.
 
 
