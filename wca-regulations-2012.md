@@ -26,7 +26,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - 1e1) A judge is responsible for executing the procedures of the event.
     - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the Delegate, as long as the judge is able ensure that all WCA Regulations are followed at all times.
   - 1e2) Each competitor must be available for judging, if needed by organisation team. Penalty: disqualification from the competition.
-- 1f) Each event must have one or more scramblers. Exception: puzzles that are not scrambled
+- 1f) Each event must have one or more scramblers. Exception: puzzles that are not scrambled.
   - 1f1) A scrambler applies scramble sequences to prepare puzzles for attempts.
   - 1f2) Each competitor must be available for scrambling, if needed by organisation team. Penalty: disqualification from the competition.
 - 1g) Each event must have one or more score takers.
@@ -82,7 +82,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
 - 3a) Competitors must provide their own puzzles for the competition.
   - 3a1) Competitors must be present and ready to compete when they are called to compete for a round. Penalty: disqualification from the event.
   - 3a2) Puzzles must be fully operational, such that normal scrambling is possible.
-  - 3a3) Polyhedral puzzles must use a colour scheme with one colour per face in the solved state. Each puzzle variation must have moves, states and solutions functionally identical to the original puzzle.
+  - 3a3) Polyhedral puzzles must use a colour scheme with one colour per face in the solved state. Each puzzle variation must have moves, states, and solutions functionally identical to the original puzzle.
 - 3d) Puzzles must have coloured stickers, coloured tiles, or painted/printed colours.
   - 3d1) Exception: Competitors with a medically documented visual disability may use textured puzzles with different textures on different faces. Textures/patterns must be uniform per face. Each face should have a distinct colour, to aid in scrambling and judging.
   - 3d2) The colours of puzzles must be solid, with one uniform colour per face. Each colour on the puzzle must be clearly distinct from the other colours.
@@ -93,8 +93,8 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
 - 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that distinguish any piece from a similar piece.
   - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
-- 3l) Puzzles must be approved by the WCA Delegate before use in the competition.
-- 3l) Cube puzzles must have at most one logo. For the Rubik's Cube or bigger cube puzzles the logo must be placed on one of the centre pieces.
+- 3k) Puzzles must be approved by the WCA Delegate before use in the competition.
+- 3l) A cube puzzle may have a logo, but it must have at most one logo. For the Rubik's Cube or bigger cube puzzles the logo must be placed on one of the centre pieces.
   - 3l1) Colourless engravings (max. 1 per face) are not considered logos.
 - 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
 
@@ -107,7 +107,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - 4b2) Scramble sequences for a round must be available only to the WCA Delegate and the scramblers for the event, until the end of the round. Exception: Fewest Moves Solving.
 - 4d) Scrambling orientation:
   - 4d1) Cube puzzles and Megaminx shall be scrambled with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.
-  4d1) Cube puzzles and Megaminx shall be scrambled with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.  - 4d2) Pyraminx shall be scrambled with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
+  - 4d2) Pyraminx shall be scrambled with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
   - 4d3) Square-1 shall be scrambled with the darker colour on front (out of the 2 possible scrambling orientations).
 - 4f) Competition scramble sequences must be generated using the current official version of the official WCA scramble program (available via the WCA website).
 
@@ -169,7 +169,6 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
     - 9b2a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3) and "Mean of 3".
   - 9b3) Rubik's Cube: Fewest Moves, Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded, and Rubik's Cube: Multiple Blindfolded.
     - 9b3a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3).
-  - 9e1) The decision to add or remove an event is made by the WCA Board, based on feedback from the WCA Delegates and the community at large.
 - 9f) The results of a round are measured as follows:
   - 9f1) All timed results under 10 minutes are measured and rounded down to the nearest hundredth of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second. 
   - 9f2) All timed results, averages, and means over 10 minutes are measured and rounded to the nearest second (e.g. x.4 becomes x, x.5 becomes x+1). [NOTE: NOTE: In the example, units are needed! x.4s, x+1s, etc.]
@@ -186,7 +185,8 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
     - 9f12b) For Fewest Moves Solving, "better" is defined as the shorter solution length.
     - 9f12c) For Multiple Blindfolded Solving, rankings are assessed based on number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, the attempt is considered unsolved (DNF). If competitors achieve the same result, rankings shall be assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings shall be assessed based on the number of puzzles the competitors failed to solve, where fewer unsolved puzzles is better.
   - 9f13) For "Mean of 3" and "Average of 5" rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the shorter recorded time.
-  - 9f14) For "Mean of 3" and "Average of 5" rounds, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where "better" is defined as the shorter time.  - 9f15) Competitors who achieve the same result in a round receive and identical ranking for the round. [NOTE: “and” should be “an”]
+  - 9f14) For "Mean of 3" and "Average of 5" rounds, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where "better" is defined as the shorter time.
+  - 9f15) Competitors who achieve the same result in a round receive and identical ranking for the round. [NOTE: “and” should be “an”]
 - 9g) A Combined Round consists of two phases of attempts, where competitors advance to the second phase if they meet a designated cutoff during the first phase.
   - 9g2) Whether a competitor proceeds to next phase of a Combined round, must be decided by ranking (best x competitors) or by result (all competitors with a best result under x) of the first phase.
 - 9i) Results of official WCA competitions must be listed on the WCA world rankings.
@@ -410,14 +410,13 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
 
 ## Article E: Fewest Moves Solving
 
-- E1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
-  - E1a) The competitor is permitted a maximum solution length of 80 (moves and rotations).
 - E2) Procedure for Fewest Moves Solving:
   - E2a) The judge distributes a scramble sequence to all competitors. The judge shall then start the stopwatch and call "GO".
   - E2b) All competitors have a total time limit of 60 minutes to devise a solution.
     - E2b1) A judge shall call "5 MINUTES REMAINING" at 55 minutes, and call "STOP" at 60 minutes.
   - E2c) At 60 minutes, each competitor must give the judge a legibly written solution, using the notation defined for Block Turn Metric (described in Article 12a). Penalty: disqualification of the attempt (DNF).
   - E2d) The length of the solution shall be calculated in Block Turn Metric (see Article 12a).
+    - E2d1) The competitor is permitted a maximum solution length of 80 (moves and rotations).
   - E2e) The competitor's solution must not be directly derived from any part of the scrambling algorithm. Penalty: disqualification of the attempt (DNF).
     - E2e1) The WCA Delegate may ask the competitor must to explain the purpose of each move in his solution, irrespective of scrambling algorithm. The WCA Delegate shall determine the validity of the solution.
 - E3) The competitor may use the following objects during the attempt. Penalty for using unauthorised objects: disqualification of the attempt (DNF).
@@ -452,7 +451,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - H1a) Before an attempt, the competitor must notify the judge of the number of puzzles he wishes to attempt blindfolded. The number of puzzles must be at least 2.
     - H1a1) A competitor is not permitted to change the number of puzzles after the beginning of the attempt.
     - H1a2) The organisation team must not disclose the competitor's requested number of puzzles until the beginning of the attempt.
-  - H1b) If he is attepting fewer than 6 puzzles, the competitor is allotted a time limit of 10 minutes times the number of puzzles in the attempt, else the time limit is 60 minutes.
+  - H1b) If he is attepting fewer than 6 puzzles, the competitor is allotted a time limit of 10 minutes times the number of puzzles in the attempt, otherwise the time limit is 60 minutes.
     - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge shall stop the attempt, and the attempt shall then be scores; the time limit for the attempt shall count as the original recorded time.
     - H1b2) When there are 10 seconds until the time limit, the judge shall call "10 SECONDS REMAINING. PLEASE FINISH YOUR ATTEMPT". If the competitor is still holding any puzzles when the judge stops the attempt, they shall be judged as unsolved.
   - H1d) Time penalties for the puzzles of the attempt are cumulative.
