@@ -111,7 +111,7 @@ Note the following:
 - A1a3) [REMINDER] The organisation team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the beginning of the round can disadvantage some competitors unfairly.
 - A1a4) [REMINDER] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and WCA Delegate should be informed (see Regulation 1g2). Judges shall always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
 - A1a5) [CLARIFICATION] Since it is only required that the original recorded time must be under the time limit, the result for an attempt may be over the time limit after time penalties are assigned.
-- A2c1) [CLARIFICATION] In the past, score cards have been used to cover puzzles while leaving somes sides exposed. This is no longer permitted.
+- A2c1) [CLARIFICATION] In the past, score cards have been used to cover puzzles while leaving some sides exposed. This is no longer permitted.
 - A3c3) [CLARIFICATION] Although the judge is required to reset the timer for the competitor (see Regulation A3b), the competitor may reset it before/during the inspection phase if the judge accidentally neglected to do so.
 - A6b) [EXPLANATION] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timer malfunctions.
 

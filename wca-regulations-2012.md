@@ -70,7 +70,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
 - 2l) A competitor may be disqualified immediately, or after a warning, depending on the nature and severity of the infraction.
   - 2l1) A disqualified competitor is not eligible for the refund of any expenses due to participating in the competition.
 - 2n) Competitors may verbally dispute a ruling to the WCA Delegate.
-  - 2n1) Disputes are only permitted during the competition, within 30 minutes after the disputed incident and before the beginning of the next round of the event.
+  - 2n1) Disputes are only permitted during the competition, within 30 minutes after the disputed incident happened and before the beginning of any following rounds of the relevant event.
   - 2n2) The WCA Delegate must resolve the dispute before the beginning of the next round of the event.
   - 2n3) The competitor must accept all final rulings of the WCA Delegate. Penalty: disqualification from the competition.
 - 2s) Competitors with other disabilities that may prevent them from abiding by one or more WCA Regulations may request special accomodations from the WCA Delegate. Competitors requesting such accommodations should contact the organisation team and WCA Delegate at least two weeks before the competition.
@@ -92,6 +92,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - 3h2) "Stickerless" cubes, and other cubes whose face colours are visible inside the cube, are not permitted.
   - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
 - 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that distinguish any piece from a similar piece.
+  - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
 - 3l) Puzzles must be approved by the WCA Delegate before use in the competition.
 - 3l) Cube puzzles must have at most one logo. For the Rubik's Cube or bigger cube puzzles the logo must be placed on one of the centre pieces.
   - 3l1) Colourless engravings (max. 1 per face) are not considered logos.
@@ -128,7 +129,6 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
 
 ## Article 7: Environment
 
-- 7a) A competition may be held at any location, indoors or outdoors.
 - 7b) Spectators must remain at least 1.5 metres away from the solving stations when they are in use.
 - 7c) Lighting of the competition area must be given special attention. Lighting should be neutral, such that competitors can easily differentiate among the colours on the puzzles.
 - 7e) The competition area must be smoke-free, and must have a reasonable noise-level.
@@ -220,7 +220,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
 
 - 10b) Only the resting state of the puzzle, after the timer has been stopped, is considered.
 - 10c) The puzzle may be in any orientation at the end of the attempt.
-- 10d) All pieces of a puzzle must be fully attached to the puzzle in their required positions. Exceptions: see Article 5.
+- 10d) All pieces of a puzzle must be fully attached to the puzzle in their required positions. Exception: see Regulation 5b5.
 - 10e) A puzzle is solved when all face colours are reassembled and all parts are aligned within the limits specified below:
   - 10e1) For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in Regulation 10f, the puzzle shall be considered to require one additional move to solve (see "Block Turn Metric" in Article 12).
   - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle shall be considered solved without penalty.
@@ -351,8 +351,8 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
     - A7b1) If penalties are assigned, the judge records the original recorded result displayed on the timer, along with any penalties. The format is "X + T + Y = F", where X represents the sum of time penalties before/starting the solve, T represents the time displayed on the timer, Y represents a sum of time penalties during/after the solve, and F represents the final result. If X and/or Y is 0, the 0 terms are omitted (e.g. 2 + 17.65 + 2 = 21.65, or 17.65 + 2 = 19.65).
   - A7c) The judge and competitor must both sign (or initial) the score sheet to acknowledge the result.
     - A7c1) If the competitor or the judge refuses to sign the score sheet, the WCA Delegate may sign in their place.
-  - A7d) If the judge assigns a penalty, the judge shall call "PENALTY".
-  - A7e) If the result is DNF, then the judge shall call "DNF".
+  - A7d) If the judge assigns any penalties, the judge shall call "PENALTY".
+  - A7e) If the result is DNF, the judge shall call "DNF".
   - A7f) When a competitor's score sheet for a round is complete, the judge shall deliver the score sheet to the score taker.
 
 
