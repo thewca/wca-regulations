@@ -429,7 +429,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
 
 - F1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
 - F2) The judge shall place the scrambled puzzle onto the mat in a standing position.
-- F3) At the end of the inspection period, the competitor shall place the puzzle onto the mat in a standing position. He must not change the positions of any pins from their scrambled positions before the beginning of the solve. Penalty: time penalty (+2 seconds).
+- F3) At the end of the inspection period, the competitor shall place the puzzle onto the mat in a standing position. He must not change the positions of any pins from their scrambled positions before the beginning of the solve. Penalty: disaqualification (DNF).
 
 
 ## Article G: Magic Solving and Master Magic Solving
