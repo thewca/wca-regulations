@@ -72,10 +72,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
 - 2o) Disputes are only permitted during the competition, within 30 minutes after the disputed incident happened and before the beginning of the next round of the event.
 - 2p) The WCA Delegate must resolve the dispute before the beginning of the next round of the event.
 - 2r) The competitor must accept all final rulings of the WCA Delegate. Penalty: disqualification from the competition.
-- 2s) Exceptions for documented disabilities:
-  - 2s1) For competitors with hearing disabilities, judges may replace the vocal instructions with hand signals.
-  - 2s2) For competitors with physical disabilities, judges may assist with starting and stopping the timer.
-  - 2s3) Competitors with other disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations with the WCA Delegate.
+- 2s) Competitors with other disabilities that may prevent them from abiding by one or more WCA Regulations may request special accomodations from the WCA Delegate. Competitors requesting such accommodations should contact the organisation team and WCA Delegate at least two weeks before the competition.
 - 2t) Each competitor must be familiar with and understand the WCA Regulations before the competition.
 
 
@@ -86,7 +83,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
 - 3b) Puzzles must be fully operational, such that normal scrambling is possible.
 - 3c) Polyhedral puzzles must use a colour scheme with one colour per face in the solved state. Each puzzle variation must have moves, states and solutions functionally identical to the original puzzle.
 - 3d) Puzzles must have coloured stickers, coloured tiles, or painted/printed colours.
-  - 3d1) Exception: Competitors with a medically documented visual disability may use textured puzzles with different textures on different faces. Textures/patterns must be uniform per face. Each face should have a distinct colours, to aid in scrambling and judging.
+  - 3d1) Exception: Competitors with a medically documented visual disability may use textured puzzles with different textures on different faces (see Regulation 2s). Textures/patterns must be uniform per face. Each face should have a distinct colours, to aid in scrambling and judging.
 - 3e) The colours of puzzles must be solid, with one uniform colour per face. Each colour on the puzzle must be clearly distinct from the other colours.
 - 3f) Stickers/tiles/textures/paint must not be thicker than 1.5 mm, or the generally available thickness for non-cube puzzles.
 - 3g) Puzzles may be refined internally by sanding or lubricating.
@@ -126,7 +123,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
     - 5b3b) If, after repairing the puzzle but before the end of the attempt, the competitor finds that the puzzle is unsolvable, he may disassemble and reassemble a maximum of 4 pieces to make the puzzle solvable.
     - 5b3c) If the puzzle is unsolvable, and can be made solvable by rotating a single corner piece, the competitor may correct the corner piece by twisting it in place without disassembling the puzzle.
   - 5b4) During blindfolded events, a puzzle defect must be repaired during the attempt, and all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
-  - 5b5) If parts of the puzzle are still defective or not fully placed at the end of the attempt, the result shall be recorded as the worst state obtainable by reassembling the puzzle.
+  - 5b5) If parts of the puzzle are still defective or not fully placed at the end of the attempt, the result shall be recorded as the worst state obtainable by repairing the puzzle (see Regulation 5b3).
 - 5c) If a competitor has a puzzle defect, this does not give him the right to an extra attempt.
 
 
