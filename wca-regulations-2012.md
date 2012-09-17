@@ -305,7 +305,8 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - A2a) When called for a round, the competitor submits his puzzle, in its solved state, to the scrambler and waits in the Competitors Area until he is called to compete.
   - A2b) A scrambler scrambles the puzzle according to the regulations in Article 4.
   - A2c) After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.
-  - A2c1) The scrambler places a cover over the scrambled puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover remains over the puzzle until the beginning of the attempt.  - A2d) When taking a puzzle from the scrambler, the judge briefly inspects the puzzle to ensure thorough scrambling of the puzzle. The judge raises any concerns with the scrambler, who then conducts a detailed check.
+  - A2c1) The scrambler places a cover over the scrambled puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover remains over the puzzle until the beginning of the attempt.
+  - A2d) When taking a puzzle from the scrambler, the judge briefly inspects the puzzle to ensure thorough scrambling of the puzzle. The judge raises any concerns with the scrambler, who then conducts a detailed check.
   - A2e) The judge places the puzzle onto the mat in an arbitrary orientation and ensures that it is covered completely. The competitor is not permitted to request a specific orientation.
 - A3) Inspection:
   - A3a) The competitor may inspect the puzzle at the beginning of each attempt.
@@ -413,12 +414,12 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 - E2) Procedure for Fewest Moves Solving:
   - E2a) The judge distributes a scramble sequence to all competitors. The judge then start the stopwatch and call "GO".
   - E2b) All competitors have a total time limit of 60 minutes to devise a solution.
-    - E2b1) A judge calls "5 MINUTES REMAINING" at 55 minutes, and call "STOP" at 60 minutes.
+    - E2b1) The judge calls "5 MINUTES REMAINING" at 55 minutes, and call "STOP" at 60 minutes.
   - E2c) At 60 minutes, each competitor must give the judge a legibly written solution, using the notation defined for Block Turn Metric (described in Article 12a). Penalty: disqualification of the attempt (DNF).
   - E2d) The length of the solution is calculated in Block Turn Metric (see Article 12a).
     - E2d1) The competitor is permitted a maximum solution length of 80 (moves and rotations).
   - E2e) The competitor's solution must not be directly derived from any part of the scrambling algorithm. Penalty: disqualification of the attempt (DNF).
-    - E2e1) The WCA Delegate may ask the competitor must to explain the purpose of each move in his solution, irrespective of scrambling algorithm. The WCA Delegate determines the validity of the solution.
+    - E2e1) The WCA Delegate may ask the competitor must to explain the purpose of each move in his solution, irrespective of scrambling algorithm. If the competitor cannot give a valid explanation, the attempt is disqualified.
 - E3) The competitor may use the following objects during the attempt. Penalty for using unauthorised objects: disqualification of the attempt (DNF).
   - E3a) Paper and pens (both supplied by judge).
   - E3b) 1-3 puzzles corresponding to the event (self-supplied).
