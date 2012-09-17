@@ -438,7 +438,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 ## Article G: Magic Solving and Master Magic Solving
 
 - G1) Standard speed solving procedures is followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
-  - G1a) The competitor may do at most two practise solves on the competition timer. When the judge and competitor mutually agree, the official attempts will start. From then on, all attempts will be treated as official attempts.
+  - G1a) The competitor is permitted at most two practise attempts on the competition timer. When the judge and competitor mutually agree, the official attempts will start. From then on, all attempts will be treated as official attempts.
 - G2) Scrambling:
   - G2a) The puzzle is not scrambled.
   - G2b) The puzzle is not covered by the judge.
