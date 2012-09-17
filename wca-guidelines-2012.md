@@ -115,6 +115,7 @@ Note the following:
 - A2c1) [CLARIFICATION] In the past, score cards have been used to cover puzzles while leaving some sides exposed. This is no longer permitted.
 - A3c3) [CLARIFICATION] Although the judge is required to reset the timer for the competitor (see Regulation A3b), the competitor may reset it before/during the inspection phase if the judge accidentally neglected to do so.
 - A6b) [EXPLANATION] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timer malfunctions.
+- A6g) [ADDITION] While he is determining whether to assign a penalty for misalignment, the judge should not touch the puzzle.
 
 
 ## Article B: Blindfolded Solving
