@@ -27,7 +27,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
     - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the Delegate, as long as the judge is able ensure that all WCA Regulations are followed at all times.
   - 1e2) Each competitor shall be available for judging, if needed by organisation team. Penalty: disqualification from the competition.
 - 1f) Each event must have one or more scramblers. Exception: puzzles that are not scrambled
-  - 1f1) A scrambler applies scramble sequences to prepare solved puzzles for attempts.
+  - 1f1) A scrambler applies scramble sequences to prepare puzzles for attempts.
   - 1f2) Each competitor shall be available for scrambling, if needed by organisation team. Penalty: disqualification from the competition.
 - 1g) Each event must have one or more score takers.
   - 1g1) A score taker is responsible for compiling results.
@@ -67,11 +67,11 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - 2k4) Interferes with, or distracts others during, the competition.
   - 2k5) Fails to abide by WCA Regulations during the competition.
 - 2l) A competitor may be disqualified immediately, or after a warning, depending on the nature and severity of the infraction.
-- 2m) A disqualified competitor is not eligible for the refund of any expenses due to participating in the competition.
+  - 2l1) A disqualified competitor is not eligible for the refund of any expenses due to participating in the competition.
 - 2n) Competitors may verbally dispute a ruling to the WCA Delegate.
-- 2o) Disputes are only permitted during the competition, within 30 minutes after the disputed incident happened and before the beginning of the next round of the event.
-- 2p) The WCA Delegate must resolve the dispute before the beginning of the next round of the event.
-- 2r) The competitor must accept all final rulings of the WCA Delegate. Penalty: disqualification from the competition.
+  - 2n1) Disputes are only permitted during the competition, within 30 minutes after the disputed incident happened and before the beginning of the next round of the event.
+  - 2n2) The WCA Delegate must resolve the dispute before the beginning of the next round of the event.
+  - 2n3) The competitor must accept all final rulings of the WCA Delegate. Penalty: disqualification from the competition.
 - 2s) Exceptions for documented disabilities:
   - 2s1) For competitors with hearing disabilities, judges may replace the vocal instructions with hand signals.
   - 2s2) For competitors with physical disabilities, judges may assist with starting and stopping the timer.
@@ -83,23 +83,21 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
 
 - 3a) Competitors must provide their own puzzles for the competition.
   - 3a1) Competitors must be present and ready to compete when they are called to compete for a round. Penalty: disqualification from the event.
-- 3b) Puzzles must be fully operational, such that normal scrambling is possible.
-- 3c) Polyhedral puzzles must use a colour scheme with one colour per face in the solved state. Each puzzle variation must have moves, states and solutions functionally identical to the original puzzle.
+  - 3a2) Puzzles must be fully operational, such that normal scrambling is possible.
+  - 3a3) Polyhedral puzzles must use a colour scheme with one colour per face in the solved state. Each puzzle variation must have moves, states and solutions functionally identical to the original puzzle.
 - 3d) Puzzles must have coloured stickers, coloured tiles, or painted/printed colours.
   - 3d1) Exception: Competitors with a medically documented visual disability may use textured puzzles with different textures on different faces. Textures/patterns must be uniform per face. Each face should have a distinct colours, to aid in scrambling and judging.
-- 3e) The colours of puzzles must be solid, with one uniform colour per face. Each colour on the puzzle must be clearly distinct from the other colours.
-- 3f) Stickers/tiles/textures/paint must not be thicker than 1.5 mm, or the generally available thickness for non-cube puzzles.
-- 3g) Puzzles may be refined internally by sanding or lubricating.
-- 3h) Modifications that enhance the basic concept of a puzzle are not permitted.
-- 3i) "Pillowed" and other modified versions of puzzles are permitted only if the modification does not make any additional information available to the competitor (e.g. identity of pieces), as compared to an unmodified version of the same puzzle.
-  - 3i1) Exception: Pillowed 7x7x7 cubes are permitted.
-  - 3i2) "Stickerless" cubes, and other cubes whose face colours are visible inside the cube, are not permitted.
-- 3j) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
-- 3k) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that distinguish any piece from a similar piece.
+  - 3d2) The colours of puzzles must be solid, with one uniform colour per face. Each colour on the puzzle must be clearly distinct from the other colours.
+  - 3d3) Stickers/tiles/textures/paint must not be thicker than 1.5 mm, or the generally available thickness for non-cube puzzles.
+- 3h) Modifications that enhance the basic concept of a puzzle are not permitted.  Modified versions of puzzles are permitted only if the modification does not make any additional information available to the competitor (e.g. identity of pieces), compared to an unmodified version of the same puzzle.
+  - 3h1) "Pillowed" puzzles are not permitted. Exception: Pillowed 7x7x7 cubes are permitted.
+  - 3h2) "Stickerless" cubes, and other cubes whose face colours are visible inside the cube, are not permitted.
+  - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
+- 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that distinguish any piece from a similar piece.
 - 3l) Puzzles must be approved by the WCA Delegate before use in the competition.
-- 3m) Cube puzzles must have at most one logo. For the Rubik's Cube or bigger cube puzzles the logo must be placed on one of the centre pieces.
-  - 3m1) Colourless engravings (max. 1 per colour) are not considered logos.
-- 3n) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
+- 3l) Cube puzzles must have at most one logo. For the Rubik's Cube or bigger cube puzzles the logo must be placed on one of the centre pieces.
+  - 3l1) Colourless engravings (max. 1 per colour) are not considered logos.
+- 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
 
 
 ## Article 4: Scrambling
@@ -346,8 +344,8 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - A6b) The competitor is responsible for stopping the timer correctly.
     - A6b1) If the timer stops before the end of the solve and the timer shows a time strictly below 0.06 seconds, then the attempt shall be replaced by an extra attempt. A competitor forfeits his right to the additional attempt if the WCA Delegate determines that the timer was stopped deliberately.
     - A6b2) If the timer stops before the end of the solve and displays a time of 0.06 seconds or higher, then the attempt shall be disqualified (DNF). Exception: if the competitor can demonstrate that the timer malfunctioned, he may receive an extra attempt, at the WCA Delegate's discretion.
-  - A6c) The competitor must stop the timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
-  - A6d) The competitor must fully release the puzzle before stopping the timer. Penalty: time penalty (+2 seconds).
+  - A6c) The competitor must fully release the puzzle before stopping the timer. Penalty: time penalty (+2 seconds).
+  - A6d) The competitor must stop the timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
   - A6e) The competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been applied, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
   - A6f) The competitor must not reset the timer until the judge has recorded the result on the score sheet. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
   - A6g) The judge determines whether the puzzle is solved. He must not make moves or align faces when examining the puzzle.
@@ -368,7 +366,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
 
 - B1) Standard speed solving procedures shall be followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
   - B1a) There is no inspection period.
-    - B1b1) The competitor shall supply his own blindfold.
+  - B1b) The competitor shall supply his own blindfold.
   - B1d) The competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces.
 - B2) Starting the attempt:
   - B2a) The judge shall reset the timer and stopwatch.

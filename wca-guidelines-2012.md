@@ -43,6 +43,7 @@ Note the following:
 - 3a) [CLARIFICATION] Competitors may borrow puzzles from other competitors privately, to use in competition.
 - 3a1) [CLARIFICATION] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit their puzzle at the moment).
 - 3b) [CLARIFICATION] Competitors may use puzzles of any reasonable size, at the discretion of the WCA Delegate.
+- 3h) [SEPARATE][CLARIFICATION] Puzzles may be refined internally by sanding or lubricating.
 - 3i) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, or the puzzles has more/different solved states.
 
 
