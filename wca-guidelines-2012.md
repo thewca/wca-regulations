@@ -3,7 +3,7 @@
 The WCA Guidelines supplement the WCA Regulations. Guidelines are numbered in correspondence with related regulations.
 
 To make the Regulations and Guidelines easier to read we use "he" where the reader should read "she or he".
-The use of the words "must", "must not", "shall", "shall not", "should", "should not" and "may" comply with RFC 2119.
+The use of the words "must", "must not", "should", "should not" and "may" comply with RFC 2119.
 
 Note the following:
 - Mutiple guidelines may correspond to the same Regulation.
@@ -34,12 +34,12 @@ Note the following:
 - 2d) [RECOMMENDATION] If a third party (e.g. journalist) asks the organisation team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
 - 2h) [CLARIFICATION] Competitors may be barefoot for Solving With Feet.
 - 2j2) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, his results from earlier rounds remain valid.
-- 2s3) [REMINDER] Special accommodations shall be noted in the Delegate Report.
+- 2s3) [REMINDER] Special accommodations must be noted in the Delegate Report.
 
 
 ## Article 3: Puzzles
 
-- 3a) [ADDITION] By default, a competitor shall use the same puzzle for consecutive attempts in a speed solving round. A competitor may switch puzzles between attempts, at the discretion of the judge or WCA Delegate.
+- 3a) [ADDITION] By default, a competitor should use the same puzzle for consecutive attempts in a speed solving round. A competitor may switch puzzles between attempts, at the discretion of the judge or WCA Delegate.
 - 3a) [CLARIFICATION] Competitors may borrow puzzles from other competitors privately, to use in competition.
 - 3a1) [CLARIFICATION] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit their puzzle at the moment).
 - 3b) [CLARIFICATION] Competitors may use puzzles of any reasonable size, at the discretion of the WCA Delegate.
@@ -51,7 +51,7 @@ Note the following:
 
 - 4b1) [REMINDER] The WCA Delegate must never re-generate any scrambles to replace other ones for the purpose of filtering. For example, it is not be permitted to glance at the scrambles for a competition and generate the entire set again in order to generate "fairer" scrambles.
 - 4b2) [CLARIFICATION] In general, all official scramble sequences should be kept secret during the competition and published together after the end of the competition (see Regulation 1c3a). In some cases (e.g. world records), the organisation team may wish to release specific scrambles sooner after the end of a round.
-- 4d) [CLARIFICATION] Some puzzles use standard color schemes, except that black is replaced with white. In this case, black is the darkest color and shall not be treated as white.
+- 4d) [CLARIFICATION] Some puzzles use standard color schemes, except that black is replaced with white. In this case, black is the darkest color and must not be treated as white.
 - 4f) [RECOMMENDATION] The WCA Delegate should generate sufficient scrambles for the entire competition ahead of time, including spare scrambles for extra attempts.
 - 4f) [REMINDER] If the WCA Delegate generates any additional scrambles during the competition, he must save them (see Regulation 1c3a).
 
@@ -88,7 +88,7 @@ Note the following:
 
 - 9b) [ADDITION] The preferred format for the final of an event is "Average of 5" or "Mean of 3", if possible.
 - 9b) [Addition] Events other than those specified in Article 9b may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
-- 9f5) [CLARIFICATION] The result for an attempt shall only be DNS if the competitor was eligible for the attempt and did not attempt it. If the competitor did not qualify for an attempt (e.g. in a combined round), he does not have any result for the attempt. In case a competitor declines to solve any attempts for a round, 
+- 9f5) [CLARIFICATION] The result for an attempt is DNS if the competitor was eligible for the attempt and did not attempt it. If the competitor did not qualify for an attempt (e.g. in a combined round), he does not have any result for the attempt. In case a competitor declines to solve any attempts for a round, 
 - 9q) [SEPARATE][RECOMMENDATION] Events and rounds should have at least 2 competitors.
 - 9r) [SEPARATE][EXPLANATION] The goal of a qualification round is to let unranked or low ranked competitors qualify for the first round of an event with many registered competitors.
 
@@ -107,9 +107,9 @@ Note the following:
 
 ## Article A: Speed Solving
 
-- A1a2) [ADDITION] In case of a cumulative time limit, the judge shall record the original recorded time for a DNF on the score sheet in parentheses, e.g. "DNF (1:02.27)".
+- A1a2) [ADDITION] In case of a cumulative time limit, the judge records the original recorded time for a DNF on the score sheet in parentheses, e.g. "DNF (1:02.27)".
 - A1a3) [REMINDER] The organisation team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the beginning of the round can disadvantage some competitors unfairly.
-- A1a4) [REMINDER] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and WCA Delegate should be informed (see Regulation 1g2). Judges shall always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
+- A1a4) [REMINDER] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and WCA Delegate should be informed (see Regulation 1g2). Judges must always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
 - A1a5) [CLARIFICATION] Since it is only required that the original recorded time must be under the time limit, the result for an attempt may be over the time limit after time penalties are assigned.
 - A2c1) [CLARIFICATION] In the past, score cards have been used to cover puzzles while leaving some sides exposed. This is no longer permitted.
 - A3c3) [CLARIFICATION] Although the judge is required to reset the timer for the competitor (see Regulation A3b), the competitor may reset it before/during the inspection phase if the judge accidentally neglected to do so.
