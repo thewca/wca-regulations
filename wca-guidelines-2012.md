@@ -118,6 +118,7 @@ Note the following:
 
 ## Article B: Blindfolded Solving
 
+- B1) [REMINDER] The competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces (see Article 3k). This should be given special attention for Blindfolded Solving
 - B1b1) [RECOMMENDATION] Blindfolds should be checked by the WCA Delegate before use in the competition.
 
 
