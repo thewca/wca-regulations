@@ -192,7 +192,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - 9g2) Whether a competitor proceeds to next phase of a Combined round, must be decided by ranking (best x competitors) or by result (all competitors with a best result under x) of the first phase.
 - 9i) Results of official WCA competitions must be listed on the WCA world rankings.
   - 9i1) The WCA recognises the following types of regional records: national records, continental records, and world records.
-  - 9i2) Results of official WCA competitions are dated to the calendar date of the competition. If a competition spans multiple days, the results of each round are dated to the last scheduled calendar date of the round.
+  - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognised as breaking that regional record.
   - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
 - 9j) Each event must be held at most once per competition.
 - 9k) All competitors may participate in all events of a competition.
