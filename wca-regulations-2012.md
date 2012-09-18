@@ -56,6 +56,9 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - 2g3) Competitors in the Competitors Area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor from the event, at the discretion of the WCA Delegate.
 - 2h) Competitors must be fully dressed while in the competition venue. At the discretion of the Delegate, competitors may be disqualified from the competition for inappropriate clothing.
 - 2i) While competing, competitors must not use electronics or sound equipment electronic equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting).
+  - 2i1) Competitors may use certain non-electronic aids that do not give the competitor an unfair advantage, at the discretion of the WCA Delegate. This includes:
+    - 2i1a) Medical/physical aids worn by the competitor (etc. glasses, wrist brace, hearing aids).
+    - 2i1b) Earplugs and earmuffs (but not electronic noise-cancelling headphones).
 - 2j) The WCA Delegate may disqualify a competitor from a specific event.
   - 2j1) If a competitor is disqualified from an event for any reason, he is not eligible for any more attempts in the event.
   - 2j2) If a competitor is disqualified during the course of an event, his earlier results remains valid. Exception: cheating or defrauding (see Regulation 2k2a).
@@ -332,7 +335,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - A4e) Time penalties for starting the solve are cumulative.
 - A5) During the solve:
   - A5a) While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge. Penalty: disqualification of the attempt (DNF).
-  - A5b) While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface. Penalty: disqualification of the attempt (DNF).
+  - A5b) While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface (also see Regulation 2i). Penalty: disqualification of the attempt (DNF).
 - A6) Stopping the solve:
   - A6a) The competitor stops the solve by releasing the puzzle and then stopping the timer.
     - A6a1) If a stopwatch is in use as the timing device, the competitor ends the solve by releasing the puzzle and notifying the judge that he has stopped the solve.
