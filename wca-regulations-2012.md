@@ -247,7 +247,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 - 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make his decision based on fair sportsmanship.
 - 11e) If an incident occurs during an attempt, the WCA Delegate may award a competitor an extra attempt, replacing the attempt during which the incident occurred. The competitor must appeal at the time of the incident, before finishing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.
   - 11e1) If a competitor is awarded an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble sequence must be generated using the current official version of the official WCA scramble program (see Regulation 4f).
-- 11f) The WCA Delegate must not support his decisions with video or photographic analysis. However, a competitor may submit video or photographic evidence supporting an appeal to the WCA Board.
+- 11f) Decisions about an incident may be supported with video or photographic analysis, at the discretion of the WCA Delegate.
 
 
 ## Article 12: Notation
