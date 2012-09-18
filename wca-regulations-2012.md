@@ -202,7 +202,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - 9m2) Events with 15 or fewer competitors must have at most two rounds.
   - 9m3) Events with 7 or fewer competitors must have at most one round.
 - 9o) Combined rounds and Qualification rounds each count as one round when counting the number of rounds per event.
-- p) If an event has multiple rounds, then:
+- 9p) If an event has multiple rounds, then:
   - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
   - 9p2) The competitors who advance to the next round must be determined by either a cutoff ranking or a cutoff time in the preceding elimination round. The cutoff must be specified before the preceding elimination round starts.
   - 9p3) If a qualifying competitor withdraws from a round, he may be replaced by the best-ranked competitor below the cutoff from the preceding round.
