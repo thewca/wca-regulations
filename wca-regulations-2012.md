@@ -9,7 +9,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 ## Article 1: Officials
 
 - 1a) A competition must include a WCA Delegate and an organisation team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
-- 1b) The organisation team of a competition is responsible for logistics before and during the competition.
+- 1b) The organisation team of a competition is responsible for logistics before and during the competition.[NOTE: before, during AND AFTER the competition. (cleaning up, paying the venue and what not)]
 - 1c) The WCA Delegate may delegate responsibilities to other members of the organisation team, but is ultimately accountable for how these responsibilities are carried out. The WCA Delegate for a competition is responsible for:
   - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the competition date.
   - 1c3) Sending the competition results to the WCA Results Team.
@@ -30,10 +30,10 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - 1f1) A scrambler applies scramble sequences to prepare puzzles for attempts.
   - 1f2) Capable competitors must be available for scrambling, if needed by organisation team. Penalty: disqualification from the competition.
 - 1g) Each event must have one or more score takers.
-  - 1g1) A score taker is responsible for compiling results.
+  - 1g1) A score taker is responsible for compiling results.[NOTE: What does "compiling results" exactly entail? Writing them down on the score sheet? Collecting the score sheets? Entering them in a spreadsheet? Anything else?]
   - 1g2) Any change to the result on a score sheet must be made at the discretion of the WCA Delegate.
-- 1h) Competitors in the same round of an event may be divided into heats.
-  - 1h1) Scramblers and judges for a round should not scramble for/judge competitors in their own heat before they have finished all of their attempts for the round. They may scramble for/judge competitors in their own heat at the discretion of the WCA Delegate, but the organisation team must ensure that scramblers and judges cannot see any scrambles for their attempts that they have not attempted yet.
+- 1h) Competitors in the same round of an event may be divided into heats.[NOTE: I don't know why the name was changed from "groups" to "heats" and I'm not sure that I like it. Heat is mostly used for referring to preliminary rounds where the top few of each heat qualify for the find. It means, or it can mean, something different in our case. But that could just be my interpretation.]
+  - 1h1) Scramblers and judges for a round should not scramble for/judge competitors in their own heat before they have finished all of their attempts for the round. They may scramble for/judge competitors in their own heat at the discretion of the WCA Delegate, but the organisation team must ensure that scramblers and judges cannot see any scrambles for their attempts that they have not attempted yet.[NOTE: The second sentence confuses me a bit. I understand why it's there, but can't you simplify this to saying that "A competitor is not allowed to see any scramble they have not attempted yet." That doesn't say anything about judges though, but I also think that judges should only be allowed to judge in their own heat if they have completed all their solves, much like scramblers. So I would add an extra sentence for that. The final wording would be: "Scramblers for a round must not scramble for competitors in their own heat before they have finished all of their attempts for the round. Judges for a round must not judge for competitors in their own heat before they have finished all of their attempts for the round. A competitor must not see or judge any scrambles from their heat that they have not attempted yet.]
 - 1j) All officials may compete in the competition.
 - 1k) Officials may serve multiple roles (e.g. organisation team, WCA Delegate, judge, score taker, scrambler).
 
@@ -67,7 +67,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - 2k2) Is suspected of cheating or defrauding the officials during the competition.
     - 2k2a) The WCA Delegate may disqualify any suspected results.
   - 2k3) Behaves in a way that is unlawful, violent or indecent; or intentionally damages venue facilities or personal property within the venue.
-  - 2k4) Interferes with, or distracts others during, the competition.
+  - 2k4) Interferes with, or distracts others during, the competition.[NOTE: bad punctuation: Interferes with, or distracts others, during the competition.]
   - 2k5) Fails to abide by WCA Regulations during the competition.
 - 2l) A competitor may be disqualified immediately, or after a warning, depending on the nature and severity of the infraction.
   - 2l1) A disqualified competitor is not eligible for the refund of any expenses due to participating in the competition.
@@ -111,7 +111,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - 4d1) Cube puzzles and Megaminx are scrambled with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.
   - 4d2) Pyraminx are scrambled with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
   - 4d3) Square-1 are scrambled with the darker colour on front (out of the 2 possible scrambling orientations).
-- 4f) Competition scramble sequences must be generated using the current official version of the official WCA scramble program (available via the WCA website).
+- 4f) Competition scramble sequences must be generated using the current official version of the official WCA scramble program (available via the WCA website).[NOTE: I like that we have a unified scramble program now and this makes the rules and the organization of competitions simpler. However, I think it would still be a good idea to specify what the requirements for a "good" scramble method are for each of the puzzles (e.g. random state or X random moves). The problem now is that the scramble algorithm can be changed in the software without requiring a change in the regulations. This seems a bit weird. Basically it doesn't rule out that generating a random 2-gen RU scramble for 7x7x7 could be (or could become) a legal scramble method that can be used for WCA competitions. I think it should always be documented in the regulations what WCA considers a competition legal scramble generating method for transparency's sake. It seems too important for garantueeing the fairness of competitions not to specify it further and just say: using program X.]
 - 4g) After scrambling a puzzle, the scrambler must verify that he has scrambled the puzzle correctly. If the puzzle state is wrong, he must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
   - 4g1) Exception: For the 6x6x6 Cube and the 7x7x7 Cube, it is not necessary to correct the scramble, at the discretion of the WCA Delegate.
 
@@ -198,7 +198,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognised as breaking that regional record.
   - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
 - 9j) Each event must be held at most once per competition.
-- 9k) All competitors may participate in all events of a competition.
+- 9k) All competitors may participate in all events of a competition.[NOTE: I'm a bit reluctant about this. People who register for everything sometimes use it as an excuse to not help judge/scramble or turn up late for events because they have such a busy schedule and really wanted to take time out for lunch and/or practice.]
 - 9l) Each round must be completed before any following round of the same event starts.
 - 9m) Events must have at most four rounds.
   - 9m1) Events with 99 or fewer competitors must have at most three rounds.
@@ -237,7 +237,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - 10f4) Square-1: at most 45 degrees (U/D) or 90 degrees (/).
 - 10g) For Magic and Master Magic Solving, the minimum acceptable angle between adjacent tiles is 135 degrees.
   - 10g1) If at most two pairs of adjacent tiles are at a smaller angle, and the puzzle is otherwise solved, the puzzle is considered solved with a time penalty (+2 seconds). In all other cases, the puzzle is considered unsolved (DNF).
-- 10h) Puzzles not specified in this article are be judged according to the solved state as defined by the generally accepted goal of the puzzle, applying the relevant regulations for the Rubik's Cube.
+- 10h) Puzzles not specified in this article are be judged according to the solved state as defined by the generally accepted goal of the puzzle, applying the relevant regulations for the Rubik's Cube.[NOTE: The only puzzle not specified in this article is clock. Why not just state what misalignment is allowed for that particular puzzle (none) instead of having this wishy-washy clause at the end. I have no clue what this sentence means.]
 
 
 ## Article 11: Incidents
@@ -248,7 +248,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - 11a3) Equipment malfunction.
 - 11b) If an incident occurs, the WCA Delegate determines an impartial and appropriate course of action.
 - 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make his decision based on fair sportsmanship.
-- 11e) If an incident occurs during an attempt, the WCA Delegate may award a competitor an extra attempt, replacing the attempt during which the incident occurred. The competitor must appeal at the time of the incident, before finishing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.
+- 11e) If an incident occurs during an attempt, the WCA Delegate may award a competitor an extra attempt, replacing the attempt during which the incident occurred. The competitor must appeal at the time of the incident, before finishing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.[NOTE: How does the competitor appeal to be eligible for an extra attempt? By saying something to the judge ("I was distracted"/"This is the same scramble as before")?]
   - 11e1) If a competitor is awarded an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble sequence must be generated using the current official version of the official WCA scramble program (see Regulation 4f).
 - 11f) Decisions about an incident may be supported with video or photographic analysis, at the discretion of the WCA Delegate.
 
@@ -289,7 +289,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - 12g1) The puzzle is oriented with twelve on top, and either side in front.
   - 12g2) Move pins up: UR (top-right), DR (bottom-right), DL (bottom-left), UL (top-left), U (both top), R (both right), D (both bottom), L (both left), ALL (all).
   - 12g3) Turn a wheel next to an up-position pin and move all pins down afterwards: x+ (x clockwise turns), x- (x anti-clockwise turns).
-  - 12g4) Turn around the puzzle so that twelve is still on top, and then move all pins down: y2.
+  - 12g4) Turn around the puzzle so that twelve is still on top, and then move all pins down: y2.[NOTE: If this is necessary "and then move all pins down", it is also necessary to explicitly say that the pins should be all down at the start of the scramble (and maybe even before every "move pins up" move). If the latter isn't necessary, the former isn't necessary either and we can simplify this rule.]
 
 
 ## Article A: Speed Solving
@@ -315,7 +315,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 - A3) Inspection:
   - A3a) The competitor may inspect the puzzle at the beginning of each attempt.
     - A3a1) The competitor is allotted a maximum of 15 seconds to inspect the puzzle and start the solve.
-  - A3b) Before the competitor starts the attempt, the judge resets the timer and, where applicable, the stopwatch.
+  - A3b) Before the competitor starts the attempt, the judge resets the timer and, where applicable, the stopwatch.[NOTE: If seen many competitors take the cube cover and move it to their preferred location on the mat during this phase. Is this allowed? Either way, it should be made explicit I think.]
     - A3b1) When the judge believes the competitor is ready, he asks "READY?". The competitor must be ready to start the attempt within one minute of being called. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
     - A3b2) When the competitor confirms his readiness, the judge uncovers the puzzle. If the attempt requires a stopwatch, the judge starts it at the same time.
   - A3c) The competitor may pick up the puzzle during inspection.
@@ -334,7 +334,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
     - A4d2) The competitor must start the solve within 17 seconds of the beginning of the inspection. Penalty: disqualification of the attempt (DNF).
   - A4e) Time penalties for starting the solve are cumulative.
 - A5) During the solve:
-  - A5a) While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge. Penalty: disqualification of the attempt (DNF).
+  - A5a) While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge. Penalty: disqualification of the attempt (DNF).[NOTE: I think it should be stipulated what can be communicated and what not. For instance: some people who do blindfolded events ask to be notified after a certain amount of time (which I always refuse of course). Should judges only be allowed to say what is mentioned in the regulations (READY?, OK, PENALTY,…)?]
   - A5b) While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface (also see Regulation 2i). Penalty: disqualification of the attempt (DNF).
 - A6) Stopping the solve:
   - A6a) The competitor stops the solve by releasing the puzzle and then stopping the timer.
@@ -405,7 +405,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 
 - D1) Standard speed solving procedures is followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
   - D1a) During the attempt, the competitor must sit in a chair, sit on the surface, or stand.
-  - D1b) During the attempt, the competitor must only use his feet and the surface. The competitor may wear socks while solving. Penalty: disqualification of the attempt (DNF).
+  - D1b) During the attempt, the competitor must only use his feet and the surface. The competitor may wear socks while solving. Penalty: disqualification of the attempt (DNF).[NOTE: The penalty part pertains to the first sentence and not the sentence just before it. It's a bit confusing because the sentence just before it (competitor may wear socks) is impossible to violate.]
   - D1c) During the solve, the competitor must use only his feet to touch the puzzle. Penalty: disqualification of the attempt (DNF).
 - D3) Starting the solve:
   - D3a) The competitor places his feet onto the timer sensors.
@@ -420,11 +420,11 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - E2a) The judge distributes a scramble sequence to all competitors. The judge then start the stopwatch and call "GO".
   - E2b) All competitors have a total time limit of 60 minutes to devise a solution.
     - E2b1) The judge calls "5 MINUTES REMAINING" at 55 minutes, and call "STOP" at 60 minutes.
-  - E2c) At 60 minutes, each competitor must give the judge a legibly written solution, using the notation defined for Block Turn Metric (described in Article 12a). Penalty: disqualification of the attempt (DNF).
+  - E2c) At 60 minutes, each competitor must give the judge a legibly written solution, using the notation defined for Block Turn Metric (described in Article 12a). Penalty: disqualification of the attempt (DNF).[NOTE: I think it should be stipulated that the competitor is responsible for clearly putting his name on his solution (penalty: DNF). I've had people run after me and we had to dig through other people's solutions. That should be avoided.]
   - E2d) The length of the solution is calculated in Block Turn Metric (see Article 12a).
     - E2d1) The competitor is permitted a maximum solution length of 80 (moves and rotations).
   - E2e) The competitor's solution must not be directly derived from any part of the scrambling algorithm. Penalty: disqualification of the attempt (DNF).
-    - E2e1) The WCA Delegate may ask the competitor must to explain the purpose of each move in his solution, irrespective of scrambling algorithm. If the competitor cannot give a valid explanation, the attempt is disqualified.
+    - E2e1) The WCA Delegate may ask the competitor must to explain the purpose of each move in his solution, irrespective of scrambling algorithm. If the competitor cannot give a valid explanation, the attempt is disqualified.[NOTE: Why "irrespective of scrambling algorithm"? What does that mean if someone used the inverse scramble legitimately?]
 - E3) The competitor may use the following objects during the attempt. Penalty for using unauthorised objects: disqualification of the attempt (DNF).
   - E3a) Paper and pens (both supplied by judge).
   - E3b) 1-3 puzzles corresponding to the event (self-supplied).
