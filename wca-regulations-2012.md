@@ -135,7 +135,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 
 - 7b) Spectators must remain at least 1.5 metres away from the solving stations when they are in use.
 - 7c) Lighting of the competition area must be given special attention. Lighting should be neutral, such that competitors can easily differentiate among the colours on the puzzles.
-- 7e) The competition area must be smoke-free, and must have a reasonable noise-level.
+- 7e) The competition area must be smoke-free, and must have a reasonable noise-level.[NOTE: I think "reasonable noise-level" is kind of vague and should just be removed.  If I want a competition at an amusement park, people should realize there might be noise.]
 - 7f) Solving station:
   - 7f1) Definitions:
     - 7f1a) Stackmat: The Speedstacks Stackmat timer and a full-size compatible mat.
@@ -207,7 +207,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 - 9o) Combined rounds and Qualification rounds each count as one round when counting the number of rounds per event.
 - 9p) If an event has multiple rounds, then:
   - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
-  - 9p2) The competitors who advance to the next round must be determined by either a cutoff ranking or a cutoff time in the preceding elimination round. The cutoff must be specified before the preceding elimination round starts.
+  - 9p2) The competitors who advance to the next round must be determined by either a cutoff ranking or a cutoff time in the preceding elimination round. The cutoff must be specified before the preceding elimination round starts.[NOTE: Allow the limit to be changed if 9p1 must take effect.  I've had some competitions with no-shows and it's not until the round is done I realized I can only take the top 20 instead of top 24).]
   - 9p3) If a qualifying competitor withdraws from a round, he may be replaced by the best-ranked competitor below the cutoff from the preceding round.
 - 9r) A qualification round must be held before the first round of the event.
   - 9r1) When announcing an event, the organisation team must include:
@@ -216,7 +216,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
     - 9r1c) The average/mean result or single solve result, achieved in a previous competition, required to qualify directly for the first round of the event.
     - 9r1d) The latest permitted date used to determine the qualifying average/mean result or single solve result in the WCA rankings.
   - 9r2) Each competitor of an event who has not directly qualified for the first round of the event must compete in the qualification round in order to participate in the first round.
-  - 9r3) A qualification round may be added to accommodate newly registered competitors, and/or the maximum number of competitors in the qualification round or first round of an event may be increased. These changes must be made at least two weeks before the competition.
+  - 9r3) A qualification round may be added to accommodate newly registered competitors, and/or the maximum number of competitors in the qualification round or first round of an event may be increased. These changes must be made at least two weeks before the competition.[NOTE: It should explicitly clarify that only new competitors are affected by this.  Make it very obvious for people who may be reading this translated. ]
 - 9s) Each round of each event must have a time limit (see Regulation A1a).
 
 
@@ -471,6 +471,6 @@ The WCA Board must approve any optional regulations for a competition.
 - Z1) The organisation team may require competitors to submit puzzles during registration.
 - Z2) The organisation team may limit the number of events per competitor.
 - Z3) The organisation team may select competitors who directly qualify for certain rounds of certain events based on the results of specific previous competitions.
-- Z4) The organisation team may limit the number of competitors per event, on either a "first come first serve" basis or based upon qualification times or rankings in the current WCA world rankings.
+- Z4) The organisation team may limit the number of competitors per event, on either a "first come first serve" basis or based upon qualification times or rankings in the current WCA world rankings.[NOTE: Remove current WCA rankings.  Those change.  If I say ranked 500 or below in the world, you may meet that now but not when the competition occurs.  I should just say, "If you're under X seconds."]
 - Z5) The organisation team may prohibit competitors from participating in specific combinations of events.
 
