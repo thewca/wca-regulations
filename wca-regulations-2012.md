@@ -198,7 +198,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognised as breaking that regional record.
   - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
 - 9j) Each event must be held at most once per competition.
-- 9k) All competitors may participate in all events of a competition.
+- 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the Board.
 - 9l) Each round must be completed before any following round of the same event starts.
 - 9m) Events must have at most four rounds.
   - 9m1) Events with 99 or fewer competitors must have at most three rounds.
@@ -358,7 +358,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - A7b) The judge records the result on a score sheet.
     - A7b1) If penalties are assigned, the judge records the original recorded result displayed on the timer, along with any penalties. The format is "X + T + Y = F", where X represents the sum of time penalties before/starting the solve, T represents the time displayed on the timer, Y represents a sum of time penalties during/after the solve, and F represents the final result. If X and/or Y is 0, the 0 terms are omitted (e.g. 2 + 17.65 + 2 = 21.65, or 17.65 + 2 = 19.65).
   - A7c) The judge and competitor must both sign (or initial) the score sheet to acknowledge the result.
-    - A7c1) If the competitor or the judge refuses to sign the score sheet, the WCA Delegate must resolve the dispute.
+    - A7c1) If the competitor or the judge refuses to accept and sign the score sheet, the WCA Delegate must resolve the dispute.
   - A7f) When a competitor's score sheet for a round is complete, the judge delivers the score sheet to the score taker.
 
 
