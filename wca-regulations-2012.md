@@ -55,7 +55,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 - 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
   - 2g3) Competitors in the Competitors Area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor from the event, at the discretion of the WCA Delegate.
 - 2h) Competitors must be fully dressed while in the competition venue. At the discretion of the Delegate, competitors may be disqualified from the competition for inappropriate clothing.
-- 2i) While competing, competitors must not use electronics or sound equipment electronic equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting).
+- 2i) While competing, competitors must not use electronics or audio equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting).
   - 2i1) Competitors may use certain non-electronic aids that do not give the competitor an unfair advantage, at the discretion of the WCA Delegate. This includes:
     - 2i1a) Medical/physical aids worn by the competitor (etc. glasses, wrist brace, hearing aids).
     - 2i1b) Earplugs and earmuffs (but not electronic noise-cancelling headphones).
@@ -84,7 +84,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 - 3a) Competitors must provide their own puzzles for the competition.
   - 3a1) Competitors must be present and ready to compete when they are called to compete for a round. Penalty: disqualification from the event.
   - 3a2) Puzzles must be fully operational, such that normal scrambling is possible.
-  - 3a3) Polyhedral puzzles must use a colour scheme with one colour per face in the solved state. Each puzzle variation must have moves, states, and solutions functionally identical to the original puzzle.
+  - 3a3) Polyhedral puzzles must use a colour scheme with one unique colour per face in the solved state. Each puzzle variation must have moves, states, and solutions functionally identical to the original puzzle.
 - 3d) Puzzles must have coloured stickers, coloured tiles, or painted/printed colours.
   - 3d1) Exception: Competitors with a medically documented visual disability may use textured puzzles with different textures on different faces. Textures/patterns must be uniform per face. Each face should have a distinct colour, to aid in scrambling and judging.
   - 3d2) The colours of puzzles must be solid, with one uniform colour per face. Each colour on the puzzle must be clearly distinct from the other colours.
@@ -118,8 +118,8 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 
 ## Article 5: Puzzle Defects
 
-- 5a) Examples of puzzle defects include: popped pieces, broken wires, pieces twisted in place, and detached screws/caps/stickers.
-- 5b) If a puzzle defect occurs during an attempt, the competitor may choose to repair the defect and continue the attempt, or to stop the attempt.
+- 5a) Examples of puzzle defects include: popped pieces, pieces twisted in place, and detached screws/caps/stickers.
+- 5b) If a puzzle defect occurs during an attempt, the competitor may choose to either repair the defect and continue the attempt, or to stop the attempt.
   - 5b1) If a competitor chooses to repair the puzzle, he must repair only the defective pieces. Tools and/or pieces of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the attempt (DNF).
   - 5b2) Any repair to a puzzle must not give the competitor any advantage in solving the puzzle. Penalty: disqualification of the attempt (DNF).
   - 5b3) Permitted repairs:
@@ -143,7 +143,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
     - 7f1c) Timer: The timer of the Stackmat.
     - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
   - 7f2) The timer must be attached to the mat and placed on the surface, with the timer on the side of the mat nearest to the competitor.
-    - 7f2a) Exception: For Solving With Feet, the timer must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
+    - 7f2a) Exception: For Solving With Feet, the Stackmat must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
 - 7h) The competition area must have a Competitors Area.
   - 7h1) The organisation team may require that a competitor who has been called to compete must remain within the Competitors Area until he has finished all of his attempts for the round.
 
@@ -207,7 +207,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 - 9o) Combined rounds and Qualification rounds each count as one round when counting the number of rounds per event.
 - 9p) If an event has multiple rounds, then:
   - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
-  - 9p2) The competitors who advance to the next round must be determined by either a cutoff ranking or a cutoff time in the preceding elimination round. The cutoff must be specified before the preceding elimination round starts, except when it violates 9p1.
+  - 9p2) The competitors who advance to the next round must be determined by either a cutoff ranking or a cutoff time in the preceding elimination round.
   - 9p3) If a qualifying competitor withdraws from a round, he may be replaced by the best-ranked competitor below the cutoff from the preceding round.
 - 9r) A qualification round must be held before the first round of the event.
   - 9r1) When announcing an event, the organisation team must include:
@@ -296,11 +296,11 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 
 - A1) Speed Solving attempts must abide by the following procedure.
   - A1a) The organisation team may enforce time limits for attempts and/or rounds.
-    - A1a1) The default time limit per attempt is 10 minutes, though the organisation team may announce a higher/lower time limit.
+    - A1a1) The default time limit per attempt is 10 minutes, though the organisation team may announce a higher or lower time limit.
     - A1a2) Cumulative time limits may be enforced (e.g. 3 attempts with a cumulative time limit of 20 minutes). The time elapsed in a DNF result counts towards the cumulative time limit.
     - A1a3) For each round, any time limits must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
     - A1a4) The competitor must end each attempt within the time limit. If a competitor reaches the time limit for an attempt/round, the judge stops the attempt immediately and record the result as DNF. Exception: Multiple Blindfolded Solving (see Regulation H1b1).
-    - A1a5) An attempt is considered to meet the time limit if and only if the original recorded time, before any time penalties are applied, is strictly less than the time limit. Exception: Multiple Blindfolded Solving (see Regulation H1b1).
+    - A1a5) An attempt is considered to meet the time limit if and only if the original recorded time, after any time penalties are applied, is less than the time limit. Exception: Multiple Blindfolded Solving (see Regulation H1b1).
   - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
     - A1b1) Simultaneous use of a Stackmat timer is optional.
     - A1b2) If a time from the Stackmat timer is available, it is the original recorded time. Otherwise, the stopwatch time is the original recorded time. 
@@ -320,12 +320,12 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
     - A3b2) When the competitor confirms his readiness, the judge uncovers the puzzle. If the attempt requires a stopwatch, the judge starts it at the same time.
   - A3c) The competitor may pick up the puzzle during inspection.
     - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the attempt (DNF).
-    - A3c2) If the pieces of the puzzle are not fully aligned, then the competitor may align the faces, as long as it stays within the limits within the limits described in 10f.
+    - A3c2) If the pieces of the puzzle are not fully aligned, then the competitor may align the faces, as long as misalignments stay within the limits 10f.
     - A3c3) The competitor may reset the timer before he starts the solve.
   - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation and position.
     - A3d1) The puzzle must not rest on the timer. Penalty: time penalty (+2 seconds).
     - A3d2) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
-    - A3d3) When 12 seconds of inspection have elapsed, the judge calls "12 SECONDS", and the competitor starts the solve.
+    - A3d3) When 12 seconds of inspection have elapsed, the judge calls "12 SECONDS".
 - A4) Starting the solve:
   - A4b) The competitor places his hands on the elevated sensor unit of the timer, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
     - A4b1) The competitor must have no physical contact with the puzzle between the inspection period and the beginning of the solve. Penalty: time penalty (+2 seconds).
@@ -341,13 +341,13 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
     - A6a1) If a stopwatch is in use as the timing device, the competitor ends the solve by releasing the puzzle and notifying the judge that he has stopped the solve.
     - A6a2) When using a stopwatch without a Stackmat, the competitor's default notification signal consists of releasing the puzzle(s) in his hand and placing his hands on the surface, with palms down. The competitor and the judge may agree on another appropriate notification before the beginning of the solve.
   - A6b) The competitor is responsible for stopping the timer correctly.
-    - A6b1) If the timer stops before the end of the solve and the timer shows a time strictly below 0.06 seconds, then the attempt is be replaced by an extra attempt. A competitor forfeits his right to the additional attempt if the WCA Delegate determines that the timer was stopped deliberately.
+    - A6b1) If the timer stops before the end of the solve and the timer shows a time strictly below 0.06 seconds, then the attempt is replaced by an extra attempt. A competitor forfeits his right to the additional attempt if the WCA Delegate determines that the timer was stopped deliberately.
     - A6b2) If the timer stops before the end of the solve and displays a time of 0.06 seconds or higher, then the attempt is disqualified (DNF). Exception: if the competitor can demonstrate that the timer malfunctioned, he may receive an extra attempt, at the WCA Delegate's discretion.
   - A6c) The competitor must fully release the puzzle before stopping the timer. Penalty: time penalty (+2 seconds).
   - A6d) The competitor must stop the timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
   - A6e) The competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been applied, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
   - A6f) The competitor must not reset the timer until the judge has recorded the result on the score sheet. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
-  - A6g) The judge determines whether the puzzle is solved. He must not make moves or align faces when examining the puzzle.
+  - A6g) The judge determines whether the puzzle is solved. He must not make moves or align faces when examining the puzzle. Exception: The judge is permitted to make moves when examining a Rubik's Clock.
   - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle before the dispute is resolved. Penalty: disqualification of the attempt (DNF), at the discretion of the WCA Delegate.
   - A6i) Time penalties for stopping the solve are cumulative.
 - A7) Recording results:
@@ -356,7 +356,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
     - A7a2) If the judge assigns any penalties, the judge calls "PENALTY".
     - A7a3) If the result is DNF, the judge calls "DNF".
   - A7b) The judge records the result on a score sheet.
-    - A7b1) If penalties are assigned, the judge records the original recorded result displayed on the timer, along with any penalties. The format is "X + T + Y = F", where X represents the sum of time penalties before/starting the solve, T represents the time displayed on the timer, Y represents a sum of time penalties during/after the solve, and F represents the final result. If X and/or Y is 0, the 0 terms are omitted (e.g. 2 + 17.65 + 2 = 21.65, or 17.65 + 2 = 19.65).
+    - A7b1) If penalties are assigned, the judge records the original recorded result displayed on the timer, along with any penalties. The format should be "X + T + Y = F", where X represents the sum of time penalties before/starting the solve, T represents the time displayed on the timer, Y represents a sum of time penalties during/after the solve, and F represents the final result. If X and/or Y is 0, the 0 terms are omitted (e.g. 2 + 17.65 + 2 = 21.65, or 17.65 + 2 = 19.65).
   - A7c) The judge and competitor must both sign (or initial) the score sheet to acknowledge the result.
     - A7c1) If the competitor or the judge refuses to accept and sign the score sheet, the WCA Delegate must resolve the dispute.
   - A7f) When a competitor's score sheet for a round is complete, the judge delivers the score sheet to the score taker.
@@ -419,7 +419,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 - E2) Procedure for Fewest Moves Solving:
   - E2a) The judge distributes a scramble sequence to all competitors. The judge then start the stopwatch and call "GO".
   - E2b) All competitors have a total time limit of 60 minutes to devise a solution.
-    - E2b1) The judge calls "5 MINUTES REMAINING" at 55 minutes, and call "STOP" at 60 minutes.
+    - E2b1) The judge should call "5 MINUTES REMAINING" at 55 minutes, and must call "STOP" at 60 minutes.
   - E2c) At 60 minutes, each competitor must give the judge a legibly written solution, using the notation defined for Block Turn Metric (described in Article 12a). Penalty: disqualification of the attempt (DNF).
   - E2d) The length of the solution is calculated in Block Turn Metric (see Article 12a).
     - E2d1) The competitor is permitted a maximum solution length of 80 (moves and rotations).
