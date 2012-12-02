@@ -175,7 +175,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
     - 9b3a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3).
 - 9f) The results of a round are measured as follows:
   - 9f1) All timed results under 10 minutes are measured and rounded down to the nearest hundredth of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second. 
-  - 9f2) All timed results, averages, and means over 10 minutes are measured and rounded to the nearest second (e.g. x.4 becomes x, x.5 becomes x+1). [NOTE: NOTE: In the example, units are needed! x.4s, x+1s, etc.]
+  - 9f2) All timed results, averages, and means over 10 minutes are measured and rounded to the nearest second (e.g. x.4 becomes x, x.5 becomes x+1).
   - 9f4) The result of an attempt is recorded as DNF (Did Not Finish) if the attempt is disqualified or unsolved/unfinished.
   - 9f5) The result of an attempt is recorded as DNS (Did Not Start) if the competitor is eligible for an attempt but declines it.
   - 9f6) For "Best of X" rounds, each competitor is allotted X attempts. The best result of these attempts counts for the competitor's ranking in the round.
@@ -190,7 +190,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
     - 9f12c) For Multiple Blindfolded Solving, rankings are assessed based on number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, the attempt is considered unsolved (DNF). If competitors achieve the same result, rankings are assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings are assessed based on the number of puzzles the competitors failed to solve, where fewer unsolved puzzles is better.
   - 9f13) For "Mean of 3" and "Average of 5" rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the shorter recorded time.
   - 9f14) For "Mean of 3" and "Average of 5" rounds, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where "better" is defined as the shorter time.
-  - 9f15) Competitors who achieve the same result in a round receive and identical ranking for the round. [NOTE: “and” should be “an”]
+  - 9f15) Competitors who achieve the same result in a round receive an identical ranking for the round.
 - 9g) A Combined Round consists of two phases of attempts, where competitors advance to the second phase if they meet a designated cutoff during the first phase.
   - 9g2) Whether a competitor proceeds to next phase of a Combined round, must be decided by ranking (best x competitors) or by result (all competitors with a best result under x) of the first phase.
 - 9i) Results of official WCA competitions must be listed on the WCA world rankings.
@@ -237,7 +237,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - 10f4) Square-1: at most 45 degrees (U/D) or 90 degrees (/).
 - 10g) For Magic and Master Magic Solving, the minimum acceptable angle between adjacent tiles is 135 degrees.
   - 10g1) If at most two pairs of adjacent tiles are at a smaller angle, and the puzzle is otherwise solved, the puzzle is considered solved with a time penalty (+2 seconds). In all other cases, the puzzle is considered unsolved (DNF).
-- 10h) Puzzles not specified in this article are be judged according to the solved state as defined by the generally accepted goal of the puzzle, applying the relevant regulations for the Rubik's Cube.[NOTE: The only puzzle not specified in this article is clock. Why not just state what misalignment is allowed for that particular puzzle (none) instead of having this wishy-washy clause at the end. I have no clue what this sentence means.]
+- 10h) Puzzles not specified in this article are be judged according to the solved state as defined by the generally accepted goal of the puzzle, applying the relevant regulations for the Rubik's Cube.
 
 
 ## Article 11: Incidents
