@@ -156,7 +156,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - 8a3) Have a designated WCA Delegate in attendance.
   - 8a4) Be announced on the WCA website at least two weeks before the beginning of the competition.
   - 8a6) Be publicly accessible.
-  - 8a7) Use the authentic Speed Stacks Stackmat timer (Generation 2 or Pro) for time measurement.[NOTE: I think that the regulations should be brand neutral. Say something like "timers approved by the Board..." And then somewhere have a list of approved timers.]
+  - 8a7) Use the authentic Speed Stacks Stackmat timer (Generation 2 or Pro) for time measurement.
   - 8a8) Be open to all who wish to compete. Restrictions must be approved by the WCA Board and clearly stated when the competition is announced.
 - 8f) If WCA Regulations are not correctly observed during a competition, the WCA Board may disqualify affected attempts.
 
@@ -195,14 +195,10 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - 9g2) Whether a competitor proceeds to next phase of a Combined round, must be decided by ranking (best x competitors) or by result (all competitors with a best result under x) of the first phase.
 - 9i) Results of official WCA competitions must be listed on the WCA world rankings.
   - 9i1) The WCA recognises the following types of regional records: national records, continental records, and world records.
-  - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognised as breaking that regional record.[NOTE: How about the time of the solve? As I read this paragraph, you can only set one record during the same day. Thus, with this regulation, the world records by Lin Chen at Hangzhou Open 2012 (http://worldcubeassociation.org/node/2389) should have been listed as 
-  "World records: Lin Chen (陈霖) 7x7 Cube 2:41.63 (single), 7x7 Cube 2:56.85 (average)."
-  and not as it is given today:
-  "World records: Lin Chen (陈霖) 7x7 Cube 2:54.56 (single), 7x7 Cube 3:01.54 (average), 7x7 Cube 2:41.63 (single), 7x7 Cube 2:56.85 (average)."
-  Is this intended?]
+  - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognised as breaking that regional record.
   - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
 - 9j) Each event must be held at most once per competition.
-- 9k) All competitors may participate in all events of a competition.[NOTE: Isn't this paragraph in conflict with Z5?]
+- 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the Board.
 - 9l) Each round must be completed before any following round of the same event starts.
 - 9m) Events must have at most four rounds.
   - 9m1) Events with 99 or fewer competitors must have at most three rounds.
@@ -241,7 +237,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - 10f4) Square-1: at most 45 degrees (U/D) or 90 degrees (/).
 - 10g) For Magic and Master Magic Solving, the minimum acceptable angle between adjacent tiles is 135 degrees.
   - 10g1) If at most two pairs of adjacent tiles are at a smaller angle, and the puzzle is otherwise solved, the puzzle is considered solved with a time penalty (+2 seconds). In all other cases, the puzzle is considered unsolved (DNF).
-- 10h) Puzzles not specified in this article are be judged according to the solved state as defined by the generally accepted goal of the puzzle, applying the relevant regulations for the Rubik's Cube.[NOTE: Isn't Clock the only non-specified puzzle? I find it most appropriate to define the solved state of Clock, including explicitly mention when/if +2 and DNF are awarded. What is the definition of "one move" for Clock?]
+- 10h) Puzzles not specified in this article are be judged according to the solved state as defined by the generally accepted goal of the puzzle, applying the relevant regulations for the Rubik's Cube.
 
 
 ## Article 11: Incidents
@@ -362,7 +358,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - A7b) The judge records the result on a score sheet.
     - A7b1) If penalties are assigned, the judge records the original recorded result displayed on the timer, along with any penalties. The format is "X + T + Y = F", where X represents the sum of time penalties before/starting the solve, T represents the time displayed on the timer, Y represents a sum of time penalties during/after the solve, and F represents the final result. If X and/or Y is 0, the 0 terms are omitted (e.g. 2 + 17.65 + 2 = 21.65, or 17.65 + 2 = 19.65).
   - A7c) The judge and competitor must both sign (or initial) the score sheet to acknowledge the result.
-    - A7c1) If the competitor or the judge refuses to sign the score sheet, the WCA Delegate must resolve the dispute.[NOTE: Refuse to sign? I think that we very often will face the situation where the competitor forgets to sign the score sheet. How to deal with such situations?]
+    - A7c1) If the competitor or the judge refuses to accept and sign the score sheet, the WCA Delegate must resolve the dispute.
   - A7f) When a competitor's score sheet for a round is complete, the judge delivers the score sheet to the score taker.
 
 
@@ -378,7 +374,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - B2d) The competitor starts the attempt by removing his hands from the timer, thus starting the timer.
     - B2d1) The competitor removes the cover from the puzzle after starting the timer.
   - B2e) If a stopwatch is in use, the judge starts the stopwatch as soon as the competitor starts the solve.
-- B3) Memorisation phase:[NOTE: I think a paragraph like B4b) ought to added here. That is, no move are allowed during the memorisation phase.]
+- B3) Memorisation phase:
   - B3a) The competitor may pick up the puzzle during the memorisation.
   - B3b) The competitor must not make physical notes. Penalty: disqualification of the attempt (DNF).
 - B4) Blindfolded phase:
