@@ -167,7 +167,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - 9a1) Puzzles known as Rubik's puzzles.
   - 9a2) Other puzzles that are manipulated by twisting the sides, commonly known as "twisty puzzles".
 - 9b) The official puzzles and event formats of the WCA are:
-  - 9b1) Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Magic, Master Magic, Megaminx, Pyraminx, Square-1, and Rubik's Cube: One-Handed.
+  - 9b1) Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Megaminx, Pyraminx, Square-1, and Rubik's Cube: One-Handed.
     - 9b1a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3), and "Average of 5".
   - 9b2) Rubik's Cube: With Feet, 6x6x6 Cube, and 7x7x7 Cube.
     - 9b2a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3) and "Mean of 3".
@@ -235,8 +235,6 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - 10f2) Megaminx: at most 36 degrees.
   - 10f3) Pyraminx: at most 60 degrees.
   - 10f4) Square-1: at most 45 degrees (U/D) or 90 degrees (/).
-- 10g) For Magic and Master Magic Solving, the minimum acceptable angle between adjacent tiles is 135 degrees.
-  - 10g1) If at most two pairs of adjacent tiles are at a smaller angle, and the puzzle is otherwise solved, the puzzle is considered solved with a time penalty (+2 seconds). In all other cases, the puzzle is considered unsolved (DNF).
 - 10h) Puzzles not specified in this article are be judged according to the solved state as defined by the generally accepted goal of the puzzle, applying the relevant regulations for the Rubik's Cube.
 
 
@@ -436,19 +434,6 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 - F1) Standard speed solving procedures is followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
 - F2) The judge places the scrambled puzzle onto the mat in a standing position.
 - F3) At the end of the inspection period, the competitor places the puzzle onto the mat in a standing position. He must not change the positions of any pins from their scrambled positions before the beginning of the solve. Penalty: disaqualification (DNF).
-
-
-## Article G: Magic Solving and Master Magic Solving
-
-- G1) Standard speed solving procedures is followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
-  - G1a) The competitor is permitted at most two practise attempts on the competition timer. When the judge and competitor mutually agree, the official attempts will start. From then on, all attempts will be treated as official attempts.
-- G2) Scrambling:
-  - G2a) The puzzle is not scrambled.
-  - G2b) The puzzle is not covered by the judge.
-- G3) Inspection:
-  - G3a) There is no inspection phase.
-- G4) Starting the solve:
-  - G4a) At the beginning of the solve, the puzzle must lie completely flat on the surface. Either of its two sides may face up.
 
 
 ## Article H: Multiple Blindfolded Solving
