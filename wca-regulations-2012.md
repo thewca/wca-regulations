@@ -345,7 +345,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - A6d) The competitor must stop the timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
   - A6e) The competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been applied, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
   - A6f) The competitor must not reset the timer until the judge has recorded the result on the score sheet. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
-  - A6g) The judge determines whether the puzzle is solved. He must not make moves or align faces when examining the puzzle. Exception: The judge is permitted to make moves when examining a Rubik's Clock.
+  - A6g) The judge determines whether the puzzle is solved. He must not make moves or align faces when examining the puzzle. Exception: The judge is permitted to make moves when examining a Clock.
   - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle before the dispute is resolved. Penalty: disqualification of the attempt (DNF), at the discretion of the WCA Delegate.
   - A6i) Time penalties for stopping the solve are cumulative.
 - A7) Recording results:
@@ -373,8 +373,9 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
     - B2d1) The competitor removes the cover from the puzzle after starting the timer.
   - B2e) If a stopwatch is in use, the judge starts the stopwatch as soon as the competitor starts the solve.
 - B3) Memorisation phase:
-  - B3a) The competitor may pick up the puzzle during the memorisation.
+  - B3a) The competitor may pick up the puzzle during the memorisation phase.
   - B3b) The competitor must not make physical notes. Penalty: disqualification of the attempt (DNF).
+  - B4b) The competitor must not apply moves to the puzzle during the memorisation phase.
 - B4) Blindfolded phase:
   - B4a) The competitor dons the blindfold to start the blindfolded phase.
   - B4b) The competitor must not apply moves to the puzzle before he has fully donned the blindfold.
@@ -403,7 +404,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 
 - D1) Standard speed solving procedures is followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
   - D1a) During the attempt, the competitor must sit in a chair, sit on the surface, or stand.
-  - D1b) During the attempt, the competitor must only use his feet and the surface. Penalty: disqualification of the attempt (DNF). The competitor may wear socks while solving.
+  - D1b) During the attempt, the competitor must only use his feet and the surface. Penalty: disqualification of the attempt (DNF).
   - D1c) During the solve, the competitor must use only his feet to touch the puzzle. Penalty: disqualification of the attempt (DNF).
 - D3) Starting the solve:
   - D3a) The competitor places his feet onto the timer sensors.
@@ -456,6 +457,6 @@ The WCA Board must approve any optional regulations for a competition.
 - Z1) The organisation team may require competitors to submit puzzles during registration.
 - Z2) The organisation team may limit the number of events per competitor.
 - Z3) The organisation team may select competitors who directly qualify for certain rounds of certain events based on the results of specific previous competitions.
-- Z4) The organisation team may limit the number of competitors per event, on either a "first come first serve" basis or based upon qualification times or rankings in the WCA world rankings of a previously announced calendar day.
+- Z4) The organisation team may limit the number of competitors per event, on either a "first come first serve" basis or based upon qualification times or rankings in the WCA world rankings of a previously announced calendar date.
 - Z5) The organisation team may prohibit competitors from participating in specific combinations of events.
 

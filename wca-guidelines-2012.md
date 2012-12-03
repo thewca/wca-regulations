@@ -132,6 +132,7 @@ Note the following:
 
 ## Article D: Solving With Feet
 
+- D1b) [CLARIFICATION] The competitor may wear socks while solving.
 - D1c) [REMINDER] While repairing puzzle defects, other body parts must not touch the puzzle.
 
 
