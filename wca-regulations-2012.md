@@ -444,7 +444,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
     - H1a1) A competitor is not permitted to change the number of puzzles after the beginning of the attempt.
     - H1a2) The organisation team must not disclose the competitor's requested number of puzzles until the beginning of the attempt.
   - H1b) If he is attempting fewer than 6 puzzles, the competitor is allotted a time limit of 10 minutes times the number of puzzles in the attempt, else the time limit is 60 minutes.
-    - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge shall stop the attempt and the attempt shall then be scored; the time limit for the attempt shall count as the original recorded time.
+    - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge stops the attempt and the attempt is then scored; the time limit for the attempt counts as the original recorded time.
   - H1d) Time penalties for the puzzles of the attempt are cumulative.
 
 
