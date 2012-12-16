@@ -14,7 +14,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the competition date.
   - 1c3) Sending the competition results to the WCA Results Team.
     - 1c3a) All scramble sequences used during a competition must be sent with the results of the competition.
-    - 1c3b) Scramble sequences must be labelled with the events, rounds, and heats for which they were used.
+    - 1c3b) Scramble sequences must be labelled with the events, rounds, and groups for which they were used.
   - 1c4) Sending corrections to the competition results to the WCA Board.
   - 1c5) Advising the other officials where necessary.
   - 1c6) Approving all events and round formats of a competition, before the competition starts, and if changes are required during the competition.
@@ -32,8 +32,8 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 - 1g) Each event must have one or more score takers.
   - 1g1) A score taker is responsible for compiling results.
   - 1g2) Any change to the result on a score sheet must be made at the discretion of the WCA Delegate.
-- 1h) Competitors in the same round of an event may be divided into heats.
-  - 1h1) Scramblers and judges for a round should not scramble for/judge competitors in their own heat before they have finished all of their attempts for the round. They may scramble for/judge competitors in their own heat at the discretion of the WCA Delegate, but the organisation team must ensure that scramblers and judges cannot see any scrambles for their attempts that they have not attempted yet.
+- 1h) Competitors in the same round of an event may be divided into groups.
+  - 1h1) Scramblers and judges for a round should not scramble for/judge competitors in their own group before they have finished all of their attempts for the round. They may scramble for/judge competitors in their own group at the discretion of the WCA Delegate, but the organisation team must ensure that scramblers and judges cannot see any scrambles for their attempts that they have not attempted yet.
 - 1j) All officials may compete in the competition.
 - 1k) Officials may serve multiple roles (e.g. organisation team, WCA Delegate, judge, score taker, scrambler).
 
