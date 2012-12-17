@@ -226,7 +226,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 - 10c) The puzzle may be in any orientation at the end of the attempt.
 - 10d) All pieces of a puzzle must be fully attached to the puzzle in their required positions. Exception: see Regulation 5b5.
 - 10e) A puzzle is solved when all face colours are reassembled and all parts are aligned within the limits specified below:
-  - 10e1) For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in Regulation 10f, the puzzle is considered to require one additional move to solve (see "Block Turn Metric" in Article 12).
+  - 10e1) For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in Regulation 10f, the puzzle is considered to require one additional move to solve (see "Outer Block Turn Metric" in Article 12).
   - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle is considered solved without penalty.
   - 10e3) If one move is required, the puzzle is be considered solved with a time penalty (+2 seconds).
   - 10e4) If more than one move is required, the puzzle is considered unsolved (DNF).
@@ -262,7 +262,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
     - 12a2a) Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw. (see Regulation 12a1).
     - 12a2b) Anti-clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw' (see Regulation 12a5).
     - 12a2c) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2 (see Regulation 12a5).
-  - 12a3) Block Turn Metric (BTM) is defined as:
+  - 12a3) Outer Block Turn Metric (OBTM) is defined as:
     - 12a3a) Each move of the categories Face Moves and Multiple Outer Slice Moves is counted as 1 move.
     - 12a3b) Each rotation is counted as 0 moves.
 - 12b) Rotations for all cube shaped puzzles:
@@ -419,8 +419,8 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - E2a) The judge distributes a scramble sequence to all competitors. The judge then start the stopwatch and call "GO".
   - E2b) All competitors have a total time limit of 60 minutes to devise a solution.
     - E2b1) The judge should call "5 MINUTES REMAINING" at 55 minutes, and must call "STOP" at 60 minutes.
-  - E2c) At 60 minutes, each competitor must give the judge a legibly written solution with the competitor's name, using the notation defined for Block Turn Metric (described in Article 12a). Penalty: disqualification of the attempt (DNF).
-  - E2d) The length of the solution is calculated in Block Turn Metric (see Article 12a).
+  - E2c) At 60 minutes, each competitor must give the judge a legibly written solution with the competitor's name, using the notation defined for Outer Block Turn Metric (described in Article 12a). Penalty: disqualification of the attempt (DNF).
+  - E2d) The length of the solution is calculated in Outer Block Turn Metric (see Article 12a).
     - E2d1) The competitor is permitted a maximum solution length of 80 (moves and rotations).
   - E2e) The competitor's solution must not be directly derived from any part of the scrambling algorithm. Penalty: disqualification of the attempt (DNF).
     - E2e1) The WCA Delegate may ask the competitor must to explain the purpose of each move in his solution, irrespective of scrambling algorithm. If the competitor cannot give a valid explanation, the attempt is disqualified.
