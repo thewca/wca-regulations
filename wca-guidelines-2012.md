@@ -19,12 +19,12 @@ Note the following:
 ## Article 1: Officials
 
 - 1c3) [RECOMMENDATION] Results should be ready at the end of the last day of competition.
-- 1c3b) [CLARIFICATION] If there are multiple groups, it is not necessary to identify which competitor was in which heats.
+- 1c3b) [CLARIFICATION] If there are multiple groups, it is not necessary to identify which competitor was in which groups.
 - 1c4) [RECOMMENDATION] Corrections to the results should be available within one week of the competition date.
 - 1c10) [CLARIFICATION] It is sufficient to ensure access to a digital copy of the Regulations.
-- 1h) [RECOMMENDATION] Competitors in the same heat should use the same scramble sequences. Different heats should use different scramble sequences.
-- 1h) [RECOMMENDATION] All final rounds of all events, as well as all Fewest Moves Solving rounds, should have the same scrambles for all competitors (i.e. only 1 heat).
-- 1h1) [CLARIFICATION] Scramblers/judges should only scramble for/judge other competitors in the same heat only if it is important for competition logistics.
+- 1h) [RECOMMENDATION] Competitors in the same group should use the same scramble sequences. Different groups should use different scramble sequences.
+- 1h) [RECOMMENDATION] All final rounds of all events, as well as all Fewest Moves Solving rounds, should have the same scrambles for all competitors (i.e. only 1 group).
+- 1h1) [CLARIFICATION] Scramblers/judges should only scramble for/judge other competitors in the same group only if it is important for competition logistics.
 
 
 ## Article 2: Competitors
