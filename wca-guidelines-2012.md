@@ -52,7 +52,7 @@ Note the following:
 
 - 4b1) [REMINDER] The WCA Delegate must never re-generate any scrambles to replace other ones for the purpose of filtering. For example, it is not be permitted to glance at the scrambles for a competition and generate the entire set again in order to generate "fairer" scrambles.
 - 4b2) [CLARIFICATION] In general, all official scramble sequences should be kept secret during the competition and published together after the end of the competition (see Regulation 1c3a). In some cases (e.g. world records), the organisation team may wish to release specific scrambles sooner after the end of a round.
-- 4d) [CLARIFICATION] Some puzzles use standard color schemes, except that black is replaced with white. In this case, black is the darkest color and must not be treated as white.
+- 4d) [CLARIFICATION] Some puzzles use standard colour schemes, except that black is replaced with white. In this case, black is the darkest colour and must not be treated as white.
 - 4f) [RECOMMENDATION] The WCA Delegate should generate sufficient scrambles for the entire competition ahead of time, including spare scrambles for extra attempts.
 - 4f) [REMINDER] If the WCA Delegate generates any additional scrambles during the competition, he must save them (see Regulation 1c3a).
 
@@ -60,7 +60,7 @@ Note the following:
 ## Article 5: Puzzle Defects
 
 - 5b5) [EXAMPLE] Example of a piece not fully placed: a 5x5x5 centre piece twisted in its spot.
-- 5b5) [EXAMPLE] Example of judging an attempt ending with a defective puzzle: A pyraminx with a detached tip may be reassembled in three states, one fully solved, and two "+2" states. An attempt ending in such a situation would be assigned a "+2" penalty.
+- 5b5) [EXAMPLE] Example of judging an attempt ending with a defective puzzle: A Pyraminx with a detached tip may be reassembled in three states, one fully solved, and two "+2" states. An attempt ending in such a situation would be assigned a "+2" penalty.
 
 
 ## Article 6: Awards/prizes/honours
