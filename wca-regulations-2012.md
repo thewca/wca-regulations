@@ -26,7 +26,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - 1e1) A judge is responsible for executing the procedures of the event.
     - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the Delegate, as long as the judge is able ensure that all WCA Regulations are followed at all times.
   - 1e2) Capable competitors must be available for judging, if needed by organisation team. Penalty: disqualification from the competition.
-- 1f) Each event must have one or more scramblers. Exception: puzzles that are not scrambled.
+- 1f) Each event must have one or more scramblers. Exception: Rubik's Cube: Fewest Moves.
   - 1f1) A scrambler applies scramble sequences to prepare puzzles for attempts.
   - 1f2) Capable competitors must be available for scrambling, if needed by organisation team. Penalty: disqualification from the competition.
 - 1g) Each event must have one or more score takers.
