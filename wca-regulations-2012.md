@@ -106,7 +106,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 - 4a) A scrambler applies scramble sequences to the puzzles.
 - 4b) Puzzles must be scrambled using computer-generated random scramble sequences.
   - 4b1) Generated scramble sequences must not be inspected before the competition, and must not be filtered or selected in any way by the WCA Delegate.
-  - 4b2) Scramble sequences for a round must be available only to the WCA Delegate and the scramblers for the event, until the end of the round. Exception: Fewest Moves Solving.
+  - 4b2) Scramble sequences for a round must be available only to the WCA Delegate and the scramblers for the event, until the end of the round. Exception: For Fewest Moves Solving, competitors receive scrambling sequences during the round (see Article E).
 - 4d) Scrambling orientation:
   - 4d1) Cube puzzles and Megaminx are scrambled with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.
   - 4d2) Pyraminx are scrambled with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
@@ -235,7 +235,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - 10f2) Megaminx: at most 36 degrees.
   - 10f3) Pyraminx: at most 60 degrees.
   - 10f4) Square-1: at most 45 degrees (U/D) or 90 degrees (/).
-- 10h) Puzzles not specified in this article are be judged according to the solved state as defined by the generally accepted goal of the puzzle, applying the relevant regulations for the Rubik's Cube.
+- 10h) Puzzles not specified in this article are judged according to the solved state as defined by the generally accepted goal of the puzzle, applying the relevant regulations for the Rubik's Cube.
 
 
 ## Article 11: Incidents
