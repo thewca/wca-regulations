@@ -323,7 +323,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation and position.
     - A3d1) The puzzle must not rest on the timer. Penalty: time penalty (+2 seconds).
     - A3d2) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
-    - A3d3) When 12 seconds of inspection have elapsed, the judge calls "12 SECONDS".
+    - A3d3) When 12 seconds of inspection have elapsed, the judge calls "GO".
 - A4) Starting the solve:
   - A4b) The competitor places his hands on the elevated sensor unit of the timer, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
     - A4b1) The competitor must have no physical contact with the puzzle between the inspection period and the beginning of the solve. Penalty: time penalty (+2 seconds).
