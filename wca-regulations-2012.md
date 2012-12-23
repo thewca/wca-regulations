@@ -24,7 +24,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - 1c10) Making a copy of the WCA Regulations available at the competition.
 - 1e) Each event must have one or more judges.
   - 1e1) A judge is responsible for executing the procedures of the event.
-    - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the Delegate, as long as the judge is able ensure that all WCA Regulations are followed at all times.
+    - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the Delegate, as long as the judge is able to ensure that all WCA Regulations are followed at all times.
   - 1e2) Capable competitors must be available for judging, if needed by organisation team. Penalty: disqualification from the competition.
 - 1f) Each event must have one or more scramblers. Exception: Fewest Moves Solving.
   - 1f1) A scrambler applies scramble sequences to prepare puzzles for attempts.
@@ -346,7 +346,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - A6e) The competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been applied, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
   - A6f) The competitor must not reset the timer until the judge has recorded the result on the score sheet. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
   - A6g) The judge determines whether the puzzle is solved. He must not make moves or align faces when examining the puzzle. Exception: The judge is permitted to make moves when examining a Clock.
-  - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle before the dispute is resolved. Penalty: disqualification of the attempt (DNF), at the discretion of the WCA Delegate.
+  - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle before the dispute is resolved.
   - A6i) Time penalties for stopping the solve are cumulative.
 - A7) Recording results:
   - A7a) The judge tells the competitor the result.
@@ -416,14 +416,14 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 ## Article E: Fewest Moves Solving
 
 - E2) Procedure for Fewest Moves Solving:
-  - E2a) The judge distributes a scramble sequence to all competitors. The judge then start the stopwatch and call "GO".
+  - E2a) The judge distributes a scramble sequence to all competitors. The judge then starts the stopwatch and calls "GO".
   - E2b) All competitors have a total time limit of 60 minutes to devise a solution.
     - E2b1) The judge should call "5 MINUTES REMAINING" at 55 minutes, and must call "STOP" at 60 minutes.
   - E2c) At 60 minutes, each competitor must give the judge a legibly written solution with the competitor's name, using the notation defined for Outer Block Turn Metric (described in Article 12a). Penalty: disqualification of the attempt (DNF).
   - E2d) The length of the solution is calculated in Outer Block Turn Metric (see Article 12a).
     - E2d1) The competitor is permitted a maximum solution length of 80 (moves and rotations).
   - E2e) The competitor's solution must not be directly derived from any part of the scrambling algorithm. Penalty: disqualification of the attempt (DNF).
-    - E2e1) The WCA Delegate may ask the competitor must to explain the purpose of each move in his solution, irrespective of scrambling algorithm. If the competitor cannot give a valid explanation, the attempt is disqualified.
+    - E2e1) The WCA Delegate may ask the competitor to explain the purpose of each move in his solution, irrespective of scrambling algorithm. If the competitor cannot give a valid explanation, the attempt is disqualified.
 - E3) The competitor may use the following objects during the attempt. Penalty for using unauthorised objects: disqualification of the attempt (DNF).
   - E3a) Paper and pens (both supplied by judge).
   - E3b) 1-3 puzzles corresponding to the event (self-supplied).
