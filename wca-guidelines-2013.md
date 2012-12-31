@@ -6,6 +6,7 @@ To make the Regulations and Guidelines easier to read we use "he" where the read
 The use of the words "must", "must not", "should", "should not" and "may" comply with RFC 2119.
 
 Note the following:
+
 - Mutiple guidelines may correspond to the same Regulation.
 - Several guidelines were moved from a previous version of the Regulations, with their numbering preserved (and therefore are not numbered corresponding to an existing Regulation). These are marked with [SEPARATE].
 - For informational reasons, each Guideline is classified using one of the following labels. Note that this should be treated as metadata, not a description of importance.
