@@ -1,12 +1,12 @@
-# WCA Regulations 2013
+# <logo> World Cube Association: Competition Regulations 2013
 
-The WCA Regulations are supplemented by the WCA Guidelines.
+The WCA Regulations are supplemented by the <WCA Guidelines>.
 
 To make the Regulations and Guidelines easier to read we use "he" where the reader should read "she or he".
 The use of the words "must", "must not", "should", "should not" and "may" comply with RFC 2119.
 
 
-## Article 1: Officials
+## <officials><officials> Article 1: Officials
 
 - 1a) A competition must include a WCA Delegate and an organisation team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
 - 1b) The organisation team of a competition is responsible for logistics before, during, and after the competition.
@@ -38,7 +38,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 - 1k) Officials may serve multiple roles (e.g. organisation team, WCA Delegate, judge, score taker, scrambler).
 
 
-## Article 2: Competitors
+## <competitors><competitors> Article 2: Competitors
 
 - 2a) Any person may compete in a WCA competition if he:
   - 2a1) Complies with WCA Regulations.
@@ -61,7 +61,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
     - 2i1b) Earplugs and earmuffs (but not electronic noise-cancelling headphones).
 - 2j) The WCA Delegate may disqualify a competitor from a specific event.
   - 2j1) If a competitor is disqualified from an event for any reason, he is not eligible for any more attempts in the event.
-  - 2j2) If a competitor is disqualified during the course of an event, his earlier results remains valid. Exception: cheating or defrauding (see Regulation 2k2a).
+  - 2j2) If a competitor is disqualified during the course of an event, his earlier results remains valid. Exception: cheating or defrauding (see <Regulation 2k2a>).
 - 2k) The WCA Delegate may disqualify a competitor from the competition (i.e. from all events of the competition) if the competitor:
   - 2k1) Fails to check in or register in time for the competition.
   - 2k2) Is suspected of cheating or defrauding the officials during the competition.
@@ -79,7 +79,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 - 2t) Each competitor must be familiar with and understand the WCA Regulations before the competition.
 
 
-## Article 3: Puzzles
+## <puzzles><puzzles> Article 3: Puzzles
 
 - 3a) Competitors must provide their own puzzles for the competition.
   - 3a1) Competitors must be present and ready to compete when they are called to compete for a round. Penalty: disqualification from the event.
@@ -101,12 +101,12 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 - 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
 
 
-## Article 4: Scrambling
+## <scrambling><scrambling> Article 4: Scrambling
 
 - 4a) A scrambler applies scramble sequences to the puzzles.
 - 4b) Puzzles must be scrambled using computer-generated random scramble sequences.
   - 4b1) Generated scramble sequences must not be inspected before the competition, and must not be filtered or selected in any way by the WCA Delegate.
-  - 4b2) Scramble sequences for a round must be available only to the WCA Delegate and the scramblers for the event, until the end of the round. Exception: For Fewest Moves Solving, competitors receive scrambling sequences during the round (see Article E).
+  - 4b2) Scramble sequences for a round must be available only to the WCA Delegate and the scramblers for the event, until the end of the round. Exception: For Fewest Moves Solving, competitors receive scrambling sequences during the round (see <Article E>).
 - 4d) Scrambling orientation:
   - 4d1) Cube puzzles and Megaminx are scrambled with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.
   - 4d2) Pyraminx are scrambled with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
@@ -116,7 +116,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - 4g1) Exception: For the 6x6x6 Cube and the 7x7x7 Cube, it is not necessary to correct the scramble, at the discretion of the WCA Delegate.
 
 
-## Article 5: Puzzle Defects
+## <puzzle-defects><puzzledefects> Article 5: Puzzle Defects
 
 - 5a) Examples of puzzle defects include: popped pieces, pieces twisted in place, and detached screws/caps/stickers.
 - 5b) If a puzzle defect occurs during an attempt, the competitor may choose to either repair the defect and continue the attempt, or to stop the attempt.
@@ -127,11 +127,11 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
     - 5b3b) If, after repairing the puzzle but before the end of the attempt, the competitor finds that the puzzle is unsolvable, he may disassemble and reassemble a maximum of 4 pieces to make the puzzle solvable.
     - 5b3c) If the puzzle is unsolvable, and can be made solvable by rotating a single corner piece, the competitor may correct the corner piece by twisting it in place without disassembling the puzzle.
   - 5b4) During blindfolded events, a puzzle defect must be repaired during the attempt, and all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
-  - 5b5) If parts of the puzzle are still defective or not fully placed at the end of the attempt, the result is recorded as the worst state obtainable by repairing the puzzle (see Regulation 5b3).
+  - 5b5) If parts of the puzzle are still defective or not fully placed at the end of the attempt, the result is recorded as the worst state obtainable by repairing the puzzle (see <Regulation 5b3>).
 - 5c) If a competitor has a puzzle defect, this does not give him the right to an extra attempt.
 
 
-## Article 7: Environment
+## <environment><environment> Article 7: Environment
 
 - 7b) Spectators must remain at least 1.5 metres away from the solving stations when they are in use.
 - 7c) Lighting of the competition area must be given special attention. Lighting should be neutral, such that competitors can easily differentiate among the colours on the puzzles.
@@ -148,7 +148,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - 7h1) The organisation team may require that a competitor who has been called to compete must remain within the Competitors Area until he has finished all of his attempts for the round.
 
 
-## Article 8: Competitions
+## <competitions><competitions> Article 8: Competitions
 
 - 8a) An official WCA competition must:
   - 8a1) Be approved by the WCA Board.
@@ -161,7 +161,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 - 8f) If WCA Regulations are not correctly observed during a competition, the WCA Board may disqualify affected attempts.
 
 
-## Article 9: Events
+## <events><events> Article 9: Events
 
 - 9a) The WCA governs competitions for:
   - 9a1) Puzzles known as Rubik's puzzles.
@@ -217,16 +217,16 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
     - 9r1d) The latest permitted date used to determine the qualifying average/mean result or single solve result in the WCA rankings.
   - 9r2) Each competitor of an event who has not directly qualified for the first round of the event must compete in the qualification round in order to participate in the first round.
   - 9r3) A qualification round may be added to specifically accommodate newly registered competitors, and/or the maximum number of competitors in the qualification round or first round of an event may be increased. These changes must be made at least two weeks before the competition.
-- 9s) Each round of each event must have a time limit (see Regulation A1a).
+- 9s) Each round of each event must have a time limit (see <Regulation A1a>).
 
 
-## Article 10: Solved State
+## <solved-state><solvedstate> Article 10: Solved State
 
 - 10b) Only the resting state of the puzzle, after the timer has been stopped, is considered.
 - 10c) The puzzle may be in any orientation at the end of the attempt.
-- 10d) All pieces of a puzzle must be fully attached to the puzzle in their required positions. Exception: see Regulation 5b5.
+- 10d) All pieces of a puzzle must be fully attached to the puzzle in their required positions. Exception: see <Regulation 5b5>.
 - 10e) A puzzle is solved when all face colours are reassembled and all parts are aligned within the limits specified below:
-  - 10e1) For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in Regulation 10f, the puzzle is considered to require one additional move to solve (see "Outer Block Turn Metric" in Article 12).
+  - 10e1) For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in <Regulation 10f>, the puzzle is considered to require one additional move to solve (see "Outer Block Turn Metric" in <Article 12>).
   - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle is considered solved without penalty.
   - 10e3) If one move is required, the puzzle is be considered solved with a time penalty (+2 seconds).
   - 10e4) If more than one move is required, the puzzle is considered unsolved (DNF).
@@ -238,7 +238,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 - 10h) Puzzles not specified in this article are judged according to the solved state as defined by the generally accepted goal of the puzzle, applying the relevant regulations for the Rubik's Cube.
 
 
-## Article 11: Incidents
+## <incidents><incidents> Article 11: Incidents
 
 - 11a) Incidents include:
   - 11a1) Incorrect execution of event procedures, by officials or competitors.
@@ -247,28 +247,28 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
 - 11b) If an incident occurs, the WCA Delegate determines an impartial and appropriate course of action.
 - 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make his decision based on fair sportsmanship.
 - 11e) If an incident occurs during an attempt, the WCA Delegate may award a competitor an extra attempt, replacing the attempt during which the incident occurred. The competitor must appeal verbally or in writing to the judge and WCA Delegate at the time of the incident, before finishing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.
-  - 11e1) If a competitor is awarded an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble sequence must be generated using the current official version of the official WCA scramble program (see Regulation 4f).
+  - 11e1) If a competitor is awarded an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble sequence must be generated using the current official version of the official WCA scramble program (see <Regulation 4f>).
 - 11f) Decisions about an incident may be supported with video or photographic analysis, at the discretion of the WCA Delegate.
 
 
-## Article 12: Notation
+## <notation><notation> Article 12: Notation
 
 - 12a) Notation for Rubik's Cube and similar puzzles:
   - 12a1) Face Moves:
     - 12a1a) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
-    - 12a1b) Anti-clockwise, 90 degrees: F', B', R', L', U', D' (see Regulation 12a1).
-    - 12a1c) 180 degrees: F2, B2, R2, L2, U2, D2 (see Regulation 12a1).
+    - 12a1b) Anti-clockwise, 90 degrees: F', B', R', L', U', D' (see <Regulation 12a1>).
+    - 12a1c) 180 degrees: F2, B2, R2, L2, U2, D2 (see <Regulation 12a1>).
   - 12a2) Multiple Outer Slice Moves (outer slice plus adjacent inner slices; n is defined as total number of slices to move; n may be omitted for two slices):
-    - 12a2a) Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw. (see Regulation 12a1).
-    - 12a2b) Anti-clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw' (see Regulation 12a5).
-    - 12a2c) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2 (see Regulation 12a5).
+    - 12a2a) Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw. (see <Regulation 12a1>).
+    - 12a2b) Anti-clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw' (see <Regulation 12a5>).
+    - 12a2c) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2 (see <Regulation 12a5>).
   - 12a3) Outer Block Turn Metric (OBTM) is defined as:
     - 12a3a) Each move of the categories Face Moves and Multiple Outer Slice Moves is counted as 1 move.
     - 12a3b) Each rotation is counted as 0 moves.
 - 12b) Rotations for all cube shaped puzzles:
-  - 12b1) Clockwise, 90 degrees: [f] or z, [b] or z', [r] or x, [l] or x', [u] or y, [d] or y'. (see Regulation 12a1).
-  - 12b2) Anti-clockwise, 90 degrees: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y (see Regulation 12b1).
-  - 12b3) 180 degrees: [f2] or z2, [b2] or z2, [r2] or x2, [l2] or x2, [u2] or y2, [d2] or y2 (see Regulation 12b1).
+  - 12b1) Clockwise, 90 degrees: [f] or z, [b] or z', [r] or x, [l] or x', [u] or y, [d] or y'. (see <Regulation 12a1>).
+  - 12b2) Anti-clockwise, 90 degrees: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y (see <Regulation 12b1>).
+  - 12b3) 180 degrees: [f2] or z2, [b2] or z2, [r2] or x2, [l2] or x2, [u2] or y2, [d2] or y2 (see <Regulation 12b1>).
 - 12c) Notation for Square-1:
   - 12c1) Moves are applied with the smallest slice of the middle layer on left side of front face.
   - 12c2) (x,y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise.
@@ -290,22 +290,22 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - 12g4) Turn around the puzzle so that twelve is still on top, and then move all pins down: y2.
 
 
-## Article A: Speed Solving
+## <speedsolving><speedsolving> Article A: Speed Solving
 
 - A1) Speed Solving attempts must abide by the following procedure.
   - A1a) The organisation team may enforce time limits for attempts and/or rounds.
     - A1a1) The default time limit per attempt is 10 minutes, though the organisation team may announce a higher or lower time limit.
     - A1a2) Cumulative time limits may be enforced (e.g. 3 attempts with a cumulative time limit of 20 minutes). The time elapsed in a DNF result counts towards the cumulative time limit.
     - A1a3) For each round, any time limits must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
-    - A1a4) The competitor must end each attempt within the time limit. If a competitor reaches the time limit for an attempt/round, the judge stops the attempt immediately and record the result as DNF. Exception: Multiple Blindfolded Solving (see Regulation H1b1).
-    - A1a5) An attempt is considered to meet the time limit if and only if the final result, after any time penalties are applied, is less than the time limit. Exception: Multiple Blindfolded Solving (see Regulation H1b1).
+    - A1a4) The competitor must end each attempt within the time limit. If a competitor reaches the time limit for an attempt/round, the judge stops the attempt immediately and record the result as DNF. Exception: Multiple Blindfolded Solving (see <Regulation H1b1>).
+    - A1a5) An attempt is considered to meet the time limit if and only if the final result, after any time penalties are applied, is less than the time limit. Exception: Multiple Blindfolded Solving (see <Regulation H1b1>).
   - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
     - A1b1) Simultaneous use of a Stackmat timer is optional.
     - A1b2) If a time from the Stackmat timer is available, it is the original recorded time. Otherwise, the stopwatch time is the original recorded time. 
   - A1c) A competitor participating in an event must be able to fulfill the event's requirements (e.g. know how to solve the puzzle). A competitor competing with expectation of a DNF result may be disqualified from the event, at the discretion of the WCA Delegate.
 - A2) Scrambling:
   - A2a) When called for a round, the competitor submits his puzzle, in its solved state, to the scrambler and waits in the Competitors Area until he is called to compete.
-  - A2b) A scrambler scrambles the puzzle according to the regulations in Article 4.
+  - A2b) A scrambler scrambles the puzzle according to the regulations in <Article 4>.
   - A2c) After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.
     - A2c1) The scrambler places a cover over the scrambled puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover remains over the puzzle until the beginning of the attempt.
   - A2d) When taking a puzzle from the scrambler, the judge briefly inspects the puzzle to ensure thorough scrambling of the puzzle. The judge raises any concerns with the scrambler, who then conducts a detailed check.
@@ -333,7 +333,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - A4e) Time penalties for starting the solve are cumulative.
 - A5) During the solve:
   - A5a) While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge. Penalty: disqualification of the attempt (DNF).
-  - A5b) While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface (also see Regulation 2i). Penalty: disqualification of the attempt (DNF).
+  - A5b) While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface (also see <Regulation 2i>). Penalty: disqualification of the attempt (DNF).
 - A6) Stopping the solve:
   - A6a) The competitor stops the solve by releasing the puzzle and then stopping the timer.
     - A6a1) If a stopwatch is in use as the timing device, the competitor ends the solve by releasing the puzzle and notifying the judge that he has stopped the solve.
@@ -360,9 +360,9 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - A7f) When a competitor's score sheet for a round is complete, the judge delivers the score sheet to the score taker.
 
 
-## Article B: Blindfolded Solving
+## <blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
 
-- B1) Standard speed solving procedures is followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
+- B1) Standard speed solving procedures is followed, as described in <Article A> (Speed Solving). Additional regulations that supersede the corresponding procedures in <Article A> are described below.
   - B1a) There is no inspection period.
   - B1b) The competitor supplies his own blindfold.
 - B2) Starting the attempt:
@@ -391,18 +391,18 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - B5c) If he is not touching the puzzle, the competitor may remove the blindfold before he stops the timer. He must not touch the puzzle until the end of the attempt. Penalty: disqualification of the attempt (DNF).
 
 
-## Article C: One-Handed Solving
+## <one-handed><onehandedsolving> Article C: One-Handed Solving
 
-- C1) Standard speed solving procedures is followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
+- C1) Standard speed solving procedures is followed, as described in <Article A> (Speed Solving). Additional regulations that supersede the corresponding procedures in <Article A> are described below.
   - C1b) During the solve, the competitor must use only one hand to touch the puzzle. Penalty: disqualification of the attempt (DNF).
     - C1b2) If a puzzle defect occurs, and the competitor chooses to repair it, he must repair it using only the solving hand. Penalty: disqualification of the attempt (DNF).
     - C1b3) If a puzzle defect occurs, and pieces of the puzzle briefly come in contact with other body parts without the competitor's intention, this is not considered touching the puzzle, at the discretion of the judge.
   - C1c) During the solve, once a competitor touches the puzzle with one hand, he must not touch the puzzle with the other hand. Penalty: disqualification of the attempt (DNF).
 
 
-## Article D: Solving With Feet
+## <feet><solvingwithfeet> Article D: Solving With Feet
 
-- D1) Standard speed solving procedures is followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
+- D1) Standard speed solving procedures is followed, as described in <Article A> (Speed Solving). Additional regulations that supersede the corresponding procedures in <Article A> are described below.
   - D1a) During the attempt, the competitor must sit in a chair, sit on the surface, or stand.
   - D1b) During the attempt, the competitor must only use his feet and the surface. Penalty: disqualification of the attempt (DNF).
   - D1c) During the solve, the competitor must use only his feet to touch the puzzle. Penalty: disqualification of the attempt (DNF).
@@ -413,14 +413,14 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - D4a) The competitor stops the timer by placing his feet onto the timer sensors.
 
 
-## Article E: Fewest Moves Solving
+## <fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
 
 - E2) Procedure for Fewest Moves Solving:
   - E2a) The judge distributes a scramble sequence to all competitors. The judge then starts the stopwatch and calls "GO".
   - E2b) All competitors have a total time limit of 60 minutes to devise a solution.
     - E2b1) The judge should call "5 MINUTES REMAINING" at 55 minutes, and must call "STOP" at 60 minutes.
-  - E2c) At 60 minutes, each competitor must give the judge a legibly written solution with the competitor's name, using the notation defined for Outer Block Turn Metric (described in Article 12a). Penalty: disqualification of the attempt (DNF).
-  - E2d) The length of the solution is calculated in Outer Block Turn Metric (see Article 12a).
+  - E2c) At 60 minutes, each competitor must give the judge a legibly written solution with the competitor's name, using the notation defined for Outer Block Turn Metric (described in <Regulation 12a>). Penalty: disqualification of the attempt (DNF).
+  - E2d) The length of the solution is calculated in Outer Block Turn Metric (see <Regulation 12a>).
     - E2d1) The competitor is permitted a maximum solution length of 80 (moves and rotations).
   - E2e) The competitor's solution must not be directly derived from any part of the scrambling algorithm. Penalty: disqualification of the attempt (DNF).
     - E2e1) The WCA Delegate may ask the competitor to explain the purpose of each move in his solution, irrespective of scrambling algorithm. If the competitor cannot give a valid explanation, the attempt is disqualified.
@@ -430,16 +430,16 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - E3c) Coloured stickers (self-supplied).
 
 
-## Article F: Clock Solving
+## <clock><clocksolving> Article F: Clock Solving
 
-- F1) Standard speed solving procedures is followed, as described in Article A (Speed Solving). Additional regulations that supersede the corresponding procedures in Article A are described below.
+- F1) Standard speed solving procedures is followed, as described in <Article A> (Speed Solving). Additional regulations that supersede the corresponding procedures in <Article A> are described below.
 - F2) The judge places the scrambled puzzle onto the mat in a standing position.
 - F3) At the end of the inspection period, the competitor places the puzzle onto the mat in a standing position. He must not change the positions of any pins from their scrambled positions before the beginning of the solve. Penalty: disqualification (DNF).
 
 
-## Article H: Multiple Blindfolded Solving
+## <multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
 
-- H1) Standard speed solving procedures is followed, as described in Article B (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in Article B are described below.
+- H1) Standard speed solving procedures is followed, as described in <Article B> (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in <Article B> are described below.
   - H1a) Before an attempt, the competitor must notify the judge of the number of puzzles he wishes to attempt blindfolded. The number of puzzles must be at least 2.
     - H1a1) A competitor is not permitted to change the number of puzzles after the beginning of the attempt.
     - H1a2) The organisation team must not disclose the competitor's requested number of puzzles until the beginning of the attempt.
@@ -448,7 +448,7 @@ The use of the words "must", "must not", "should", "should not" and "may" comply
   - H1d) Time penalties for the puzzles of the attempt are cumulative.
 
 
-## Article Z: Optional Regulations
+## <optional><optional> Article Z: Optional Regulations
 
 Organisation teams may adopt optional regulations to facilitate the administration of the competition.
 The WCA Board must approve any optional regulations for a competition.
