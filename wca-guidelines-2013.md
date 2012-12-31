@@ -36,17 +36,17 @@ Note the following:
 - 2d) [RECOMMENDATION] If a third party (e.g. journalist) asks the organisation team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
 - 2h) [CLARIFICATION] Competitors may be barefoot for Solving With Feet.
 - 2j2) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, his results from earlier rounds remain valid.
-- 2s3) [REMINDER] Special accommodations must be noted in the Delegate Report.
+- 2s) [REMINDER] Special accommodations must be noted in the Delegate Report.
 
 
 ## Article 3: Puzzles
 
+- 3a) [CLARIFICATION] Competitors may use puzzles of any reasonable size, at the discretion of the WCA Delegate.
 - 3a) [ADDITION] By default, a competitor should use the same puzzle for consecutive attempts in a speed solving round. A competitor may switch puzzles between attempts, at the discretion of the judge or WCA Delegate.
 - 3a) [CLARIFICATION] Competitors may borrow puzzles from other competitors privately, to use in competition.
 - 3a1) [CLARIFICATION] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit their puzzle at the moment).
-- 3b) [CLARIFICATION] Competitors may use puzzles of any reasonable size, at the discretion of the WCA Delegate.
 - 3h) [SEPARATE][CLARIFICATION] Puzzles may be refined internally by sanding or lubricating.
-- 3i) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, or the puzzles has more/different solved states.
+- 3h) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, or the puzzles has more/different solved states.
 
 
 ## Article 4: Scrambling
@@ -83,13 +83,13 @@ Note the following:
 
 - 8a4) [RECOMMENDATION] Changes to increase the maximum number of competitors in qualification round or first round, or to add a qualification round for newly registered competitors should be made at least one month before the competition (see Regulation 9r3).
 - 8a4) [RECOMMENDATION] The competition should be announced at least one month before the beginning of the competition.
-- 8a5) [RECOMMENDATION] The competition should have at least 12 competitors.
+- 8a5) [SEPARATE][RECOMMENDATION] The competition should have at least 12 competitors.
 
 
 ## Article 9: Events
 
 - 9b) [ADDITION] The preferred format for the final of an event is "Average of 5" or "Mean of 3", if possible.
-- 9b) [Addition] Events other than those specified in Article 9b may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
+- 9b) [ADDITION] Events other than those specified in Article 9b may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
 - 9f5) [CLARIFICATION] The result for an attempt is DNS if the competitor was eligible for the attempt and did not attempt it. If the competitor did not qualify for an attempt (e.g. in a combined round), he does not have any result for the attempt.
 - 9q) [SEPARATE][RECOMMENDATION] Events and rounds should have at least 2 competitors.
 - 9r) [SEPARATE][EXPLANATION] The goal of a qualification round is to let unranked or low ranked competitors qualify for the first round of an event with many registered competitors.
@@ -120,7 +120,7 @@ Note the following:
 ## Article B: Blindfolded Solving
 
 - B1) [REMINDER] The competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces (see Article 3k). This should be given special attention for Blindfolded Solving
-- B1b1) [RECOMMENDATION] Blindfolds should be checked by the WCA Delegate before use in the competition.
+- B1b) [RECOMMENDATION] Blindfolds should be checked by the WCA Delegate before use in the competition.
 
 
 ## Article C: One-Handed Solving
