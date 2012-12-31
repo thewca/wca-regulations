@@ -5,9 +5,10 @@
 
 ## Notes
 
-### WCA Guidelines
+### WCA Regulations and Guidelines
 
-The WCA Regulations are supplemented by the <WCA Guidelines>. The Regulations should be considered a complete document, but the Guidelines contain additional clarifications and explanations.
+The WCA Regulations contains the full set of Regulations that apply to all official competitions sanctioned by the World Cube Association.  
+The WCA Regulations are also supplemented by the <WCA Guidelines>. The Regulations should be considered a complete document, but the Guidelines contain additional clarifications and explanations.
 
 ### Wording
 To make the Regulations and Guidelines easier to read we use "he" where the reader should read "she or he".  
@@ -16,20 +17,13 @@ Uses of the words "must", "must not", "should", "should not" and "may" match [RF
 ### Information on the Internet
 Website of World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)  
 Original source of the WCA regulations: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)  
-WCA regulations in [PDF format](wca-regulations-and-guidelines-2013.pdf).
+WCA Regulations in [PDF format](wca-regulations-and-guidelines-2013.pdf)
 
 ### Source
 Development of the WCA Regulations and Guidelines is public [on GitHub](https://github.com/cubing/wca-documents).
 
 ### Contact
 For questions and feedback, please contact the [WCA Regulations Committee (WRC)](http://www.worldcubeassociation.org/contact-information).
-
-### History
-Past documents are available on the [history page](history.html)
-
-### Translations
-Translations of the 2013 Regulations are not available yet. Links to older versions can be found in the [2010 Regulations](regulations2010new.html).
-
 
 ## Contents
 
