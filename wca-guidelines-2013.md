@@ -1,13 +1,13 @@
 # <wca-title>WCA Guidelines 2013
 
-<version>[Version: January 1, 2013]
+<version>Version: January 1, 2013
 
 
 ## Notes
 
 ### WCA Regulations 
 
-The WCA Guidelines supplement the <WCA Regulations>. Please see the Regulations for more information about the WCA.  
+The WCA Guidelines supplement the <regs>WCA Regulations. Please see the Regulations for more information about the WCA.  
 
 ### Numbering
 
@@ -24,7 +24,7 @@ To be more informative, each Guideline is classified using one of the following 
 - <label>[REMINDER] Information that may be addressed other Regulations/Guideline, but whose relevance is worth reiterating.
 
 
-## Contents
+<contents>
 
 <table-of-contents>
 

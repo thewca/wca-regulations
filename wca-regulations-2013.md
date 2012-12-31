@@ -1,6 +1,6 @@
 # <wca-title>WCA Regulations 2013
 
-<version>[Version: January 1, 2013]
+<version>Version: January 1, 2013
 
 
 ## Notes
@@ -8,7 +8,7 @@
 ### WCA Regulations and Guidelines
 
 The WCA Regulations contains the full set of Regulations that apply to all official competitions sanctioned by the World Cube Association.  
-The WCA Regulations are also supplemented by the <WCA Guidelines>. The Regulations should be considered a complete document, but the Guidelines contain additional clarifications and explanations.
+The WCA Regulations are also supplemented by the <guides>WCA Guidelines. The Regulations should be considered a complete document, but the Guidelines contain additional clarifications and explanations.
 
 ### Wording
 To make the Regulations and Guidelines easier to read we use "he" where the reader should read "she or he".  
@@ -25,7 +25,9 @@ Development of the WCA Regulations and Guidelines is public [on GitHub](https://
 ### Contact
 For questions and feedback, please contact the [WCA Regulations Committee (WRC)](http://www.worldcubeassociation.org/contact-information).
 
-## Contents
+<contents>
+
+Note: Because Article and Regulation numbers are not reassigned when Regulations are deleted, there may be gaps in numbering.
 
 <table-of-contents>
 
