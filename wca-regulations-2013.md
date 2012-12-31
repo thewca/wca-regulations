@@ -1,4 +1,4 @@
-# <logo> <wca-title>WCA Regulations 2013
+# <wca-title>WCA Regulations 2013
 
 <version>[Version: January 1, 2013]
 
@@ -280,19 +280,19 @@ For questions and feedback, please contact the [WCA Regulations Committee (WRC)]
 - 12a) Notation for Rubik's Cube and similar puzzles:
   - 12a1) Face Moves:
     - 12a1a) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
-    - 12a1b) Anti-clockwise, 90 degrees: F', B', R', L', U', D' (see <Regulation 12a1>).
-    - 12a1c) 180 degrees: F2, B2, R2, L2, U2, D2 (see <Regulation 12a1>).
+    - 12a1b) Anti-clockwise, 90 degrees: F', B', R', L', U', D'.
+    - 12a1c) 180 degrees: F2, B2, R2, L2, U2, D2.
   - 12a2) Multiple Outer Slice Moves (outer slice plus adjacent inner slices; n is defined as total number of slices to move; n may be omitted for two slices):
-    - 12a2a) Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw. (see <Regulation 12a1>).
-    - 12a2b) Anti-clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw' (see <Regulation 12a5>).
-    - 12a2c) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2 (see <Regulation 12a5>).
+    - 12a2a) Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw.
+    - 12a2b) Anti-clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw'.
+    - 12a2c) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
   - 12a3) Outer Block Turn Metric (OBTM) is defined as:
     - 12a3a) Each move of the categories Face Moves and Multiple Outer Slice Moves is counted as 1 move.
     - 12a3b) Each rotation is counted as 0 moves.
 - 12b) Rotations for all cube shaped puzzles:
-  - 12b1) Clockwise, 90 degrees: [f] or z, [b] or z', [r] or x, [l] or x', [u] or y, [d] or y'. (see <Regulation 12a1>).
-  - 12b2) Anti-clockwise, 90 degrees: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y (see <Regulation 12b1>).
-  - 12b3) 180 degrees: [f2] or z2, [b2] or z2, [r2] or x2, [l2] or x2, [u2] or y2, [d2] or y2 (see <Regulation 12b1>).
+  - 12b1) Clockwise, 90 degrees: [f] or z, [b] or z', [r] or x, [l] or x', [u] or y, [d] or y'.
+  - 12b2) Anti-clockwise, 90 degrees: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y.
+  - 12b3) 180 degrees: [f2] or z2, [b2] or z2, [r2] or x2, [l2] or x2, [u2] or y2, [d2] or y2.
 - 12c) Notation for Square-1:
   - 12c1) Moves are applied with the smallest slice of the middle layer on left side of front face.
   - 12c2) (x,y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise.
@@ -399,7 +399,7 @@ For questions and feedback, please contact the [WCA Regulations Committee (WRC)]
 - B3) Memorisation phase:
   - B3a) The competitor may pick up the puzzle during the memorisation phase.
   - B3b) The competitor must not make physical notes. Penalty: disqualification of the attempt (DNF).
-  - B4b) The competitor must not apply moves to the puzzle during the memorisation phase.
+  - B3c) The competitor must not apply moves to the puzzle during the memorisation phase.
 - B4) Blindfolded phase:
   - B4a) The competitor dons the blindfold to start the blindfolded phase.
   - B4b) The competitor must not apply moves to the puzzle before he has fully donned the blindfold.

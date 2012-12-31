@@ -1,4 +1,4 @@
-# <logo> <wca-title>WCA Guidelines 2013
+# <wca-title>WCA Guidelines 2013
 
 <version>[Version: January 1, 2013]
 
