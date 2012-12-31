@@ -1,9 +1,39 @@
-# <logo> World Cube Association: Competition Regulations 2013
+# <logo> <wca-title>WCA Regulations 2013
 
-The WCA Regulations are supplemented by the <WCA Guidelines>.
+<version>[Version: January 1, 2013]
 
-To make the Regulations and Guidelines easier to read we use "he" where the reader should read "she or he".
-The use of the words "must", "must not", "should", "should not" and "may" comply with RFC 2119.
+
+## Notes
+
+### WCA Guidelines
+
+The WCA Regulations are supplemented by the <WCA Guidelines>. The Regulations should be considered a complete document, but the Guidelines contain additional clarifications and explanations.
+
+### Wording
+To make the Regulations and Guidelines easier to read we use "he" where the reader should read "she or he".  
+Uses of the words "must", "must not", "should", "should not" and "may" match [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
+
+### Information on the Internet
+Website of World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)  
+Original source of the WCA regulations: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)  
+WCA regulations in [PDF format](wca-regulations-and-guidelines-2013.pdf).
+
+### Source
+Development of the WCA Regulations and Guidelines is public [on GitHub](https://github.com/cubing/wca-documents).
+
+### Contact
+For questions and feedback, please contact the [WCA Regulations Committee (WRC)](http://www.worldcubeassociation.org/contact-information).
+
+### History
+Past documents are available on the [history page](history.html)
+
+### Translations
+Translations of the 2013 Regulations are not available yet. Links to older versions can be found in the [2010 Regulations](regulations2010new.html).
+
+
+## Contents
+
+<table-of-contents>
 
 
 ## <officials><officials> Article 1: Officials

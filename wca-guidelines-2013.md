@@ -1,20 +1,32 @@
-# <logo> World Cube Association: Competition Guidelines 2013
+# <logo> <wca-title>WCA Guidelines 2013
 
-The WCA Guidelines supplement the <WCA Regulations>. Guidelines are numbered in correspondence with related regulations.
+<version>[Version: January 1, 2013]
 
-To make the Regulations and Guidelines easier to read we use "he" where the reader should read "she or he".
-The use of the words "must", "must not", "should", "should not" and "may" comply with RFC 2119.
 
-Note the following:
+## Notes
 
-- Mutiple guidelines may correspond to the same Regulation.
-- Several guidelines were moved from a previous version of the Regulations, with their numbering preserved (and therefore are not numbered corresponding to an existing Regulation). These are marked with [SEPARATE].
-- For informational reasons, each Guideline is classified using one of the following labels. Note that this should be treated as metadata, not a description of importance.
-  - [ADDITION] Additional information to supplement the Regulations.
-  - [CLARIFICATION] Information to address any possible questions about interpretation of the Regulations.
-  - [EXPLANATION] Information that clarifies the intent of Regulations.
-  - [RECOMMENDATION] Something that is not strictly mandatory, but that should be done if possible.
-  - [REMINDER] Information that may be addressed other Regulations/Guideline, but whose relevance is worth reiterating.
+### WCA Regulations 
+
+The WCA Guidelines supplement the <WCA Regulations>. Please see the Regulations for more information about the WCA.  
+
+### Numbering
+
+Guidelines are numbered in correspondence with related regulations. Note that mutiple Guidelines may correspond to the same Regulation, and some Guidelines correspond to Regulations that do not exist anymore.
+
+### Labels 
+
+To be more informative, each Guideline is classified using one of the following labels. Note that this should be treated as metadata, not as a description of importance.
+
+- <label>[ADDITION] Additional information to supplement the Regulations.
+- <label>[CLARIFICATION] Information to address any possible questions about interpretation of the Regulations.
+- <label>[EXPLANATION] Information that clarifies the intent of Regulations.
+- <label>[RECOMMENDATION] Something that is not strictly mandatory, but that should be done if possible.
+- <label>[REMINDER] Information that may be addressed other Regulations/Guideline, but whose relevance is worth reiterating.
+
+
+## Contents
+
+<table-of-contents>
 
 
 ## <officials><officials> Article 1: Officials
