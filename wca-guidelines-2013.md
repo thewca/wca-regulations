@@ -1,4 +1,4 @@
-# WCA Guidelines 2012
+# WCA Guidelines 2013
 
 The WCA Guidelines supplement the WCA Regulations. Guidelines are numbered in correspondence with related regulations.
 

@@ -1,4 +1,4 @@
-# WCA Regulations 2012
+# WCA Regulations 2013
 
 The WCA Regulations are supplemented by the WCA Guidelines.
 
