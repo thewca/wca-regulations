@@ -1,146 +1,143 @@
-# <wca-title>WCA Regulations 2013
+# <wca-title>Положения WCA 2013
 
-<version>Version: January 1, 2013
-
-
-## Notes
-
-### WCA Regulations and Guidelines
-
-The WCA Regulations contains the full set of Regulations that apply to all official competitions sanctioned by the World Cube Association.  
-The WCA Regulations are also supplemented by the [WCA Guidelines](guidelines:top). The Regulations should be considered a complete document, but the Guidelines contain additional clarifications and explanations.
-
-### Wording
-To make the Regulations and Guidelines easier to read we use "he" where the reader should read "she or he".  
-Uses of the words "must", "must not", "should", "should not" and "may" match [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
-
-### Information on the Internet
-Website of World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)  
-Original source of the WCA regulations: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)  
-WCA Regulations in [PDF format](wca-regulations-and-guidelines-2013.pdf)
-
-### Source
-Development of the WCA Regulations and Guidelines is public [on GitHub](https://github.com/cubing/wca-documents).
-
-### Contact
-For questions and feedback, please contact the [WCA Regulations Committee (WRC)](http://www.worldcubeassociation.org/contact-information).
+<version>Версия: 1 января 2013
 
 
-## <contents> [Contents](regulations:contents)
+## Замечания
 
-Note: Because Article and Regulation numbers are not reassigned when Regulations are deleted, there may be gaps in numbering.
+### Положения WCA и Дополнения к Положениям WCA
+
+Положения WCA содержат полный набор правил, которые применяются на всех официальных соревнованиях, проводимых под эгидой Всемирной Ассоциации Кубика.
+Положения WCA также дополнены [Дополнениями к Положениям WCA](guidelines:top). Положения WCA следует рассматривать как полноценный документ, но Дополнения к Положениям WCA содержат дополнительные пояснения и разъяснения.
+
+### Информация в Интернет
+Сайт Всемирной Ассоциации Кубика: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)  
+Первоисточник Положений WCA: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)  
+Положения WCA в [формате PDF](wca-regulations-and-guidelines-2013.pdf)
+
+### Источник
+Разработка Положений WCA и Дополнений к Положениям WCA открыта для общественности [на GitHub](https://github.com/cubing/wca-documents).
+
+### Контактная информация
+Для вопросов и обратной связи, пожалуйста, свяжитесь с [WCA Regulations Committee (WRC)](http://www.worldcubeassociation.org/contact-information).
+
+
+## <contents> [Содержание](regulations:contents)
+
+Замечание: по причине того, что при удалении пунктов правил или статей положения не перенумеровываются, в нумерации возможны пробелы.
+
 
 <table-of-contents>
 
 
-## <article-1><officials><officials> Article 1: Officials
+## <article-1><officials><officials> Статья 1: Официальные лица
 
-- 1a) A competition must include a WCA Delegate and an organisation team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
+- 1a) На соревновании обязательно должны присутствовать WCA Делегат и команда организаторов (состоящая из одного или более человек), включающая в себя судей, скрамблеров и людей, заносящих результаты в компьютер.
 - 1b) The organisation team of a competition is responsible for logistics before, during, and after the competition.
-- 1c) The WCA Delegate may delegate responsibilities to other members of the organisation team, but is ultimately accountable for how these responsibilities are carried out. The WCA Delegate for a competition is responsible for:
-  - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the competition date.
-  - 1c3) Sending the competition results to the WCA Results Team.
-    - 1c3a) All scramble sequences used during a competition must be sent with the results of the competition.
-    - 1c3b) Scramble sequences must be labelled with the events, rounds, and groups for which they were used.
-  - 1c4) Sending corrections to the competition results to the WCA Board.
-  - 1c5) Advising the other officials where necessary.
-  - 1c6) Approving all events and round formats of a competition, before the competition starts, and if changes are required during the competition.
-  - 1c7) Decisions about disqualifying competitors during the competition.
-  - 1c8) Providing the scramble sequences.
-  - 1c9) Decisions about changes to the scheduled times of rounds. In cases of such changes, a clear announcement must be made to all competitors.
-  - 1c10) Making a copy of the WCA Regulations available at the competition.
-- 1e) Each event must have one or more judges.
-  - 1e1) A judge is responsible for executing the procedures of the event.
-    - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the Delegate, as long as the judge is able to ensure that all WCA Regulations are followed at all times.
-  - 1e2) Capable competitors must be available for judging, if needed by organisation team. Penalty: disqualification from the competition.
-- 1f) Each event must have one or more scramblers. Exception: Fewest Moves Solving.
-  - 1f1) A scrambler applies scramble sequences to prepare puzzles for attempts.
-  - 1f2) Capable competitors must be available for scrambling, if needed by organisation team. Penalty: disqualification from the competition.
-- 1g) Each event must have one or more score takers.
-  - 1g1) A score taker is responsible for compiling results.
-  - 1g2) Any change to the result on a score sheet must be made at the discretion of the WCA Delegate.
-- 1h) Competitors in the same round of an event may be divided into groups.
-  - 1h1) Scramblers and judges for a round should not scramble for/judge competitors in their own group before they have finished all of their attempts for the round. They may scramble for/judge competitors in their own group at the discretion of the WCA Delegate, but the organisation team must ensure that scramblers and judges cannot see any scrambles for their attempts that they have not attempted yet.
-- 1j) All officials may compete in the competition.
-- 1k) Officials may serve multiple roles (e.g. organisation team, WCA Delegate, judge, score taker, scrambler).
+- 1c) WCA Делегат может передать свои обязанности кому-то из команды организаторов, но ответственность за выполнение этих обязанностей всё равно лежит на WCA Делегате. В обязанности WCA Делегата соревнования входят:
+  - 1c1) Отчёт руководству WCA о соблюдении правил WCA во время соревнования, об общем ходе соревнования, об инцидентах. Отчёт должен быть предоставлен в течение недели после проведения соревнования.
+  - 1c3) Отправка результатов соревнования в организацию WCA (группе ответственных за результаты).
+    - 1c3a) Все скрамблы, использованные во время соревнований, должны быть отправлены вместе с результатами.
+    - 1c3b) На скрамблах должно быть отмечено, для каких дисциплин, раундов и групп они были использованы.
+  - 1c4) Отправление руководству WCA корректировок результатов соревнований.
+  - 1c5) Консультирование других официальных лиц, если это необходимо.
+  - 1c6) Утверждение всех дисциплин и форматов раундов соревнования до его начала и, если это необходимо, внесение изменений во время соревнований.
+  - 1c7) Решения о дисквалификации участников во время соревнования.
+  - 1c8) Предоставление скрамблов на соревнование.
+  - 1c9) Решения об изменении расписания дисциплин соревнования. В случае таких изменений, clear объявление о них должно быть сделано для всех участников.
+  - 1c10) Предоставление копии Положения WCA на соревновании.
+- 1e) Для проведения каждой дисциплины необходимы один или более судей.
+  - 1e1) Судья ответственен за выполнение процедур дисциплины.
+    - 1e1a) Судья может судить нескольких участников одновременно (на усмотрение WCA Делегата) при условии того, что все время обеспечивается выполнение всех Положений WCA.
+  - 1e2) Все незанятые участники могут быть назначены судьями, если это требуется команде организаторов. Наказание при отказе участника: дисквалификация с соревнований.
+- 1f) Для проведения каждой дисциплины необходимы один или более скрамблёров. Исключение: дисциплина на количество ходов.
+  - 1f1) Скрамблёр осуществляет перемешку головоломок по скрамблам для подготовки головоломок к сборкам.
+  - 1f2) Все незанятые участники могут быть назначены скрамблёрами, если это требуется команде организаторов. Наказание при отказе участника: дисквалификация с соревнований.
+- 1g) Для проведения каждой дисциплины необходимы один или более людей, заносящих результаты в компьютер.
+  - 1g1) Человек, заносящий результаты в компьютер, ответственен за сбор результатов.
+  - 1g2) Любое изменение результата на карточке участника возможно только по решению WCA Делегата.
+- 1h) Участники одного и того же раунда дисциплины могут быть разделены на группы.
+  - 1h1) Скрамблёры и судьи раунда не должны скрамблить для/судить участников их собственной группы до окончания всех своих попыток раунда. Они могут скрамблрить для/судить участников их собственной группы на усмотрение WCA Делегата, но команда организаторов должна обеспечить, чтобы скрамблёры и судьи не могли видеть скрамблы и перемешанные головоломки попыток, которых они еще не делали.
+- 1j) Все официальные лица могут участвовать в соревновании.
+- 1k) Официальные лица могут выполнять несколько ролей (например, член команды организаторов, WCA Делегат, судья, человек, вносящий результаты в компьютер, скрамблёр).
 
 
-## <article-2><competitors><competitors> Article 2: Competitors
+## <article-2><competitors><competitors> Статья 2: Участники
 
-- 2a) Any person may compete in a WCA competition if he:
-  - 2a1) Complies with WCA Regulations.
-  - 2a2) Meets the competition requirements, which must be clearly announced before the competition.
-  - 2a3) Is not suspended by WCA Board.
-- 2b) Competitors below the age of 18 must obtain consent from their parent(s)/guardian(s) to register and compete.
-- 2c) Competitors register by providing all information required by the organisation team (including: name, country, date of birth, gender, contact information, selected events).
-  - 2c1) A competitor is not be eligible to compete without a completed registration, as determined by the organisation team.
-- 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and must not be disclosed to outside organisations/persons without the consent of the competitor.
-- 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship standing by means of documents (e.g. a passport). If a competitor is found ineligible to represent the country under which they have registered, the competitor may be disqualified retroactively and/or suspended, at the discretion of the WCA Board.
-  - 2e1) The eligible countries are defined by the Wikipedia article "List of sovereign states" ("UN member states and observer states" and "Other states").
-  - 2e2) Competitors with updates to their citizenship status may change their country of representation in their first competition of a calendar year.
-- 2f) Competitors must obey venue rules and conduct themselves in a considerate manner.
-- 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
-  - 2g3) Competitors in the Competitors Area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor from the event, at the discretion of the WCA Delegate.
-- 2h) Competitors must be fully dressed while in the competition venue. At the discretion of the Delegate, competitors may be disqualified from the competition for inappropriate clothing.
-- 2i) While competing, competitors must not use electronics or audio equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting).
-  - 2i1) Competitors may use certain non-electronic aids that do not give the competitor an unfair advantage, at the discretion of the WCA Delegate. This includes:
-    - 2i1a) Medical/physical aids worn by the competitor (etc. glasses, wrist brace, hearing aids).
-    - 2i1b) Earplugs and earmuffs (but not electronic noise-cancelling headphones).
-- 2j) The WCA Delegate may disqualify a competitor from a specific event.
-  - 2j1) If a competitor is disqualified from an event for any reason, he is not eligible for any more attempts in the event.
-  - 2j2) If a competitor is disqualified during the course of an event, his earlier results remains valid. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
-- 2k) The WCA Delegate may disqualify a competitor from the competition (i.e. from all events of the competition) if the competitor:
-  - 2k1) Fails to check in or register in time for the competition.
-  - 2k2) Is suspected of cheating or defrauding the officials during the competition.
-    - 2k2a) The WCA Delegate may disqualify any suspected results.
-  - 2k3) Behaves in a way that is unlawful, violent or indecent; or intentionally damages venue facilities or personal property within the venue.
-  - 2k4) Interferes with, or distracts others during, the competition.
-  - 2k5) Fails to abide by WCA Regulations during the competition.
-- 2l) A competitor may be disqualified immediately, or after a warning, depending on the nature and severity of the infraction.
-  - 2l1) A disqualified competitor is not eligible for the refund of any expenses due to participating in the competition.
-- 2n) Competitors may verbally dispute a ruling to the WCA Delegate.
-  - 2n1) Disputes are only permitted during the competition, within 30 minutes after the disputed incident happened and before the beginning of any following rounds of the relevant event.
-  - 2n2) The WCA Delegate must resolve the dispute before the beginning of the next round of the event.
-  - 2n3) The competitor must accept all final rulings of the WCA Delegate. Penalty: disqualification from the competition.
-- 2s) Competitors with other disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations from the WCA Delegate. Competitors requesting such accommodations should contact the organisation team and WCA Delegate at least two weeks before the competition.
-- 2t) Each competitor must be familiar with and understand the WCA Regulations before the competition.
+- 2a) Любой человек может принимать участие в WCA соревновании, если он:
+  - 2a1) Отвечает (может лучше просто выполняет??) требованиям положений WCA.
+  - 2a2) Выполняет требования соревнования (должны быть объявлены до соревнования).
+  - 2a3) Не отстранен от участия в соревнованиях руководством WCA.
+- 2b) Участники младше 18 лет обязаны до регистрации и участия получить согласие от своих родителей/опекунов.
+- 2c) Участники регистрируются, предоставляя команде организаторов всю требуемую информацию (включая имя, страну, дату рождения, пол, контактную информацию, выбранные дисциплины).
+  - 2c1) Участник не допускается к участию с незавершенной регистрацией (завершенность регистрации определяется командой организаторов).
+- 2d) Имя участника, страна, пол и результаты соревнований являются общественной информацией. Вся остальная персональная информация является конфиденциальной и не может быть передана другим организациям/лицам без согласия участника.
+- 2e) Участники обязаны представлять страну, гражданами которой они являются. Делегат WCA должен проверить гражданство по документам участника (например, паспорту). Если обнаружено, что участник не может представлять страну, под которой он регистрировался, участник может быть дисквалифицирован задним числом и/или отстранен от участия в соревнованиях по решению руководства WCA.
+  - 2e1) Страны, за которые участники имеют право участвовать, определяются в статье Википедии «List of sovereign states» («UN member states and observer states» и «Other states»).
+  - 2e2) Участники с изменениями своего гражданства могут изменить представляемую страну в своем первом соревновании календарного года.
+- 2f) Участники должны соблюдать правила места проведения соревнования и вести себя тактично.
+- 2g) Участники должны соблюдать тишину, находясь в обозначенной зоне для соревнования. Разговаривать можно, но на разумном уровне и на расстоянии от соревнующихся в данный момент участников.
+  - 2g3) Участникам в зоне для соревнования запрещено обсуждать друг с другом перемешанные состояния головоломок текущего раунда. Наказание: дисквалификация участника с дисциплины (на усмотрение WCA Делегата).
+- 2h) Участники должны быть полностью одеты, находясь в месте проведения соревнования. На усмотрение WCA Делегата участники могут быть дисквалифицированы с соревнований за неприемлемую одежду.
+- 2i) Во время сборок участникам запрещено использовать электронное или аудио оборудование (например, телефоны, MP3 плееры, диктофоны, дополнительное освещение).
+  - 2i1) Участники могут использовать некоторые неэлектронные средства, которые не дают участнику несправедливого преимущества, на усмотрение WCA Делегата. Они включают в себя:
+    - 2i1a) Медицинские/физические средства, носимые участником (например, очки, фиксаторы суставов, слуховые аппараты).
+    - 2i1b) Затычки для ушей и наушники (но не наушники с электронным шумоподавлением).
+- 2j) WCA Делегат может дисквалифицировать участника с конкретной дисциплины.
+  - 2j1) Если по какой-то причине участник был дисквалифицирован с дисциплины, он больше не имеет права на попытки в данной дисциплине.
+  - 2j2) Если участник дисквалифицирован в ходе дисциплины, его предыдущие результаты остаются в силе. Исключение: жульничество или обман (см [Положение 2k2a](regulations:regulation:2k2a)).
+- 2k) WCA Делегат может дисквалифицировать участника с соревнования (то есть со всех дисциплин соревнования), если участник:
+  - 2k1) Не прошел вовремя регистрацию на соревнование.
+  - 2k2) Подозревается в жульничестве или обмане официальных лиц во время соревнования.
+    - 2k2a) WCA Делегат может дисквалифицировать любые подозрительные результаты.
+  - 2k3) Ведет себя незаконным, насильственным или неприличным образом, или умышленно причиняет ущерб предметам или личному имуществу в месте проведения соревнования.
+  - 2k4) Мешает или отвлекает других во время соревнования.
+  - 2k5) Не соблюдает Положения WCA во время соревнования.
+- 2l) Участник может быть дисквалифицирован немедленно или после предупреждения, в зависимости от природы и серьезности нарушения.
+  - 2l1) Дисквалифицированный участник не имеет права на возмещение затрат, связанных с участием в соревновании.
+- 2n) Участник может устно оспорить решение с WCA Делегатом.
+  - 2n1) Оспаривание разрешено только во время соревнования, в течение 30 минут с момента оспариваемого инцидента и до начала следующих раундов затронутой дисциплины.
+  - 2n2) WCA Делегат должен разрешить спор до начала следующего раунда дисциплины.
+  - 2n3) Участник обязан принять все окончательные решения WCA Делегата. Наказание: дисквалификация с соревнования.
+- 2s) Участники с нарушениями, которые могут не позволить им выполнить одно или несколько Положений WCA, могут запросить у WCA Делегата специальные условия. Участники, запрашивающие такие условия, должны связаться с командой организаторов и WCA Делегатом по крайней мере за две недели до соревнования.
+- 2t) Каждый участник обязан знать и понимать положения WCA до начала соревнования.
 
 
-## <article-3><puzzles><puzzles> Article 3: Puzzles
+## <article-3><puzzles><puzzles> Статья 3: Головоломки
 
-- 3a) Competitors must provide their own puzzles for the competition.
-  - 3a1) Competitors must be present and ready to compete when they are called to compete for a round. Penalty: disqualification from the event.
-  - 3a2) Puzzles must be fully operational, such that normal scrambling is possible.
-  - 3a3) Polyhedral puzzles must use a colour scheme with one unique colour per face in the solved state. Each puzzle variation must have moves, states, and solutions functionally identical to the original puzzle.
-- 3d) Puzzles must have coloured stickers, coloured tiles, or painted/printed colours.
-  - 3d1) Exception: Competitors with a medically documented visual disability may use textured puzzles with different textures on different faces. Textures/patterns must be uniform per face. Each face should have a distinct colour, to aid in scrambling and judging.
-  - 3d2) The colours of puzzles must be solid, with one uniform colour per face. Each colour on the puzzle must be clearly distinct from the other colours.
-  - 3d3) Stickers/tiles/textures/paint must not be thicker than 1.5 mm, or the generally available thickness for non-cube puzzles.
-- 3h) Modifications that enhance the basic concept of a puzzle are not permitted.  Modified versions of puzzles are permitted only if the modification does not make any additional information available to the competitor (e.g. identity of pieces), compared to an unmodified version of the same puzzle.
-  - 3h1) "Pillowed" puzzles are not permitted. Exception: Pillowed 7x7x7 cubes are permitted.
-  - 3h2) "Stickerless" cubes, and other cubes whose face colours are visible inside the cube, are not permitted.
-  - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
-- 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that distinguish any piece from a similar piece.
+- 3a) Участники должны приносить свои собственные головоломки на соревнование.
+  - 3a1) Участники обязаны присутствовать и быть готовы соревноваться, когда их вызывают. При нарушении: дисквалификация с дисциплины.
+  - 3a2) Головоломки должны быть в полностью работоспособном состоянии, чтобы была возможна нормальная перемешка.
+  - 3a3) У многогранных головоломок должна быть цветовая схема с одним уникальным цветом на сторону, когда головоломка находится в собранном состоянии. У всех вариаций головоломки ходы, состояния и решения должны быть функционально идентичны оригинальной головоломке.
+- 3d) Головоломки должны иметь цветные наклейки, цыетные пластинки или быть с нарисованными/напечатанными цветами.
+  - 3d1) Исключение: Участники с закрепленной медицинскими документами неспособностью видеть могут использовать текстурированные головоломки с разными текстурированными рисунками на разных сторонах. На одной стороне все текстуры/узоры должны быть одинаковыми. Каждая сторона должна иметь уникальный цвет, чтобы облегчить перемешку головоломки и судейство.
+  - 3d2) Цвета головоломки должны быть однородными, все цвета одной стороны должны быть одинаковыми и уникальными. Каждый цвет головоломки должен быть легко отличим от других цветов.
+  - 3d3) Наклейки/пластинки/текстуры/краска должны быть не толще 1,5 мм, или generally available толщины для некубических головоломок.
+- 3h) Модификации, которые совершенствуют основную структуру головоломки, запрещены. Модифицированные версии головоломок разрешены только в том случае, если модификация не дает дополнительной доступной информации участнику (например, идентификацию элементов) по сравнению с немодифицированной версией этой головоломки.
+  - 3h1) "Скругленные" головоломки запрещены. Исключение: кубик 7х7х7.
+  - 3h2) "Stickerless" головоломки, а также другие головоломки, цвета сторон которых видны изнутри головоломки, запрещены.
+  - 3h3) Любые модификации головоломки, которые послужили причиной неудачного выступления участника, не являются основанием для дополнительных попыток.
+- 3j) Головоломки должны быть чистыми и не должны иметь любых пометок, выступающих частей, повреждений или других различий, которые отличают элементы головоломки от других алалогичных элементов.
   - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
-- 3k) Puzzles must be approved by the WCA Delegate before use in the competition.
-- 3l) A cube puzzle may have a logo, but it must have at most one logo. For the Rubik's Cube or bigger cube puzzles the logo must be placed on one of the centre pieces.
-  - 3l1) Colourless engravings (max. 1 per face) are not considered logos.
-- 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
+- 3k) Перед использованием на соревновании головоломки должны быть одобрены WCA Делегатом.
+- 3l) Кубические головоломки могут иметь логотип, но максимум один. Для Кубика Рубика или кубиков большей размерности логотип должен быть расположен на одном из центральных элементов.
+  - 3l1) Бесцветные текстурированные гравировки (максимум 1 на одной стороне) не считаются логотипами.
+- 3m) Разрешены головоломки и элементы головоломок любых фирм, если эти головоломки удовлетворяют Положениям WCA.
 
 
-## <article-4><scrambling><scrambling> Article 4: Scrambling
+## <article-4><scrambling><scrambling> Статья 4: Перемешка головоломок
 
-- 4a) A scrambler applies scramble sequences to the puzzles.
-- 4b) Puzzles must be scrambled using computer-generated random scramble sequences.
-  - 4b1) Generated scramble sequences must not be inspected before the competition, and must not be filtered or selected in any way by the WCA Delegate.
-  - 4b2) Scramble sequences for a round must be available only to the WCA Delegate and the scramblers for the event, until the end of the round. Exception: For Fewest Moves Solving, competitors receive scrambling sequences during the round (see [Article E](regulations:article:E)).
-- 4d) Scrambling orientation:
-  - 4d1) Cube puzzles and Megaminx are scrambled with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.
-  - 4d2) Pyraminx are scrambled with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
-  - 4d3) Square-1 are scrambled with the darker colour on front (out of the 2 possible scrambling orientations).
-- 4f) Competition scramble sequences must be generated using the current official version of the official WCA scramble program (available via the WCA website).
-- 4g) After scrambling a puzzle, the scrambler must verify that he has scrambled the puzzle correctly. If the puzzle state is wrong, he must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
-  - 4g1) Exception: For the 6x6x6 Cube and the 7x7x7 Cube, it is not necessary to correct the scramble, at the discretion of the WCA Delegate.
+- 4a) Скрамблёр выполняет на головоломках перемешивающий алгоритм (скрамбл).
+- 4b) Головоломки должны быть перемешаны с помощью сгенерированных на компьютере скрамблов.
+  - 4b1) Сгенерированные скрамблы не должны быть изучены перед соревнованием, а также не должны быть выбраны или отфильтрованы ни в каком виде Делегатом WCA.
+  - 4b2) Скрамблы раунда должны быть доступны только Делегату WCA и скрамблёрам дисциплины до окончания раунда. Исключение: Для дисциплины на количество ходов участники получают скрамблы во время (см [Статью E](regulations:article:E)).
+- 4d) Ориентация головоломок при перемешке:
+  - 4d1) Кубические головоломки и Мегаминкс перемешиваются в положении белой стороной наверх (при отсутствии белой стороны наиболее яркой) и зеленой стороной к себе (при отсутствии зеленой стороны наиболее темной соседней стороной).
+  - 4d2) Пирамидка перемешивается в положении желтой стороной вниз (при отсутствии желтой стороны наиболее яркой) и зеленой стороной к себе (при отсутствии зеленой стороны наиболее темной соседней стороной).
+  - 4d3) Square-1 перемешивается в положении более темной стороной к себе (из двух возможных положений для перемешки).
+- 4f) Скрамблы для соревнования должны быть сгенерированы, использую действующую официальную версию официальной программы для перемешки WCA (доступна на сайте WCA).
+- 4g) После перемешки головоломки скрамблёр должен удостовериться, что он перемешал головоломку правильно. Если перемешанное состояние головоломки неверно, он должен его исправить (например, собрав головоломку и применив скрамбл еще раз).
+  - 4g1) Исключение: для Кубика 6х6х6 и Кубика 7х7х7 исправлять перемешанное состояние необязательно (на усмотрение Делегата WCA).
 
 
 ## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
