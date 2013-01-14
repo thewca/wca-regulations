@@ -140,7 +140,7 @@
   - 4g1) Исключение: для Кубика 6х6х6 и Кубика 7х7х7 исправлять перемешанное состояние необязательно (на усмотрение Делегата WCA).
 
 
-## <article-5><puzzle-defects><puzzledefects> Статья 5: повреждения головоломок
+## <article-5><puzzle-defects><puzzledefects> Статья 5: Повреждения головоломок
 
 - 5a) Examples of puzzle defects include: popped pieces, pieces twisted in place, and detached screws/caps/stickers.
 - 5b) If a puzzle defect occurs during an attempt, the competitor may choose to either repair the defect and continue the attempt, or to stop the attempt.
@@ -472,14 +472,14 @@
   - H1d) Time penalties for the puzzles of the attempt are cumulative.
 
 
-## <article-Z><optional><optional> Article Z: Optional Regulations
+## <article-Z><optional><optional> Cnfnmz Z: Дополнительные правила
 
-Organisation teams may adopt optional regulations to facilitate the administration of the competition.
-The WCA Board must approve any optional regulations for a competition.
+Команда организаторов может вводить дополнительные правила, чтобы облегчить проведение соревнований.
+Руководство WCA должно утвердить все дополнительные правила для соревнования.
 
-- Z1) The organisation team may require competitors to submit puzzles during registration.
-- Z2) The organisation team may limit the number of events per competitor.
-- Z3) The organisation team may select competitors who directly qualify for certain rounds of certain events based on the results of specific previous competitions.
-- Z4) The organisation team may limit the number of competitors per event, on either a "first come first serve" basis or based upon qualification times or rankings in the WCA world rankings of a previously announced calendar date.
-- Z5) The organisation team may prohibit competitors from participating in specific combinations of events.
+- Z1) Команда организаторов может во время регистрации собрать у участников все головоломки для перемешки.
+- Z2) Команда организаторов может ограничить число дисциплин, в которых каждый может участвовать.
+- Z3) Команда организаторов может выбрать участников, которым не надо проходить квалификацию в каких-либо дисциплинах, основываясь на результатах определённых прошедших соревнований.
+- Z4) Команда организаторов может ограничить число участников в дисциплинах, либо по принципу "Кто успел, тот и съел" :D, либо основываясь на результатах квалификации или на рейтинге WCA к определённому, заранее объявленному моменту.
+- Z5) Команда организаторов может запретить участникам участвовать в той или иной комбинации дисциплин.
 
