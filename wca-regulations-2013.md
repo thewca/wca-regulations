@@ -461,18 +461,18 @@
 - F3) At the end of the inspection period, the competitor places the puzzle onto the mat in a standing position. He must not change the positions of any pins from their scrambled positions before the beginning of the solve. Penalty: disqualification (DNF).
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Статья H: Мульти-блайнд (сборка вслепую нескольких кубов)
 
-- H1) Standard speed solving procedures is followed, as described in [Article B](regulations:article:B) (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in [Article B](regulations:article:B) are described below.
-  - H1a) Before an attempt, the competitor must notify the judge of the number of puzzles he wishes to attempt blindfolded. The number of puzzles must be at least 2.
-    - H1a1) A competitor is not permitted to change the number of puzzles after the beginning of the attempt.
-    - H1a2) The organisation team must not disclose the competitor's requested number of puzzles until the beginning of the attempt.
-  - H1b) If he is attempting fewer than 6 puzzles, the competitor is allotted a time limit of 10 minutes times the number of puzzles in the attempt, else the time limit is 60 minutes.
-    - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge stops the attempt and the attempt is then scored; the time limit for the attempt counts as the original recorded time.
-  - H1d) Time penalties for the puzzles of the attempt are cumulative.
+- H1) Процедура такая же, как и в [статье B](regulations:article:B) (сборка вслепую). Ниже описаны дополнительные положения, которые замещают соответствующие положения в [статье B](regulations:article:B).
+  - H1a) Перед попыткой участник сообщает судье, сколько кубов он будет пытаться собрать вслепую. Число кубов должно быть не меньше двух.
+    - H1a1) После начала попытки участнику запрещено менять число кубов.
+    - H1a2) Команде организаторов до начала попытки нельзя разглашать, кто сколько кубов будет собирать.
+  - H1b) Если участник пытается собрать менее 6 кубов, то его лимит времени равен 10 минутам на куб, в противном случае ему даётся час.
+    - H1b1) Участник в любое время может дать понять, что попытка окончена. Если и когда истекает лимит времени, судья сам останавливает попытку и записывает результат; при этом время попытки полагается равным лимиту.
+  - H1d) Штрафы за все кубы в попытке накапливаются.
+  
 
-
-## <article-Z><optional><optional> Cnfnmz Z: Дополнительные правила
+## <article-Z><optional><optional> Статья Z: Дополнительные правила
 
 Команда организаторов может вводить дополнительные правила, чтобы облегчить проведение соревнований.
 Руководство WCA должно утвердить все дополнительные правила для соревнования.
