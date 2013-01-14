@@ -415,13 +415,13 @@
   - B5c) If he is not touching the puzzle, the competitor may remove the blindfold before he stops the timer. He must not touch the puzzle until the end of the attempt. Penalty: disqualification of the attempt (DNF).
 
 
-## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
+## <article-C><one-handed><onehandedsolving> Статья C: Сборка одной рукой
 
-- C1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-  - C1b) During the solve, the competitor must use only one hand to touch the puzzle. Penalty: disqualification of the attempt (DNF).
-    - C1b2) If a puzzle defect occurs, and the competitor chooses to repair it, he must repair it using only the solving hand. Penalty: disqualification of the attempt (DNF).
-    - C1b3) If a puzzle defect occurs, and pieces of the puzzle briefly come in contact with other body parts without the competitor's intention, this is not considered touching the puzzle, at the discretion of the judge.
-  - C1c) During the solve, once a competitor touches the puzzle with one hand, he must not touch the puzzle with the other hand. Penalty: disqualification of the attempt (DNF).
+- C1) Процедура такая же, как и в [статье A](regulations:article:A) (скоростная сборка). Ниже описаны дополнительные положения, которые замещают соответствующие положения в [статье A](regulations:article:A).
+  - C1b) Во время сборки участник должен дотрагиваться до куба только одной рукой. Штраф: дисквалификация попытки (DNF).
+    - C1b2) Если происходит поломка головоломки и участник решает починить её, он должен чинить её только одной рукой. Штраф: дисквалификация попытки (DNF).
+    - C1b3) Если происходит поломка и кусочки головоломки кратковременно задевают участника помимо его воли, то по решению судьи это за касание не считается.
+  - C1c) Во время сборки, как только участник коснулся головоломки одной рукой, он не может касаться её другой рукой. Штраф: дисквалификация попытки (DNF).
 
 
 ## <article-D><feet><solvingwithfeet> Статья D: Сборка ногами
@@ -429,7 +429,7 @@
 - D1) Процедура такая же, как и в [статье A](regulations:article:A) (скоростная сборка). Ниже описаны дополнительные положения, которые замещают соответствующие положения в [статье A](regulations:article:A).
   - D1a) Во время попытки участник должен сидеть на стуле, на полу (поверхности?) или стоять.
   - D1b) Во время попытки участник должен использовать только ступни и поверхность пола (surface?). Штраф: дисквалификация попытки (DNF).
-  - D1c) Во время сборки участник может дотрагиваться до куба только ногами. Штраф: дисквалификация попытки (DNF).
+  - D1c) Во время сборки участник может дотрагиваться до головоломки только ногами. Штраф: дисквалификация попытки (DNF).
 - D3) Начало сборки:
   - D3a) Участник ставит ступни на сенсоры таймера.
   - D3b) Участник убирает ступни с таймера, чтобы начать сборку.
