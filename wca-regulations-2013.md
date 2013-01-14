@@ -437,21 +437,21 @@
   - D4a) The competitor stops the timer by placing his feet onto the timer sensors.
 
 
-## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
+## <article-E><fewest-moves><fewestmovessolving> Article E: Сборка на количество ходов
 
-- E2) Procedure for Fewest Moves Solving:
-  - E2a) The judge distributes a scramble sequence to all competitors. The judge then starts the stopwatch and calls "GO".
-  - E2b) All competitors have a total time limit of 60 minutes to devise a solution.
-    - E2b1) The judge should call "5 MINUTES REMAINING" at 55 minutes, and must call "STOP" at 60 minutes.
-  - E2c) At 60 minutes, each competitor must give the judge a legibly written solution with the competitor's name, using the notation defined for Outer Block Turn Metric (described in [Regulation 12a](regulations:regulation:12a)). Penalty: disqualification of the attempt (DNF).
-  - E2d) The length of the solution is calculated in Outer Block Turn Metric (see [Regulation 12a](regulations:regulation:12a)).
-    - E2d1) The competitor is permitted a maximum solution length of 80 (moves and rotations).
-  - E2e) The competitor's solution must not be directly derived from any part of the scrambling algorithm. Penalty: disqualification of the attempt (DNF).
-    - E2e1) The WCA Delegate may ask the competitor to explain the purpose of each move in his solution, irrespective of scrambling algorithm. If the competitor cannot give a valid explanation, the attempt is disqualified.
-- E3) The competitor may use the following objects during the attempt. Penalty for using unauthorised objects: disqualification of the attempt (DNF).
-  - E3a) Paper and pens (both supplied by judge).
-  - E3b) 1-3 puzzles corresponding to the event (self-supplied).
-  - E3c) Coloured stickers (self-supplied).
+- E2) Процедура сборки на количество ходов:
+  - E2a) Судья раздаёт скрамблы всем участникам, затем запускает таймер и объявляет начало попытки.
+  - E2b) Всем участникам даётся 60 минут на придумывание и запись решения.
+    - E2b1) Судье следует объявить "Осталось 5 минут" через 55 минут после начала. Судья должен сказать "Стоп" через 60 минут после начала.
+  - E2c) Через 60 минут каждый участник должен сдать судье разборчиво написанное и подписанное решение. Для записи используются обозначения, определённые метрикой ввращений внешних блоков (см. [положение 12a](regulations:regulation:12a)). Штраф: дисквалификация попытки (DNF).
+  - E2d) Длина решения вычисляется в метрике вращений внешних блоков (см. [положение 12a](regulations:regulation:12a)).
+    - E2d1) Решение должно состоять из не более 80 ходов и вращений.
+  - E2e) Решение участника не должно быть выведено из скрамбла или любой его части. Штраф: дисквалификация попытки (DNF).
+    - E2e1) WCA делегат может попросить участника объяснить каждый ход в его решении, без использования скрамбла. Если участник не может дать вразумительного объяснения, попытка дисквалифицируется.
+- E3) Участник может использовать только нижеперечисленные вещи. Штраф за использование посторонних предметов: дисквалификация попытки (DNF).
+  - E3a) Бумага и ручки (предоставляются судьёй).
+  - E3b) 1-3 куба (свои). ***** В оригинале не кубы, а puzzles corresponding to the event. Думаю, можно и кубы оставить. Олег. *****
+  - E3c) Цветные наклейки (свои).
 
 
 ## <article-F><clock><clocksolving> Статья F: Сборка Клоков (часы)
