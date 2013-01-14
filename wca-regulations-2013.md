@@ -384,35 +384,35 @@
   - A7f) When a competitor's score sheet for a round is complete, the judge delivers the score sheet to the score taker.
 
 
-## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
+## <article-B><blindfolded><blindfoldedsolving> Статья B: Сборка вслепую
 
-- B1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-  - B1a) There is no inspection period.
-  - B1b) The competitor supplies his own blindfold.
-- B2) Starting the attempt:
-  - B2a) The judge resets the timer and stopwatch.
-  - B2b) The competitor places his hands on the elevated sensor unit of the Stackmat, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
-  - B2c) The competitor must have no physical contact with the puzzle before the beginning of the attempt. Penalty: time penalty (+2 seconds).
-  - B2d) The competitor starts the attempt by removing his hands from the timer, thus starting the timer.
-    - B2d1) The competitor removes the cover from the puzzle after starting the timer.
-  - B2e) If a stopwatch is in use, the judge starts the stopwatch as soon as the competitor starts the solve.
-- B3) Memorisation phase:
-  - B3a) The competitor may pick up the puzzle during the memorisation phase.
-  - B3b) The competitor must not make physical notes. Penalty: disqualification of the attempt (DNF).
-  - B3c) The competitor must not apply moves to the puzzle during the memorisation phase.
-- B4) Blindfolded phase:
-  - B4a) The competitor dons the blindfold to start the blindfolded phase.
-  - B4b) The competitor must not apply moves to the puzzle before he has fully donned the blindfold.
-  - B4c) The judge must ensure that there is an opaque object between the competitor's face and the puzzle while the competitor is solving.
-    - B4c1) In all cases, the competitor must wear the blindfold such that his view of the puzzle would still be clearly blocked if the opaque object were not in the way.
-    - B4c2) By default, the judge should place the object (e.g. a sheet of paper or cardboard) between the competitor and the puzzle while the competitor is wearing the blindfold.
-    - B4c3) If the judge and competitor agree beforehand, the competitor may choose to place the puzzle behind a suitable object (e.g. a music stand, the surface of the table) by himself during the blindfolded phase.
-  - B4d) The competitor must not look at the puzzle at any point during the blindfolded phase. Penalty: disqualification of the attempt (DNF).
-  - B4e) Until he applies the first move to the puzzle, the competitor may remove the blindfold to return to the memorisation phase.
-- B5) Stopping the solve:
-  - B5a) When using the Stackmat, the competitor stops the attempt by releasing the puzzle and then stopping the timer.
-  - B5b) When using a stopwatch, the competitor ends the attempt by placing the puzzle back onto the surface and notifying the judge that he is stopping the attempt. At that moment, the judge stops the timer.
-  - B5c) If he is not touching the puzzle, the competitor may remove the blindfold before he stops the timer. He must not touch the puzzle until the end of the attempt. Penalty: disqualification of the attempt (DNF).
+- B1) Процедура такая же, как и в [статье A](regulations:article:A) (скоростная сборка). Ниже описаны дополнительные положения, которые замещают соответствующие положения в [статье A](regulations:article:A).
+  - B1a) Преинспекции нет.
+  - B1b) Участник сам приносит свою повязку.
+- B2) Начало попытки:
+  - B2a) Судья сбрасывает таймер и секундомер.
+  - B2b) Участник ставит руки на (elevated??) стакмат, пальцами дотрагиваясь до сенсора, ладонями вниз. Штраф: +2 секунды.
+  - B2c) До начала попытки участник не может трогать головоломку. Штраф: +2 секунды.
+  - B2d) Участник начинает попытку, убирая руки с таймера, тем самым запуская его.
+    - B2d1) Участник убирает предмет, запускающий головоломку, после запуска таймера.
+  - B2e) При использовании секундомера судья запускает секундомер сразу же, как только участник начинает сборку.
+- B3) Этап запоминания:
+  - B3a) Участник может взять головоломку во время запоминания.
+  - B3b) Участник не может делать никаких записей. Штраф: дисквалификация попытки (DNF).
+  - B3c) Участник не может делать ходы во время запоминания.
+- B4) Этап сборки:
+  - B4a) Участник надевает повязку перед началом сборки.
+  - B4b) Участник не должен делать ходы, пока он полностью не надел повязку.
+  - B4c) Судья должен убедиться, что во время сборки между лицом участника и головоломкой есть какой-либо непрозрачный объект.
+    - B4c1) Участник должен надеть повязку так, чтобы он всё равно не смог видеть головоломку, даже если бы этого непрозрачного объекта не было.
+    - B4c2) По умолчанию, судье следует держать, например, листок бумаги или картона между участником и головоломкой, пока на участнике надета повязка.
+    - B4c3) По согласию участника и судьи участник может собирать головоломку за каким-либо подходящим объектом (например, за пюпитром или под столом).
+  - B4d) Участнику запрещается смотреть на головоломку в любой момент сборки. Штраф: дисквалификация попытки (DNF).
+  - B4e) Если участник ещё не сделал ни одного хода, он может снять повязку и вернуться к этапу запоминания.
+- B5) Окончание сборки:
+  - B5a) При использовании стакмата участник заканчивает попытку, отпустив головоломку и остановив таймер.
+  - B5b) При использвании секундомера участник заканчивает попытку, положив головоломку на поверхность стола и дав знать судье, что он завершил сборку. В этот момент судья останавливает таймер.
+  - B5c) Если участник не трогает головоломку, он может сначала снять маску, а потом остановить таймер. Он не может дотрагиваться до головоломки, пока попытка не будет остановлена. Штраф: дисквалификация попытки (DNF).
 
 
 ## <article-C><one-handed><onehandedsolving> Статья C: Сборка одной рукой
@@ -440,7 +440,7 @@
 ## <article-E><fewest-moves><fewestmovessolving> Статья E: Сборка на количество ходов
 
 - E2) Процедура сборки на количество ходов:
-  - E2a) Судья раздаёт скрамблы всем участникам, затем запускает таймер и объявляет начало попытки.
+  - E2a) Судья раздаёт скрамблы всем участникам, затем запускает секундомер и объявляет начало попытки.
   - E2b) Всем участникам даётся 60 минут на придумывание и запись решения.
     - E2b1) Судье следует объявить "Осталось 5 минут" через 55 минут после начала. Судья должен сказать "Стоп" через 60 минут после начала.
   - E2c) Через 60 минут каждый участник должен сдать судье разборчиво написанное и подписанное решение. Для записи используются обозначения, определённые метрикой вращений внешних блоков (см. [положение 12a](regulations:regulation:12a)). Штраф: дисквалификация попытки (DNF).
@@ -456,6 +456,7 @@
 
 ## <article-F><clock><clocksolving> Статья F: Сборка Клоков (часы)
 
+- F1) Процедура такая же, как и в [статье A](regulations:article:A) (скоростная сборка). Ниже описаны дополнительные положения, которые замещают соответствующие положения в [статье A](regulations:article:A).
 - F2) Судья ставит перемешанную головоломку на коврик в вертикальном положении.
 - F3) После преинспекции участник ставит головоломку на коврик в вертикальном положении. Ему запрещается менять положения кнопок до начала сборки. Штраф: дисквалификация попытки (DNF).
 
