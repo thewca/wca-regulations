@@ -140,7 +140,7 @@
   - 4g1) Исключение: для Кубика 6х6х6 и Кубика 7х7х7 исправлять перемешанное состояние необязательно (на усмотрение Делегата WCA).
 
 
-## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
+## <article-5><puzzle-defects><puzzledefects> Статья 5: повреждения головоломок
 
 - 5a) Examples of puzzle defects include: popped pieces, pieces twisted in place, and detached screws/caps/stickers.
 - 5b) If a puzzle defect occurs during an attempt, the competitor may choose to either repair the defect and continue the attempt, or to stop the attempt.
