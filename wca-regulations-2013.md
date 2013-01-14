@@ -454,11 +454,11 @@
   - E3c) Coloured stickers (self-supplied).
 
 
-## <article-F><clock><clocksolving> Article F: Clock Solving
+## <article-F><clock><clocksolving> Статья F: Сборка Клоков (часы)
 
-- F1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-- F2) The judge places the scrambled puzzle onto the mat in a standing position.
-- F3) At the end of the inspection period, the competitor places the puzzle onto the mat in a standing position. He must not change the positions of any pins from their scrambled positions before the beginning of the solve. Penalty: disqualification (DNF).
+- F1) Процедура такая же, как и в [статье A](regulations:article:A) (скоростная сборка). Ниже описаны дополнительные положения, которые замещают соответствующие положения в [статье A](regulations:article:A).
+- F2) Судья ставит перемешанную головоломку на коврик в вертикальном положении.
+- F3) После преинспекции участник ставит головоломку на коврик в вертикальном положении. Ему запрещается менять положения кнопок до начала сборки. Штраф: дисквалификация попытки (DNF).
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Статья H: Мульти-блайнд (сборка вслепую нескольких кубов)
@@ -472,7 +472,7 @@
   - H1d) Штрафы за все кубы в попытке накапливаются.
   
 
-## <article-Z><optional><optional> Статья Z: Дополнительные правила
+## <article-Z><optional><optional> Статья Z: Дополнительные положения
 
 Команда организаторов может вводить дополнительные правила, чтобы облегчить проведение соревнований.
 Руководство WCA должно утвердить все дополнительные правила для соревнования.
