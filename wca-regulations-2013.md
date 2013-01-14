@@ -424,26 +424,26 @@
   - C1c) During the solve, once a competitor touches the puzzle with one hand, he must not touch the puzzle with the other hand. Penalty: disqualification of the attempt (DNF).
 
 
-## <article-D><feet><solvingwithfeet> Article D: Solving With Feet
+## <article-D><feet><solvingwithfeet> Статья D: Сборка ногами
 
-- D1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-  - D1a) During the attempt, the competitor must sit in a chair, sit on the surface, or stand.
-  - D1b) During the attempt, the competitor must only use his feet and the surface. Penalty: disqualification of the attempt (DNF).
-  - D1c) During the solve, the competitor must use only his feet to touch the puzzle. Penalty: disqualification of the attempt (DNF).
-- D3) Starting the solve:
-  - D3a) The competitor places his feet onto the timer sensors.
-  - D3b) The competitor removes his feet from the timer sensors to start the solve.
-- D4) Stopping the solve:
-  - D4a) The competitor stops the timer by placing his feet onto the timer sensors.
+- D1) Процедура такая же, как и в [статье A](regulations:article:A) (скоростная сборка). Ниже описаны дополнительные положения, которые замещают соответствующие положения в [статье A](regulations:article:A).
+  - D1a) Во время попытки участник должен сидеть на стуле, на полу (поверхности?) или стоять.
+  - D1b) Во время попытки участник должен использовать только ступни и поверхность пола (surface?). Штраф: дисквалификация попытки (DNF).
+  - D1c) Во время сборки участник может дотрагиваться до куба только ногами. Штраф: дисквалификация попытки (DNF).
+- D3) Начало сборки:
+  - D3a) Участник ставит ступни на сенсоры таймера.
+  - D3b) Участник убирает ступни с таймера, чтобы начать сборку.
+- D4) Окончание сборки:
+  - D4a) Участник ставит ступни на сенсоры таймера, останавливая таймер.
 
 
-## <article-E><fewest-moves><fewestmovessolving> Article E: Сборка на количество ходов
+## <article-E><fewest-moves><fewestmovessolving> Статья E: Сборка на количество ходов
 
 - E2) Процедура сборки на количество ходов:
   - E2a) Судья раздаёт скрамблы всем участникам, затем запускает таймер и объявляет начало попытки.
   - E2b) Всем участникам даётся 60 минут на придумывание и запись решения.
     - E2b1) Судье следует объявить "Осталось 5 минут" через 55 минут после начала. Судья должен сказать "Стоп" через 60 минут после начала.
-  - E2c) Через 60 минут каждый участник должен сдать судье разборчиво написанное и подписанное решение. Для записи используются обозначения, определённые метрикой ввращений внешних блоков (см. [положение 12a](regulations:regulation:12a)). Штраф: дисквалификация попытки (DNF).
+  - E2c) Через 60 минут каждый участник должен сдать судье разборчиво написанное и подписанное решение. Для записи используются обозначения, определённые метрикой вращений внешних блоков (см. [положение 12a](regulations:regulation:12a)). Штраф: дисквалификация попытки (DNF).
   - E2d) Длина решения вычисляется в метрике вращений внешних блоков (см. [положение 12a](regulations:regulation:12a)).
     - E2d1) Решение должно состоять из не более 80 ходов и вращений.
   - E2e) Решение участника не должно быть выведено из скрамбла или любой его части. Штраф: дисквалификация попытки (DNF).
@@ -456,7 +456,6 @@
 
 ## <article-F><clock><clocksolving> Статья F: Сборка Клоков (часы)
 
-- F1) Процедура такая же, как и в [статье A](regulations:article:A) (скоростная сборка). Ниже описаны дополнительные положения, которые замещают соответствующие положения в [статье A](regulations:article:A).
 - F2) Судья ставит перемешанную головоломку на коврик в вертикальном положении.
 - F3) После преинспекции участник ставит головоломку на коврик в вертикальном положении. Ему запрещается менять положения кнопок до начала сборки. Штраф: дисквалификация попытки (DNF).
 
