@@ -314,74 +314,74 @@
   - 12g4) Turn around the puzzle so that twelve is still on top, and then move all pins down: y2.
 
 
-## <article-A><speedsolving><speedsolving> Article A: Speed Solving
+## <article-A><speedsolving><speedsolving> Статья A: Скоростная сборка
 
-- A1) Speed Solving attempts must abide by the following procedure.
-  - A1a) The organisation team may enforce time limits for attempts and/or rounds.
-    - A1a1) The default time limit per attempt is 10 minutes, though the organisation team may announce a higher or lower time limit.
-    - A1a2) Cumulative time limits may be enforced (e.g. 3 attempts with a cumulative time limit of 20 minutes). The time elapsed in a DNF result counts towards the cumulative time limit.
-    - A1a3) For each round, any time limits must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
-    - A1a4) The competitor must end each attempt within the time limit. If a competitor reaches the time limit for an attempt/round, the judge stops the attempt immediately and record the result as DNF. Exception: Multiple Blindfolded Solving (see [Regulation H1b1](regulations:regulation:H1b1)).
-    - A1a5) An attempt is considered to meet the time limit if and only if the final result, after any time penalties are applied, is less than the time limit. Exception: Multiple Blindfolded Solving (see [Regulation H1b1](regulations:regulation:H1b1)).
-  - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
-    - A1b1) Simultaneous use of a Stackmat timer is optional.
-    - A1b2) If a time from the Stackmat timer is available, it is the original recorded time. Otherwise, the stopwatch time is the original recorded time. 
-  - A1c) A competitor participating in an event must be able to fulfill the event's requirements (e.g. know how to solve the puzzle). A competitor competing with expectation of a DNF result may be disqualified from the event, at the discretion of the WCA Delegate.
-- A2) Scrambling:
-  - A2a) When called for a round, the competitor submits his puzzle, in its solved state, to the scrambler and waits in the Competitors Area until he is called to compete.
-  - A2b) A scrambler scrambles the puzzle according to the regulations in [Article 4](regulations:article:4).
-  - A2c) After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.
-    - A2c1) The scrambler places a cover over the scrambled puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover remains over the puzzle until the beginning of the attempt.
-  - A2d) When taking a puzzle from the scrambler, the judge briefly inspects the puzzle to ensure thorough scrambling of the puzzle. The judge raises any concerns with the scrambler, who then conducts a detailed check.
-  - A2e) The judge places the puzzle onto the mat in an arbitrary orientation and ensures that it is covered completely. The competitor is not permitted to request a specific orientation.
-- A3) Inspection:
-  - A3a) The competitor may inspect the puzzle at the beginning of each attempt.
-    - A3a1) The competitor is allotted a maximum of 15 seconds to inspect the puzzle and start the solve.
-  - A3b) Before the competitor starts the attempt, the judge resets the timer and, where applicable, the stopwatch.
-    - A3b1) When the judge believes the competitor is ready, he asks "READY?". The competitor must be ready to start the attempt within one minute of being called. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
-    - A3b2) When the competitor confirms his readiness, the judge uncovers the puzzle. If the attempt requires a stopwatch, the judge starts it at the same time.
-  - A3c) The competitor may pick up the puzzle during inspection.
-    - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the attempt (DNF).
-    - A3c2) If the pieces of the puzzle are not fully aligned, then the competitor may align the faces, as long as misalignments stay within the limits 10f.
-    - A3c3) The competitor may reset the timer before he starts the solve.
-  - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation and position.
-    - A3d1) The puzzle must not rest on the timer. Penalty: time penalty (+2 seconds).
-    - A3d2) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
-    - A3d3) When 12 seconds of inspection have elapsed, the judge calls "12 SECONDS".
-- A4) Starting the solve:
-  - A4b) The competitor places his hands on the elevated sensor unit of the timer, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
-    - A4b1) The competitor must have no physical contact with the puzzle between the inspection period and the beginning of the solve. Penalty: time penalty (+2 seconds).
-  - A4d) The competitor starts the solve by confirming that the timer light is green and then removing his hands from the timer, thus starting the timer.
-    - A4d1) The competitor must start the solve within 15 seconds of the beginning of the inspection. Penalty: time penalty (+2 seconds).
-    - A4d2) The competitor must start the solve within 17 seconds of the beginning of the inspection. Penalty: disqualification of the attempt (DNF).
-  - A4e) Time penalties for starting the solve are cumulative.
-- A5) During the solve:
-  - A5a) While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge. Penalty: disqualification of the attempt (DNF).
-  - A5b) While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface (also see [Regulation 2i](regulations:regulation:2i)). Penalty: disqualification of the attempt (DNF).
-- A6) Stopping the solve:
-  - A6a) The competitor stops the solve by releasing the puzzle and then stopping the timer.
-    - A6a1) If a stopwatch is in use as the timing device, the competitor ends the solve by releasing the puzzle and notifying the judge that he has stopped the solve.
-    - A6a2) When using a stopwatch without a Stackmat, the competitor's default notification signal consists of releasing the puzzle(s) in his hand and placing his hands on the surface, with palms down. The competitor and the judge may agree on another appropriate notification before the beginning of the solve.
-  - A6b) The competitor is responsible for stopping the timer correctly.
-    - A6b1) If the timer stops before the end of the solve and the timer shows a time strictly below 0.06 seconds, then the attempt is replaced by an extra attempt. A competitor forfeits his right to the additional attempt if the WCA Delegate determines that the timer was stopped deliberately.
-    - A6b2) If the timer stops before the end of the solve and displays a time of 0.06 seconds or higher, then the attempt is disqualified (DNF). Exception: if the competitor can demonstrate that the timer malfunctioned, he may receive an extra attempt, at the WCA Delegate's discretion.
-  - A6c) The competitor must fully release the puzzle before stopping the timer. Penalty: time penalty (+2 seconds).
-  - A6d) The competitor must stop the timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
-  - A6e) The competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been applied, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
-  - A6f) The competitor must not reset the timer until the judge has recorded the result on the score sheet. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
-  - A6g) The judge determines whether the puzzle is solved. He must not make moves or align faces when examining the puzzle. Exception: The judge is permitted to make moves when examining a Clock.
-  - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle before the dispute is resolved.
-  - A6i) Time penalties for stopping the solve are cumulative.
-- A7) Recording results:
-  - A7a) The judge tells the competitor the result.
-    - A7a1) If the judge finds that the puzzle is solved, he calls "OKAY".
-    - A7a2) If the judge assigns any penalties, the judge calls "PENALTY".
-    - A7a3) If the result is DNF, the judge calls "DNF".
-  - A7b) The judge records the result on a score sheet.
-    - A7b1) If penalties are assigned, the judge records the original recorded result displayed on the timer, along with any penalties. The format should be "X + T + Y = F", where X represents the sum of time penalties before/starting the solve, T represents the time displayed on the timer, Y represents a sum of time penalties during/after the solve, and F represents the final result. If X and/or Y is 0, the 0 terms are omitted (e.g. 2 + 17.65 + 2 = 21.65, or 17.65 + 2 = 19.65).
-  - A7c) The judge and competitor must both sign (or initial) the score sheet to acknowledge the result.
-    - A7c1) If the competitor or the judge refuses to accept and sign the score sheet, the WCA Delegate must resolve the dispute.
-  - A7f) When a competitor's score sheet for a round is complete, the judge delivers the score sheet to the score taker.
+- A1) Попытки в скоростной сборке должны проходить по следующей процедуре.
+  - A1a) Команда организаторов может установить лимиты по времени для попыток и/или для раундов.
+    - A1a1) Лимит для попытки по умолчанию равен 10 минутам, но команда организаторов может сделать его больше или меньше.
+    - A1a2) Могут быть установлены суммарные лимиты (например, 20 минут на 3 попытки). Если в какой-либо попытке участник получает DNF, то реальное время его сборки всё равно считается в суммарном лимите.
+    - A1a3) В каждом раунде установленные лимиты по времени должны быть объявлены до его начала. После начала раунда лимиты менять не следует. Изменения могут быть сделаны с разрешения WCA делегата, который должен внимательно рассмотреть ситуацию. (who must carefully consider the fairness of the change.)
+    - A1a4) Участник должен заканчивать попытки до того, как истечёт лимит по времени. Если лимит для попытки или раунда исчерпан, судья немедленно останавливает попытку и ставит DNF. Исключение: мульти-блайнд (см. [Положение H1b1](regulations:regulation:H1b1)).
+    - A1a5) Попытка укладывается в лимит по времени, если и только если конечный результат, после применения всех штрафов, меньше лимита по времени. Исключение: мульти-блайнд (см. [Положение H1b1](regulations:regulation:H1b1)).
+  - A1b) Если лимит по времени больше 10 минут, для измерения времени надо использовать секундомер.
+    - A1b1) Можно использовать одновременно секундомер и стакмат.
+    - A1b2) Если есть время со стакмата, то в качестве результата используется оно. В противном случае, в качестве результата берётся время с секундомера.
+  - A1c) Участник должен удовлетворять требованиям дисциплины (например, должен знать, как решать головоломку). Если ожидается, что результат участника будет DNF, по решению WCA делегата такой участник может быть дисквалифицирован с этой дисциплины.
+- A2) Перемешка головоломок:
+  - A2a) Когда участника вызывают участвовать, он сдаёт головоломку в собранном состоянии скрамблёрам и ждёт в зоне участников, пока его не вызовут собирать.
+  - A2b) Скрамблёр перемешивает головоломку в соответствии с положениями в [статье 4](regulations:article:4).
+  - A2c) После того, как скрамблёр перемешал головоломку, участнику нельзя не неё смотреть до начала преинспекции.
+    - A2c1) Скрамблёр кладёт закрывает головоломку ЦВЕТОЧНЫМ ГОРШКОМ (как этот cover перевести??!!), чтобы ни участнику, ни зрителям не было видно никакой её части. Этот ЦВЕТОЧНЫЙ ГОРШОК накрывает головоломку, пока не начнётся попытка.
+  - A2d) Когда судья берёт головоломку у скрамблёров, он бегло осматривает её, что она перемешана. В случае сомнений судья обращается к скрамблёру, который проверяет головоломку более детально.
+  - A2e) Судья ставит головоломку на мат в произвольной ориентации и проверяет, что она полностью закрывается ЦВЕТОЧНЫМ ГОРШКОМ. Участнику не разрешается заказывать ориентацию, в которой будет его головоломка.
+- A3) Преинспекция:
+  - A3a) Участник может осмотреть головоломку в начале каждой попытки.
+    - A3a1) У участника есть не более 15 секунд, чтобы осмотреть головоломку и начать сборку.
+  - A3b) Перед каждой попытой судья сбрасывает таймер и секундомер, если тот используется.
+    - A3b1) Когда судья видит, что участник может начать попытку, он спрашивает: "Готов?" После этого у участника есть минута, чтобы начать сборку. Штраф: дисквалификация попытки (DNF), по решению судьи.
+    - A3b2) Когда участник подтверждает готовность, судья снимает ЦВЕТОЧНЫЙ ГОРШОК. Если в попытке используется секундомер, судья одновременно запускает и его (что-то не понял смысл этого предложения, секундомер же всегда запускается, нет? If the attempt requires a stopwatch, the judge starts it at the same time)
+  - A3c) Во время преинспекции частник может взять головоломку.
+    - A3c1) Участнику нельзя делать ходы во время преинспекции. Штраф: дисквалификация попытки (DNF).
+    - A3c2) Если части головоломки не довёрнуты, участник может выровнять их, при условии, что довороты проводятся в пределах, описанных в статье 10f.
+    - A3c3) Участник может сбросить таймер перед началом сборки.
+  - A3d) В конце преинспекции участник кладёт головоломку на мат в любой ориентации.
+    - A3d1) Головоломка не должна лежать на таймере. Штраф: +2 секунды.
+    - A3d2) Когда прошло 8 секунд преинспекции, судья говорит: "8 секунд".
+    - A3d3) Когда прошло 12 секунд преинспекции, судья говорит: "12 секунд".
+- A4) Начало сборки:
+  - A4b) Участник кладёт руки на стакмат, пальцами дотрагиваясь до сенсоров, ладонями вниз. Штраф: +2 секунды.
+    - A4b1) Участнику нельзя дотрагиваться до головоломки между преинспекцией и началом сборки. Штраф: +2 секунды.
+  - A4d) После того, как загорается зелёная лампочка на таймере, участник убирает руки с таймера, тем самым запуская его.
+    - A4d1) Участник должен начать сборку в течение 15 секунд после начала преинспекции. Штраф: +2 секунды.
+    - A4d2) Участник должен начать сборку в течение 17 секунд после начала преинспекции. Штраф: дисквалификакия попытки (DNF).
+  - A4e) Все штрафы за начало сборки накапливаются.
+- A5) Во время сборки:
+  - A5a) Во время преинспекции и сборки участнику нельзя общаться с кем-либо, кроме судьи. Штраф: дисквалификакия попытки (DNF).
+  - A5b) Во время преинспекции и сборки участнику нельзя пользоваться чьей-либо помощью или использовать посторонние предметы, кроме поверхности стола (см. также [Положение 2i](regulations:regulation:2i)). Штраф: дисквалификакия попытки (DNF).
+- A6) Окончание сборки:
+  - A6a) Участник заканчивает сборку, отпуская головоломку и затем останавливая таймер.
+    - A6a1) Если используется секундомер, участник заканчивает сборку отпустив головоломку и дав понять судье, что он завершил попытку.
+    - A6a2) Если стакмат не используется, то по умолчанию участник даёт понять судье, что он завершил попытку, положив пустые руки на поверхность стола ладонями вниз. Участник и судья могут договориться использовать и другие знаки, означающие завершение сборки.
+  - A6b) Участник ответственен за правильную остановку таймера.
+    - A6b1) Если таймер останавливается до конца сборки, показывая время строго меньше 0.06 секунд, то попытка заменяется дополнительной. Если WCA делегат понимает, что участник умышленно остановил так таймер, то он теряет право на дополнительную попытку.
+    - A6b2) Если таймер останавливается до конца сборки, показывая время 0.06 секунд или больше, то попытка дисквалифицируется (DNF). Исключение: если участнику удаётся доказать, что таймер неисправен, он по решению WCA делегата может получить дополнительную попытку.
+  - A6c) Участник должен полностью отпустить головоломку перед остановкой таймера. Штраф: +2 секунды.
+  - A6d) Участник должен останавливать таймер обеими руками, держа ладони прямыми и вниз. Штраф: +2 секунды.
+  - A6e) Участнику нельзя трогать головоломку, пока её полностью не осмотрел судья. Штраф: дисквалификакия попытки (DNF). Исключение: если участник не делал ходов, по решению судьи штраф заменяется на +2 секунды.
+  - A6f) Участник не должен сбрасывать таймер, пока судья не запишет его в карточку. Штраф: дисквалификация попытки (DNF), по решению судьи.
+  - A6g) Судья определяет, собрана ли головоломка. При этом он не должен делать ходы и выравнивать грани. Исключение: судье можно делать ходы при осмотре Clock'а.
+  - A6h) В случае возникновения спора нельзя делать ходы и выравнивать грани, пока этот спор не разрешится.
+  - A6i) Штрафы за окончание сборки накапливаются.
+- A7) Запись результатов:
+  - A7a) Судья говорит участнику результат сборки.
+    - A7a1) Если судья видит, что головоломка собрана, он говорит: "Ок".
+    - A7a2) Если судья назначает штраф, он говорит: "Штраф".
+    - A7a3) Если результат DNF, участник говорит: "DNF".
+  - A7b) Судья заносит результат в карточку участника.
+    - A7b1) В случае назначения штравоф судья пишет время на таймере вместе со всеми штрафами. Формат записи "X + T + Y = F", где X - сумма штрафов за начало сборки, T - время на таймере, Y - сумма штрафов за окончание сборки, F - конечный результат. If X и/или Y равны 0, то их можно не писать (например 2 + 17.65 + 2 = 21.65, 17.65 + 2 = 19.65).
+  - A7c) Судья и участник должны подписать (или поставить инициалы) на карточке, принимая результат.
+    - A7c1) Если участник или судья отказывается принимать результат и подписываться, WCA делегат должен разрешить спор.
+  - A7f) Когда участник отсобирал все попытки раунда, судья относит карточку человеку, заносящему результаты в компьютер.
 
 
 ## <article-B><blindfolded><blindfoldedsolving> Статья B: Сборка вслепую
