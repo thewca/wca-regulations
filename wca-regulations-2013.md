@@ -172,17 +172,17 @@
   - 7h1) Команда организаторов может обязать участника, которого вызвали соревноваться, оставаться в зоне для участников до окончания всех его попыток раунда.
 
 
-## <article-8><competitions><competitions> Article 8: Competitions
+## <article-8><competitions><competitions> Статья 8: Соревнования
 
-- 8a) An official WCA competition must:
-  - 8a1) Be approved by the WCA Board.
-  - 8a2) Follow the WCA Regulations.
-  - 8a3) Have a designated WCA Delegate in attendance.
-  - 8a4) Be announced on the WCA website at least two weeks before the beginning of the competition.
-  - 8a6) Be publicly accessible.
-  - 8a7) Use the authentic Speed Stacks Stackmat timer (Generation 2 or Pro) for time measurement.
-  - 8a8) Be open to all who wish to compete. Restrictions must be approved by the WCA Board and clearly stated when the competition is announced.
-- 8f) If WCA Regulations are not correctly observed during a competition, the WCA Board may disqualify affected attempts.
+- 8a) Официальное WCA соревнование.
+  - 8a1) Соревнование должно быть одобрено руководством WCA.
+  - 8a2) На соревновании должны соблюдаться Положения WCA.
+  - 8a3) На соревновании должен присутствовать назначенный WCA Делегат.
+  - 8a4) О соревновании должно быть объявлено на сайте WCA по крайней мере за две недели.
+  - 8a6) Соервнования должно быть доступно для общественности.
+  - 8a7) Дли измерения времени на соревновании должны использоваться оригинальные таймеры Speed Stacks Stackmat (Поколения 2 или Pro).
+  - 8a8) Соревнование должно быть открыто для участия для всех желающих. Ограничения должны быть одобрены руководством WCA, и о них должно быть четко сказано при объявлении соревнования.
+- 8f) Если Положения WCA во время соревнования соблюдаются некорректно, руководство WCA может дисквалифицировать попытки, с которыми это было связано.
 
 
 ## <article-9><events><events> Article 9: Events
