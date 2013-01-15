@@ -142,17 +142,17 @@
 
 ## <article-5><puzzle-defects><puzzledefects> Статья 5: Повреждения головоломок
 
-- 5a) Examples of puzzle defects include: popped pieces, pieces twisted in place, and detached screws/caps/stickers.
-- 5b) If a puzzle defect occurs during an attempt, the competitor may choose to either repair the defect and continue the attempt, or to stop the attempt.
-  - 5b1) If a competitor chooses to repair the puzzle, he must repair only the defective pieces. Tools and/or pieces of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the attempt (DNF).
-  - 5b2) Any repair to a puzzle must not give the competitor any advantage in solving the puzzle. Penalty: disqualification of the attempt (DNF).
-  - 5b3) Permitted repairs:
-    - 5b3a) If any pieces have fallen out or moved out of place, the competitor may place them back.
-    - 5b3b) If, after repairing the puzzle but before the end of the attempt, the competitor finds that the puzzle is unsolvable, he may disassemble and reassemble a maximum of 4 pieces to make the puzzle solvable.
-    - 5b3c) If the puzzle is unsolvable, and can be made solvable by rotating a single corner piece, the competitor may correct the corner piece by twisting it in place without disassembling the puzzle.
-  - 5b4) During blindfolded events, a puzzle defect must be repaired during the attempt, and all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
-  - 5b5) If parts of the puzzle are still defective or not fully placed at the end of the attempt, the result is recorded as the worst state obtainable by repairing the puzzle (see [Regulation 5b3](regulations:regulation:5b3)).
-- 5c) If a competitor has a puzzle defect, this does not give him the right to an extra attempt.
+- 5a) Повреждения головоломок включают в себя: выпавшие элементы, элеметны, развернутые на своем месте и открученные винты/выпавшие крышки/отклеенные наклейки.
+- 5b) Если во время попытки происходит повреждение головоломки, участник может либо устранить повреждение и продолжить сборку, либо прекратить сборку.
+  - 5b1) Если участник выбирает устранение повреждения головоломки, он обязан чинить только поврежденные элементы. При ремонте головоломки запрещено использовать любые инструмены и элементы других головоломок. Штраф: дисквалификация попытки (DNF).
+  - 5b2) Любой ремонт головоломки не должен давать участнику преимущества в сборке. Штраф: дисквалификация попытки (DNF).
+  - 5b3) Разрешенные действия при ремонте:
+    - 5b3a) Если любой элемент выпал или сдвинулся со своего места, участник может вернуть его обратно.
+    - 5b3b) Если после ремонта головоломки, но до окончания попытки, учасник обнаруживает, что головоломку невозможно собрать, он может разобрать её и изменить положение не более 4-х элементов головоломки.
+    - 5b3c) Если головоломку невозможно собрать, и для исправления этого необходимо развернуть на месте один угловой элемент, участнику разрешается это сделать, не разбирая головоломки.
+  - 5b4) Во время дисциплин сборки вслепую, повреждение головоломки должно быть устранено во время попытки, и любой ремонт должен выполняться вслепую. Штраф: дисквалификация попытки (DNF).
+  - 5b5) Если к концу попытки элементы головоломки до сих пор повреждены или не находятся полностью на своём месте, результат определяется по состоянию головоломки после применения худшего из возможных путей ремонта головоломки (см [Положение 5b3](regulations:regulation:5b3)).
+- 5c) Если у участника происходит повреждение головоломки, это не даёт ему права на дополнительную попытку.
 
 
 ## <article-7><environment><environment> Article 7: Environment
