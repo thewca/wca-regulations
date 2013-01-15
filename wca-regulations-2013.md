@@ -155,21 +155,21 @@
 - 5c) Если у участника происходит повреждение головоломки, это не даёт ему права на дополнительную попытку.
 
 
-## <article-7><environment><environment> Article 7: Environment
+## <article-7><environment><environment> Статья 7: Окружающая обстановка
 
-- 7b) Spectators must remain at least 1.5 metres away from the solving stations when they are in use.
-- 7c) Lighting of the competition area must be given special attention. Lighting should be neutral, such that competitors can easily differentiate among the colours on the puzzles.
-- 7e) The competition area must be smoke-free.
-- 7f) Solving station:
-  - 7f1) Definitions:
-    - 7f1a) Stackmat: The Speedstacks Stackmat timer and a full-size compatible mat.
-    - 7f1b) Mat: The mat of the Stackmat.
-    - 7f1c) Timer: The timer of the Stackmat.
-    - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
-  - 7f2) The timer must be attached to the mat and placed on the surface, with the timer on the side of the mat nearest to the competitor.
-    - 7f2a) Exception: For Solving With Feet, the Stackmat must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
-- 7h) The competition area must have a Competitors Area.
-  - 7h1) The organisation team may require that a competitor who has been called to compete must remain within the Competitors Area until he has finished all of his attempts for the round.
+- 7b) Зрители должны располагаться по крайней мере в 1,5 метрах от соревновательных столов во время проведения дисциплин.
+- 7c) Освещению зоны для соревнования должно быть уделено особое внимание. Освещение должно быть нейтральным, таким, чтобы участники могли легко различать цвета головоломок.
+- 7e) В зоне для соревнования должно быть запрещено курение (или просто В зоне для соревнования запрещено курить??).
+- 7f) Соревновательные столы:
+  - 7f1) Определения:
+    - 7f1a) Стакмат: таймер Speedstacks Stackmat в комплекте с полноразмерным матом.
+    - 7f1b) Мат: мат (коврик) стакмата.
+    - 7f1c) Таймер: таймер стакмата.
+    - 7f1d) Поверхность: плоская поверхность, на которой располагается стакмат. Мат считается частью поверхности. Таймер не считается частью поверхности.
+  - 7f2) Таймер должен быть прикреплен к мату и расположен на поверхности, таймер должен располагаться на ближней к участнику стороне мата.
+    - 7f2a) Исключение: для сборки ногами стакмат должен быть расположен прямо на полу. Таймер может быть расположен на дальней от участника стороне мата.
+- 7h) В зона для соревнования должна быть зона для участников.
+  - 7h1) Команда организаторов может обязать участника, которого вызвали соревноваться, оставаться в зоне для участников до окончания всех его попыток раунда.
 
 
 ## <article-8><competitions><competitions> Article 8: Competitions
