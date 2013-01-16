@@ -436,12 +436,11 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 <h2>Abschnitt 10: Gelöster Zustand</h2>
 <table>
 <tr><td>10b)</td><td>Der Ruhezustand eines Puzzles wird bewertet, wenn der Timer gestoppt wurde.</td></tr>
-<tr><td>10c)</td><td>Puzzles können in beliebiger Orientierung sein am Ende eines Solves.</td></tr>
-<tr><td>10d)</td><td>Alle Teile eines Puzzles müssen vollständig am Puzzle in ihrer vorgesehenen Position montiert sein. Ausnahmen: Siehe Abschnitt 5 Puzzledefekte.</td></tr>
-
-<tr><td>10e)</td><td>Ein Puzzle ist gelöst wenn alle Seitenfarben rekonstruiert sind und alle Teile korrekt ausgerichtet sind (innerhalb bestimmter Toleranzgrenzen).<br>
+<tr><td>10c)</td><td>Puzzles können am Ende eines Solves in beliebiger Orientierung sein.</td></tr>
+<tr><td>10d)</td><td>Alle Teile eines Puzzles müssen vollständig am Puzzle in ihrer vorgesehenen Position montiert sein. Ausnahmen: Siehe Regel 5b5.</td></tr>
+<tr><td>10e)</td><td>Ein Puzzle ist gelöst wenn alle Seitenfarben rekonstruiert sind und alle Teile innerhalb der folgenden Toleranzgrenzen korrekt ausgerichtet sind:<br>
 <ul>
-<li>10e1) Jeweils zwei benachbarte Teile (z.B. zwei benachbarte Ebenen eines Cubes), die über die in Abschnitt 10f beschriebenen Grenzen hinweg falsch ausgerichtet sind, werden als einen Zug voneinander entfernt angesehen (Halbzugmetrik, HTM).</li>
+<li>10e1) Jeweils zwei benachbarte Teile (z.B. zwei benachbarte Ebenen eines Cubes), die über die in Abschnitt 10f beschriebenen Grenzen hinweg falsch ausgerichtet sind, werden als einen Zug voneinander entfernt angesehen (siehe "Outer Block Turn Metric" in Artikel 12).</li>
 <li>10e2) Wenn kein Zug nötig ist um das Puzzle in den gelöst Zustand zu bringen so wird es als gelöst ohne Strafzeit angesehen.</li>
 <li>10e3) Wenn ein Zug nötig ist um das Puzzle zu lösen, so wird das Puzzle als gelöst mit 2 Strafsekunden angesehen.</li>
 <li>10e4) Wenn mehr als ein Zug nötig ist um das Puzzle zu lösen wird der Solve als DNF (Did Not Finish) bewertet.</li>
@@ -449,55 +448,10 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 </td></tr>
 <tr><td>10f)</td><td>Grenzen falsch ausgerichteter Puzzles:<br>
 <ul>
-<li>Würfelförmige Puzzles: =&lt; 45 Grad</li>
-<li>Megaminx: =&lt; 36 Grad</li>
-<li>Pyraminx: =&lt; 60 Grad</li>
-<li>Square-1: =&lt; 45 Grad (U/D) oder 90 Grad (/)</li>
-</ul>
-<br>
-Beispiele:<br>
-
-<table style="text-align: left; width: 100%;" border="0" cellpadding="2" cellspacing="2">
-<tbody>
-<tr>
-<td style="text-align: center;"><img style="width: 182px; height: 191px;" alt="" src="images/pen3_1.jpg"></td>
-<td style="text-align: center;"><img style="width: 182px; height: 190px;" alt="" src="images/pen3_2.jpg"></td>
-<td style="text-align: center;"><img style="width: 183px; height: 198px;" alt="" src="images/pen3_3.jpg"></td>
-</tr>
-<tr>
-<td style="vertical-align: top; text-align: center;">Gelöst, keine Strafe<br>Falschausrichtung &lt;= 45&deg;<br><br></td>
-<td style="vertical-align: top; text-align: center;">Gelöst, mit Strafe<br>Nur zwei benachbarte Teile falsch ausgerichtet &gt; 45&deg;</td>
-<td style="vertical-align: top; text-align: center;">Nicht gelöst<br>2 Teile falsch ausgerichtet &gt; 45&deg;</td>
-</tr>
-<tr>
-<td style="text-align: center;"><img style="width: 183px; height: 208px;" alt="" src="images/pen3_4.jpg"></td>
-<td style="text-align: center;"><img style="width: 184px; height: 208px;" alt="" src="images/pen3_5.jpg"></td>
-<td style="text-align: center;"><img src="images/pen4_1.jpg" alt="" style="width: 178px; height: 184px;"></td>
-</tr>
-<tr>
-<td style="vertical-align: top; text-align: center;">Gelöst, mit Strafe<br>Eine Falschausrichtung &gt; 45&deg;<br><br></td>
-<td style="vertical-align: top; text-align: center;">Gelöst, ohne Strafe<br>Alle Falschausrichtungen &lt;= 45&deg;</td>
-<td style="vertical-align: top; text-align: center;">Gelöst, ohne Strafe<br>Falschausrichtung &lt;= 45&deg;</td>
-</tr>
-<tr>
-<td style="text-align: center;"><img style="width: 180px; height: 202px;" alt="" src="images/pen4_2.jpg"></td>
-<td style="text-align: center;"><img style="width: 180px; height: 200px;" alt="" src="images/pen4_3.jpg"></td>
-<td style="text-align: center;"><img style="width: 179px; height: 192px;" alt="" src="images/pen4_4.jpg"></td>
-</tr>
-<tr>
-<td style="vertical-align: top; text-align: center;">Nicht gelöst<br>2 Falschausrichtungen &gt; 45&deg;<br><br></td>
-<td style="vertical-align: top; text-align: center;">Gelöst, keine Strafe<br>Alle Falschausrichtungen &lt;= 45&deg;</td>
-<td style="vertical-align: top; text-align: center;">Gelöst, mit Strafe<br>Eine Falschausrichtung &gt; 45&deg;</td>
-</tr>
-</tbody>
-</table>
-
-<br>
-</td></tr>
-
-<tr><td>10g)</td><td>Für Rubik's Magic (und ähnliche Puzzles): Das Puzzle muss flach auf der Oberfläche liegen. Der minimale Winkel, den eine Platte mit einer anliegenden Platte einschließen muss, ist 135 Grad.<br>
-<ul>
-<li>10g1) Wenn eine oder zwei Platten einen geringeren Winkel als 135 Grad mit einer oder zwei anliegenden Platten einschließen, das Puzzle aber abgesehen davon korrekt gelöst ist, wird das Puzzle als gelöst angesehen mit 2 Sekunden Strafe. In allen anderen Fällen ist das Ergebnis DNF.</li>
+<li>Würfelförmige Puzzles: =&lt; höchstens 45 Grad</li>
+<li>Megaminx: =&lt; höchstens 36 Grad</li>
+<li>Pyraminx: =&lt; höchstens 60 Grad</li>
+<li>Square-1: =&lt; höchstens 45 Grad (U/D) oder 90 Grad (/)</li>
 </ul>
 </td></tr>
 <tr><td>10h)</td><td>Alle anderen Puzzles gelten nach der allgemein akzeptierten Definition von "gelöst" als gelöst, wobei wenn möglich die Richtlinien für würfelförmige Puzzles gelten, falls anwendbar.</td></tr>
@@ -513,10 +467,13 @@ Beispiele:<br>
 <li>11a3) Betriebsstörung des Equipments.</li>
 </ul>
 </td></tr>
-<tr><td>11b)</td><td>Im Falle eines Zwischenfalls entscheidet Hauptschiedsrichter, wie es weitergeht.</td></tr>
-<tr><td>11d)</td><td>Wenn die WCA-Regeln keine klare Aussage über den Zwischenfall machen, so muss der Hauptschiedsrichter seine Entscheidung aufgrund von sportlichem Verhalten, nach Absprache mit dem WCA-Vertreter, treffen.</td></tr>
-<tr><td>11e)</td><td>Im Falle eines Zwischenfalls darf der Hauptschiedsrichter einem Teilnehmer einen weiteren Versuch gestatten, der den unterbrochenen Versuch ersetzt.</td></tr>
-<tr><td>11f)</td><td>Der Hauptschiedsrichter und der WCA-Vertreter dürfen ihre Entscheidung nicht aufgrund von Video- oder Photographie-Analysen treffen.</td></tr>
+<tr><td>11b)</td><td>Im Falle eines Zwischenfalls entscheidet der WCA-Delegierte, wie es weitergeht.</td></tr>
+<tr><td>11d)</td><td>Wenn die WCA-Regeln keine klare Aussage über den Zwischenfall machen, so muss der WCA-Delegierte seine Entscheidung aufgrund von sportlichem Verhalten treffen.</td></tr>
+<tr><td>11e)</td><td>Im Falle eines Zwischenfalls darf der WCA-Delegierte einem Teilnehmer einen weiteren Versuch gestatten, der den unterbrochenen Versuch ersetzt. Der Teilnehmer muss mündlich oder schriftlich den Schiedsrichter und WCA-Delegierten zum Zeitpunkt des Zwischenfalls herbeirufen, und zwar noch bevor der ursprüngliche Versuch abgeschlossen ist, um einen Extraversuch erhalten zu können. Ein solcher Aufruf garantiert dem Teilnehmer jedoch keinen Extraversuch.</td></tr>
+<ul>
+<li>11e1) Wenn einem Teilnehmer ein Extraversuch zugesprochen wird, so muss dieser mit einem anderen Scramble gemischt werden. Dieser Scramble muss unter Verwendung der aktuellen offiziellen Version des offiziellen WCA-Scramble-Programms erzeugt werden (siehe Regel 4f).</li>
+</ul>
+<tr><td>11f)</td><td>Entscheidungen können mithilfe Video- oder Photographie-Analysen getroffen werden, nach Ermessen des WCA-Delegierten.</td></tr>
 </table>
 
 <a name="notation"></a>
