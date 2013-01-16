@@ -262,17 +262,17 @@
 - 10h) Puzzles not specified in this article are judged according to the solved state as defined by the generally accepted goal of the puzzle, applying the relevant regulations for the Rubik's Cube.
 
 
-## <article-11><incidents><incidents> Article 11: Incidents
+## <article-11><incidents><incidents> Статья 11: Инциденты
 
-- 11a) Incidents include:
-  - 11a1) Incorrect execution of event procedures, by officials or competitors.
-  - 11a2) Interference or facility interruptions (e.g. power failure, emergency alarm activation).
-  - 11a3) Equipment malfunction.
-- 11b) If an incident occurs, the WCA Delegate determines an impartial and appropriate course of action.
-- 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make his decision based on fair sportsmanship.
-- 11e) If an incident occurs during an attempt, the WCA Delegate may award a competitor an extra attempt, replacing the attempt during which the incident occurred. The competitor must appeal verbally or in writing to the judge and WCA Delegate at the time of the incident, before finishing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.
-  - 11e1) If a competitor is awarded an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble sequence must be generated using the current official version of the official WCA scramble program (see [Regulation 4f](regulations:regulation:4f)).
-- 11f) Decisions about an incident may be supported with video or photographic analysis, at the discretion of the WCA Delegate.
+- 11a) Инциденты включают в себя:
+  - 11a1) Неправильное выполнение процедур дисциплин, участниками и официальными лицами.
+  - 11a2) Возникновение помех (например, отключение электричества, включение сигнализации).
+  - 11a3) Неисправное оборудование.
+- 11b) В случае инцидента WCA делегат выносит справедливое подходящее решение. (?)
+- 11d) Если Положения WCA до конца не ясны или об инциденте ничего не сказано в Положениях, то WCA делегат должен принять решение, основываясь на духе спорта (based on fair sportsmanship).
+- 11e) В случае инцидента во время попытки WCA делегат имеет право дать дополнительную попытку вместо той, в которой был инцидент. Чтобы получить дополнительную попытку, участник должен сообщить об этом устно или письменно судье и WCA делегату сразу после инцидента и до окончания своей попытки. Такая просьба не гарантирует, что участник её получит.
+  - 11e1) Если участнику дали дополнительную попытку, то головоломку к ней перемешивают, используя другой скрамбл. Этот скрамбл должен быть сгенерирован с помощью действующуей официальной версии официальной программы для перемешки WCA (см. [Положение 4f](regulations:regulation:4f)).
+- 11f) С разрешения WCA делегата решения инцидентов можно принимать, основываясь на фото- и видеоанализе.
 
 
 ## <article-12><notation><notation> Статья 12: Язык вращений
