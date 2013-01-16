@@ -244,22 +244,22 @@
 - 9s) Each round of each event must have a time limit (see [Regulation A1a](regulation:A1a)).
 
 
-## <article-10><solved-state><solvedstate> Article 10: Solved State
+## <article-10><solved-state><solvedstate> Статья 10: Собранное состояние
 
-- 10b) Only the resting state of the puzzle, after the timer has been stopped, is considered.
-- 10c) The puzzle may be in any orientation at the end of the attempt.
-- 10d) All pieces of a puzzle must be fully attached to the puzzle in their required positions. Exception: see [Regulation 5b5](regulations:regulation:5b5).
-- 10e) A puzzle is solved when all face colours are reassembled and all parts are aligned within the limits specified below:
-  - 10e1) For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in [Regulation 10f](regulations:regulation:10f), the puzzle is considered to require one additional move to solve (see "Outer Block Turn Metric" in [Article 12][(regulations:article:12)).
-  - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle is considered solved without penalty.
-  - 10e3) If one move is required, the puzzle is be considered solved with a time penalty (+2 seconds).
-  - 10e4) If more than one move is required, the puzzle is considered unsolved (DNF).
-- 10f) Limits of acceptable misalignment for puzzles:
-  - 10f1) Cube-shaped puzzles: at most 45 degrees.
-  - 10f2) Megaminx: at most 36 degrees.
-  - 10f3) Pyraminx: at most 60 degrees.
-  - 10f4) Square-1: at most 45 degrees (U/D) or 90 degrees (/).
-- 10h) Puzzles not specified in this article are judged according to the solved state as defined by the generally accepted goal of the puzzle, applying the relevant regulations for the Rubik's Cube.
+- 10b) Рассматривается только состояние, в котором головоломка покоится после остановки таймера.
+- 10c) Головоломка может находиться в любой ориентации в конце попытки.
+- 10d) Все элементы должны быть полностью прикреплены к головоломке на своих местах. Исключение: см. [Положение 5b5](regulations:regulation:5b5).
+- 10e) Головоломка считается собранной, если все цвета на всех гранях собраны, а грани повёрнуты в следующих пределах:
+  - 10e1) Если две соседние части (например, два параллельных соседних слоя в кубике) повёрнуты вне допустимых пределов, описанных в [Положении 10f](regulations:regulation:10f), то считается, что требуется 1 дополнительный ход, чтобы их повернуть (см. "метрику вращений внешних блоков" в [Статье 12][(regulations:article:12)).
+  - 10e2) Если для полной сборки не требуется ни одного хода, то головоломка собрана без штрафа.
+  - 10e3) Если требуется 1 ход для полной сборки, то головоломка собрана со штрафом +2 секунды.
+  - 10e4) Если требуется 2 и более ходов, то головоломка считается несобранной (DNF).
+- 10f) Допустимые пределы поворотов для головоломок:
+  - 10f1) Для кубических головоломок: не более 45 градусов.
+  - 10f2) Мегаминкс: не более 36 градусов.
+  - 10f3) Пирамидка: не более 60 градусов.
+  - 10f4) Square-1: не более 45 градусов для верхней и нижней граней (U/D), не более 90 градусов для правой части (/).
+- 10h) Для головоломок, не описанных в этой статье, собранное состояние определяется их общепринятой целью сборки, с применением соответствующих положений для кубика Рубика везде, где можно.
 
 
 ## <article-11><incidents><incidents> Статья 11: Инциденты
