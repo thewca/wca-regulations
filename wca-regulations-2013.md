@@ -202,19 +202,19 @@
   - 9f2) Все результаты, средние и средние WCA больше 10 минут измеряются и округляются до ближайшей секунды (например, x.4 становится x, x.5 становится x+1).
   - 9f4) Результат попытки записывается как DNF (Did Not Finish - не окончена), если попытка дисквалифицирована либо сборка не была окончена.
   - 9f5) Результат попытки записывается как DNS (Did Not Start - не начата), если участник имеет право на попытку, но не делает её.
-  - 9f6) Дла раундов с форматом "Лучшая из X" участника предоставляется X попыток. Лучший результат из этих попыток определяет занятое участником место в раунде.
+  - 9f6) Дла раундов с форматом "Лучшая из X" участнику предоставляется X попыток. Лучший результат из этих попыток определяет занятое участником место в раунде.
   - 9f7) Для раундов с форматом "Лучшая из X" DNF или DNS являются наихудшим возможным результатом.
   - 9f8) Для раундов с форматом "Среднее WCA из 5" участнику предоставляется 5 попыток. Из этих 5 попыток лучшая и худшая попытки отбрасываются, и арифметическое среднее из оставшихся 3-х попыток определяет занятое участником место в раунде.
-  - 9f9) For "Average of 5" rounds, one DNF or DNS is permitted to count as the competitor's worst result of the round. If a competitor has more than one DNF and/or DNS result in the round, his average score for the round is DNF.
-  - 9f10) For "Mean of 3" rounds competitors are allotted 3 attempts. The arithmetic mean of the 3 attempts counts for the competitor's ranking in the round.
-  - 9f11) For "Mean of 3" rounds, if the competitor has at least one DNF or DNS result, his average score for the round is DNF.
-  - 9f12) For "Best of X" rounds, rankings are assessed based on the best result per competitor. The following are used to compare results:
-    - 9f12a) For timed results, "better" is defined as the shorter time.
-    - 9f12b) For Fewest Moves Solving, "better" is defined as the shorter solution length.
-    - 9f12c) For Multiple Blindfolded Solving, rankings are assessed based on number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, the attempt is considered unsolved (DNF). If competitors achieve the same result, rankings are assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings are assessed based on the number of puzzles the competitors failed to solve, where fewer unsolved puzzles is better.
-  - 9f13) For "Mean of 3" and "Average of 5" rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the shorter recorded time.
-  - 9f14) For "Mean of 3" and "Average of 5" rounds, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where "better" is defined as the shorter time.
-  - 9f15) Competitors who achieve the same result in a round receive an identical ranking for the round.
+  - 9f9) Для раундов с форматом "Среднее WCA из 5", один результат DNF или DNS считается худшим результатом участника в раунде. Если у участника в раунде более одного результата DNF и/или DNS, результат его среднего WCA в этом раунде DNF.
+  - 9f10) Для раундов с форматом "Среднее из 3" участникам предоставляется 3 попытки. Арифметическое среднее из 3-х попыток определяет занятое участником место в раунде.
+  - 9f11) Для раундов с форматом "Среднее из 3", если у участника есть хотя бы один результат DNF или DNS, результат его среднего в этом раунде DNF.
+  - 9f12) Для раундов с форматом "Лучшая из X", занятое место определяется на основе лучшего результата участника. При сравнении результатов руководствуются нижеследующим:
+    - 9f12a) Для результатов, в которых измерялось время, "лучше" означает меньшее время.
+    - 9f12b) Для сборки на количество ходов, "лучше" означает более короткое решение.
+    - 9f12c) Для мульти-блайнда занятые места определяются по разности количества собранных кубов и количества несобранных кубов, при этом "лучше" означает большую разность. Если разность меньше 0, то попытка считается неоконченной (DNF). Если несколько участников имеют одинаковую разность, занятые места определяются по суммарному времени, при этом "лучше" означает меньшее время. Если несколько участников имеют одинаковую разность и одинаковое время, занятые места определяются по количеству не собранных участниками кубов, при этом "лучше" означает меньшее их количество.
+  - 9f13) Для раундов с форматами "Среднее из 3" и "Среднее WCA из 5", занятые места определяются путем упорядочивания средних/срендних WCA участников, при этом "лучше" означает меньшее время.
+  - 9f14) Для раундов с форматами "Среднее из 3" и "Среднее WCA из 5", если у двух или более участников имеют одинаковое среднее/среднее WCA, занятые места определяются по лучшей попытке участника, при этом "лучше" означает меньшее время.
+  - 9f15) Участники, имеющие одинаковый результат в раунде, занимают одинаковые места.
 - 9g) A Combined Round consists of two phases of attempts, where competitors advance to the second phase if they meet a designated cutoff during the first phase.
   - 9g2) Whether a competitor proceeds to next phase of a Combined round, must be decided by ranking (best x competitors) or by result (all competitors with a best result under x) of the first phase.
 - 9i) Results of official WCA competitions must be listed on the WCA world rankings.
