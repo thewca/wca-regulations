@@ -185,26 +185,26 @@
 - 8f) Если Положения WCA во время соревнования соблюдаются некорректно, руководство WCA может дисквалифицировать попытки, с которыми это было связано.
 
 
-## <article-9><events><events> Article 9: Events
+## <article-9><events><events> Статья 9: Дисциплины
 
-- 9a) The WCA governs competitions for:
-  - 9a1) Puzzles known as Rubik's puzzles.
-  - 9a2) Other puzzles that are manipulated by twisting the sides, commonly known as "twisty puzzles".
-- 9b) The official puzzles and event formats of the WCA are:
-  - 9b1) Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Megaminx, Pyraminx, Square-1, and Rubik's Cube: One-Handed.
-    - 9b1a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3), and "Average of 5".
-  - 9b2) Rubik's Cube: With Feet, 6x6x6 Cube, and 7x7x7 Cube.
-    - 9b2a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3) and "Mean of 3".
-  - 9b3) Rubik's Cube: Fewest Moves, Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded, and Rubik's Cube: Multiple Blindfolded.
-    - 9b3a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3).
-- 9f) The results of a round are measured as follows:
-  - 9f1) All timed results under 10 minutes are measured and rounded down to the nearest hundredth of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second. 
-  - 9f2) All timed results, averages, and means over 10 minutes are measured and rounded to the nearest second (e.g. x.4 becomes x, x.5 becomes x+1).
-  - 9f4) The result of an attempt is recorded as DNF (Did Not Finish) if the attempt is disqualified or unsolved/unfinished.
-  - 9f5) The result of an attempt is recorded as DNS (Did Not Start) if the competitor is eligible for an attempt but declines it.
-  - 9f6) For "Best of X" rounds, each competitor is allotted X attempts. The best result of these attempts counts for the competitor's ranking in the round.
-  - 9f7) For "Best of X" rounds, a DNF or DNS is the worst possible result.
-  - 9f8) For "Average of 5" rounds, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts is removed, and the arithmetic mean of the remaining 3 attempts counts for the competitor's ranking in the round.
+- 9a) WCA проводит соревнования для:     (governs на самом деле, возможно, проводит - не лучший перевод)
+  - 9a1) Головоломок, известных как головоломки Рубика.
+  - 9a2) Других головоломок, сборка которых производится вращением граней, имеющих общее название "twisty puzzles".
+- 9b) Официальные головоломки и форматы дисциплин WCA:
+  - 9b1) Кубик Рубика, Кубик 2х2х2, Кубик 4х4х4, Кубик 5х5х5, Clock, Мегаминкс, Пирамидка, Square-1 и сборка кубика Рубика одной рукой.
+    - 9b1a) Форматами для этих дисциплин на соревнованиях являются: "Лучшая из X" (где X равно 1, 2, или 3), и "Среднее WCA из 5".
+  - 9b2) Сборка кубика Рубика ногами, Кубик 6х6х6 и Кубик 7х7х7.
+    - 9b2a) Форматами для этих дисциплин на соревнованиях являются: "Лучшая из X" (где X равно 1, 2, или 3) и "Среднее из 3".
+  - 9b3) Сборка кубика Рубика на количество ходов, сборка кубика Рубика вслепую, сборка кубика 4х4х4 вслепую, сборка кубика 5х5х5 вслепую и мульти-блайнд (сборка нескольких кубиков Рубика вслепую).
+    - 9b3a) Форматами для этих дисциплин на соревнованиях являются: "Лучшая из X" (где X равно 1, 2, или 3).
+- 9f) Результаты раунда измеряются следующим образом:
+  - 9f1) Все результаты меньше 10 минут измеряются и округляются вниз до ближайшей сотой секунды. Все средние и средние WCA меньше 10 минут округляются до ближайшей сотой секунды.
+  - 9f2) Все результаты, средние и средние WCA больше 10 минут измеряются и округляются до ближайшей секунды (например, x.4 становится x, x.5 становится x+1).
+  - 9f4) Результат попытки записывается как DNF (Did Not Finish - не окончена), если попытка дисквалифицирована либо сборка не была окончена.
+  - 9f5) Результат попытки записывается как DNS (Did Not Start - не начата), если участник имеет право на попытку, но не делает её.
+  - 9f6) Дла раундов с форматом "Лучшая из X" участника предоставляется X попыток. Лучший результат из этих попыток определяет занятое участником место в раунде.
+  - 9f7) Для раундов с форматом "Лучшая из X" DNF или DNS являются наихудшим возможным результатом.
+  - 9f8) Для раундов с форматом "Среднее WCA из 5" участнику предоставляется 5 попыток. Из этих 5 попыток лучшая и худшая попытки отбрасываются, и арифметическое среднее из оставшихся 3-х попыток определяет занятое участником место в раунде.
   - 9f9) For "Average of 5" rounds, one DNF or DNS is permitted to count as the competitor's worst result of the round. If a competitor has more than one DNF and/or DNS result in the round, his average score for the round is DNF.
   - 9f10) For "Mean of 3" rounds competitors are allotted 3 attempts. The arithmetic mean of the 3 attempts counts for the competitor's ranking in the round.
   - 9f11) For "Mean of 3" rounds, if the competitor has at least one DNF or DNS result, his average score for the round is DNF.
