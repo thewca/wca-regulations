@@ -215,22 +215,22 @@
   - 9f13) Для раундов с форматами "Среднее из 3" и "Среднее WCA из 5", занятые места определяются путем упорядочивания средних/срендних WCA участников, при этом "лучше" означает меньшее время.
   - 9f14) Для раундов с форматами "Среднее из 3" и "Среднее WCA из 5", если у двух или более участников имеют одинаковое среднее/среднее WCA, занятые места определяются по лучшей попытке участника, при этом "лучше" означает меньшее время.
   - 9f15) Участники, имеющие одинаковый результат в раунде, занимают одинаковые места.
-- 9g) A Combined Round consists of two phases of attempts, where competitors advance to the second phase if they meet a designated cutoff during the first phase.
-  - 9g2) Whether a competitor proceeds to next phase of a Combined round, must be decided by ranking (best x competitors) or by result (all competitors with a best result under x) of the first phase.
-- 9i) Results of official WCA competitions must be listed on the WCA world rankings.
-  - 9i1) The WCA recognises the following types of regional records: national records, continental records, and world records.
-  - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognised as breaking that regional record.
-  - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
-- 9j) Each event must be held at most once per competition.
-- 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the Board.
-- 9l) Each round must be completed before any following round of the same event starts.
-- 9m) Events must have at most four rounds.
-  - 9m1) Events with 99 or fewer competitors must have at most three rounds.
-  - 9m2) Events with 15 or fewer competitors must have at most two rounds.
-  - 9m3) Events with 7 or fewer competitors must have at most one round.
-- 9o) Combined rounds and Qualification rounds each count as one round when counting the number of rounds per event.
-- 9p) If an event has multiple rounds, then:
-  - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
+- 9g) Комбинированный раунд состоит из двух частей попыток, при этом участникам разрешается участвовать во второй части, если они преодолели заранее определенный лимит в первой части.
+  - 9g2) Лимит для прохода во вторую часть комбинированного раунда может быть определен по занятым местам (проходят лучшие х участников), либо по результатам (проходят все участники с результатом, меньшим х) в первой части.
+- 9i) Результаты официальных соревнований WCA должны быть отображены в результатах WCA.
+  - 9i1) WCA установлены следующие виды региональных рекордов: национальные рекорды, континентальные рекорды и мировые рекорды.
+  - 9i2) Все результаты раунда датируются последним календарным днем раунда. Если региональный рекорд был побит несколько раз в один и тот же календарный день, считается, что только лучший из этих результатов побил региональный рекорд.
+  - 9i3) Если Положения WCA для дисциплины изменяются, существующие региональные рекорды стоят до тех пор, пока они не будут побиты при новых Положениях WCA.
+- 9j) Каждая дисциплина должна быть проведена максимум один раз за соревнование.
+- 9k) Любой человек может принимать участие в любой дисциплине соревнования, кроме отдельных случаев, одобренных руководством WCA.
+- 9l) Каждый раунд должен быть завершен до начала следующего раунда этой дисциплины.
+- 9m) Дисциплины могут состоять из максимум четырех раундов.
+  - 9m1) Дисциплины с количеством участников 99 или менее могут состоять из максимум трёх раундов.
+  - 9m2) Дисциплины с количеством участников 15 или менее могут состоять из максимум двух раундов.
+  - 9m3) Дисциплины с количеством участников 7 или менее могут состоять из максимум одного раунда.
+- 9o) При подсчёте количества раундов дисциплины Комбинированные раунды и Квалификационные раунды каждый считаются за один раунд.
+- 9p) Если в дисциплине проводятся несколько раундов, то:
+  - 9p1) По крайней мере 25% участников должны быть отсеяны между двумя соседними раундами одной дисциплины.
   - 9p2) The competitors who advance to the next round must be determined by either a cutoff ranking or a cutoff time in the preceding elimination round.
   - 9p3) If a qualifying competitor withdraws from a round, he may be replaced by the best-ranked competitor below the cutoff from the preceding round.
 - 9r) A qualification round must be held before the first round of the event.
