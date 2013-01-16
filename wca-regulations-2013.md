@@ -1,4 +1,4 @@
-# <wca-title>Положения WCA 2013
+# <wca-title>Положения WCA 2013
 
 <version>Версия: 1 января 2013
 
@@ -275,43 +275,43 @@
 - 11f) Decisions about an incident may be supported with video or photographic analysis, at the discretion of the WCA Delegate.
 
 
-## <article-12><notation><notation> Article 12: Notation
+## <article-12><notation><notation> Статья 12: Язык вращений
 
-- 12a) Notation for Rubik's Cube and similar puzzles:
-  - 12a1) Face Moves:
-    - 12a1a) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
-    - 12a1b) Anti-clockwise, 90 degrees: F', B', R', L', U', D'.
-    - 12a1c) 180 degrees: F2, B2, R2, L2, U2, D2.
-  - 12a2) Multiple Outer Slice Moves (outer slice plus adjacent inner slices; n is defined as total number of slices to move; n may be omitted for two slices):
-    - 12a2a) Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw.
-    - 12a2b) Anti-clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw'.
-    - 12a2c) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
-  - 12a3) Outer Block Turn Metric (OBTM) is defined as:
-    - 12a3a) Each move of the categories Face Moves and Multiple Outer Slice Moves is counted as 1 move.
-    - 12a3b) Each rotation is counted as 0 moves.
-- 12b) Rotations for all cube shaped puzzles:
-  - 12b1) Clockwise, 90 degrees: [f] or z, [b] or z', [r] or x, [l] or x', [u] or y, [d] or y'.
-  - 12b2) Anti-clockwise, 90 degrees: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y.
-  - 12b3) 180 degrees: [f2] or z2, [b2] or z2, [r2] or x2, [l2] or x2, [u2] or y2, [d2] or y2.
-- 12c) Notation for Square-1:
-  - 12c1) Moves are applied with the smallest slice of the middle layer on left side of front face.
-  - 12c2) (x,y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise.
-  - 12c3) "/" means: turn the right half of the puzzle 180 degrees.
-- 12d) Notation for Megaminx (scrambling notation only):
-    - 12d1a) Clockwise, 72 degrees: U (upper face).
-    - 12d1b) Anti-clockwise, 72 degrees: U' (upper face).
-  - 12d2) Other moves are applied while keeping 3 pieces fixed at top left of the puzzle:
-    - 12d2c) Clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R++ (vertical slices), D++ (horizontal slices).
-    - 12d2d) Anti-clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R-- (vertical slices), D-- (horizontal slices).
-- 12e) Notation for Pyraminx:
-  - 12e1) The puzzle is oriented with the bottom face completely horizontal and the front face facing the person who holds the Pyraminx.
-  - 12e2) Clockwise, 120 degrees: U (upper 2 layers), L (left 2 layers), R (right 2 layers), B (back 2 layers), u (upper vertex), l (left vertex), r (right vertex), b (back vertex).
-  - 12e3) Anti-clockwise, 120 degrees: U' (upper 2 layers), L' (left 2 layers), R' (right 2 layers), B' (back 2 layers), u' (upper vertex), l' (left vertex), r' (right vertex), b' (back vertex).
-- 12g) Notation for Clock:
-  - 12g1) The puzzle is oriented with twelve on top, and either side in front.
-  - 12g2) Move pins up: UR (top-right), DR (bottom-right), DL (bottom-left), UL (top-left), U (both top), R (both right), D (both bottom), L (both left), ALL (all).
-  - 12g3) Turn a wheel next to an up-position pin and move all pins down afterwards: x+ (x clockwise turns), x- (x anti-clockwise turns).
-  - 12g4) Turn around the puzzle so that twelve is still on top, and then move all pins down: y2.
+- 12a) Язык вращений для кубика Рубика и подобных головоломок:
+  - 12a1) Движения граней:
+    - 12a1a) По часовой стрелке на 90 градусов: F (передняя грань), B (задняя), R (правая), L (левая), U (верхняя), D (нижняя).
+    - 12a1b) Против часовой стрелки на 90 градусов: F', B', R', L', U', D'.
+    - 12a1c) На 180 градусов: F2, B2, R2, L2, U2, D2.
+  - 12a2) Несколько внешних слоёв вместе (внешняя грань + соседние внутренние; n полагается равным числу всех вращаемых слоёв; если n равно двум, его можно не писать):
+    - 12a2a) По часовой стрелке на 90 градусов: nFw, nBw, nRw, nLw, nUw, nDw.
+    - 12a2b) Против часовой стрелки на 90 градусов: nFw', nBw', nRw', nLw', nUw', nDw'.
+    - 12a2c) На 180 градусов: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
+  - 12a3) Метрика вращений внешних блоков (Outer Block Turn Metric, OBTM) определяется следующим образом:
+    - 12a3a) Каждое движение грани или нескольких внешних слоёв вместе считается за 1 ход.
+    - 12a3b) Каждое вращение считается за 0 ходов.
+- 12b) Повороты для всех кубических головоломок:
+  - 12b1) По часовой стрелке на 90 градусов: [f] или z, [b] или z', [r] или x, [l] или x', [u] или y, [d] или y'.
+  - 12b2) Против часовой стрелки на 90 градусов: [f'] или z', [b'] или z, [r'] или x', [l'] или x, [u'] или y', [d'] или y.
+  - 12b3) На 180 градусов: [f2] или z2, [b2] или z2, [r2] или x2, [l2] или x2, [u2] или y2, [d2] или y2.
+- 12c) Язык вращений для Square-1:
+  - 12c1) Square-1 нужно держать так, чтобы спереди левая часть среднего слоя была маленькой.
+  - 12c2) (x,y) означает: повернуть верхний слой на 30*x градусов по часовой стрелке, нижний - на 30*y градусов по часовой.
+  - 12c3) "/" означает: повернуть правую половину головоломки на 180 градусов.
+- 12d) Язык вращений для Мегаминкса (только для перемешки):
+    - 12d1a) По часовой стрелке на 72 градуса: U (верхняя сторона).
+    - 12d1b) Против часовой стрелки на 72 градуса: U' (верхняя сторона).
+  - 12d2) Все остальные движения нужно делать, зафиксировав три элемента сверху слева головоломки:
+    - 12d2c) Поворот по часовой стрелке на 144 градуса всей головоломки, кроме слоя, содержащего три элемента сверху слева: R++ (кроме вертикального слоя), D++ (кроме горизонтального слоя).
+    - 12d2d) Поворот против часовой стрелки на 144 градуса всей головоломки, кроме слоя, содержащего три элемента сверху слева: R-- (кроме вертикального слоя), D-- (кроме горизонтального слоя).
+- 12e) Язык вращений Пирамидки:
+  - 12e1) Головоломку нужно ориентировать так, чтобы нижняя сторона была горизонтальна, а передняя смотрела прямо на скрамблёра. (facing the person who holds the Pyraminx)
+  - 12e2) По часовой стрелке на 120 градусов: U (верхние 2 слоя), L (левые 2 слоя), R (правые 2 слоя), B (задние 2 слоя), u (верхний уголок), l (левый уголок), r (правый уголок), b (задний уголок).
+  - 12e3) Против часовой стрелки на 120 градусов: U' (верхние 2 слоя), L' (левые 2 слоя), R' (правые 2 слоя), B' (задние 2 слоя), u' (верхний уголок), l' (левый уголок), r' (правый уголок), b' (задний уголок).
+- 12g) Язык вращений Clock'а:
+  - 12g1) Головоломку нужно ориентировать так, чтобы 12 часов были сверху, а спереди может быть любая сторона.
+  - 12g2) Поднять кнопки: UR (верхнюю правую), DR (нижнюю правую), DL (нижнюю левую), UL (верхнюю левую), U (обе верхние), R (обе правые), D (обе нижние), L (обе левые), ALL (все).
+  - 12g3) Повернуть колёсико рядом с любой поднятой кнопкой, после чего опустить все кнопки: x+ (x часов по часовой стрелке), x- (x часов против часовой).
+  - 12g4) Перевернуть головоломку так, чтобы 12 часов были по-прежнему сверху и опустить все кнопки: y2.
 
 
 ## <article-A><speedsolving><speedsolving> Статья A: Скоростная сборка
