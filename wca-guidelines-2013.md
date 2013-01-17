@@ -30,15 +30,15 @@ To be more informative, each Guideline is classified using one of the following 
 <table-of-contents>
 
 
-## <article-1><officials><officials> Article 1: Officials
+## <article-1><officials><officials> Статья 1: Официальные лица
 
-- 1c3+) [РЕКОМЕНДАЦИЯ] Results should be ready at the end of the last day of competition.
-- 1c3b+) [УТОЧНЕНИЕ] If there are multiple groups, it is not necessary to identify which competitor was in which groups.
-- 1c4+) [РЕКОМЕНДАЦИЯ] Corrections to the results should be available within one week of the competition date.
-- 1c10+) [УТОЧНЕНИЕ] It is sufficient to ensure access to a digital copy of the Regulations.
-- 1h+) [РЕКОМЕНДАЦИЯ] Competitors in the same group should use the same scramble sequences. Different groups should use different scramble sequences.
-- 1h+) [РЕКОМЕНДАЦИЯ] All final rounds of all events, as well as all Fewest Moves Solving rounds, should have the same scrambles for all competitors (i.e. only 1 group).
-- 1h1+) [УТОЧНЕНИЕ] Scramblers/judges should only scramble for/judge other competitors in the same group only if it is important for competition logistics.
+- 1c3+) [РЕКОМЕНДАЦИЯ] Желательно, чтобы результаты были готовы к концу последнего дня соревнований.
+- 1c3b+) [УТОЧНЕНИЕ] Если было несколько групп, необязательно указывать, кто был в какой группе.
+- 1c4+) [РЕКОМЕНДАЦИЯ] Корректировки следует отправить не позднее, чем через неделю после соревнований.
+- 1c10+) [УТОЧНЕНИЕ] Достаточно предоставить доступ к электронной копии Положений.
+- 1h+) [РЕКОМЕНДАЦИЯ] Желательно, чтобы участники одинаковых групп собирали по одинаковым скрамблам, а участники разных групп - по разным.
+- 1h+) [РЕКОМЕНДАЦИЯ] Желательно, чтобы участники финалов по всем дисциплинам, в том числе и по Сборке на количество ходов, собирали по одинаковым скрамблам (т.е. все участники в одной группе).
+- 1h1+) [УТОЧНЕНИЕ] Скрамблёрам/судьям следует перемешивать/судить в своей группе, только если это важно для проведения соревнования.
 
 
 ## <article-2><competitors><competitors> Статья 2: Участники
