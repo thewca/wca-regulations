@@ -1,31 +1,31 @@
-# <wca-title>WCA Guidelines 2013
+# <wca-title>Дополнения к Положениям WCA 2013
 
-<version>Version: January 1, 2013
+<version>Версия: 1 января 2013
 
 
-## Notes
+## Замечания
 
-### WCA Regulations
+### Положения WCA
 
-The WCA Guidelines supplement the [WCA Regulations](regulations:top). Please see the Regulations for more information about the WCA.
+Дополнения к Положениям WCA прилагаются к [Положениям WCA](regulations:top). Для более подробной информации о WCA см. Положения WCA.
 
-### Numbering
+### Нумерация
 
-Guidelines are numbered in correspondence with related regulations. Note that mutiple Guidelines may correspond to the same Regulation, and some Guidelines correspond to Regulations that do not exist anymore.
+Дополнения нумеруются в соответствии с положениями, к которым они относятся. Обратите внимание, что к некоторым положениям относятся несколько дополнений, а некоторые дополнения относятся к положениям, которых больше не существует.
 
-### Labels
+### Метки
 
-To be more informative, each Guideline is classified using one of the following labels. Note that this should be treated as metadata, not as a description of importance.
+Для информативности к каждому Дополнению приписана метка. Обратите внимание, что эти метки следует рассматривать как общую информацию, не придавая им особой важности. (????????? treated as metadata, not as a description of importance)
 
-- <label>[ДОПОЛНЕНИЕ] Additional information to supplement the Regulations.
-- <label>[УТОЧНЕНИЕ] Information to address any possible questions about interpretation of the Regulations.
-- <label>[ОБЪЯСНЕНИЕ] Information that clarifies the intent of Regulations.
-- <label>[РЕКОМЕНДАЦИЯ] Something that is not strictly mandatory, but that should be done if possible.
-- <label>[НАПОМИНАНИЕ] Information that may be addressed other Regulations/Guideline, but whose relevance is worth reiterating.
+- <label>[ДОПОЛНЕНИЕ] Дополнительная к Положению информация.
+- <label>[УТОЧНЕНИЕ] Информация, отвечающая на возможные вопросы трактования Положения.
+- <label>[ОБЪЯСНЕНИЕ] Информация, уточняющая намерение Положения.
+- <label>[РЕКОМЕНДАЦИЯ] Что-то, не являющееся обязательным, но что следует сделать, если есть возможность.
+- <label>[НАПОМИНАНИЕ] Информация, касающаяся другого Положения/Дополнения, но которую стоит повторить.  (???? Information that may be addressed other Regulations/Guideline, but whose relevance is worth reiterating.)
 - <label>[ОТДЕЛЕНО] Пункты, которых нет в Положениях.
 
 
-## <contents> [Contents](guidelines:contents)
+## <contents> [Содержание](guidelines:contents)
 
 <table-of-contents>
 
