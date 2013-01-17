@@ -62,41 +62,41 @@ To be more informative, each Guideline is classified using one of the following 
 - 3h++) [ПРИМЕР] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, or the puzzles has more/different solved states.
 
 
-## <article-4><scrambling><scrambling> Article 4: Scrambling
+## <article-4><scrambling><scrambling> Статья 4: Перемешка головоломок
 
-- 4b1+) [НАПОМИНАНИЕ] The WCA Delegate must never re-generate any scrambles to replace other ones for the purpose of filtering. For example, it is not be permitted to glance at the scrambles for a competition and generate the entire set again in order to generate "fairer" scrambles.
-- 4b2+) [УТОЧНЕНИЕ] In general, all official scramble sequences should be kept secret during the competition and published together after the end of the competition (see [Regulation 1c3a](regulations:regulation:1c3a)). In some cases (e.g. world records), the organisation team may wish to release specific scrambles sooner after the end of a round.
-- 4d+) [УТОЧНЕНИЕ] Some puzzles use standard colour schemes, except that black is replaced with white. In this case, black is the darkest colour and must not be treated as white.
-- 4f+) [РЕКОМЕНДАЦИЯ] The WCA Delegate should generate sufficient scrambles for the entire competition ahead of time, including spare scrambles for extra attempts.
-- 4f++) [НАПОМИНАНИЕ] If the WCA Delegate generates any additional scrambles during the competition, he must save them (see [Regulation 1c3a](regulations:regulation:1c3a)).
-
-
-## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
-
-- 5b5+) [ПРИМЕР] Example of a piece not fully placed: a 5x5x5 centre piece twisted in its spot.
-- 5b5++) [ПРИМЕР] Example of judging an attempt ending with a defective puzzle: A Pyraminx with a detached tip may be reassembled in three states, one fully solved, and two "+2" states. An attempt ending in such a situation would be assigned a "+2" penalty.
+- 4b1+) [НАПОМИНАНИЕ] WCA делегату запрещается перегенерировать скрамблы, фильтруя текущие. Например, запрещается ***** WCA Delegate must never re-generate any scrambles to replace other ones for the purpose of filtering. For example, it is not be permitted to glance at the scrambles for a competition and generate the entire set again in order to generate "fairer" scrambles.
+- 4b2+) [УТОЧНЕНИЕ] В общем случае, все официальные скрамблы следует хранить в секрете в течение соревнования и опубликовать после конца соревнования (см. [Положение 1c3a](regulations:regulation:1c3a)). В некоторых случаях (например, мировой рекорд) команда организаторов может выложить некоторые скрамблы вскоре после конца раунда.
+- 4d+) [УТОЧНЕНИЕ] На некоторых головоломках стандартная расцветка, только вместо белого цвета чёрный. В этом случае чёрный цвет считается самым тёмным и его нельзя рассматривать как самый светлый.
+- 4f+) [РЕКОМЕНДАЦИЯ] WCA делегату следует сгенерировать достаточное для всего соревнования число скрамблов, включая запасные скрамблы для дополнительных попыток.
+- 4f++) [НАПОМИНАНИЕ] Если WCA делегат генерирует новую последовательность скрамблов во время соревнований, он должен сохранить их (см. [Положение 1c3a](regulations:regulation:1c3a)).
 
 
-## <article-6><awards><awards> Article 6: Awards/prizes/honours
+## <article-5><puzzle-defects><puzzledefects> Статья 5: Повреждения головоломок
 
-- 6a+) [ОТДЕЛЕНО][ДОПОЛНЕНИЕ] Awards, prizes or honours may be given to competitors according to the announcement of the competition.
-- 6b+) [ОТДЕЛЕНО][РЕКОМЕНДАЦИЯ] Competitors should attend the winner's ceremony to receive awards/prizes/honours.
-- 6b1+) [ОТДЕЛЕНО][РЕКОМЕНДАЦИЯ] The winner's ceremony should be held in the competition venue, within one hour after the end of the last event.
-- 6c+) [ОТДЕЛЕНО][РЕКОМЕНДАЦИЯ] Winners of awards, prizes or honours should be prepared to talk to journalists or any media covering the competition.
-- 6d+) [ОТДЕЛЕНО][РЕКОМЕНДАЦИЯ] Organisation teams of competitions should have certificates for all category winners, signed by the leader of the organisation team and by the WCA delegate.
+- 5b5+) [ПРИМЕР] Пример элемента, который не находится полностью на своём месте: центр 5x5x5, повёрнутый на своём месте.
+- 5b5++) [ПРИМЕР] Пример судейства попытки с поломанной головоломкой: если у Пирамидки выпал уголок, то его можно поставить на место тремя способами. В одном случае Пирамидка полностью собрана, в двух других она собрана со штрафом +2 секунды. Значит, за попытку ставится штраф +2.
 
 
-## <article-7><environment><environment> Article 7: Environment
+## <article-6><awards><awards> Статья 6: Награждения и призы
 
-- 7d+) [ОТДЕЛЕНО][ДОПОЛНЕНИЕ] The temperature of the competition area should be 21 to 25 degrees Celsius.
-- 7h2+) [ОТДЕЛЕНО][ДОПОЛНЕНИЕ] The competitors in the competitors area should not be able to see the puzzles of the competitors on stage.
+- 6a+) [ОТДЕЛЕНО][ДОПОЛНЕНИЕ] Участников можно наградить и выдать им призы, в соответствии с тем, что было заявлено. (***** в оригинале ещё про honour написано - почёт и уважение *****)
+- 6b+) [ОТДЕЛЕНО][РЕКОМЕНДАЦИЯ] Чтобы получить награды и призы, участникам следует присутствовать на церемонии награждения.
+- 6b1+) [ОТДЕЛЕНО][РЕКОМЕНДАЦИЯ] Церемонию награждения следует проводить там же, где и сами соревнования, в течение одного часа после последней дисциплины.
+- 6c+) [ОТДЕЛЕНО][РЕКОМЕНДАЦИЯ] Победителам и призёрам стоит быть готовыми к разговору с журналистами или любыми СМИ на соревнованиях.
+- 6d+) [ОТДЕЛЕНО][РЕКОМЕНДАЦИЯ] Желательно, чтобы у команды организаторов были сертификаты для всех категорий победителей и призёров (***** может, просто победителей и призёров? *****), подписанные главным организатором и WCA делегатом.
 
 
-## <article-8><competitions><competitions> Article 8: Competitions
+## <article-7><environment><environment> Статья 7: Окружающая обстановка
 
-- 8a4+) [РЕКОМЕНДАЦИЯ] Changes to increase the maximum number of competitors in qualification round or first round, or to add a qualification round for newly registered competitors should be made at least one month before the competition (see [Regulation 9r3](regulations:regulation:9r3)).
-- 8a4++) [РЕКОМЕНДАЦИЯ] The competition should be announced at least one month before the beginning of the competition.
-- 8a5+) [ОТДЕЛЕНО][РЕКОМЕНДАЦИЯ] The competition should have at least 12 competitors.
+- 7d+) [ОТДЕЛЕНО][ДОПОЛНЕНИЕ] Желательно, чтобы температура в помещении была от 21 до 25 градусов по Цельсию.
+- 7h2+) [ОТДЕЛЕНО][ДОПОЛНЕНИЕ] Желательно, чтобы из зоны участников не было возможности видеть головоломки у участников на сцене.
+
+
+## <article-8><competitions><competitions> Статья 8: Соревнования
+
+- 8a4+) [РЕКОМЕНДАЦИЯ] Увеличение максимального числа участников в квалификационном или в первом раунде, а также введение квалификационного раунда для недавно зарегистрированных участников (newly registered) следует делать по крайней мере за месяц до соревнований (см. [Положение 9r3](regulations:regulation:9r3)).
+- 8a4++) [РЕКОМЕНДАЦИЯ] О соревновании желательно объявить за месяц до его начала.
+- 8a5+) [ОТДЕЛЕНО][РЕКОМЕНДАЦИЯ] Желательно, чтобы в соревновании принимали участие не меньше 12 участников.
 
 
 ## <article-9><events><events> Статья 9: Дисциплины
