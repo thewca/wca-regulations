@@ -41,25 +41,25 @@ To be more informative, each Guideline is classified using one of the following 
 - 1h1+) [УТОЧНЕНИЕ] Scramblers/judges should only scramble for/judge other competitors in the same group only if it is important for competition logistics.
 
 
-## <article-2><competitors><competitors> Article 2: Competitors
+## <article-2><competitors><competitors> Статья 2: Участники
 
-- 2c+) [ДОПОЛНЕНИЕ] First-time competitors should register using their legal name. They may register using a reasonable nickname, at the discretion of the WCA Delegate.
-- 2c++) [ДОПОЛНЕНИЕ] Competitors must not provide intentionally misleading information, and returning competitors should provide information consistent with past information (e.g. exact name and WCA ID).
-- 2d+) [ДОПОЛНЕНИЕ] Date of birth and contact information should be especially secured.
-- 2d++) [РЕКОМЕНДАЦИЯ] If a third party (e.g. journalist) asks the organisation team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
-- 2h+) [УТОЧНЕНИЕ] Competitors may be barefoot for Solving With Feet.
-- 2j2+) [ПРИМЕР] For example, if a competitor is disqualified from an event for failing to show up for the final round, his results from earlier rounds remain valid.
-- 2s+) [НАПОМИНАНИЕ] Special accommodations must be noted in the Delegate Report.
+- 2c+) [ДОПОЛНЕНИЕ] Те, кто участвуют в первый раз, должны зарегистрироваться, используя своё настоящее имя. По решению WCA делегата, они могут использовать свой ник, если он разумный.
+- 2c++) [ДОПОЛНЕНИЕ] Участники не должны умышленно предоставлять ложную информацию. Тем, кто уже ранее участвовал на соревнованиях, следует предоставить информацию, согласующуюся с информацией, указанной раньше (например, точное имя и WCA ID).
+- 2d+) [ДОПОЛНЕНИЕ] Дату рождения и контактную информацию следует охранять особо тщательно.
+- 2d++) [РЕКОМЕНДАЦИЯ] Если третье лицо (например, журналист) просит команду организаторов дать контакты какого-либо участника(ов), то сначала нужно спросить у участника(ов) разрешение.
+- 2h+) [УТОЧНЕНИЕ] Участники могут быть босыми для Сборки Ногами.
+- 2j2+) [ПРИМЕР] Например, если участник не явился на финал и был за это дисквалифицирован, его результаты из предыдущих раундов остаются в силе.
+- 2s+) [НАПОМИНАНИЕ] Об этих специальных условиях делегат должен упомянуть в своём отчёте.
 
 
-## <article-3><puzzles><puzzles> Article 3: Puzzles
+## <article-3><puzzles><puzzles> Статья 3: Головоломки
 
-- 3a+) [УТОЧНЕНИЕ] Competitors may use puzzles of any reasonable size, at the discretion of the WCA Delegate.
-- 3a++) [ДОПОЛНЕНИЕ] By default, a competitor should use the same puzzle for consecutive attempts in a speed solving round. A competitor may switch puzzles between attempts, at the discretion of the judge or WCA Delegate.
-- 3a++) [УТОЧНЕНИЕ] Competitors may borrow puzzles from other competitors privately, to use in competition.
-- 3a1+) [УТОЧНЕНИЕ] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit their puzzle at the moment).
-- 3h+) [УТОЧНЕНИЕ] Puzzles may be refined internally by sanding or lubricating.
-- 3h++) [ПРИМЕР] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, or the puzzles has more/different solved states.
+- 3a+) [УТОЧНЕНИЕ] Участники могут использовать головоломки любого разумного, по решению WCA делегата, размера.
+- 3a++) [ДОПОЛНЕНИЕ] По умолчанию, участнику следует использовать одну и ту же головоломку во всех попытках одного раунда. Он может поменять головоломку между попытками, по решению судьи или WCA делегата.
+- 3a++) [УТОЧНЕНИЕ] Участники могут одалживать друг другу головоломки.
+- 3a1+) [УТОЧНЕНИЕ] Участник может быть дисквалифицирован, если он не явится, когда его позовут участвовать, или он не может сдать головоломку скрамблёрам (например, если он одолжил её другому участнику, который её сейчас использует).
+- 3h+) [УТОЧНЕНИЕ] Головоломки могут быть изнутри обработаны наждачной бумагой или смазаны.
+- 3h++) [ПРИМЕР] Примеры совершенствования основной структуры: возможны новые движения, невозможны обычные движения, видны больше элементов или граней, видны цвета на задней стороне, движения выполняются автоматически, больше или другие собранные состояния.
 
 
 ## <article-4><scrambling><scrambling> Статья 4: Перемешка головоломок
