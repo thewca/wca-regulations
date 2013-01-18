@@ -238,10 +238,10 @@
     - 9r1a) Лимит на количество участников, которым разрешено участвовать в первом раунде дисциплины.
     - 9r1b) Лимит на количество участников, которым разрешено участвовать в квалификационном раунде дисциплины, а также лимит на максимальное количество участников, которые пройдут в первый раунд.
     - 9r1c) Среднее WCA/среднее участника либо результат единичной попытки, достигнутые в предыдущих соревнованиях, которые требуются для квалификации напрямую в первый раунд дисциплины.
-    - 9r1d) The latest permitted date used to determine the qualifying average/mean result or single solve result in the WCA rankings.
-  - 9r2) Each competitor of an event who has not directly qualified for the first round of the event must compete in the qualification round in order to participate in the first round.
-  - 9r3) A qualification round may be added to specifically accommodate newly registered competitors, and/or the maximum number of competitors in the qualification round or first round of an event may be increased. These changes must be made at least two weeks before the competition.
-- 9s) Each round of each event must have a time limit (see [Regulation A1a](regulation:A1a)).
+    - 9r1d) Дату, по состоянию на которую будут браться результаты участников из WCA результатов для определения списка прошедших квалификацию.
+  - 9r2) Участники, не прошедшие квалификацию в первый раунд дисциплины, должны соревноваться в квалификационном раунде, чтобы получить возможность участвовать в первом раунде.
+  - 9r3) Квалификационный раунд может быть добавлен специально для вновь зарегистрированных участников, и/или максимальное число участников в квалификационном раунде или первом раунде дисциплины может быть увеличено. Эти изменения должны быть сделаны по крайней мере за две недели до соревнования.
+- 9s) Для каждого раунда каждой дисциплины должен быть установлен лимит по времени (см [Положение A1a](regulation:A1a)).
 
 
 ## <article-10><solved-state><solvedstate> Статья 10: Собранное состояние
