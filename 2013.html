@@ -479,54 +479,43 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 <a name="notation"></a>
 <h2>Abschnitt 12: Notation</h2>
 <table>
-<tr><td>12a)</td><td>Notation für Rubik's Cubes und ähnliche Puzzles:<br><br>
-Face Moves:<br>
+<tr><td>12a)</td><td>Notation für Rubik's Cubes und ähnliche Puzzles:
 <ul>
-<li>12a1) Uhrzeigersinn, 90 Grad: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).</li>
-<li>12a2) gegen den Uhrzeigersinn, 90 Grad: F', B', R', L', U', D' (siehe 12a1).</li>
-<li>12a3) Uhrzeigersinn, 180 Grad: F2, B2, R2, L2, U2, D2 (siehe 12a1).</li>
-<li>12a4) gegen den Uhrzeigersinn, 180 Grad: F2', B2', R2', L2', U2', D2' (siehe 12a1).</li>
+<li>12a1) Face Moves: </li>
+<ul><li> 12a1a) Uhrzeigersinn, 90 Grad: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).</li>
+<li> 12a1b) gegen den Uhrzeigersinn, 90 Grad: F', B', R', L', U', D'. </li>
+<li> 12a1c) 180 Grad: F2, B2, R2, L2, U2, D2.</li>
 </ul>
-Double Outer Slice Moves (äußere ebene zusammen mit benachbarter innerer Ebene):<br>
-<ul>
-<li>12a5) Uhrzeigersinn, 90 Grad: Fw, Bw, Rw, Lw, Uw, Dw. (siehe 12a1).</li>
-<li>12a6) gegen den Uhrzeigersinn, 90 Grad: Fw', Bw', Rw', Lw', Uw', Dw' (siehe 12a5).</li>
-<li>12a7) Uhrzeigersinn, 180 Grad: Fw2, Bw2, Rw2, Lw2, Uw2, Dw2 (siehe 12a5).</li>
-<li>12a8) gegen den Uhrzeigersinn, 180 Grad: Fw2', Bw2', Rw2', Lw2', Uw2', Dw2' (siehe 12a5).</li>
 </ul>
-Inner Slice Moves (nur die benachbarten Ebenen einer Außenebene):<br>
 <ul>
-<li>12a9) Uhrzeigersinn, 90 Grad: f, b, r, l, u, d. (siehe 12a1).</li>
-<li>12a10) gegen den Uhrzeigersinn, 90 Grad: f', b', r', l', u', d' (siehe 12a9).</li>
-<li>12a11) Uhrzeigersinn, 180 Grad: f2, b2, r2, l2, u2, d2 (siehe 12a9).</li>
-<li>12a12) gegen den Uhrzeigersinn, 180 Grad: f2', b2', r2', l2', u2', d2' (siehe 12a9).</li>
+<li>12a2) Mehrfache Outer Slice Moves (äußerste Ebene plus benachbarte innere Ebenen; n ist definiert al die Gesamtanzahl der Ebenen, die gedreht werden; für 2 Ebenen kann n ausgespart werden.</li>
+<ul>
+<li> 12a2a) Uhrzeigersinn, 90 Grad: nFw, nBw, nRw, nLw, nUw, nDw.</li>
+<li> 12a2b) gegen den Uhrzeigersinn, 90 Grad: nFw', nBw', nRw', nLw', nUw', nDw'.</li>
+<li> 12a2c) 180 Grad: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.</li>
 </ul>
-Middle Slice Moves (mittlere Ebene bei Puzzlen mit ungeradzahliger Ebenenanzahl, zwei mittlere Ebenen bei Puzzeln mit geradzahliger Ebenenanzahl):<br>
-<ul>
-<li>12a13) Uhrzeigersinn, 90 Grad: M (gleiche Richtung wie L), S (gleiche Richtung wie F), E (gleiche Richtung wie D). (siehe 12a1).</li>
-<li>12a14) gegen den Uhrzeigersinn, 90 Grad: M', S', E' (siehe 12a13).</li>
-<li>12a15) Uhrzeigersinn, 180 Grad: M2, S2, E2 (siehe 12a13).</li>
-<li>12a16) gegen den Uhrzeigersinn, 180 Grad: M2', S2', E2' (siehe 12a13).</li>
 </ul>
-Halbzugmetrik (Half Turn Metric, HTM) ist definiert über:
 <ul>
-<li>12a17) Jeder Zug der Kategorie "Face Moves" und "Double Outer Slice Moves" zählt als 1 Zug.</li>
-<li>12a18) Jeder Zug der Kategorie "Inner Slice Moves" und "Middle Slice Moves" zählt als 2 Züge.</li>
-<li>12a19) Rotationen zählen als 0 Züge.</li>
+<li>12a3) Die Outer Block Turn Metric (OBTM) ist definiert als:</li>
+<ul>
+<li>12a3a) Jeder Zug der Kategorien "Face Moves" und "Mehrfache Outer Slice Moves" zählt als 1 Zug. </li>
+<li>12a3b) Rotationen zählen als 0 Züge.</li>
+</ul>
 </ul>
 </td></tr>
 <tr><td>12b)</td><td>Rotationen für alle würfelförmigen Puzzles:<br>
 <ul>
-<li>12b1) Uhrzeigersinn, 90 Grad: [f] or z, [b] or z', [r] or x, [l] or x', [u] or y, [d] or y'. (siehe 12a1).</li>
-<li>12b2) gegen den Uhrzeigersinn, 90 Grad: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y (siehe 12b1).</li>
-<li>12b3) Uhrzeigersinn, 180 Grad: [f2] or z2, [b2] or z2, [r2] or x2, [l2] or x2, [u2] or y2, [d2] or y2 (siehe 12b1).</li>
-<li>12b4) gegen den Uhrzeigersinn, 180 Grad: [f2'] or z2', [b2'] or z2', [r2'] or x2', [l2'] or x2', [u2'] or y2', [d2'] or y2' (siehe 12b1).</li>
+<li>12b1) Uhrzeigersinn, 90 Grad: [f] oder z, [b] oder z', [r] oder x, [l] oder x', [u] oder y, [d] oder y'.</li>
+<li>12b2) gegen den Uhrzeigersinn, 90 Grad: [f'] oder z', [b'] oder z, [r'] oder x', [l'] oder x, [u'] oder y', [d'] oder y</li>
+<li>12b3) Uhrzeigersinn, 180 Grad: [f2] oder z2, [b2] oder z2, [r2] oder x2, [l2] oder x2, [u2] oder y2, [d2] oder y2.</li>
 </ul>
 </td></tr>
 <tr><td>12c)</td><td>Notation für Square-1 :<br>
 (halte schmalste Ebene der mittleren Ebene auf der linken Seite der Vorderseite)<br>
 <ul>
-<li>12c1) (x,y) bedeutet: obere Ebene x mal um 30 Grad im Uhrzeigersinn und untere Ebene y mal um 30 Grad im Uhrzeigersinn, rechte Hälfte des Puzzles um 180 Grad drehen.</li>
+<li>12c1) Bei der Anwendung der Züge wird die schmalste Ebene der mittleren Ebenen auf der linken Seite der Vorderseite gehalten.</li>
+<li>12c2) (x,y) bedeutet: obere Ebene x mal um 30 Grad im Uhrzeigersinn und untere Ebene y mal um 30 Grad im Uhrzeigersinn.</li>
+<li>12c3) "/" bedeutet: die rechte Hälfte des Puzzles um 180 Grad drehen.</li>
 </ul>
 </td></tr>
 <tr><td>12d)</td><td>Notation für Megaminx (nur Scramble Notation):<br>
@@ -534,8 +523,6 @@ Halbzugmetrik (Half Turn Metric, HTM) ist definiert über:
 <li>12d1a) Uhrzeigersinn, 72 Grad: U (upper face).</li>
 <li>12d1b) gegen den Uhrzeigersinn, 72 Grad: U' (upper face).</li>
 <li>12d2) Beim Anwenden aller anderen Züge werden 3 Teile oben Links fest gelassen:</li>
-<li>12d2a) Uhrzeigersinn 72 Grad Drehung des gesamten Puzzles außer der Ebene der drei oberen linken Teile: R+ (vertical slices), D+ (horizontal slices).</li>
-<li>12d2b) gegen den Uhrzeigersinn 72 Grad Drehung des gesamten Puzzles außer der Ebene der drei oberen linken Teile: R- (vertical slices), D- (horizontal slices).</li>
 <li>12d2c) Uhrzeigersinn 144 Grad Drehung des gesamten Puzzles außer der Ebene der drei oberen linken Teile: R++ (vertical slices), D++ (horizontal slices).</li>
 <li>12d2d) gegen den Uhrzeigersinn 144 Grad Drehung des gesamten Puzzles außer der Ebene der drei oberen linken Teile: R-- (vertical slices), D-- (horizontal slices).</li>
 </ul>
@@ -549,20 +536,12 @@ u (upper vertex), l (left vertex), r (right vertex), b (back vertex).</li>
 u' (upper vertex), l' (left vertex), r' (right vertex), b' (back vertex).</li>
 </ul>
 </td></tr>
-<tr><td>12f)</td><td>Zusätzliche Notation für 6x6x6 Cube und 7x7x7 Cube:<br>
-Double Slice Moves (zwei äußere Ebenen):<br>
+<tr><td> 12g) Notation für Clock: <br>
 <ul>
-<li>12f1) Uhrzeigersinn, 90 Grad: 2F, 2B, 2R, 2L, 2U, 2D. (siehe 12a1).</li>
-<li>12f2) gegen den Uhrzeigersinn, 90 Grad: 2F', 2B', 2R', 2L', 2U', 2D' (siehe 12a5).</li>
-<li>12f3) Uhrzeigersinn, 180 Grad: 2F2, 2B2, 2R2, 2L2, 2U2, 2D2 (siehe 12a5).</li>
-<li>12f4) gegen den Uhrzeigersinn, 180 Grad: 2F2', 2B2', 2R2', 2L2', 2U2', 2D2' (siehe 12a5).</li>
-</ul>
-Triple Slice Moves (drei äußere Ebenen):<br>
-<ul>
-<li>12f5) Uhrzeigersinn, 90 Grad: 3F, 3B, 3R, 3L, 3U, 3D. (siehe 12a1).</li>
-<li>12f6) gegen den Uhrzeigersinn, 90 Grad: 3F', 3B', 3R', 3L', 3U', 3D' (siehe 12a5).</li>
-<li>12f7) Uhrzeigersinn, 180 Grad: 3F2, 3B2, 3R2, 3L2, 3U2, 3D2 (siehe 12a5).</li>
-<li>12f8) gegen den Uhrzeigersinn, 180 Grad: 3F2', 3B2', 3R2', 3L2', 3U2', 3D2' (siehe 12a5).</li>
+<li>12g1) Das Puzzle wird so gehalten, dass die 12 oben und irgendeine Seite vorne liegt.</li>
+<li>12g2) Bewege die Pins nach oben: UR (oben rechts), DR (unten rechts), DL (unten links), UL (oben links), U (beide oben), R (beide rechts), D (beide unten), L (beide links), ALL (alle).</li>
+<li>12g3) Drehe ein Rad neben einem Pin, der nach oben zeigt und bewege anschließend alle Pins nach unten: x+ (x Drehungen im Uhrzeigersinn), x- (x Drehungen gegen den Uhrzeigersinn).</li>
+<li>12g4) Drehe das Puzzle, sodass die 12 immer noch oben liegt und dann bewege alle Pins nach unten: y2. </li>
 </ul>
 </td></tr>
 </table>
