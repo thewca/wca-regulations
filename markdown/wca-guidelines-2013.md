@@ -7,11 +7,11 @@
 
 ### WCA-Regelwerk 
 
-die WCA-Richtlinien ergänzen das WCA-Regelwerk. FÜr mehr Information über die WCA ist das Regelwerk heranzuziehen.
+die WCA-Richtlinien ergänzen das WCA-Regelwerk. Für mehr Information über die WCA ist das Regelwerk heranzuziehen.
 
 ### Nummerierung
 
-Die Richtlinien sind passend zu den dazugehörigen Regeln nummeriert. Es soll angemerkt sein, dass mehrere Richtlinien zu einer Regel gehören können. Ferner gehören manche Richtlinien zu Regeln, die nicht mehr existieren.
+Die Richtlinien sind passend zu den dazugehörigen Regeln nummeriert. Es ist durchaus möglich, dass mehrere Richtlinien zu einer Regel gehören können. Außerdem gehören manche Richtlinien zu Regeln, die nicht mehr existieren.
 
 ### Beschriftung 
 
@@ -36,12 +36,12 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 - 1c10+) [Klarstellung] Es genügt, Zugang zu einer digitalen Kopie des Regelwerks zur Verfügung zu stellen.
 - 1h+) [Empfehlung] Teilnehmer in der selben Gruppe sollten die gleichen Scrambles verwenden, und verschiedene Gruppen sollten verschiedene Scrambles verwenden.
 - 1h+) [Empfehlung] Alle Finalrunden von allen Kategorien sollten, ebenso wie Runden im Fewest Moves, die gleichen Scrambles für alle Teilnehmer haben (d.h. nur aus einer Gruppe bestehen).
-- 1h1+) [Klarstellung] Scrambler/Schiedsrichter sollten nur in ihrer eigenen Gruppe mischen oder schiedsen, wenn es für den Ablauf des Turniers wichtig ist.
+- 1h1+) [Klarstellung] Scrambler/Schiedsrichter sollten nur in ihrer eigenen Gruppe mischen oder schiedsen, wenn es für den Ablauf des Turniers unbedingt notwendig ist.
 
 
 ## <article-2><competitors><competitors> Abschnitt 2: Teilnehmer
 
-- 2c+) [Zusatz] Erstmalige Teilnehmer sollten ihren bürgerlichen Namen bei der Registrierung verwenden. Sie dürfen nach Ermessen des WCA-Delegierten einen vernünftigen Spitznamen zur Registrierung verwenden.
+- 2c+) [Zusatz] Erstmalige Teilnehmer sollten ihren bürgerlichen Namen bei der Registrierung verwenden. Sie dürfen nach Ermessen des WCA-Delegierten einen sinnvollen Spitznamen zur Registrierung verwenden.
 - 2c++) [Zusatz] Teilnehmer dürfen keine absichtlich irreführende Informationen verwenden, und wiederkehrende Teilnehmer sollten Informationen verwenden, die zu bereits verwendeten Daten passt (z.B. exakter Name und WCA-ID).
 - 2d+) [Zusatz] Das Geburtsdatum und Kontaktinformationen sollten speziell geschützt werden.
 - 2d++) [Empfehlung] Wenn ein Dritter (z.B. ein Journalist) das Organisationsteam darum bittet, Kontakt zu einem Teilnehmer zu vermitteln, sollte zuerst dessen Einverständnis eingeholt werden.
@@ -64,7 +64,7 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 
 - 4b1+) [Erinnerung] Der WCA-Delegierte darf niemals irgendwelche Scrambles neu generieren, um andere mit dem Zwecke des "Herausfilterns" zu ersetzen. Zum Beispiel ist es nicht erlaubt, einen Blick auf die Scrambles für ein Turnier zu werfen und alle neu zu generieren, um "fairere" Scrambles zu generieren.
 - 4b2+) [Klarstellung] Im Allgemeinen sollten alle offiziellen Scrambles während dem Turnier geheim gehalten und nach dem Ende des Turniers gemeinsam veröffentlicht werden (siehe Regel 1c3a). In manchen Fällen (z.B. bei Weltrekorden) kann das Organisationsteam gewisse Scrambles bereits nach dem Ende einer Runde herausgeben.
-- 4d+) [Klarstellung] Manche Puzzles verwenden normale Farbschemata mit der Ausnahme, dass schwarz mit weiß ersetzt wurde. In diesem Falle ist schwarz die dunkelste Farbe und darf nicht als weiß behandelt werden.
+- 4d+) [Klarstellung] Manche Puzzles verwenden normale Farbschemata mit der Ausnahme, dass schwarz mit weiß ersetzt wurde. In diesem Falle ist trotzdem schwarz die dunkelste Farbe und darf nicht als weiß behandelt und beim Mischen oben gehalten werden.
 - 4f+) [Empfehlung] Der WCA-Delegierte sollte genügend Scrambles für das ganze Turnier bereits im Voraus generieren. Dazu zählen auch Ersatzscrambles für Extraversuche.
 - 4f++) [Erinnerung] Wenn der WCA-Delegierte zusätzliche Scrambles während des Turniers generiert, muss er sie speichern (siehe Regel 1c4a).
 
@@ -124,11 +124,11 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 
 - A1a2+) [Zusatz] Im Falle eines kumulativen Zeitlimits schreibt der Judge im Falle eines DNF die gestoppte Zeit in Klammer auf das Scoresheet, z.B. "DNF (1:02.27)".
 - A1a3+) [Erinnerung] Das Organisationsteam und der WCA-Delegierte sollten sich dessen bewusst sein, dass Zeitlimits die Strategien der Teilnehmer beeinflussen (z.B. hektisch lösen, in der Hoffnung den Cutoff in einer zusammengefassten Runde zu schaffen), und dass das Ändern des Zeitlimits nach Beginn einer Runde für manche Teilnehmer ein unfairer Nachteil sein kann.
-- A1a4+) [Erinnerung] Wurde versehentlich ein Teilnehmer trotz Überschreitung des Zeitlimits nicht gestoppt, so muss der Versuch nachträgöich disqualifiziert werden und der Judge, der teilnehmer und der WCA-Delegierte sollten informiert werden (siehe [Regel 1g2](regulations:regulation:1g2)). Judges müssen stets das Zeitlimit der aktuellen Versuche (welches bei kumulativen Limits von den Ergebnissen der vorherigen Versuche abhängen kann) bzw. Runden kennen.
+- A1a4+) [Erinnerung] Wurde versehentlich ein Teilnehmer trotz Überschreitung des Zeitlimits nicht gestoppt, so muss der Versuch nachträglich disqualifiziert werden und der Judge, der Teilnehmer und der WCA-Delegierte sollten informiert werden (siehe [Regel 1g2](regulations:regulation:1g2)). Judges müssen stets das Zeitlimit der aktuellen Versuche (welches bei kumulativen Limits von den Ergebnissen der vorherigen Versuche abhängen kann) bzw. Runden kennen.
 - A2c1+) [Klarstellung] In der Vergangenheit wurden oft Scoresheets als Abdeckung für die Puzzle benutzt, wobei jedoch manche Seiten der Puzzle sichtbar waren. Dies ist nicht mehr gestattet.
 - A3c3+) [Klarstellung] Obwohl es die Aufgabe des Judges ist den Timer zurückzusetzen (siehe [Regel A3b](regulations:regulation:A3b)), darf der Teilnehmer dies vor oder während der Inspektionsphase tun, falls der Judge dies vergessen hat.
-- A6b+) [Erläuterung] Der willkürliche Wert von 0.06 Sekunden wurde gewählt, damit mögliche Fehlfunktionen des Timer nicht zu Lasten des Teilnehmers fallen.
-- A6g+) [Zusatz] Während ein Judge überlegt, ob er auf Grund mangelnder Ausrichtung einer Seite eine "+2" Strafe geben muss, sollte er das Puzzle am besten gar nicht berühren.
+- A6b+) [Erläuterung] Der willkürliche Wert von 0.06 Sekunden wurde gewählt, damit mögliche Fehlfunktionen des Timers ohne Verschulden des Teilnehmers nicht zu Lasten des Teilnehmers fallen.
+- A6g+) [Zusatz] Während ein Judge überlegt, ob er auf Grund mangelnder Ausrichtung einer Seite eine "+2" Strafe geben muss, sollte er das Puzzle überhaupt nicht berühren.
 
 
 ## <article-B><blindfolded><blindfoldedsolving> Abschnitt B: Blindlösen
@@ -157,6 +157,6 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Abschnitt H: Mehrfaches Blindlösen
 - H1b1+) [Erinnerung] Der Versuch wird dank Ausnahmen für das mehrfache Blindlösen nicht disqualifiziert, wenn das Zeitlimit erreicht wird (siehe Regeln A1a4 und A1a5).
-- H1b1++) [Zusatz] Der Schiedsrichter darf dem Teilnehmer erlauben, den Versuch inoffiziell fortzuführen, aber der Versuch muss zuerst gestoppt und geschiedst werden, in Einklang mit dem Regelwerk.
+- H1b1++) [Zusatz] Der Schiedsrichter darf dem Teilnehmer erlauben, den Versuch inoffiziell fortzuführen, aber der Versuch muss zuerst gestoppt und ausgewertet werden, in Einklang mit dem Regelwerk.
 - H1d+) [Beispiel] Beispiel: Wenn ein Teilnehmer 10 Würfel versucht, mit einer Zeit von 59:57 abschließt und zwei Zeitstrafen hat, ist das Resultat: 59:57 + 2*2 = 60:01 (siehe Regel A1a5).
 - H1d+) [Beispiel] Beispiel: Wenn ein Teilnehmer 10 Würfel versucht und der Schiedsrichter ihn bei 60 Minuten stoppt und er dann zwei Zeistrafen hat, ist das Resultat 60:00 + 2*2 = 60:04.
