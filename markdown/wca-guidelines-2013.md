@@ -1,6 +1,6 @@
 # <wca-title>WCA Guidelines 2013
 
-<version>Version: January 1, 2013
+<version>Version: 1. Januar 2013
 
 
 ## Hinweise
@@ -28,7 +28,7 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 <table-of-contents>
 
 
-## <article-1><officials><officials> Artikel 1: Offizielle Organe
+## <article-1><officials><officials> Abschnitt 1: Offizielle Organe
 
 - 1c3+) [Empfehlung] Die Resultate sollten am Ende des letzten Tages des Turniers ausgewertet sein.
 - 1c3b+) [Klarstellung] Wenn es mehrere Gruppen gibt, ist es nicht notwendig, zu erwähnen, welcher Teilnehmer in welchen Gruppen war.
@@ -39,7 +39,7 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 - 1h1+) [Klarstellung] Scrambler/Schiedsrichter sollten nur in ihrer eigenen Gruppe mischen oder schiedsen, wenn es für den Ablauf des Turniers wichtig ist.
 
 
-## <article-2><competitors><competitors> Artikel 2: Teilnehmer
+## <article-2><competitors><competitors> Abschnitt 2: Teilnehmer
 
 - 2c+) [Zusatz] Erstmalige Teilnehmer sollten ihren bürgerlichen Namen bei der Registrierung verwenden. Sie dürfen nach Ermessen des WCA-Delegierten einen vernünftigen Spitznamen zur Registrierung verwenden.
 - 2c++) [Zusatz] Teilnehmer dürfen keine absichtlich irreführende Informationen verwenden, und wiederkehrende Teilnehmer sollten Informationen verwenden, die zu bereits verwendeten Daten passt (z.B. exakter Name und WCA-ID).
@@ -50,7 +50,7 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 - 2s+) [Erinnerung] Spezielle Behandlungen müssen im Delegiertenbericht erwähnt werden.
 
 
-## <article-3><puzzles><puzzles> Artikel 3: Puzzles
+## <article-3><puzzles><puzzles> Abschnitt 3: Puzzles
 
 - 3a+) [Klarstellung] Teilnehmer dürfen Puzzles jeglicher vernünftiger Größe verwenden, nach Ermessen des WCA-Delegierten.
 - 3a++) [Zusatz] Standardmäßig sollte ein Teilnehmer das gleiche Puzzle für aufeinanderfolgende Versuche in einer Speedsolving Runde verwenden. Ein Teilnehmer darf das Puzzle nach Ermessen des WCA-Delegierten zwischen den Versuchen wechseln.
@@ -60,7 +60,7 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 - 3h++) [Beispiel] Beispiele für Erweiterungen beinhalten: neue Drehungen sind möglich, normale Drehungen sind unmöglich, mehr Teile oder Seiten sind sichtbar, Farben auf der Rückseite des Puzzles sind sichtbar, Drehungen werden automatisch ausgeführt, oder das Puzzles hat mehrere/verschiedene gelöste Zustände.
 
 
-## <article-4><scrambling><scrambling> Artikel 4: Scrambling
+## <article-4><scrambling><scrambling> Abschnitt 4: Scrambling
 
 - 4b1+) [Erinnerung] Der WCA-Delegierte darf niemals irgendwelche Scrambles neu generieren, um andere mit dem Zwecke des "Herausfilterns" zu ersetzen. Zum Beispiel ist es nicht erlaubt, einen Blick auf die Scrambles für ein Turnier zu werfen und alle neu zu generieren, um "fairere" Scrambles zu generieren.
 - 4b2+) [Klarstellung] Im Allgemeinen sollten alle offiziellen Scrambles während dem Turnier geheim gehalten und nach dem Ende des Turniers gemeinsam veröffentlicht werden (siehe Regel 1c3a). In manchen Fällen (z.B. bei Weltrekorden) kann das Organisationsteam gewisse Scrambles bereits nach dem Ende einer Runde herausgeben.
@@ -69,7 +69,7 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 - 4f++) [Erinnerung] Wenn der WCA-Delegierte zusätzliche Scrambles während des Turniers generiert, muss er sie speichern (siehe Regel 1c4a).
 
 
-## <article-5><puzzle-defects><puzzledefects> Artikel 5: Puzzle-Defekte
+## <article-5><puzzle-defects><puzzledefects> Abschnitt 5: Puzzle-Defekte
 
 - 5b5+) [Beispiel] Ein Beispiel für ein Teil, das nicht vollständig positioniert wurde: Ein 5x5x5-Centerpiece, das in seiner richtigen Position verdreht ist.
 - 5b5++) [Beispiel] Ein Beispiel für das Schiedsen eines Versuchs, der mit einem fehlerhaften Puzzle abgeschlossen wurde: ein Pyraminx mit einer verlorenen Spitze kann beim neu Zusammensetzen in 3 Zustände versetzt werden, einer davon ist gelöst, die anderen beiden sind "+2"-Zustände. Ein Versuch, der derartig endet, würde mit einer "+2"-Zeitstrafe versehen werden.
@@ -78,7 +78,7 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 - 5b5+++++) [Erinnerung] In der Vergangenheit wurde ein Rubik's Cube, der zum Schluss des Versuchs 2 oder mehr Center Caps von verschiedenen Farben verloren hatte, als gelöst betrachtet. Das ist nun nicht mehr der Fall, weil das Puzzle beim erneuten Zusammensetzen in zwei (oder mehrere) Zustände zusammengesetzt werden könnte, wobei mindestens einer ein "DNF"-Zuständ ist. Solch ein Versuch würde als "DNF" gewertet werden.
 
 
-## <article-6><awards><awards> Artikel 6: Preise/Ehrungen
+## <article-6><awards><awards> Abschnitt 6: Preise/Ehrungen
 
 - 6a+) [Zusatz] Preise oder Ehrungen dürfen an Teilnehmern verliehen werden, in Einklang mit der Ankündigung des Turniers.
 - 6b+) [Empfehlung] Teilnehmer sollten bei der Siegerehrung anwesend sein, um Preise oder Ehrungen entgegenzunehmen.
@@ -87,20 +87,20 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 - 6d+) [Empfehlung] Das Organisationsteam eines Turniers sollte Urkunden für alle Sieger von Kategorien bereitstellen, die vom Leiter des Organisationsteams und vom WCA-Delegierten unterzeichnet wurden.
 
 
-## <article-7><environment><environment> Artikel 7: Umgebung
+## <article-7><environment><environment> Abschnitt 7: Umgebung
 
 - 7d+) [Zusatz] Die Temperatur des Wettkampfbereichs sollte zwischen 21 und 25 Grad Celsius betragen.
 - 7h2+) [Zusatz] Die Teilnehmer im Wettkampfbereich sollten nicht imstande sein, die Puzzles von den Teilnehmern, die gerade ihre Versuche durchführen, zu sehen.
 
 
-## <article-8><competitions><competitions> Artikel 8: Turniere
+## <article-8><competitions><competitions> Abschnitt 8: Turniere
 
 - 8a4+) [Empfehlung] Änderungen, die die Maximalanzahl von Teilnehmern in der Qualifikationsrunde oder der ersten Runde erhöhen oder eine Qualifikationsrunde für neue Teilnehmer hinzufügen, sollten mindestens einen Monat vor dem Turnier gemacht werden (siehe Regel 9r3).
 - 8a4++) [Empfehlung] Das Turnier sollte mindestens einen Monat vor seinem Beginn angekündigt werden.
 - 8a5+) [Empfehlung] Das Turnier sollte mindestens 12 Teilnehmer haben.
 
 
-## <article-9><events><events> Artikel 9: Kategorien
+## <article-9><events><events> Abschnitt 9: Kategorien
 
 - 9b+) [Zusatz] Das bevorzugte Format für das Finale einer Kategorie ist "Durchschnitt aus 5" oder "Mittel aus 3", wenn möglich.
 - 9b++) [Zusatz] Kategorien, die nicht in Regel 9b spezifiziert werden dürfen abgehalten werden, aber sie werden als inoffiziell behandlet werden und daher nicht mit den offiziellen Resultaten des Turniers veröffentlicht werden.
@@ -109,53 +109,53 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 - 9r+) [Erklärung] Das Ziel einer Qualifikationsrunde ist es, Teilnehmern, die nicht oder schlecht in der Weltrangliste stehen, die Möglichkeit zu geben, sich für die erste Runde einer Kategorie, für die sich viele Teilnehmer registriert haben, zu qualifizieren.
 
 
-## <article-0><solved-state><solvedstate> Artikel 10: Gelöster Zustand
+## <article-0><solved-state><solvedstate> Abschnitt 10: Gelöster Zustand
 
 - 10f+) [Erklärung] Die Grenzen der mangelnden Ausrichtung sind derart ausgewählt, dass sie eine natürliche Grenze zwischen einem Zustand eines Puzzles (ohne Zeitstrafe) und einem Zustand, der eine Drehung entfernt ist, ziehen.
 
 
-## <article-1><incidents><incidents> Artikel 11: Zwischenfälle
+## <article-1><incidents><incidents> Abschnitt 11: Zwischenfälle
 
 - 11e+) [Klarstellung] Da ein Versuch der Anfechtung nicht garantierterweise erfolgreich ist, kann ein Teilnehmer sich dafür entscheiden, die Zeitnehmung inzwischen laufen zu lassen und den Versuch weiterführen, wenn es angebracht ist.
 - 11e1+) [Erinnerung] Ein Extraversuch muss vermischt werden, indem man einen unmodifizierten Scramble verwendet, der von einem offiziellen Scramble-Programm generiert wurde (siehe Regel 4f, Richtlinie 4f+).
 
 
-## <article-A><speedsolving><speedsolving> Article A: Speed Solving
+## <article-A><speedsolving><speedsolving> Abschnitt A: Speed Solving (Lösen auf Zeit)
 
-- A1a2+) [ADDITION] In case of a cumulative time limit, the judge records the original recorded time for a DNF on the score sheet in parentheses, e.g. "DNF (1:02.27)".
-- A1a3+) [REMINDER] The organisation team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the beginning of the round can disadvantage some competitors unfairly.
-- A1a4+) [REMINDER] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and WCA Delegate should be informed (see [Regulation 1g2](regulations:regulation:1g2)). Judges must always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
-- A2c1+) [CLARIFICATION] In the past, score cards have been used to cover puzzles while leaving some sides exposed. This is no longer permitted.
-- A3c3+) [CLARIFICATION] Although the judge is required to reset the timer for the competitor (see [Regulation A3b](regulations:regulation:A3b)), the competitor may reset it before/during the inspection phase if the judge accidentally neglected to do so.
-- A6b+) [EXPLANATION] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timer malfunctions.
-- A6g+) [ADDITION] While he is determining whether to assign a penalty for misalignment, the judge should not touch the puzzle.
-
-
-## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
-
-- B1+) [REMINDER] The competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces (see [Regulation 3k](regulations:regulation:3k)). This should be given special attention for Blindfolded Solving
-- B1b+) [RECOMMENDATION] Blindfolds should be checked by the WCA Delegate before use in the competition.
+- A1a2+) [Zusatz] Im Falle eines kumulativen Zeitlimits schreibt der Judge im Falle eines DNF die gestoppte Zeit in Klammer auf das Scoresheet, z.B. "DNF (1:02.27)".
+- A1a3+) [Erinnerung] Das Organisationsteam und der WCA-Delegierte sollten sich dessen bewusst sein, dass Zeitlimits die Strategien der Teilnehmer beeinflussen (z.B. hektisch lösen, in der Hoffnung den Cutoff in einer zusammengefassten Runde zu schaffen), und dass das Ändern des Zeitlimits nach Beginn einer Runde für manche Teilnehmer ein unfairer Nachteil sein kann.
+- A1a4+) [Erinnerung] Wurde versehentlich ein Teilnehmer trotz Überschreitung des Zeitlimits nicht gestoppt, so muss der Versuch nachträgöich disqualifiziert werden und der Judge, der teilnehmer und der WCA-Delegierte sollten informiert werden (siehe [Regel 1g2](regulations:regulation:1g2)). Judges müssen stets das Zeitlimit der aktuellen Versuche (welches bei kumulativen Limits von den Ergebnissen der vorherigen Versuche abhängen kann) bzw. Runden kennen.
+- A2c1+) [Klarstellung] In der Vergangenheit wurden oft Scoresheets als Abdeckung für die Puzzle benutzt, wobei jedoch manche Seiten der Puzzle sichtbar waren. Dies ist nicht mehr gestattet.
+- A3c3+) [Klarstellung] Obwohl es die Aufgabe des Judges ist den Timer zurückzusetzen (siehe [Regel A3b](regulations:regulation:A3b)), darf der Teilnehmer dies vor oder während der Inspektionsphase tun, falls der Judge dies vergessen hat.
+- A6b+) [Erläuterung] Der willkürliche Wert von 0.06 Sekunden wurde gewählt, damit mögliche Fehlfunktionen des Timer nicht zu Lasten des Teilnehmers fallen.
+- A6g+) [Zusatz] Während ein Judge überlegt, ob er auf Grund mangelnder Ausrichtung einer Seite eine "+2" Strafe geben muss, sollte er das Puzzle am besten gar nicht berühren.
 
 
-## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
+## <article-B><blindfolded><blindfoldedsolving> Abschnitt B: Blindlösen
 
-- C1b+) [CLARIFICATION] The competitor may use both hands during inspection.
-- C1b++) [CLARIFICATION] The competitor is not required to use the same solving hand for different attempts of the same round.
-- C1b2+) [REMINDER] Use of the surface is permitted while repairing the puzzle.
+- B1+) [Erinnerung] Der Teilnehmer muss ein Puzzle benutzen, welches keine Texturen, Markierungen oder andere Besonderheiten besitzt, durch die ein Teil von einem gleichartigen Teil unterschieden werden kann (siehe [Regel 3k](regulations:regulation:3k)). Beim Blindlösen sollte hierauf ganz besonders geachtet werden.
+- B1b+) [Empfehlung] Masken sollten vom WCA-Delegierten geprüft werden, bevor sie im Rahmen eines Turniers benutzt werden.
 
 
-## <article-D><feet><solvingwithfeet> Artikel D: Mit den Füßen lösen
+## <article-C><one-handed><onehandedsolving> Abschnitt C: Einhändiglösen
+
+- C1b+) [Klarstellung] Der Teilnehmer darf während der Inspektionsphase beide Hände benutzen.
+- C1b++) [Klarstellung] Der Teilnehmer muss nicht für alle Versuche einer Runde die gleiche Hand zum Lösen benutzen.
+- C1b2+) [Erinnerung] Die Nutzung der Oberfläche ist beim Reparieren des Puzzles gestattet.
+
+
+## <article-D><feet><solvingwithfeet> Abschnitt D: Lösen mit den Füßen
 
 - D1b+) [Klarstellung] Der Teilnehmer darf während des Lösens Socken tragen.
 - D1c+) [Erinnerung] Während dem Reparieren von Puzzledefekten dürfen keine anderen Körperteile das Puzzle berühren.
 
 
-## <article-E><fewest-moves><fewestmovessolving> Artikel E: Fewest Moves
+## <article-E><fewest-moves><fewestmovessolving> Abschnitt E: Lösen mit möglichst wenigen Zügen
 
 - E2b+) [Klarstellung] Einem Teilnehmer steht es frei, seinen Versuch früher zu beenden, indem er eine Lösung vor Ablauf des Zeitlimits abgibt.
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Artikel H: Mehrfaches Blindlösen
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Abschnitt H: Mehrfaches Blindlösen
 - H1b1+) [Erinnerung] Der Versuch wird dank Ausnahmen für das mehrfache Blindlösen nicht disqualifiziert, wenn das Zeitlimit erreicht wird (siehe Regeln A1a4 und A1a5).
 - H1b1++) [Zusatz] Der Schiedsrichter darf dem Teilnehmer erlauben, den Versuch inoffiziell fortzuführen, aber der Versuch muss zuerst gestoppt und geschiedst werden, in Einklang mit dem Regelwerk.
 - H1d+) [Beispiel] Beispiel: Wenn ein Teilnehmer 10 Würfel versucht, mit einer Zeit von 59:57 abschließt und zwei Zeitstrafen hat, ist das Resultat: 59:57 + 2*2 = 60:01 (siehe Regel A1a5).
