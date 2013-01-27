@@ -372,7 +372,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 		- A7c1) Falls der Teilnehmer oder der Judge sich weigert auf dem Scoresheet zu unterschreiben, muss der WCA Delegate die Uneinigkeiten aufklären.
 	- A7f) Ist das Scoresheet eines Teilnehmers für eine Runde komplett, so übergibt der Judge das Scoresheet an den Scoretaker.
 
-## <article-B><blindfolded><blindfoldedsolving> Abschnitt B: Blindfolded Solving
+## <article-B><blindfolded><blindfoldedsolving> Abschnitt B: Blindlösen
 
 - B1) Die Standardprozedur ist wie in Abschnitt A (Speedsolving) beschrieben. Zusätzliche Regeln für das Blindlösen sind im folgenden beschrieben.
 	- B1a) Es gibt keine Inspektionsphase.
