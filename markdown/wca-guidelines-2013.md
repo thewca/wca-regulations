@@ -114,7 +114,7 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 - 10f+) [Erklärung] Die Grenzen der mangelnden Ausrichtung sind derart ausgewählt, dass sie eine natürliche Grenze zwischen einem Zustand eines Puzzles (ohne Zeitstrafe) und einem Zustand, der eine Drehung entfernt ist, ziehen.
 
 
-## <article-1><incidents><incidents> Artikel 11: Incidents
+## <article-1><incidents><incidents> Artikel 11: Zwischenfälle
 
 - 11e+) [Klarstellung] Da ein Versuch der Anfechtung nicht garantierterweise erfolgreich ist, kann ein Teilnehmer sich dafür entscheiden, die Zeitnehmung inzwischen laufen zu lassen und den Versuch weiterführen, wenn es angebracht ist.
 - 11e1+) [Erinnerung] Ein Extraversuch muss vermischt werden, indem man einen unmodifizierten Scramble verwendet, der von einem offiziellen Scramble-Programm generiert wurde (siehe Regel 4f, Richtlinie 4f+).
@@ -144,7 +144,7 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 - C1b2+) [REMINDER] Use of the surface is permitted while repairing the puzzle.
 
 
-## <article-D><feet><solvingwithfeet> Artikel D: Solving With Feet
+## <article-D><feet><solvingwithfeet> Artikel D: Mit den Füßen lösen
 
 - D1b+) [Klarstellung] Der Teilnehmer darf während des Lösens Socken tragen.
 - D1c+) [Erinnerung] Während dem Reparieren von Puzzledefekten dürfen keine anderen Körperteile das Puzzle berühren.
