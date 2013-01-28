@@ -5,7 +5,7 @@
 
 ## Hinweise
 
-### WCA-Regelwerk 
+### WCA-Regeln und WCA-Richtlinien
 
 die WCA-Richtlinien ergänzen das WCA-Regelwerk. Für mehr Information über die WCA ist das Regelwerk heranzuziehen.
 
