@@ -291,8 +291,8 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 12c2) (x,y) bedeutet: obere Ebene x mal um 30 Grad im Uhrzeigersinn und untere Ebene y mal um 30 Grad im Uhrzeigersinn.
 	- 12c3) "/" bedeutet: die rechte Hälfte des Puzzles um 180 Grad drehen.
 - 12d) Notation für Megaminx (nur Scramble Notation) :
-		- 12d1a) Uhrzeigersinn, 72 Grad: U (upper face).
-		- 12d1b) gegen den Uhrzeigersinn, 72 Grad: U' (upper face).
+	- 12d1a) Uhrzeigersinn, 72 Grad: U (upper face).
+	- 12d1b) gegen den Uhrzeigersinn, 72 Grad: U' (upper face).
 	- 12d2) Beim Anwenden aller anderen Züge werden 3 Teile oben Links fest gelassen:
 		- 12d2c) Uhrzeigersinn 144 Grad Drehung des gesamten Puzzles außer der Ebene der drei oberen linken Teile: R++ (vertical slices), D++ (horizontal slices).
 		- 12d2d) gegen den Uhrzeigersinn 144 Grad Drehung des gesamten Puzzles außer der Ebene der drei oberen linken Teile: R-- (vertical slices), D-- (horizontal slices).
