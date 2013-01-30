@@ -7,7 +7,7 @@
 
 ### WCA-Regeln und WCA-Richtlinien
 
-die WCA-Richtlinien ergänzen das WCA-Regelwerk. Für mehr Information über die WCA ist das Regelwerk heranzuziehen.
+Die WCA-Richtlinien ergänzen das WCA-Regelwerk. Für mehr Information über die WCA ist das Regelwerk heranzuziehen.
 
 ### Nummerierung
 
@@ -16,6 +16,7 @@ Die Richtlinien sind passend zu den dazugehörigen Regeln nummeriert. Es ist dur
 ### Beschriftung 
 
 Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeichnet. Diese Beschriftungen sind jedoch nur als Metadaten anzusehen und enthalten keine Information über die Relevanz der Richtlinie.
+
 - <label>[Zusatz] Zusätzliche Information, um das Regelwerk zu ergänzen.
 - <label>[Klarstellung] Information, die sich um mögliche Interpretationsfragen der Regel dreht.
 - <label>[Erläuterung] Information, die die Absicht einer Regel erklärt.
@@ -36,12 +37,12 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 - 1c10+) [Klarstellung] Es genügt, Zugang zu einer digitalen Kopie des Regelwerks zur Verfügung zu stellen.
 - 1h+) [Empfehlung] Teilnehmer in der selben Gruppe sollten die gleichen Scrambles verwenden, und verschiedene Gruppen sollten verschiedene Scrambles verwenden.
 - 1h+) [Empfehlung] Alle Finalrunden von allen Kategorien sollten, ebenso wie Runden im Fewest Moves, die gleichen Scrambles für alle Teilnehmer haben (d.h. nur aus einer Gruppe bestehen).
-- 1h1+) [Klarstellung] Scrambler/Schiedsrichter sollten nur in ihrer eigenen Gruppe mischen oder schiedsen, wenn es für den Ablauf des Turniers unbedingt notwendig ist.
+- 1h1+) [Klarstellung] Scrambler/Schiedsrichter sollten nur in ihrer eigenen Gruppe scramblen oder judgen, wenn es für den Ablauf des Turniers unbedingt notwendig ist.
 
 
 ## <article-2><competitors><competitors> Abschnitt 2: Teilnehmer
 
-- 2c+) [Zusatz] Erstmalige Teilnehmer sollten ihren bürgerlichen Namen bei der Registrierung verwenden. Sie dürfen nach Ermessen des WCA-Delegierten einen sinnvollen Spitznamen zur Registrierung verwenden.
+- 2c+) [Zusatz] Erstmalige Teilnehmer sollten ihren bürgerlichen Namen bei der Registrierung verwenden. Sie dürfen nach Ermessen des WCA-Delegierten einen sinnvollen Spitznamen (wie etwa "Max Mustermann" statt "Maximilian Mustermann") zur Registrierung verwenden.
 - 2c++) [Zusatz] Teilnehmer dürfen keine absichtlich irreführende Informationen verwenden, und wiederkehrende Teilnehmer sollten Informationen verwenden, die zu bereits verwendeten Daten passt (z.B. exakter Name und WCA-ID).
 - 2d+) [Zusatz] Das Geburtsdatum und Kontaktinformationen sollten speziell geschützt werden.
 - 2d++) [Empfehlung] Wenn ein Dritter (z.B. ein Journalist) das Organisationsteam darum bittet, Kontakt zu einem Teilnehmer zu vermitteln, sollte zuerst dessen Einverständnis eingeholt werden.
@@ -102,8 +103,8 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 
 ## <article-9><events><events> Abschnitt 9: Kategorien
 
-- 9b+) [Zusatz] Das bevorzugte Format für das Finale einer Kategorie ist "Durchschnitt aus 5" oder "Mittel aus 3", wenn möglich.
-- 9b++) [Zusatz] Kategorien, die nicht in Regel 9b spezifiziert werden dürfen abgehalten werden, aber sie werden als inoffiziell behandlet werden und daher nicht mit den offiziellen Resultaten des Turniers veröffentlicht werden.
+- 9b+) [Zusatz] Das bevorzugte Format für das Finale einer Kategorie ist "Average of 5" oder "Mean of 3", wenn möglich.
+- 9b++) [Zusatz] Kategorien, die nicht in Regel 9b spezifiziert werden dürfen abgehalten werden, aber sie werden als inoffiziell behandelt und daher nicht mit den offiziellen Resultaten des Turniers veröffentlicht werden.
 - 9f5+) [Klarstellung] Das Ergebnis für einen Versuch ist DNS, wenn der Teilnehmer den Versuch durchführen hätte dürfen, es aber nicht versucht hat. Wenn der Teilnehmer sich nicht für einen Versuch qualifiziert hat (z.B. in einer kombinierten Runde), so hat er kein Resultat für diesen Versuch.
 - 9q+) [Empfehlung] Kategorien und Runden sollten mindestens 2 Teilnehmer haben.
 - 9r+) [Erklärung] Das Ziel einer Qualifikationsrunde ist es, Teilnehmern, die nicht oder schlecht in der Weltrangliste stehen, die Möglichkeit zu geben, sich für die erste Runde einer Kategorie, für die sich viele Teilnehmer registriert haben, zu qualifizieren.
@@ -128,7 +129,7 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 - A2c1+) [Klarstellung] In der Vergangenheit wurden oft Scoresheets als Abdeckung für die Puzzle benutzt, wobei jedoch manche Seiten der Puzzle sichtbar waren. Dies ist nicht mehr gestattet.
 - A3c3+) [Klarstellung] Obwohl es die Aufgabe des Judges ist den Timer zurückzusetzen (siehe [Regel A3b](regulations:regulation:A3b)), darf der Teilnehmer dies vor oder während der Inspektionsphase tun, falls der Judge dies vergessen hat.
 - A6b+) [Erläuterung] Der willkürliche Wert von 0.06 Sekunden wurde gewählt, damit mögliche Fehlfunktionen des Timers ohne Verschulden des Teilnehmers nicht zu Lasten des Teilnehmers fallen.
-- A6g+) [Zusatz] Während ein Judge überlegt, ob er auf Grund mangelnder Ausrichtung einer Seite eine "+2" Strafe geben muss, sollte er das Puzzle überhaupt nicht berühren.
+- A6g+) [Zusatz] Während ein Judge überlegt, ob er auf Grund mangelnder Ausrichtung einer Seite eine "+2" Strafe geben muss, so sollte er das Puzzle dabei am besten überhaupt nicht berühren.
 
 
 ## <article-B><blindfolded><blindfoldedsolving> Abschnitt B: Blindlösen
