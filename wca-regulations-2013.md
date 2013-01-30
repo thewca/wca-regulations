@@ -8,9 +8,12 @@
 
 Hierbei handelt es sich **nicht** um die offiziellen Regeln der World Cube Association sondern lediglich um eine freie Übersetzung. Im Zweifelsfall gelten die Originalregeln. Übersetzungsfehler sind möglich! Fragen und Anmerkungen zur Übersetzung bitte per E-Mail an [ cube@hackvalue](mailto:cube@hackvalue.de).
 
+
 Einige Begriffe wurden absichtlich nicht übersetzt, da im Deutschen keine entsprechenden Bezeichnungen existieren oder da selbst auf deutschen Turnieren die englischsprachige Bezeichnung benutzt wird. Dazu zählen unter anderem: Judge (eine Person, die während eines Versuchs als Schiedsrichter agiert), Scrambler (eine Person, die ein Puzzle mischt), Scramble (eine Zugfolge, nach der ein Puzzle gemischt wird), Scoresheets (Zettel, auf dem Ergebnisse notiert werden), Scoretaker (eine Person, die Ergebnisse notiert bzw. auswertet), etc.
 
+
 Folgende Personen haben bei der Übersetzung und Korrektur geholfen: [Sébastien Auroux](http://www.worldcubeassociation.org/results/p.php?i=2008AURO01), [Stefan Huber](http://www.worldcubeassociation.org/results/p.php?i=2007HUBE01), [Leon Schmidtchen](http://www.worldcubeassociation.org/results/p.php?i=2010SCHM01), [Florian Weingarten](http://www.worldcubeassociation.org/results/p.php?i=2007WEIN01).
+
 
 Folgende weitere Personen haben bei der Übersetzung und Korrektur bei vorherigen Versionen geholfen: [Robin Blöhm](http://www.worldcubeassociation.org/results/p.php?i=2008BLOH02), [Tim Habermaas](http://www.worldcubeassociation.org/results/p.php?i=2007HABE01), [Markus Pirzer](http://www.worldcubeassociation.org/results/p.php?i=2006PIRZ01), [Marcel Henfling](http://www.worldcubeassociation.org/results/p.php?i=2010HENF01), [Jochen Spies](http://www.worldcubeassociation.org/results/p.php?i=2010SPIE01), [Stefan Pochmann](http://www.worldcubeassociation.org/results/p.php?i=2003POCH01), [Leandro Baltazar](http://www.worldcubeassociation.org/results/p.php?i=2009BALT02).
 
@@ -20,9 +23,9 @@ Die WCA Regeln stellen ein komplettes Regelwerk dar, welches auf allen offiziell
 Die [WCA Richtlinien](guidelines:top) erweitern die WCA Regeln um weitere Erläuterungen und Beispiele.
 
 ### Weitere Links
-Webseite der World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)  
-Original Quelle der WCA-Regeln: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)  
-Du möchtest eine eigene Competition organisieren? Dann wirf einen Blick in unser [Competition Orga Tutorial](http://cube.hackvalue.de/tutorials/competition.php).
+- Webseite der World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)  
+- Original Quelle der WCA-Regeln: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)  
+- Du möchtest eine eigene Competition organisieren? Dann wirf einen Blick in unser [Competition Orga Tutorial](http://cube.hackvalue.de/tutorials/competition.php).
 
 
 ## <contents> [Inhalt](regulations:contents) 
@@ -288,8 +291,8 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 12c2) (x,y) bedeutet: obere Ebene x mal um 30 Grad im Uhrzeigersinn und untere Ebene y mal um 30 Grad im Uhrzeigersinn.
 	- 12c3) "/" bedeutet: die rechte Hälfte des Puzzles um 180 Grad drehen.
 - 12d) Notation für Megaminx (nur Scramble Notation) :
-		- 12d1a) Uhrzeigersinn, 72 Grad: U (upper face).
-		- 12d1b) gegen den Uhrzeigersinn, 72 Grad: U' (upper face).
+	- 12d1a) Uhrzeigersinn, 72 Grad: U (upper face).
+	- 12d1b) gegen den Uhrzeigersinn, 72 Grad: U' (upper face).
 	- 12d2) Beim Anwenden aller anderen Züge werden 3 Teile oben Links fest gelassen:
 		- 12d2c) Uhrzeigersinn 144 Grad Drehung des gesamten Puzzles außer der Ebene der drei oberen linken Teile: R++ (vertical slices), D++ (horizontal slices).
 		- 12d2d) gegen den Uhrzeigersinn 144 Grad Drehung des gesamten Puzzles außer der Ebene der drei oberen linken Teile: R-- (vertical slices), D-- (horizontal slices).
