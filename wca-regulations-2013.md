@@ -318,7 +318,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- A1b) Falls das Zeitlimit für einen Versuch mehr als 10 Minuten beträgt, muss eine Stoppuhr für die Zeitmessung verwendet werden.
 		- A1b1) Das gleichzeitige Benutzten eines Timers ist optional.
 		- A1b2) Falls eine Zeit auf dem Timer verfügbar ist, gilt sie als ursprünglich gemessene Zeit. Anderenfalls ist die Zeit der Stoppuhr die ursprünglich gemessene Zeit.
-	- A1c) Ein Teilnehmer einer Kategorie muss in der Lage sein die Voraussetzungen der Kategorie zu erfüllen (z.B. wissen, wie man das Puzzle löst). Falls ein Teilnehmer mit der Erwartung eines DNF an einer Kategorie teilnimmt, darf er nach Absprache mit dem WCA Delegate von dieser Kategorie disqualifiziert werden.
+	- A1c) Ein Teilnehmer einer Kategorie muss in der Lage sein die Voraussetzungen der Kategorie zu erfüllen (z.B. wissen, wie man das Puzzle löst). Falls ein Teilnehmer mit der Erwartung eines DNF an einer Kategorie teilnimmt, darf er nach Absprache mit dem WCA-Delegierten von dieser Kategorie disqualifiziert werden.
 - A2) Scrambling
 	- A2a) Wenn der Teilnehmer für eine Runde aufgerufen wird, übergibt er sein Puzzle, in gelöstem Zustand, an den Scrambler und wartet im Teilnehmerbereich darauf, aufgerufen zu werden.
 	- A2b) Ein Scrambler mischt das Puzzle entsprechend den Regeln in Abschnitt 4.
@@ -355,7 +355,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 		- A6a1) Falls eine Stoppuhr zur Zeitnahme verwendet wird, beendet der Teilnehmer das Lösen indem er das Puzzle loslässt und dem Judge signalisiert, dass er den Versuch beendet hat.
 		- A6a2) Falls eine Stoppuhr als einziges Zeitmessinstrument verwendet wird, besteht das Standardsignal, um dem Judge zu signalisieren, dass man den Versuch beendet hat, darin, das Puzzle loszulassen und seine Hände mit den Handflächen nach unten auf der Tischoberfläche ablegt. Der Teilnehmer und der Judge dürfen sich vor dem Versuch auf ein anderes angemessenes Zeichen einigen.
 	- A6b) Es unterliegt der Verantwortung des Teilnehmers, dass der Timer korrekt gestoppt wird.
-		- A6b1) Wenn der Timer früher als am Ende des Lösens stoppt und eine Zeit unter 0.06 angezeigt wird, so wird der Versuch durch einen Extraversuch ersetzt, außer der Teilnehmer hat das Stoppen des Timers mit Absicht erzwungen (Entscheidung liegt beim WCA Delegate).
+		- A6b1) Wenn der Timer früher als am Ende des Lösens stoppt und eine Zeit unter 0.06 angezeigt wird, so wird der Versuch durch einen Extraversuch ersetzt, außer der Teilnehmer hat das Stoppen des Timers mit Absicht erzwungen (Entscheidung liegt beim WCA-Delegierten).
 		- A6b2) Wenn der Timer früher als am Ende des Lösens stoppt und eine Zeit von 0.06 oder mehr angezeigt wird, so wird der Versuch disqualifiziert (DNF), außer der Teilnehmer kann beweisen, dass es sich um eine Fehlfunktion des Timers gehandelt hat. Dann kann er einen Extraversuch erhalten, nach Ermessen des WCA-Delegierten.
 	- A6c) Der Teilnehmer muss das Puzzle komplett losgelassen haben bevor der Timer gestoppt wird. Strafe: Zeitstrafe (+2 Sekunden).
 	- A6d) Der Timer muss mit beiden Händen gestoppt werden, wobei die Hände flach aufliegen müssen und nicht lediglich die Handballen zum Stoppen benutzt werden dürfen. Strafe: Zeitstrafe (+2 Sekunden).
@@ -372,7 +372,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- A7b) Der Judge schreibt das Ergebnis auf ein Scoresheet.
 		- A7b1) Im Fall einer Strafe schreibt der Judge die Zeit des Timers und die Strafe auf. Das Format sollte "X+T+Y=F" sein. Wobei X die Summe der Strafen vor dem Versuch/beim Starten des Timers, T die Zeit auf dem Timer, Y die Summe der Strafen während/nach dem Lösen und F das Endergebnis ist. Falls X und/oder Y gleich 0 sind, werden sie weggelassen. (z.B. 2 + 17.65 + 2 = 21.65, oder 17.65 + 2 = 19.65).
 	- A7c) Der Teilnehmer und der Judge müssen beide auf dem Scoresheet unterschreiben (oder ihre Initialien setzen), um das Resultat anzuerkennen.
-		- A7c1) Falls der Teilnehmer oder der Judge sich weigert auf dem Scoresheet zu unterschreiben, muss der WCA Delegate die Uneinigkeiten aufklären.
+		- A7c1) Falls der Teilnehmer oder der Judge sich weigert auf dem Scoresheet zu unterschreiben, muss der WCA-Delegierte die Uneinigkeiten aufklären.
 	- A7f) Ist das Scoresheet eines Teilnehmers für eine Runde komplett, so übergibt der Judge das Scoresheet an den Scoretaker.
 
 ## <article-B><blindfolded><blindfoldedsolving> Abschnitt B: Blindlösen
