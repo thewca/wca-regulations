@@ -10,7 +10,7 @@
 Положения WCA содержат полный набор правил, которые применяются на всех официальных соревнованиях, проводимых под эгидой Всемирной Ассоциации Кубика (World Cube Association).
 Положения WCA следует рассматривать как полноценный документ, однако существуют также [Дополнения к Положениям WCA](guidelines:top), содержащие добавления, уточнения и рекомендации.
 
-### Информация в Интернет
+### Информация в Интернете
 Сайт Всемирной Ассоциации Кубика: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)  
 Первоисточник Положений WCA: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)  
 Положения WCA в [формате PDF](wca-regulations-and-guidelines-2013.pdf)
