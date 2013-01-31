@@ -12,7 +12,7 @@ Hierbei handelt es sich **nicht** um die offiziellen Regeln der World Cube Assoc
 Einige Begriffe wurden absichtlich nicht übersetzt, da im Deutschen keine entsprechenden Bezeichnungen existieren oder da selbst auf deutschen Turnieren die englischsprachige Bezeichnung benutzt wird. Dazu zählen unter anderem: Judge (eine Person, die während eines Versuchs als Schiedsrichter agiert), Scrambler (eine Person, die ein Puzzle mischt), Scramble (eine Zugfolge, nach der ein Puzzle gemischt wird), Scoresheets (Zettel, auf dem Ergebnisse notiert werden), Scoretaker (eine Person, die Ergebnisse notiert bzw. auswertet), etc.
 
 
-Folgende Personen haben bei der Übersetzung und Korrektur geholfen: [Sébastien Auroux](http://www.worldcubeassociation.org/results/p.php?i=2008AURO01), [Stefan Huber](http://www.worldcubeassociation.org/results/p.php?i=2007HUBE01), [Leon Schmidtchen](http://www.worldcubeassociation.org/results/p.php?i=2010SCHM01), [Florian Weingarten](http://www.worldcubeassociation.org/results/p.php?i=2007WEIN01).
+Folgende Personen haben bei der Übersetzung und Korrektur geholfen: [Sébastien Auroux](http://www.worldcubeassociation.org/results/p.php?i=2008AURO01), [Stefan Huber](http://www.worldcubeassociation.org/results/p.php?i=2007HUBE01), [Leon Schmidtchen](http://www.worldcubeassociation.org/results/p.php?i=2010SCHM01), [Florian Weingarten](http://www.worldcubeassociation.org/results/p.php?i=2007WEIN01), [Emanuel Rheinert](http://www.worldcubeassociation.org/results/p.php?i=2011RHEI01).
 
 
 Folgende weitere Personen haben bei der Übersetzung und Korrektur bei vorherigen Versionen geholfen: [Robin Blöhm](http://www.worldcubeassociation.org/results/p.php?i=2008BLOH02), [Tim Habermaas](http://www.worldcubeassociation.org/results/p.php?i=2007HABE01), [Markus Pirzer](http://www.worldcubeassociation.org/results/p.php?i=2006PIRZ01), [Marcel Henfling](http://www.worldcubeassociation.org/results/p.php?i=2010HENF01), [Jochen Spies](http://www.worldcubeassociation.org/results/p.php?i=2010SPIE01), [Stefan Pochmann](http://www.worldcubeassociation.org/results/p.php?i=2003POCH01), [Leandro Baltazar](http://www.worldcubeassociation.org/results/p.php?i=2009BALT02).
@@ -42,14 +42,14 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - 1c) Der WCA-Delegierte darf verschiedene Pflichten anderen Mitgliedern des Organisationsteams übertragen, ist aber schlussendlich verantwortlich für die Ausführung dieser Pflichten. Der WCA-Delegierte eines Turniers ist verantwortlich:
   - 1c1) dafür, dem WCA-Board Bericht zu erstatten, ob alle WCA-Regeln während des Turniers befolgt wurden, wie das Turnier insgesamt verlief und ob es irgendwelche Zwischenfälle gab. Berichte müssen dem WCA Board binnen einer Woche nach Ende des Turniers vorgelegt werden.
 	- 1c3) dafür, dem WCA Results Team die Ergebnisse des Turniers zu übermitteln.
-		- 1c3a) Sämtliche scrambles, die im Turnier verwendet wurden, müssen zusammen mit den Resultaten eingereicht werden.
+		- 1c3a) Sämtliche Scrambles, die im Turnier verwendet wurden, müssen zusammen mit den Resultaten eingereicht werden.
 		- 1c3b) Scrambles müssen mit den Kategorien, Runden und Gruppen, für die sie verwendet wurden, beschriftet sein.
 	- 1c4) dafür, dem WCA-Board eventuelle Korrekturen der Ergebnisse des Turnier zu berichten.
 	- 1c5) dafür, die anderen offiziellen Organe falls nötig in ihre Aufgaben einzuweisen.
 	- 1c6) für die Freigabe aller Kategorien und deren Formate vor Turnierbeginn sowie während des Turniers, falls Änderungen notwendig sind.
 	- 1c7) für Entscheidungen bezüglich der Disqualifikation einzelner Teilnehmer vom Turnier.
 	- 1c8) für das Bereitstellen der Scrambles.
-	- 1c9) für Entscheidungen über Änderungen im Zeitplan. Im Falle einer sochen Änderung muss eine klare Ankündigung an alle Teilnehmer erfolgen.
+	- 1c9) für Entscheidungen über Änderungen im Zeitplan. Im Falle einer solchen Änderung muss eine klare Ankündigung an alle Teilnehmer erfolgen.
 	- 1c10) dafür, dass eine Kopie der WCA Regeln auf dem Turnier zur Verfügung steht.
 - 1e) Jede Kategorie benötigt einen oder mehrere Judges.
 	- 1e1) Ein Judge ist verantwortlich für die Durchführung der Kategorie.
@@ -60,7 +60,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 1f2) Geeignete Teilnehmer müssen, falls dies vom Organisationsteam benötigt wird, zum Mischen zur Verfügung stehen. Strafe: Disqualifikation des Teilnehmers von dem Turnier.
 - 1g) Jede Kategorie benötigt einen oder mehrere Scoretaker.
 	- 1g1) Ein Scoretaker einer Kategorie ist verantwortlich für die Aufnahme der Ergebnisse der Kategorie.
-	- 1g2) Änderungen der der auf den Scoresheets notierten Ergebnisse dürfen nur nach Absprache mit dem WCA-Delegierten durchgeführt werden.
+	- 1g2) Änderungen der auf den Scoresheets notierten Ergebnisse dürfen nur nach Absprache mit dem WCA-Delegierten durchgeführt werden.
 - 1h) Teilnehmer dürfen in Gruppen eingeteilt werden.
 	- 1h1) Teilnehmende Scrambler/Judges für eine Runde sollten in ihrer eigenen Gruppe weder judgen noch mischen bevor sie alle Versuche der betreffenden Runde abgeschlossen haben. Sie dürfen nach Ermessen des WCA-Delegierten in ihrer eigenen Gruppe judgen und mischen, aber das Organisationsteam hat Sorge zu tragen, dass Scrambler und Judges keine Scrambles von Versuchen, die sie noch nicht gemacht haben, sehen können.
 - 1j) Die offiziellen Organe dürfen an dem Turnier teilnehmen.
@@ -115,14 +115,14 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - 3d) Puzzles müssen entweder farbige Sticker, farbige Plättchen oder aufgemalte Farben haben.
 	- 3d1) Ausnahme: Teilnehmer mit medizinisch dokumentierter Sehunfähigkeit dürfen Puzzle mit verschiedenen Oberflächentexturen auf den verschiedenen Seiten benutzen. Die Texturen/Muster müssen pro Seite einheitlich sein. Dennoch sollte jede Seite eine bestimmte Farbe aufweisen, um das Scramblen und Judgen zu ermöglichen.
 	- 3d2) Die Farben eines Puzzles müssen pro Seite einheitlich und eindeutig voneinander unterscheidbar sein.
-	- 3d3) Sticker/Plättchen/Oberflächentexturen/Bemalungen dürfen nicht dicker sein als 1.5 mm (bzw. die übliche Dicke bei nicht würfelförmigen Puzzels).
+	- 3d3) Sticker/Plättchen/Oberflächentexturen/Bemalungen dürfen nicht dicker sein als 1.5 mm (bzw. die übliche Dicke bei nicht würfelförmigen Puzzles).
 - 3h) Es dürfen keine Modifikationen gemacht werden, die das grundlegende Konzept eines Puzzles verbessern. Modifizierte Puzzle sind nur erlaubt, wenn die Modifikation dem Teilnehmer im Vergleich zur unmodifizierten Version des Puzzles keine zusätzlichen Informationen liefert (z.B. einfachere Erkennung von Steinen).
 	- 3h1) Gewölbte ("pillowed") Puzzle sind nicht erlaubt. Ausnahme: Gewölbte 7x7x7 sind erlaubt.
-	- 3h2) "Stickerless" Puzzle mit farbigem Plastik und andere Puzzle, bei denen die Farben der Flächen auch im inneren sichtbar sind, sind nicht erlaubt.
+	- 3h2) "Stickerless" Puzzle mit farbigem Plastik und andere Puzzle, bei denen die Farben der Flächen auch im Inneren sichtbar sind, sind nicht erlaubt.
 	- 3h3) Puzzlemodifikationen, die zu einer schlechteren Leistung führen, geben dem Teilnehmer kein Recht auf einen weiteren Versuch.
 - 3j) Puzzles müssen sauber sein und dürfen keine Markierungen, hervorgehobenen Teile, Schäden oder andere Unterschiede in Teilen aufweisen, die es von anderen Teilen der gleichen Art unterscheiden könnte.
 	- 3j1) Puzzle müssen einen hinreichend guten Zustand besitzen, nach Ermessen des WCA-Delegierten.
-- 3k) Puzzles müssen vor der Verwendung im Wettkampf vom WCA Delegierten genehmigt werden.
+- 3k) Puzzles müssen vor der Verwendung im Wettkampf vom WCA-Delegierten genehmigt werden.
 - 3l) Würfelförmige Puzzles dürfen höchstens ein Logo haben. Für den Rubik's Cube und größere Cube Puzzles muss dieses auf einem der Mittelsteine platziert sein.
 	- 3l1) Farblose Logos (max. 1 Logo pro Farbe), die eingraviert sind, werden nicht als Logos betrachtet.
 - 3m) Alle Puzzle- und Puzzleteile-Marken sind erlaubt, solange die Puzzles den anderen WCA-Regeln entsprechen.
@@ -131,8 +131,8 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 
 - 4a) Scrambler müssen die Puzzles scramblen, d.h. mischen.
 - 4b) Puzzles müssen nach zufälligen, computergenerierten Zugfolgen ("Scrambles") gemischt werden.
-	- 4b1) Scrambles dürfen vor dem Turnier nicht betrachtet werden und dürfen in keinem Fall von dem WCA Delegierter gefiltert werden.
-	- 4b2) Scrambles für eine Runde dürfen bis zum Ende der Runde nur dem WCA Delegierten und den Scramblern zur Verfügung stehen. Ausnahme: Bei Fewest Moves erhalten die Teilnehmer die Scrambles bereits während der Runde (siehe Abschnitt E). 
+	- 4b1) Scrambles dürfen vor dem Turnier nicht betrachtet werden und dürfen in keinem Fall vom WCA-Delegierter gefiltert werden.
+	- 4b2) Scrambles für eine Runde dürfen bis zum Ende der Runde nur dem WCA-Delegierten und den Scramblern zur Verfügung stehen. Ausnahme: Bei Fewest Moves erhalten die Teilnehmer die Scrambles bereits während der Runde (siehe Abschnitt E). 
 - 4d) Ausrichtung beim Scramblen:
 	- 4d1) Würfelpuzzle und Megaminxe müssen mit der weißen Seite (wenn nicht möglich, dann mit der hellsten Seite) oben und der grünen Seite (wenn nicht möglich, dann mit der dunkelsten benachbarten) vorne gemischt werden.
 	- 4d2) Pyraminxe müssen mit der gelben Seite (wenn nicht möglich, dann mit der hellsten Seite) unten und der grünen Seite (wenn nicht möglich, dann mit der dunkelsten benachbarten) vorne gemischt werden.
@@ -143,7 +143,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 
 ## <article-5><puzzle-defects><puzzledefects> Abschnitt 5: Puzzledefekte
 
-- 5a) Beispiel für Puzzledefekte sind etwa: herausgefallene Teile, Teile die man an Ort und Stelle herumgedreht hat (z.B. Ecksteine), gelöste Schrauben, Kappen oder Aufkleber.
+- 5a) Beispiele für Puzzledefekte sind etwa: herausgefallene Teile, Teile die man an Ort und Stelle herumgedreht hat (z.B. Ecksteine), gelöste Schrauben, Kappen oder Aufkleber.
 - 5b) Wenn ein Puzzledefekt während eines Versuchs auftritt, ist es dem Teilnehmer überlassen, ob er den Defekt repariert und fortführt oder ob er den Versuch abbricht.
 	- 5b1) Wenn der Teilnehmer sich entscheidet das Puzzle zu reparieren, so darf er nur die defekten Teile selbst reparieren und darf keine weiteren Teile von anderen Puzzeln benutzen. Strafe: Disqualifikation des Versuchs.
 	- 5b2) Die Reperatur darf dem Teilnehmer keinen Vorteil beim Lösen des Puzzles verschaffen. Strafe: Disqualifikation des Versuchs.
@@ -152,7 +152,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 		- 5b3b) Bemerkt der Teilnehmer nach einer Reperatur, aber noch vor Ende eines Versuchs, dass das Puzzle unlösbar ist, so kann er bis zu 4 Teile herausnehmen und wieder einbauen um das Puzzle wieder lösbar zu machen.
 		- 5b3c) Ist das Puzzle unlösbar, kann jedoch durch die Drehung eines Ecksteins lösbar gemacht werden, so darf der Teilnehmer einen Eckstein an Ort und Stelle drehen ohne Teile aus dem Puzzle herauszunehmen.
 	- 5b4) Beim Blindlösen darf ein Puzzledefekt nur blind repariert werden. Strafe: Disqualifikation des Versuchs.
-	- 5b5) Falls nach dem Versuch Teile des Puzzles immer noch defekt oder richtig positioniert sind, so ergibt sich das Ergebnis des Versuchs aus dem schlechtestmöglichen Zustand, welcher durch Reperatur des Puzzles (siehe Regel 5b3) erhalten werden kann. (siehe WCA Richtlinien, im Zweifelsfall liegt die Entscheidung beim WCA-Delegierten) 
+	- 5b5) Falls nach dem Versuch Teile des Puzzles immer noch defekt oder nicht richtig positioniert sind, so ergibt sich das Ergebnis des Versuchs aus dem schlechtestmöglichen Zustand, welcher durch Reperatur des Puzzles (siehe Regel 5b3) erhalten werden kann. (siehe WCA Richtlinien, im Zweifelsfall liegt die Entscheidung beim WCA-Delegierten) 
 - 5c) Der Defekt eines Puzzles gibt dem Teilnehmer nicht das Recht auf einen Wiederholungsversuch.
 
 ## <article-7><environment><environment> Abschnitt 7: Umgebung
@@ -169,7 +169,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 7f2) Der Timer muss an der Matte angebracht sein und auf der Oberfläche platziert sein, so ausgerichtet, dass die Seite mit dem Timer dem Teilnehmer am nähesten ist.
 		- 7f2a) Ausnahme: Für das Lösen mit den Füßen wird die Stackmat direkt auf dem Boden platziert. Der Timer darf dann außerdem so ausgerichtet werden, dass die Seite mit dem Timer am weitesten vom Teilnehmer entfernt ist.
 - 7h) Der Veranstaltungsort muss einen Wartebereich für die Teilnehmer haben.
-	- 7h1) Das Organisationsteam kann von Teilnehmern, die aufgerufen wurden um teilzunehmen, verlangen, dass sie sich im Teilnehmerbereich aufhalten solange bis sie alle Versuche ihrer Runde hinter sich haben.
+	- 7h1) Das Organisationsteam kann von Teilnehmern, die aufgerufen wurden um teilzunehmen, verlangen, dass sie sich im Teilnehmerbereich aufhalten, solange bis sie alle Versuche ihrer Runde hinter sich gebracht haben.
 
 ## <article-8><competitions><competitions> Abschnitt 8: Turniere
 
@@ -179,13 +179,13 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 8a3) Es muss ein WCA-Vertreter anwesend sein.
 	- 8a4) Das Turnier muss mindestens zwei Wochen vor Turnierbeginn angekündigt werden.
 	- 8a6) Das Turnier muss für die Öffentlichkeit zugänglich sein.
-	- 8a7) Der authentische Stackmat Timer der Firma Speedstacks (Generation 2 oder Pro) muss zur Zeitmessung benutzt werden.
+	- 8a7) Der originale Stackmat Timer der Firma Speedstacks (Generation 2 oder Pro) muss zur Zeitmessung benutzt werden.
 	- 8a8) Das Turnier muss für jeden offen sein, der teilnehmen möchte. Einschränkungen hierfür müssen durch das WCA-Board anerkannt werden und deutlich dargelegt werden, wenn das Turnier angekündigt wird.
 - 8f) Wenn die WCA-Regeln während des Turniers nicht korrekt eingehalten werden, darf das WCA-Board betroffene Versuche für inoffiziell erklären.
 
 ## <article-9><events><events> Abschnitt 9: Kategorien
 
-- 9a) Für folgende Puzzles werden von der WCA Turniere durchgeführt: Puzzles, die als "Rubik Puzzles" bekannt sind; andere Puzzles, die durch drehen von Seiten gespielt werden, sogenannte "Drehpuzzle" ("Twisty Puzzles").
+- 9a) Für folgende Puzzles werden von der WCA Turniere durchgeführt: Puzzles, die als "Rubik Puzzles" bekannt sind, sowie andere Puzzle, die durch Drehen von Seiten bedient werden, sogenannte "Drehpuzzle" ("Twisty Puzzles").
 - 9b) Offizielle Speedsolving Kategorien und Formate der WCA sind:
 	- 9b1) Rubik's Cube (3x3x3), 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Megaminx, Pyraminx, Square-1, und Rubik's Cube: einhändig. 
 		- 9b1a) Die Turnierformate für diese Kategorien sind: "Best of X" (wobei X gleich 1, 2 oder 3 sein kann) und "Average of 5". 
@@ -212,7 +212,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 9f14) Falls im Format 'Mean of 3' oder 'Average of 5' zwei Teilnehmer den gleichen Durchschnitt bzw. das gleiche Mittel haben, dann zählt der Versuch als besser, in dem die bessere Einzelzeit vorkam, wobei besser bedeutet, dass die jeweilige Zahl kleiner ist.
 	- 9f15) Teilnehmer mit dem gleichen Ergebnis erhalten die gleiche Position in der Wertung.
 - 9g) Eine zusammengefasste Runde ("Combined Round") sind zwei Phasen in einem Zeitfenster, wobei Ergebnisse der ersten Phase darüber entscheiden, ob ein Teilnehmer in die zweite Phase weiterkommt.
-	- 9g2) Ob ein Teilnehmer in die zweite Phase einer zusammengefassten Runde kommt muss Aufgrund der Position (besten x Teilnehmer) oder Aufgrund der Ergebnisse (alle Teilnehmer mit einer Bestzeit unter x) entschieden werden.
+	- 9g2) Ob ein Teilnehmer in die zweite Phase einer zusammengefassten Runde kommt muss aufgrund der Position (besten x Teilnehmer) oder aufgrund der Ergebnisse (alle Teilnehmer mit einer Bestzeit unter x) entschieden werden.
 - 9i) Ergebnisse eines offiziellen WCA-Turniers müssen in der WCA-Weltrangliste erscheinen.
 	- 9i1) Die WCA erkennt folgende regionalen Rekorde an: nationale Rekorde, kontinentale Rekorde und Weltrekorde.
 	- 9i2) Alle Resultate einer Runde werden so behandelt, als fänden sie am letzten Kalendertag der Runde statt. Wenn ein regionaler Rekord mehrmals am gleichen Kalendertag gebrochen wird, zählt nur das beste Resultat als "Brechen" des alten Rekords. 
@@ -246,9 +246,9 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - 10d) Alle Teile eines Puzzles müssen vollständig am Puzzle in ihrer vorgesehenen Position montiert sein. Ausnahmen: Siehe Regel 5b5.
 - 10e) Ein Puzzle ist gelöst wenn alle Seitenfarben rekonstruiert sind und alle Teile innerhalb der folgenden Toleranzgrenzen korrekt ausgerichtet sind:
 	- 10e1) Jeweils zwei benachbarte Teile (z.B. zwei benachbarte Ebenen eines Cubes), die über die in Abschnitt 10f beschriebenen Grenzen hinweg falsch ausgerichtet sind, werden als einen Zug voneinander entfernt angesehen (siehe "Outer Block Turn Metric" in Artikel 12).
-	- 10e2) Wenn kein Zug nötig ist um das Puzzle in den gelöst Zustand zu bringen so wird es als gelöst ohne Strafzeit angesehen.
-	- 10e3) Wenn ein Zug nötig ist um das Puzzle zu lösen, so wird das Puzzle als gelöst mit 2 Strafsekunden angesehen.
-	- 10e4) Wenn mehr als ein Zug nötig ist um das Puzzle zu lösen wird der Versuch als DNF (Did Not Finish) bewertet.
+	- 10e2) Wenn kein Zug nötig ist, um das Puzzle in den gelösten Zustand zu bringen, so wird es als gelöst ohne Strafzeit angesehen.
+	- 10e3) Wenn ein Zug nötig ist, um das Puzzle zu lösen, so wird das Puzzle als "+2", d.h. gelöst mit 2 Strafsekunden angesehen.
+	- 10e4) Wenn mehr als ein Zug nötig ist, um das Puzzle zu lösen, wird der Versuch als "DNF" (Did Not Finish) bewertet.
 - 10f) Grenzen falsch ausgerichteter Puzzles:
 	- 10f1) Würfelförmige Puzzles: höchstens 45 Grad
 	- 10f2) Megaminx: höchstens 36 Grad
@@ -266,7 +266,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - 11d) Wenn die WCA-Regeln keine klare Aussage über den Zwischenfall machen, so muss der WCA-Delegierte seine Entscheidung aufgrund von sportlicher Fairness treffen.
 - 11e) Im Falle eines Zwischenfalls darf der WCA-Delegierte einem Teilnehmer einen weiteren Versuch gestatten, der den unterbrochenen Versuch ersetzt. Der Teilnehmer muss mündlich oder schriftlich den Judge und WCA-Delegierten zum Zeitpunkt des Zwischenfalls herbeirufen, und zwar noch bevor der ursprüngliche Versuch abgeschlossen ist, um einen Extraversuch erhalten zu können. Ein solcher Aufruf garantiert dem Teilnehmer jedoch keinen Extraversuch.
 	- 11e1) Wenn einem Teilnehmer ein Extraversuch zugesprochen wird, so muss dieser mit einem anderen Scramble gemischt werden. Dieser Scramble muss unter Verwendung der aktuellen offiziellen Version des offiziellen WCA-Scramble-Programms erzeugt werden (siehe Regel 4f).
-- 11f) Entscheidungen können mithilfe Video- oder Photographie-Analysen getroffen werden, nach Ermessen des WCA-Delegierten.
+- 11f) Entscheidungen können mithilfe Video- oder Bildanalysen getroffen werden, nach Ermessen des WCA-Delegierten.
 
 ## <article-12><notation><notation> Abschnitt 12: Notation
 
@@ -275,7 +275,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 		- 12a1a) Uhrzeigersinn, 90 Grad: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
 		- 12a1b) gegen den Uhrzeigersinn, 90 Grad: F', B', R', L', U', D'. 
 		- 12a1c) 180 Grad: F2, B2, R2, L2, U2, D2.
-	- 12a2) Mehrfache Outer Slice Moves (äußerste Ebene plus benachbarte innere Ebenen; n ist definiert al die Gesamtanzahl der Ebenen, die gedreht werden; für 2 Ebenen kann n ausgespart werden.
+	- 12a2) Mehrfache Outer Slice Moves (äußerste Ebene plus benachbarte innere Ebenen; n ist definiert als die Gesamtanzahl der Ebenen, die gedreht werden; für 2 Ebenen kann n ausgespart werden.
 		- 12a2a) Uhrzeigersinn, 90 Grad: nFw, nBw, nRw, nLw, nUw, nDw.
 		- 12a2b) gegen den Uhrzeigersinn, 90 Grad: nFw', nBw', nRw', nLw', nUw', nDw'.
 		- 12a2c) 180 Grad: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
@@ -293,7 +293,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - 12d) Notation für Megaminx (nur Scramble Notation) :
 	- 12d1a) Uhrzeigersinn, 72 Grad: U (upper face).
 	- 12d1b) gegen den Uhrzeigersinn, 72 Grad: U' (upper face).
-	- 12d2) Beim Anwenden aller anderen Züge werden 3 Teile oben Links fest gelassen:
+	- 12d2) Beim Anwenden aller anderen Züge werden 3 Teile oben links festgehalten:
 		- 12d2c) Uhrzeigersinn 144 Grad Drehung des gesamten Puzzles außer der Ebene der drei oberen linken Teile: R++ (vertical slices), D++ (horizontal slices).
 		- 12d2d) gegen den Uhrzeigersinn 144 Grad Drehung des gesamten Puzzles außer der Ebene der drei oberen linken Teile: R-- (vertical slices), D-- (horizontal slices).
 - 12e) Notation für Pyraminx:
@@ -377,7 +377,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 
 ## <article-B><blindfolded><blindfoldedsolving> Abschnitt B: Blindlösen
 
-- B1) Die Standardprozedur ist wie in Abschnitt A (Speedsolving) beschrieben. Zusätzliche Regeln für das Blindlösen sind im folgenden beschrieben.
+- B1) Die Standardprozedur ist wie in Abschnitt A (Speedsolving) beschrieben. Zusätzliche Regeln für das Blindlösen sind im Folgenden beschrieben.
 	- B1a) Es gibt keine Inspektionsphase.
 	- B1b) Die Teilnehmer müssen ihre eigenen Augenbinden mitbringen.
 - B2) Beginn des Versuchs
@@ -407,7 +407,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 
 ## <article-C><one-handed><onehandedsolving> Abschnitt C: Einhändiglösen
 
-- C1) Die Standardprozedur ist wie in Abschnitt A (Speedsolving) beschrieben. Zusätzliche Regelungen für das einhändige Lösen werden im folgenden beschrieben.
+- C1) Die Standardprozedur ist wie in Abschnitt A (Speedsolving) beschrieben. Zusätzliche Regelungen für das einhändige Lösen werden im Folgenden beschrieben.
 	- C1b) Während der Lösungsphase darf der Teilnehmer nur eine Hand benutzen um das Puzzle zu berühren. Strafe: Disqualifikation des Versuchs (DNF).
 		- C1b2) Falls ein Puzzledefekt auftritt und der Teilnehmer sich entscheidet, diesen zu reparieren, so muss er dies mit einer Hand tun. Strafe: Disqualifikation des Versuchs (DNF).
 		- C1b3) Falls ein Puzzledefekt auftritt und Teile des Puzzles kurzzeitig und unbeabsichtigt in Kontakt mit anderen Körperregionen kommen, so wird das nach Ermessen des Judges nicht als Berührung des Puzzles angesehen.
@@ -415,7 +415,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 
 ## <article-D><feet><solvingwithfeet> Abschnitt D: Lösen mit den Füßen
 
-- D1) Die Standardprozedur ist wie in Abschnitt A (Speedsolving) beschrieben. Zusätzliche Regeln für das Lösen mit den Füßen werden im folgenden beschrieben.
+- D1) Die Standardprozedur ist wie in Abschnitt A (Speedsolving) beschrieben. Zusätzliche Regeln für das Lösen mit den Füßen werden im Folgenden beschrieben.
 	- D1a) Der Teilnehmer darf während des Lösens in einem Stuhl sitzen, auf dem Boden sitzen oder stehen.
 	- D1b) Während der Inspektionsphase darf der Teilnehmer nur seine Füße und die Oberfläche benutzen. Strafe: Disqualifikation des Versuchs (DNF).
 	- D1c) Während des Lösens darf der Teilnehmer nur seine Füße benutzen um das Puzzle zu berühren. Strafe: Disqualifikation des Versuchs (DNF).
@@ -436,7 +436,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- E2d) Die Länge der Lösung wird nach der Outer Block Turn Metric gemessen.
 		- E2d1) Die Lösung darf maximal 80 Züge und Rotationen beinhalten.
 	- E2e) Die Lösung des Teilnehmers darf nicht direkt von Teilen des Scrambles abgeleitet worden sein. Strafe: Disqualifikation des Versuchs (DNF).
-		- E2e1) Der WCA Delegierte darf einen Teilnehmer bitten jeden Zug seiner Lösung zu erklären, unabhängig vom Scramble. Kann ein Teilnehmer keine zufriedenstellende Erklärung liefern, so wird der Versuch disqualifiziert.
+		- E2e1) Der WCA-Delegierte darf einen Teilnehmer bitten jeden Zug seiner Lösung zu erklären, unabhängig vom Scramble. Kann ein Teilnehmer keine zufriedenstellende Erklärung liefern, so wird der Versuch disqualifiziert.
 - E3) Der Teilnehmer darf die folgenden Objekte benutzen. Strafe für das Benutzen weiterer Objekte: Disqualifikation des Versuchs (DNF).
 	- E3a) Stift und Papier (vom Judge bereit gestellt) 
 	- E3b) 1-3 der Kategorie entsprechende Würfel (selbst bereitgestellt).
@@ -444,13 +444,13 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 
 ## <article-F><clock><clocksolving> Abschnitt F: Clock
 
-- F1) Die Standardprozedur ist wie in Abschnitt A (Speedsolving) beschrieben. Zusätzliche Regeln für das Lösen der Clock werden im folgenden beschrieben.
+- F1) Die Standardprozedur ist wie in Abschnitt A (Speedsolving) beschrieben. Zusätzliche Regeln für das Lösen der Clock werden im Folgenden beschrieben.
 - F2) Der Judge positioniert das Puzzle auf der Stackmat in einer aufrechten Position.
 - F3) Nach der Inspektion legt der Teilnehmer das Puzzle auf die Stackmat in einer aufrechten Position. Er darf die Ausrichtung der Pins vor Beginn der Lösungsphase nicht verändern. Strafe: Disqualifikation des Versuchs (DNF).
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Abschnitt H: Mehrfach Blindlösen
 
-- H1) Die Standardprozedur ist wie in Abschnitt B (Blindlösen) beschrieben. Zusätzliche Regeln für das Lösen mehrerer Würfel blind werden im folgenden beschrieben.
+- H1) Die Standardprozedur ist wie in Abschnitt B (Blindlösen) beschrieben. Zusätzliche Regeln für das Lösen mehrerer Würfel blind werden im Folgenden beschrieben.
 	- H1a) Der Teilnehmer muss vor dem Start ankündigen, wie viele Puzzles er blind lösen möchte. Die Anzahl an Puzzlen muss mindestens 2 sein.
 		- H1a1) Der Teilnehmer darf die Anzahl der Puzzles nach Beginn des Versuchs nicht mehr ändern.
 		- H1a2) Das Organisationsteam darf die von einem Teilnehmer angegebene Anzahl an Puzzlen bis zum Start des Versuchs nicht offenlegen.
@@ -460,9 +460,9 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 
 ## <article-Z><optional><optional> Abschnitt Z: Optionale Regeln
 
-Das Organisationsteam kann sich dazu entscheiden einzelne oder mehrere der folgenden optionalen Regeln Auf einem Turnier anzuwenden. Die Anwendung dieser zusätzlichen Regeln muss jedoch vom WCA-Board genehmigt werden.
+Das Organisationsteam kann sich dazu entscheiden einzelne oder mehrere der folgenden optionalen Regeln auf einem Turnier anzuwenden. Die Anwendung dieser zusätzlichen Regeln muss jedoch vom WCA-Board genehmigt werden.
 
-- Z1) Das Organisationsteam kann während der Registrierung alle Puzzles zum scramblen einsammeln.
+- Z1) Das Organisationsteam kann während der Registrierung alle Puzzles zum Scramblen einsammeln.
 - Z2) Das Organisationsteam kann die Anzahl der Kategorien, an denen ein Teilnehmer teilnehmen darf, begrenzen.
 - Z3) Das Organisationsteam kann einzelne Teilnehmer direkt für bestimmte Runden qualifizieren, ausgehend von Ergebnissen bestimmter vorheriger Turniere.
 - Z4) Das Organisationsteam kann die Anzahl der Teilnehmer pro Kategorie begrenzen, entweder auf Basis von "wer zuerst kommt, malt zuerst" oder anhand von Qualifikationszeiten oder der Rangfolge in der weltweiten WCA Rangliste für einen vorher festgelegten Stichtag.
