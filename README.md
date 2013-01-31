@@ -1,10 +1,8 @@
 WCA Regulations (German version)
 ================================
 
-This git repository contains the "inofficial" german translation of the
-[World Cube Association Competition Regulations](http://worldcubeassociation.org/regulations/).
-
-The content of this repository is online at [cube.hackvalue.de](http://cube.hackvalue.de/wca/).
+This git repository contains the "translations-german" branch of
+the official [World Cube Association Competition Regulations](http://worldcubeassociation.org/regulations/) repository.
 
 Credits
 -------
