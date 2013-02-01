@@ -12,7 +12,7 @@ Hierbei handelt es sich **nicht** um die offiziellen Regeln der World Cube Assoc
 Einige Begriffe wurden absichtlich nicht übersetzt, da im Deutschen keine entsprechenden Bezeichnungen existieren oder da selbst auf deutschen Turnieren die englischsprachige Bezeichnung benutzt wird. Dazu zählen unter anderem: Judge (eine Person, die während eines Versuchs als Schiedsrichter agiert), Scrambler (eine Person, die ein Puzzle mischt), Scramble (eine Zugfolge, nach der ein Puzzle gemischt wird), Scoresheets (Zettel, auf dem Ergebnisse notiert werden), Scoretaker (eine Person, die Ergebnisse notiert bzw. auswertet), etc.
 
 
-Folgende Personen haben bei der Übersetzung und Korrektur geholfen: [Sébastien Auroux](http://www.worldcubeassociation.org/results/p.php?i=2008AURO01), [Stefan Huber](http://www.worldcubeassociation.org/results/p.php?i=2007HUBE01), [Leon Schmidtchen](http://www.worldcubeassociation.org/results/p.php?i=2010SCHM01), [Florian Weingarten](http://www.worldcubeassociation.org/results/p.php?i=2007WEIN01), [Emanuel Rheinert](http://www.worldcubeassociation.org/results/p.php?i=2011RHEI01).
+Folgende Personen haben bei der Übersetzung und Korrektur geholfen: [Sébastien Auroux](http://www.worldcubeassociation.org/results/p.php?i=2008AURO01), [Stefan Huber](http://www.worldcubeassociation.org/results/p.php?i=2007HUBE01), [Leon Schmidtchen](http://www.worldcubeassociation.org/results/p.php?i=2010SCHM01), [Florian Weingarten](http://www.worldcubeassociation.org/results/p.php?i=2007WEIN01), [Emanuel Rheinert](http://www.worldcubeassociation.org/results/p.php?i=2011RHEI01), [Patrick Hetco](http://www.worldcubeassociation.org/results/p.php?i=2011HETC01).
 
 
 Folgende weitere Personen haben bei der Übersetzung und Korrektur bei vorherigen Versionen geholfen: [Robin Blöhm](http://www.worldcubeassociation.org/results/p.php?i=2008BLOH02), [Tim Habermaas](http://www.worldcubeassociation.org/results/p.php?i=2007HABE01), [Markus Pirzer](http://www.worldcubeassociation.org/results/p.php?i=2006PIRZ01), [Marcel Henfling](http://www.worldcubeassociation.org/results/p.php?i=2010HENF01), [Jochen Spies](http://www.worldcubeassociation.org/results/p.php?i=2010SPIE01), [Stefan Pochmann](http://www.worldcubeassociation.org/results/p.php?i=2003POCH01), [Leandro Baltazar](http://www.worldcubeassociation.org/results/p.php?i=2009BALT02).
@@ -131,7 +131,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 
 - 4a) Scrambler müssen die Puzzles scramblen, d.h. mischen.
 - 4b) Puzzles müssen nach zufälligen, computergenerierten Zugfolgen ("Scrambles") gemischt werden.
-	- 4b1) Scrambles dürfen vor dem Turnier nicht betrachtet werden und dürfen in keinem Fall vom WCA-Delegierter gefiltert werden.
+	- 4b1) Scrambles dürfen vor dem Turnier nicht betrachtet werden und dürfen in keinem Fall vom WCA-Delegierten gefiltert werden.
 	- 4b2) Scrambles für eine Runde dürfen bis zum Ende der Runde nur dem WCA-Delegierten und den Scramblern zur Verfügung stehen. Ausnahme: Bei Fewest Moves erhalten die Teilnehmer die Scrambles bereits während der Runde (siehe Abschnitt E).
 - 4d) Ausrichtung beim Scramblen:
 	- 4d1) Würfelpuzzle und Megaminxe müssen mit der weißen Seite (wenn nicht möglich, dann mit der hellsten Seite) oben und der grünen Seite (wenn nicht möglich, dann mit der dunkelsten benachbarten) vorne gemischt werden.
@@ -197,7 +197,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 9f1) Alle gestoppten Zeiten unter 10 Minuten werden in Hundertstelsekunden gemessen und auf die nächste Hunderstelsekunde **ab**gerundet. Der Durchschnitt bzw. das Mittel werden auf die nächste Hundertstelsekunde gerundet.
 	- 9f2) Alle gestoppten Zeiten über 10 Minuten, und zugehörige Durchschnittszeiten/Mittel werden in Sekunden gemessen, wobei der Durchschnitt bzw. das Mittel auf die nächste Sekunde gerundet wird (x.4 wird x, x.5 wird x+1).
 	- 9f4) DNF (Did Not Finish) ist das Ergebnis eines Versuchs, der disqualifiziert oder abgebrochen wurde oder wenn das Puzzle nicht gelöst wurde.
-	- 9f5) DNS (Did Not Start) ist das Ergebnis wenn der Teilnehmer zu einem Versuch berechtigt ist, an dem Versuch aber nicht teilgenommen hat.
+	- 9f5) DNS (Did Not Start) ist das Ergebnis, wenn der Teilnehmer zu einem Versuch berechtigt ist, an dem Versuch aber nicht teilgenommen hat.
 	- 9f6) Im Format 'Best of X' bekommt jeder Teilnehmer X Versuche, wobei der beste Versuch zählt.
 	- 9f7) Im Format 'Best of X' zählt ein DNF oder DNS als der schlechteste Versuch.
 	- 9f8) Im Format 'Average of 5' bekommt jeder Teilnehmer 5 Versuche. Von diesen 5 Versuchen werden die Ergebnisse des besten und schlechtesten Versuchs ignoriert. Das Endergebnis ist der arithmetische Mittelwert der drei verbleibenden Zeiten.
@@ -212,13 +212,13 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 9f14) Falls im Format 'Mean of 3' oder 'Average of 5' zwei Teilnehmer den gleichen Durchschnitt bzw. das gleiche Mittel haben, dann zählt der Versuch als besser, in dem die bessere Einzelzeit vorkam, wobei besser bedeutet, dass die jeweilige Zahl kleiner ist.
 	- 9f15) Teilnehmer mit dem gleichen Ergebnis erhalten die gleiche Position in der Wertung.
 - 9g) Eine zusammengefasste Runde ("Combined Round") sind zwei Phasen in einem Zeitfenster, wobei Ergebnisse der ersten Phase darüber entscheiden, ob ein Teilnehmer in die zweite Phase weiterkommt.
-	- 9g2) Ob ein Teilnehmer in die zweite Phase einer zusammengefassten Runde kommt muss aufgrund der Position (besten x Teilnehmer) oder aufgrund der Ergebnisse (alle Teilnehmer mit einer Bestzeit unter x) entschieden werden.
+	- 9g2) Ob ein Teilnehmer in die zweite Phase einer zusammengefassten Runde kommt, muss aufgrund der Position (besten x Teilnehmer) oder aufgrund der Ergebnisse (alle Teilnehmer mit einer Bestzeit unter x) entschieden werden.
 - 9i) Ergebnisse eines offiziellen WCA-Turniers müssen in der WCA-Weltrangliste erscheinen.
 	- 9i1) Die WCA erkennt folgende regionalen Rekorde an: nationale Rekorde, kontinentale Rekorde und Weltrekorde.
 	- 9i2) Alle Resultate einer Runde werden so behandelt, als fänden sie am letzten Kalendertag der Runde statt. Wenn ein regionaler Rekord mehrmals am gleichen Kalendertag gebrochen wird, zählt nur das beste Resultat als "Brechen" des alten Rekords.
 	- 9i3) Wenn die Regeln einer Kategorie geändert werden, gelten die alten regionalen Rekorde weiterhin solange bis sie, unter Berücksichtigung der neuen Regeln, gebrochen werden.
 - 9j) Jede Kategorie darf pro Turnier nur einmal stattfinden.
-- 9k) Wenn eine Kategorie stattfindet so muss jeder Teilnehmer an dieser Kategorie teilnehmen dürfen, außer in Fällen, die speziell vom WCA-Board abgesegnet werden.
+- 9k) Wenn eine Kategorie stattfindet, so muss jeder Teilnehmer an dieser Kategorie teilnehmen dürfen, außer in Fällen, die speziell vom WCA-Board abgesegnet werden.
 - 9l) Jede Runde muss abgeschlossen sein, bevor eine folgende Runde in der gleichen Kategorie startet.
 - 9m) Kategorien dürfen maximal vier Runden haben.
 	- 9m1) Kategorien mit 99 oder weniger Teilnehmern dürfen höchstens drei Runden haben.
@@ -230,8 +230,8 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 9p2) Entweder es kommen die besten x (siehe 9p1) Teilnehmer in die nächste Runde, oder alle Teilnehmer, die ein bestimmtes vorgegebenes Resultat unterbieten (welches vor der Runde angekündigt wurde).
 	- 9p3) Wenn ein qualifizierter Teilnehmer sich von einer Runde zurückzieht, darf er durch den bestplatzierten Teilnehmer hinter ihm aus der vorherigen Runde ersetzt werden.
 - 9r) Eine Qualifikationsrunde ist eine Runde einer Kategorie, die vor der ersten Runde stattfindet.
-	- 9r1) Wenn das Turnier angekündigt wird muss das Organisationsteam außerdem ankündigen:
-		- 9r1a) wieviele Teilnehmer in der ersten Runde einer Kategorie teilnehmen werden
+	- 9r1) Wenn das Turnier angekündigt wird, muss das Organisationsteam außerdem ankündigen:
+		- 9r1a) wieviele Teilnehmer in der ersten Runde einer Kategorie teilnehmen werden.
 		- 9r1b) die maximale Anzahl an Teilnehmern in der Qualifikationsrunde einer Kategorie und wieviele Teilnehmer in die erste Runde weiter kommen werden.
 		- 9r1c) welcher Durchschnitt bzw. welches Mittel oder welche Einzelzeit aus einem früheren Turnier notwendig ist, um sich für die erste Runde der Kategorie zu qualifizieren.
 		- 9r1d) den Stichtag, zu dem Durchschnitts-, Mittel- oder Einzelzeit jedes Teilnehmers gemäß WCA-Rangliste herangezogen werden.
@@ -244,7 +244,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - 10b) Der Ruhezustand eines Puzzles wird bewertet, wenn der Timer gestoppt wurde.
 - 10c) Puzzles können am Ende eines Versuchs in beliebiger Orientierung sein.
 - 10d) Alle Teile eines Puzzles müssen vollständig am Puzzle in ihrer vorgesehenen Position montiert sein. Ausnahmen: Siehe Regel 5b5.
-- 10e) Ein Puzzle ist gelöst wenn alle Seitenfarben rekonstruiert sind und alle Teile innerhalb der folgenden Toleranzgrenzen korrekt ausgerichtet sind:
+- 10e) Ein Puzzle ist gelöst, wenn alle Seitenfarben rekonstruiert sind und alle Teile innerhalb der folgenden Toleranzgrenzen korrekt ausgerichtet sind:
 	- 10e1) Jeweils zwei benachbarte Teile (z.B. zwei benachbarte Ebenen eines Cubes), die über die in Abschnitt 10f beschriebenen Grenzen hinweg falsch ausgerichtet sind, werden als einen Zug voneinander entfernt angesehen (siehe "Outer Block Turn Metric" in Artikel 12).
 	- 10e2) Wenn kein Zug nötig ist, um das Puzzle in den gelösten Zustand zu bringen, so wird es als gelöst ohne Strafzeit angesehen.
 	- 10e3) Wenn ein Zug nötig ist, um das Puzzle zu lösen, so wird das Puzzle als "+2", d.h. gelöst mit 2 Strafsekunden angesehen.
