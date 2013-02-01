@@ -40,7 +40,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - 1a) Jedes Turnier muss einen WCA-Delegierten und ein Organisationsteam (bestehend aus einer Person oder mehreren Personen) haben. Ein Turnier benötigt ebenso die folgenden offiziellen Organe: Judges, Scrambler und Scoretaker.
 - 1b) Das Organisationsteam eines Turniers ist verantwortlich für sämtliche Vorkehrungen vor, während und nach dem Turnier.
 - 1c) Der WCA-Delegierte darf verschiedene Pflichten anderen Mitgliedern des Organisationsteams übertragen, ist aber schlussendlich verantwortlich für die Ausführung dieser Pflichten. Der WCA-Delegierte eines Turniers ist verantwortlich:
-  - 1c1) dafür, dem WCA-Board Bericht zu erstatten, ob alle WCA-Regeln während des Turniers befolgt wurden, wie das Turnier insgesamt verlief und ob es irgendwelche Zwischenfälle gab. Berichte müssen dem WCA Board binnen einer Woche nach Ende des Turniers vorgelegt werden.
+	- 1c1) dafür, dem WCA-Board Bericht zu erstatten, ob alle WCA-Regeln während des Turniers befolgt wurden, wie das Turnier insgesamt verlief und ob es irgendwelche Zwischenfälle gab. Berichte müssen dem WCA Board binnen einer Woche nach Ende des Turniers vorgelegt werden.
 	- 1c3) dafür, dem WCA Results Team die Ergebnisse des Turniers zu übermitteln.
 		- 1c3a) Sämtliche Scrambles, die im Turnier verwendet wurden, müssen zusammen mit den Resultaten eingereicht werden.
 		- 1c3b) Scrambles müssen mit den Kategorien, Runden und Gruppen, für die sie verwendet wurden, beschriftet sein.
