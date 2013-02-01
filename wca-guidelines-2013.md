@@ -1,6 +1,6 @@
 # <wca-title>WCA Guidelines 2013
 
-<version>Version: January 1, 2013
+<version>Version: January 26, 2013
 
 
 ## Notes
@@ -74,6 +74,9 @@ To be more informative, each Guideline is classified using one of the following 
 
 - 5b5+) [EXAMPLE] Example of a piece not fully placed: a 5x5x5 centre piece twisted in its spot.
 - 5b5++) [EXAMPLE] Example of judging an attempt ending with a defective puzzle: A Pyraminx with a detached tip may be reassembled in three states, one fully solved, and two "+2" states. An attempt ending in such a situation would be assigned a "+2" penalty.
+- 5b5+++) [EXAMPLE] Example of judging an attempt ending with a defective puzzle: A Rubik's Cube with a detached edge piece may be reassembled in two states, one fully solved, and one "DNF" state. An attempt ending in such a situation would be recorded as "DNF".
+- 5b5++++) [EXAMPLE] Example of judging an attempt ending with a defective puzzle: A Rubik's Cube with one twisted corner piece and everything else solved may be repaired in various states using [Regulation 5b3b](regulations:regulation:5b3b) or [Regulations 5b3c](regulations:regulation:5b3c), some of them being "DNF" states. An attempt ending in such a situation would be recorded as "DNF".
+- 5b5+++++) [REMINDER] In the past, a Rubik's Cube ending with 2 (or more) caps of different colours detached was considered solved. This is no longer the case, since the puzzle may be reassembled in two states, one fully solved, and one "DNF" state. An attempt ending in such a situation would be recorded as "DNF".
 
 
 ## <article-6><awards><awards> Article 6: Awards/prizes/honours
