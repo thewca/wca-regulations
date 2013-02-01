@@ -146,13 +146,13 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - 5a) Beispiele für Puzzledefekte sind etwa: herausgefallene Teile, Teile die man an Ort und Stelle herumgedreht hat (z.B. Ecksteine), gelöste Schrauben, Kappen oder Aufkleber.
 - 5b) Wenn ein Puzzledefekt während eines Versuchs auftritt, ist es dem Teilnehmer überlassen, ob er den Defekt repariert und fortführt oder ob er den Versuch abbricht.
 	- 5b1) Wenn der Teilnehmer sich entscheidet das Puzzle zu reparieren, so darf er nur die defekten Teile selbst reparieren und darf keine weiteren Teile von anderen Puzzeln benutzen. Strafe: Disqualifikation des Versuchs.
-	- 5b2) Die Reperatur darf dem Teilnehmer keinen Vorteil beim Lösen des Puzzles verschaffen. Strafe: Disqualifikation des Versuchs.
-	- 5b3) Erlaubte Reperaturen:
+	- 5b2) Die Reparatur darf dem Teilnehmer keinen Vorteil beim Lösen des Puzzles verschaffen. Strafe: Disqualifikation des Versuchs.
+	- 5b3) Erlaubte Reparaturen:
 		- 5b3a) Falls Steine herausgefallen sind oder sich von ihrer eigentlich Position entfernt (z.B. unnatürlich verkantet) haben, so darf der Teilnehmer sie zurück an ihre Position bringen.
-		- 5b3b) Bemerkt der Teilnehmer nach einer Reperatur, aber noch vor Ende eines Versuchs, dass das Puzzle unlösbar ist, so kann er bis zu 4 Teile herausnehmen und wieder einbauen um das Puzzle wieder lösbar zu machen.
+		- 5b3b) Bemerkt der Teilnehmer nach einer Reparatur, aber noch vor Ende eines Versuchs, dass das Puzzle unlösbar ist, so kann er bis zu 4 Teile herausnehmen und wieder einbauen um das Puzzle wieder lösbar zu machen.
 		- 5b3c) Ist das Puzzle unlösbar, kann jedoch durch die Drehung eines Ecksteins lösbar gemacht werden, so darf der Teilnehmer einen Eckstein an Ort und Stelle drehen ohne Teile aus dem Puzzle herauszunehmen.
 	- 5b4) Beim Blindlösen darf ein Puzzledefekt nur blind repariert werden. Strafe: Disqualifikation des Versuchs.
-	- 5b5) Falls nach dem Versuch Teile des Puzzles immer noch defekt oder nicht richtig positioniert sind, so ergibt sich das Ergebnis des Versuchs aus dem schlechtestmöglichen Zustand, welcher durch Reperatur des Puzzles (siehe Regel 5b3) erhalten werden kann. (siehe WCA Richtlinien, im Zweifelsfall liegt die Entscheidung beim WCA-Delegierten)
+	- 5b5) Falls nach dem Versuch Teile des Puzzles immer noch defekt oder nicht richtig positioniert sind, so ergibt sich das Ergebnis des Versuchs aus dem schlechtestmöglichen Zustand, welcher durch Reparatur des Puzzles (siehe Regel 5b3) erhalten werden kann. (siehe WCA Richtlinien, im Zweifelsfall liegt die Entscheidung beim WCA-Delegierten)
 - 5c) Der Defekt eines Puzzles gibt dem Teilnehmer nicht das Recht auf einen Wiederholungsversuch.
 
 ## <article-7><environment><environment> Abschnitt 7: Umgebung
@@ -231,8 +231,8 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 	- 9p3) Wenn ein qualifizierter Teilnehmer sich von einer Runde zurückzieht, darf er durch den bestplatzierten Teilnehmer hinter ihm aus der vorherigen Runde ersetzt werden.
 - 9r) Eine Qualifikationsrunde ist eine Runde einer Kategorie, die vor der ersten Runde stattfindet.
 	- 9r1) Wenn das Turnier angekündigt wird, muss das Organisationsteam außerdem ankündigen:
-		- 9r1a) wieviele Teilnehmer in der ersten Runde einer Kategorie teilnehmen werden.
-		- 9r1b) die maximale Anzahl an Teilnehmern in der Qualifikationsrunde einer Kategorie und wieviele Teilnehmer in die erste Runde weiter kommen werden.
+		- 9r1a) wie viele Teilnehmer in der ersten Runde einer Kategorie teilnehmen werden.
+		- 9r1b) die maximale Anzahl an Teilnehmern in der Qualifikationsrunde einer Kategorie und wie viele Teilnehmer in die erste Runde weiter kommen werden.
 		- 9r1c) welcher Durchschnitt bzw. welches Mittel oder welche Einzelzeit aus einem früheren Turnier notwendig ist, um sich für die erste Runde der Kategorie zu qualifizieren.
 		- 9r1d) den Stichtag, zu dem Durchschnitts-, Mittel- oder Einzelzeit jedes Teilnehmers gemäß WCA-Rangliste herangezogen werden.
 	- 9r2) Alle Teilnehmer einer Kategorie, die nicht direkt für die erste Runde qualifiziert sind, müssen an der Qualifikationsrunde teilnehmen.
