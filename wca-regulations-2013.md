@@ -83,7 +83,7 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 - 2g) Teilnehmer müssen sich im Wettbewerbsbereich ruhig verhalten. Unterhaltungen bei angemessener Lautstärke sind erlaubt, solange sie weit genug von den aktiven Teilnehmern entfernt stattfinden.
 	- 2g3) Teilnehmer im Teilnehmerbereich dürfen nicht miteinander über die Scrambles der laufenden Runde kommunizieren. Strafe: Disqualifikation des Teilnehmers von der Kategorie, nach Ermessen des WCA-Delegierten.
 - 2h) Teilnehmer müssen vollständig bekleidet sein. Nach Ermessen des WCA-Delegierten dürfen Teilnehmer für unangebrachte Bekleidung vom Turnier ausgeschlossen werden.
-- 2i) Während der aktiven Teilnahme am Wettkampf dürfen Teilnehmer keine Elektronik oder Audioelektronik wie z.B. Handies, Walkmans, Diktiergeräte oder Ähnliches verwenden. Zusätzliche Beleuchtung ist ebenfalls nicht erlaubt.
+- 2i) Während der aktiven Teilnahme am Wettkampf dürfen Teilnehmer keine Elektronik oder Audioelektronik wie z.B. Handys, Walkmans, Diktiergeräte oder Ähnliches verwenden. Zusätzliche Beleuchtung ist ebenfalls nicht erlaubt.
 	- 2i1) Teilnehmer dürfen nach Ermessen des WCA-Delegierten gewisse nicht-elektronische Hilfen verwenden, die ihnen keine unfairen Vorteile bringen. Dazu gehören:
 		- 2i1a) Medizinische/physische Hilfen, die vom Teilnehmer getragen werden (z.B. eine Brille, Armbänder oder Hörhilfen).
 		- 2i1b) Ohrstöpsel und Gehörschutz (aber keine elektronischen geräuschunterdrückenden Kopfhörer).
