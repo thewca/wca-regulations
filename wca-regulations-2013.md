@@ -25,7 +25,7 @@ Die [WCA Richtlinien](guidelines:top) erweitern die WCA Regeln um weitere Erläu
 ### Weitere Links
 - Webseite der World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)
 - Original Quelle der WCA-Regeln: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)
-- - PDF-Version dieser Übersetzung: [Deutsche PDF-Version der Regeln und Richtlinien](http://www.worldcubeassociation.org/regulations/translations/german/wca-regulations-and-guidelines-2013.pdf)
+- PDF-Version dieser Übersetzung: [Deutsche PDF-Version der Regeln und Richtlinien](http://www.worldcubeassociation.org/regulations/translations/german/wca-regulations-and-guidelines-2013.pdf)
 - Du möchtest eine eigene Competition organisieren? Dann wirf einen Blick in unser [Competition Orga Tutorial](http://cube.hackvalue.de/tutorials/competition.php).
 
 
