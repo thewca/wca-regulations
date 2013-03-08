@@ -5,13 +5,19 @@
 
 ## 注释
 
-### WCA规则及指导
+### 翻译
+
+请注意本翻译并不是官方版本（尽管它可以在WCA网站上查阅）：它可能很有用，但并不保证翻译是非常精确的。如果该翻译与（当前官方的）英文原版有出入，以英文原版为准。
+
+如果你发现了任何翻译错误或不准确的地方，请联系[陈霜](mailto:qq280833822@163.com)
+
+### WCA规则及指南
 
 WCA规则包含了世界魔方协会认可的比赛应该遵循的所有规则。
-WCA规则同时由[WCA指导](guidelines:top)补充。本规则是一个独立完整的文档，而指导则包括了对规则的解释或澄清。
+WCA规则同时由[WCA指南](guidelines:top)补充。本规则是一个独立完整的文档，而指南则包括了对规则的解释或澄清。
 
 ### 措辞
-为了使得本规则及指导更易阅读，我们将使用“他”代替“她或他”。
+为了使得本规则及指南更易阅读，我们将使用“他”代替“她或他”。
 关于“必须”，“禁止”，“应该”，“不应该”，“可以”("must"，"must not"，"should"，"should not" and "may")的用法请参考[RFC 2119](https://www.ietf.org/rfc/rfc2119.txt)。
 
 ### 在线信息
@@ -20,7 +26,7 @@ WCA规则同时由[WCA指导](guidelines:top)补充。本规则是一个独立�
 WCA规则的 [PDF版](wca-regulations-and-guidelines-2013.pdf)
 
 ### 源代码
-WCA规则及指导的修订公开[于GitHub](https://github.com/cubing/wca-documents)。
+WCA规则及指南的修订公开[于GitHub](https://github.com/cubing/wca-documents)。
 
 ### 联系
 如果有任何疑问或反馈，请联系[WCA规则委员会 (WRC)](http://www.worldcubeassociation.org/contact-information)。
