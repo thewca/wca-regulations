@@ -1,161 +1,145 @@
-# <wca-title>WCA Guidelines 2013
+# <wca-title>WCA ガイドライン 2013
 
-<version>Version: January 1, 2013
-
-
-## Notes
-
-### WCA Regulations 
-
-The WCA Guidelines supplement the [WCA Regulations](regulations:top). Please see the Regulations for more information about the WCA.  
-
-### Numbering
-
-Guidelines are numbered in correspondence with related regulations. Note that mutiple Guidelines may correspond to the same Regulation, and some Guidelines correspond to Regulations that do not exist anymore.
-
-### Labels 
-
-To be more informative, each Guideline is classified using one of the following labels. Note that this should be treated as metadata, not as a description of importance.
-
-- <label>[ADDITION] Additional information to supplement the Regulations.
-- <label>[CLARIFICATION] Information to address any possible questions about interpretation of the Regulations.
-- <label>[EXPLANATION] Information that clarifies the intent of Regulations.
-- <label>[RECOMMENDATION] Something that is not strictly mandatory, but that should be done if possible.
-- <label>[REMINDER] Information that may be addressed other Regulations/Guideline, but whose relevance is worth reiterating.
+<version>第1版, 2013年1月
 
 
-## <contents> [Contents](guidelines:contents)
+## 注釈
+
+### WCA 大会規則
+
+WCA ガイドラインにはWCA規則の補足を載せています。WCAについてのより詳しい情報はWCA規則を参照して下さい。
+
+### 条項
+
+ガイドラインは関連する規則の番号が振り分けられています。ひとつの規則に関して複数のガイドラインがある場合や、すでに現存しないWCA規則に関連するガイドラインも存在しているので注意して下さい。
+
+### ラベル
+
+わかりやすくするため、各ガイドラインには下記のラベルのうちの一つがついています。データに関する情報であって、重要性を表すものではありません。
+
+- ［追記］規則を補うための追加の情報。
+- ［明示］規則の解釈に関して考えられうる質問に対する情報。
+- ［説明］規則の意図・趣旨を明確にするための説明。
+- ［推奨］義務ではないが、できる限り従うことが望ましい事項。
+- ［注意］他の大会規則やガイドラインに言及されているが、繰り返し強調する価値のある事項。
+
+## <contents> [コンテンツ](guidelines:contents)
 
 <table-of-contents>
 
 
-## <article-1><officials><officials> Article 1: Officials
+## <article-1><officials><officials> 第1条：大会役員
 
-- 1c3+) [RECOMMENDATION] Results should be ready at the end of the last day of competition.
-- 1c3b+) [CLARIFICATION] If there are multiple groups, it is not necessary to identify which competitor was in which groups.
-- 1c4+) [RECOMMENDATION] Corrections to the results should be available within one week of the competition date.
-- 1c10+) [CLARIFICATION] It is sufficient to ensure access to a digital copy of the Regulations.
-- 1h+) [RECOMMENDATION] Competitors in the same group should use the same scramble sequences. Different groups should use different scramble sequences.
-- 1h+) [RECOMMENDATION] All final rounds of all events, as well as all Fewest Moves Solving rounds, should have the same scrambles for all competitors (i.e. only 1 group).
-- 1h1+) [CLARIFICATION] Scramblers/judges should only scramble for/judge other competitors in the same group only if it is important for competition logistics.
+- 1c3+)［推奨］大会最終日の終了時までに、結果の準備ができていることが望ましい。
+- 1c3b+)［明示］複数のグループがある場合、どの競技者がどのグループに属していたかを特定する必要はない。
+- 1c4+)［推奨］結果の訂正は大会から1週間以内に行うことができるようにすべきである。 
+- 1c10+)［明示］WCA 規則のデジタルコピーへのアクセスを確保することで十分である。
+- 1h+)［推奨］同じグループ内の競技者は同じスクランブルを使うことが望ましい。グループ毎に異なるスクランブルを使うことが望ましい。
+- 1h+)［推奨］全てのイベントの決勝戦また最少手数競技では、全競技者は同じスクランブルであることが望ましい(すなわち1グループのみである事)。
+- 1h1+)［明示］スクランブラー/ジャッジは大会運営の上で必要に迫られた場合のみ、同じグループのスクランブルまたはジャッジを行うことができる。
 
+## <article-2><competitors><competitors> 第2条：競技者
 
-## <article-2><competitors><competitors> Article 2: Competitors
+- 2c+)［追記］大会に初めて参加する競技者は戸籍上の名前で登録しなければならない。WCA代理人の裁量によって、妥当なニックネームで登録することもできる。
+- 2c++)［追記］競技者は意図的に偽りの情報を提供してはならず、2回目以降大会に参加する際は過去と同じ情報で登録しなければならない(例：名前、WCA ID)。
+- 2d+)［追記］特に生年月日と連絡先は安全に管理されねばならない。
+- 2d++)［推奨］第三者(記者等)が大会運営チームに対し競技者との接触を求めてきた場合、まず競技者の承諾が必要となる。
+- 2h+)［明示］足競技において競技者は裸足になってもよい。
+- 2j2+)［例］例えば、競技者が決勝戦を欠席したことにより出場資格を失っても、その者のそれより前のラウンドでの結果は無効にならない。
+- 2s+)［注意］特別措置が取られた場合は、大会レポートに記載しなくてはならない。
 
-- 2c+) [ADDITION] First-time competitors should register using their legal name. They may register using a reasonable nickname, at the discretion of the WCA Delegate.
-- 2c++) [ADDITION] Competitors must not provide intentionally misleading information, and returning competitors should provide information consistent with past information (e.g. exact name and WCA ID).
-- 2d+) [ADDITION] Date of birth and contact information should be especially secured.
-- 2d++) [RECOMMENDATION] If a third party (e.g. journalist) asks the organisation team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
-- 2h+) [CLARIFICATION] Competitors may be barefoot for Solving With Feet.
-- 2j2+) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, his results from earlier rounds remain valid.
-- 2s+) [REMINDER] Special accommodations must be noted in the Delegate Report.
+## <article-3><puzzles><puzzles> 第3条：パズル
 
+- 3a+) [明示] 競技者はWCA代理人の裁量により、常識の範囲内でどんな大きさのパズルも使うことができる。
+- 3a++) [追記] 基本的に競技者はスピード競技の一つのラウンドの一連の試技で、単一のパズルを用いるべきである。ジャッジやWCA代理人の裁量により、試技の間にパズルを取り替えることができる。
+- 3a++) [明示] 競技者は大会で使うために他の競技者から個人的にパズルを借りることができる。
+- 3a1+) [明示] 競技者は、以下の場合に失格となることがある。呼ばれた時に来ない場合や、提出するパズルを用意できない場合(例: 他の競技者が使っているパズルを使う予定で、その時パズルを提出できない)。
+- 3h+) [明示] パズルを磨いたり潤滑したりすることによって、内部を改良することができる。
+- 3h++) [例] 改造の例は以下の通り: 新しい動きが可能になる。通常の動きが不可能になる。より多くの部品や面が見えるようになる。パズルの裏側の色が見えるようになる。自動的に動くようになる。パズルの完成状態が多い、あるいは異なる。
 
-## <article-3><puzzles><puzzles> Article 3: Puzzles
+## <article-4><scrambling><scrambling> 第4条：スクランブル
 
-- 3a+) [CLARIFICATION] Competitors may use puzzles of any reasonable size, at the discretion of the WCA Delegate.
-- 3a++) [ADDITION] By default, a competitor should use the same puzzle for consecutive attempts in a speed solving round. A competitor may switch puzzles between attempts, at the discretion of the judge or WCA Delegate.
-- 3a++) [CLARIFICATION] Competitors may borrow puzzles from other competitors privately, to use in competition.
-- 3a1+) [CLARIFICATION] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit their puzzle at the moment).
-- 3h+) [CLARIFICATION] Puzzles may be refined internally by sanding or lubricating.
-- 3h++) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, or the puzzles has more/different solved states.
+- 4b1+)［注意］WCA代理人はフィルタリングの目的で、スクランブルを新たに生成して置き換えることは絶対に許されない。例えば、大会用のスクランブルを見て、“公平を期すため”にもう一度スクランブルセットを生成してはいけない。
+- 4b2+)［明示］一般的に、全ての公式スクランブル手順を大会中は開示せず、大会の最後にまとめて開示することが望ましい(参照：1c3a)。特例として(例：世界記録が出た場合)大会運営チームは特定のスクランブルをそのラウンドのすぐあとに開示することができる。
+- 4d+)［明示］多くのパズルは標準配色を使用しているが、白を黒に置き換えているものもある。その場合、黒が一番暗い色になるため、白の置き換えとして扱ってはいけない。
+- 4f+)［推奨］WCA 代理人は大会の前に、追加試技の分も含めた十分な量のスクランブルを用意しなければならない。
+- 4f++)［注意］WCA 代理人が大会中に追加でスクランブルを用意する場合、それらを保存しなければならない(参照：1c3a)。
 
+## <article-5><puzzle-defects><puzzledefects> 第5条：パズルの欠損
 
-## <article-4><scrambling><scrambling> Article 4: Scrambling
+- 5b5+)［例］パーツが正しく装着されていない例：5x5のセンターパーツが正しい位置にあるが回転している。
+- 5b5++)［例］試技の最後でパズルが欠損している場合の判断例：ピラミンクスのコーナーを組み立て直した場合、3種類あり、1つは完全に揃い、2つが+2状態で終わったとする。このように試技が終わった場合、+2秒ペナルティとなる。
 
-- 4b1+) [REMINDER] The WCA Delegate must never re-generate any scrambles to replace other ones for the purpose of filtering. For example, it is not be permitted to glance at the scrambles for a competition and generate the entire set again in order to generate "fairer" scrambles.
-- 4b2+) [CLARIFICATION] In general, all official scramble sequences should be kept secret during the competition and published together after the end of the competition (see [Regulation 1c3a](regulations:regulation:1c3a)). In some cases (e.g. world records), the organisation team may wish to release specific scrambles sooner after the end of a round.
-- 4d+) [CLARIFICATION] Some puzzles use standard colour schemes, except that black is replaced with white. In this case, black is the darkest colour and must not be treated as white.
-- 4f+) [RECOMMENDATION] The WCA Delegate should generate sufficient scrambles for the entire competition ahead of time, including spare scrambles for extra attempts.
-- 4f++) [REMINDER] If the WCA Delegate generates any additional scrambles during the competition, he must save them (see [Regulation 1c3a](regulations:regulation:1c3a)).
+## <article-6><awards><awards> 第6条：賞金・賞品・表彰
 
+- 6a+)［分離］［追記］大会の告知に応じて、競技者に対し賞金・賞品の授与、表彰を行うことができる。
+- 6b+)［分離］［推奨］競技者は賞金・賞品・表彰を受けるために表彰式に参加することが望ましい。
+- 6b1+)［分離］［推奨］表彰式は、大会会場において、最終競技終了後1時間以内に開催されることが望ましい。
+- 6c+)［分離］［推奨］入賞者や表彰者は、大会について報道する報道関係者やマスメディアの取材に応じることが望ましい
+- 6d+)［分離］［推奨］大会運営チームはチームリーダーとWCA代理人が署名した表彰状を全種目の入賞者に用意することが望ましい。
 
-## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
+## <article-7><environment><environment> 第7条：競技環境
 
-- 5b5+) [EXAMPLE] Example of a piece not fully placed: a 5x5x5 centre piece twisted in its spot.
-- 5b5++) [EXAMPLE] Example of judging an attempt ending with a defective puzzle: A Pyraminx with a detached tip may be reassembled in three states, one fully solved, and two "+2" states. An attempt ending in such a situation would be assigned a "+2" penalty.
+- 7d+)［分離］［追記］競技エリアの気温は21〜25度であることが望ましい。
+- 7h2+)［分離］［追記］待機場所にいる競技者が試技中の競技者のパズルを見ることができないようになっていることが望ましい。
 
+## <article-8><competitions><competitions> 第8条：大会
 
-## <article-6><awards><awards> Article 6: Awards/prizes/honours
+- 8a4+)［推奨］予選や1回戦の最大競技人数を増やす場合、あるいは新たに登録された競技者に対して予選を追加する場合は大会の少なくとも1ヶ月前までに変更を行うことが望ましい(参照：9r3)。
+- 8a4++)［推奨］大会は大会開始の少なくとも1ヶ月前までに告知されることが望ましい。
+- 8a5+)［分離］［推奨］公式大会には少なくとも12人の競技者がいることが望ましい。
 
-- 6a+) [SEPARATE][ADDITION] Awards, prizes or honours may be given to competitors according to the announcement of the competition.
-- 6b+) [SEPARATE][RECOMMENDATION] Competitors should attend the winner's ceremony to receive awards/prizes/honours.
-- 6b1+) [SEPARATE][RECOMMENDATION] The winner's ceremony should be held in the competition venue, within one hour after the end of the last event.
-- 6c+) [SEPARATE][RECOMMENDATION] Winners of awards, prizes or honours should be prepared to talk to journalists or any media covering the competition.
-- 6d+) [SEPARATE][RECOMMENDATION] Organisation teams of competitions should have certificates for all category winners, signed by the leader of the organisation team and by the WCA delegate.
+## <article-9><events><events> 第9条：競技種目
 
+- 9b+)［追記］各種目の決勝においてはできるだけ”Average of 5”または”Mean of 3”を使うことが望ましい。
+- 9b++)［追記］9b に記載されていない種目も大会中に行うことができるが、非公式種目とみなされるため、大会公式記録としては残されない。
+- 9f5+)［明示］競技者が試技を行う資格があったにもかかわらず試技を行わなかった場合、結果はDNSと記載される。もし競技者が試技を行う資格がなかった場合(例：複合ラウンド)、その試技の欄には結果は何も記載されない。
+- 9q+)［分離］［推奨］各種目、ラウンドにおいて最低2人以上の競技者がいることが望ましい。
+- 9r+)［説明］予選の目的は、登録競技者が多数いる種目において、初参加者やランキングの低い競技者から一回戦への参加者を選抜することである。
 
-## <article-7><environment><environment> Article 7: Environment
+## <article-0><solved-state><solvedstate> 第10条：完成状態 
 
-- 7d+) [SEPARATE][ADDITION] The temperature of the competition area should be 21 to 25 degrees Celsius.
-- 7h2+) [SEPARATE][ADDITION] The competitors in the competitors area should not be able to see the puzzles of the competitors on stage.
+- 10f+)［説明］パズルのずれの限界は、ペナルティの生じないパズルの完成状態と(その状態から)1手動かした状態を自然に区別できるように選択される。
 
+## <article-1><incidents><incidents> 第11条：インシデント
 
-## <article-8><competitions><competitions> Article 8: Competitions
+- 11e+)［明示］インシデントの訴えが認められるか確かでないため、競技者は抗議中スタックマットタイマーを止めず、必要に応じてその後競技を再開することを選ぶことができる。
+- 11e1+)［注意］追加試技においては公式スクランブラーによって生成された加工されていないスクランブルを使わなければならない(参照：4f、4f+)。
 
-- 8a4+) [RECOMMENDATION] Changes to increase the maximum number of competitors in qualification round or first round, or to add a qualification round for newly registered competitors should be made at least one month before the competition (see [Regulation 9r3](regulations:regulation:9r3)).
-- 8a4++) [RECOMMENDATION] The competition should be announced at least one month before the beginning of the competition.
-- 8a5+) [SEPARATE][RECOMMENDATION] The competition should have at least 12 competitors.
+## <article-A><speedsolving><speedsolving> 第A条：スピード競技
 
+- A1a2+)［追記］制限時間が累積方式の場合、ジャッジはDNFと記録する際に()を用いて DNF の横に経過時間も残すこと(例：DNF (1:02.27))。
+- A1a3+)［注意］大会運営チームとWCA代理人は制限時間が競技者の戦略に影響し(例：複合ラウンドにおいて切り捨てされないように最初の2回の試技でなるべく早いタイムを出すようにする)、各ラウンド開始後に制限時
+間を変えることは競技者に不公平が生じる場合があることを考慮しなければならない。
+- A1a4+)［注意］万が一競技者が制限時間を越して試技を行なってしまった場合、時間制限が遡って適用され、ジャッジ、競技者、WCA代理人はその旨を告知されなければならない(参照：1g2)。ジャッジは常に現在進行中の試技の時間制限を心得てなければならない(累積方式の場合、その前の試技の時間によって異なる)。
+- A2c1+)［明示］過去の大会において、パズルを覆い隠すのにスコアカードを使いパズルの一部が見える状態となっていたことがあるが、このようなことは今後一切許されない。
+- A3c3+)［明示］競技者のためにジャッジがタイマーをリセットすることが求められるが(参照：規則 A3b)、ジャッジが忘れてしまった場合、競技者自らインスペクションタイムの前あるいは途中にリセットしてもよい。
+- A6b+)［説明］スタックマットタイマーの機能不良に対する措置として、恣意的に0.06秒と定めた。
+- A6g+)［追記］ジャッジがパズルのずれに対してペナルティを適用するかどうかを決定する間に、パズルに触ることは許されない
 
-## <article-9><events><events> Article 9: Events
+## <article-B><blindfolded><blindfoldedsolving> 第B条：目隠し競技
 
-- 9b+) [ADDITION] The preferred format for the final of an event is "Average of 5" or "Mean of 3", if possible.
-- 9b++) [ADDITION] Events other than those specified in [Regulation 9b](regulations:regulation:9b) may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
-- 9f5+) [CLARIFICATION] The result for an attempt is DNS if the competitor was eligible for the attempt and did not attempt it. If the competitor did not qualify for an attempt (e.g. in a combined round), he does not have any result for the attempt.
-- 9q+) [SEPARATE][RECOMMENDATION] Events and rounds should have at least 2 competitors.
-- 9r+) [EXPLANATION] The goal of a qualification round is to let unranked or low ranked competitors qualify for the first round of an event with many registered competitors.
+- B1+)［注意］手触りやマーキングなどによってパーツを識別できるパズルを使用することは許されない(参照：3k)。目隠し競技においてこれは特に気をつけなければならない。
+- B1b+)［推奨］目隠しは大会で使用される前にWCA代理人によって検査されることが望ましい。
 
+## <article-C><one-handed><onehandedsolving> 第C条：片手競技
 
-## <article-0><solved-state><solvedstate> Article 10: Solved State
+- C1b+)［明示］競技者はインスペクション中に両手を使ってもよい。
+- C1b++)［明示］競技者は同じラウンドの異なる試技において、常に同じ片手を使う必要はない。
+- C1b2+)［注意］パズルの欠損を修復する際、競技面を利用してもよい。
 
-- 10f+) [EXPLANATION] The misalignment limits are selected so that they provide a natural cutoff between one state of a puzzle (without penalty) and a state one move away.
+## <article-D><feet><solvingwithfeet>  第D条：足競技
 
+- D1b+)［明示］競技者は靴下を履いて試技を行なってもよい。
+- D1c+)［注意］パズルの欠損が生じ修復する場合、身体の足以外の部分がパズルに触れることは許されない。
 
-## <article-1><incidents><incidents> Article 11: Incidents
+## <article-E><fewest-moves><fewestmovessolving> 第E条：最少手数競技
 
-- 11e+) [CLARIFICATION] Since an appeal is not guaranteed to be successful, the competitor may choose to keep the timer running while appealing it, and resume the attempt when appropriate.
-- 11e1+) [REMINDER] The extra attempt must be scrambled using an unmodified scramble sequence generated by an official scrambler (see [Regulation 4f](regulations:regulation:4f), [Guideline 4f+](guidelines:guideline:4f+)).
+- E2b+)［明示］競技者は終了時間より前に解法を提出することにより、早めに試技を終わらせることができる。
 
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> 第H条：複数目隠し競技
 
-## <article-A><speedsolving><speedsolving> Article A: Speed Solving
-
-- A1a2+) [ADDITION] In case of a cumulative time limit, the judge records the original recorded time for a DNF on the score sheet in parentheses, e.g. "DNF (1:02.27)".
-- A1a3+) [REMINDER] The organisation team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the beginning of the round can disadvantage some competitors unfairly.
-- A1a4+) [REMINDER] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and WCA Delegate should be informed (see [Regulation 1g2](regulations:regulation:1g2)). Judges must always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
-- A2c1+) [CLARIFICATION] In the past, score cards have been used to cover puzzles while leaving some sides exposed. This is no longer permitted.
-- A3c3+) [CLARIFICATION] Although the judge is required to reset the timer for the competitor (see [Regulation A3b](regulations:regulation:A3b)), the competitor may reset it before/during the inspection phase if the judge accidentally neglected to do so.
-- A6b+) [EXPLANATION] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timer malfunctions.
-- A6g+) [ADDITION] While he is determining whether to assign a penalty for misalignment, the judge should not touch the puzzle.
-
-
-## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
-
-- B1+) [REMINDER] The competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces (see [Regulation 3k](regulations:regulation:3k)). This should be given special attention for Blindfolded Solving
-- B1b+) [RECOMMENDATION] Blindfolds should be checked by the WCA Delegate before use in the competition.
-
-
-## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
-
-- C1b+) [CLARIFICATION] The competitor may use both hands during inspection.
-- C1b++) [CLARIFICATION] The competitor is not required to use the same solving hand for different attempts of the same round.
-- C1b2+) [REMINDER] Use of the surface is permitted while repairing the puzzle.
-
-
-## <article-D><feet><solvingwithfeet> Article D: Solving With Feet
-
-- D1b+) [CLARIFICATION] The competitor may wear socks while solving.
-- D1c+) [REMINDER] While repairing puzzle defects, other body parts must not touch the puzzle.
-
-
-## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
-
-- E2b+) [CLARIFICATION] A competitor may choose to stop his attempt early by handing in a solution before the time limit.
-
-
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
-
-- H1b1+) [REMINDER] The attempt is not disqualified for reaching the time limit, due to exceptions for Multiple Blindfolded Solving (see [Regulation A1a4](regulations:regulation:A1a4) and [Regulation A1a5](regulations:regulation:A1a5)).
-- H1b1++) [ADDITION] The judge may permit the competitor to continue the attempt unofficially, but the attempt must be stopped and judged first, in full accordance with the Regulations.
-- H1d+) [EXAMPLE] Example: If a competitor attempts 10 cubes, stops with a time of 59:57, and has two time penalties, the time for the result is 59:57 + 2*2 = 60:01 (also see [Regulation A1a5](regulations:regulation:A1a5)).
-- H1d+) [EXAMPLE] Example: If a competitor attempts 10 cubes, and the judge stops him at one 60 minutes, and has two time penalties, the time for the result is 60:00 + 2*2 = 60:04.
+- H1b1+)［注意］複数目隠し競技においては例外的に、制限時間に達しても試技は失格とならない(参照：A1a4、A1a5)。
+- H1b1++)［追記］ジャッジは非公式に競技者に試技を続けるさせることができるが、その場合、大会規則に従って試技はまず一旦中止しジャッジを受けなければならない。
+- H1d+)［例］例：競技者が10個のキューブに挑戦しタイムが 59:57 で終わったが 2 つのペナルティがあった場合、記録は59:57+2*2=60:01となる(参照：A1a5)。
+- H1d+)［例］例：競技者が10個のキューブに挑戦しジャッジが60分で止め、2つのペナルティがあった場合、記録は60:00+2*2=60:04となる。
