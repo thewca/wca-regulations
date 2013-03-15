@@ -1,4 +1,4 @@
-# <wca-title>WCA レギュレーション 2013
+# <wca-title>WCA大会規則 2013
 
 <version>バージョン：2013年1月1日
 
