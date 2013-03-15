@@ -84,7 +84,7 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
 - 2g) 競技者は指定された競技エリア内では静寂を保たなければならない。会話は許されるが、許容範囲の静寂さを保ち、競技中の競技者との距離を保たなければならない。
   - 2g3) 競技者待機所にいる競技者は、進行中のラウンドのパズルのスクランブル状態についてお互いにコミュニケーションをとってはならない。罰則：WCA 代理人の裁量による、競技者の種目における失格。
 - 2h) 競技者は大会会場内にいる間は着衣しなければならない。代理人の裁量により、競技者は不適切な衣服によって大会を失格となる可能性がある。
-- 2i) 競技中、競技者は電子機器や音響機器(例：携帯電話、MP3 プレーヤー、ディクタフォン、追加照明)を使用してはならない。
+- 2i) 競技中、競技者は電子機器や音響機器(例：携帯電話、MP3プレーヤー、ディクタフォン、追加照明)を使用してはならない。
   - 2i1) WCA 代理人の裁量により、競技者は自身に不公平な利益をもたらさない非電子器具を使うことができる。これは以下のものを含む。
     - 2i1a) 競技者の身に着けている医療器具、身体的器具(眼鏡、手首固定器、補聴器等)。
     - 2i1b) 耳栓やイヤーマフ(ノイズキャンセリングヘッドホンは不可)。
@@ -107,57 +107,54 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
 - 2s) 競技者に障害があり、1つ以上のWCA大会規則を尊守することが難しい場合、WCA代理人に特別措置を要求することができる。そのような措置を要求する競技者は、少なくとも大会の2週間前までに大会運営チームとWCA代理人に連絡を取ることが望ましい。
 - 2t) 各競技者は大会前にWCA大会規則をよく理解しておかなければならない。
 
-## <article-3><puzzles><puzzles> Article 3: Puzzles
+## <article-3><puzzles><puzzles> 第3条：パズル
 
-- 3a) Competitors must provide their own puzzles for the competition.
-  - 3a1) Competitors must be present and ready to compete when they are called to compete for a round. Penalty: disqualification from the event.
-  - 3a2) Puzzles must be fully operational, such that normal scrambling is possible.
-  - 3a3) Polyhedral puzzles must use a colour scheme with one unique colour per face in the solved state. Each puzzle variation must have moves, states, and solutions functionally identical to the original puzzle.
-- 3d) Puzzles must have coloured stickers, coloured tiles, or painted/printed colours.
-  - 3d1) Exception: Competitors with a medically documented visual disability may use textured puzzles with different textures on different faces. Textures/patterns must be uniform per face. Each face should have a distinct colour, to aid in scrambling and judging.
-  - 3d2) The colours of puzzles must be solid, with one uniform colour per face. Each colour on the puzzle must be clearly distinct from the other colours.
-  - 3d3) Stickers/tiles/textures/paint must not be thicker than 1.5 mm, or the generally available thickness for non-cube puzzles.
-- 3h) Modifications that enhance the basic concept of a puzzle are not permitted.  Modified versions of puzzles are permitted only if the modification does not make any additional information available to the competitor (e.g. identity of pieces), compared to an unmodified version of the same puzzle.
-  - 3h1) "Pillowed" puzzles are not permitted. Exception: Pillowed 7x7x7 cubes are permitted.
-  - 3h2) "Stickerless" cubes, and other cubes whose face colours are visible inside the cube, are not permitted.
-  - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
-- 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that distinguish any piece from a similar piece.
-  - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
-- 3k) Puzzles must be approved by the WCA Delegate before use in the competition.
-- 3l) A cube puzzle may have a logo, but it must have at most one logo. For the Rubik's Cube or bigger cube puzzles the logo must be placed on one of the centre pieces.
-  - 3l1) Colourless engravings (max. 1 per face) are not considered logos.
-- 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
+- 3a) 競技者は大会に自分自身でパズルを用意して参加しなければならない。
+  - 3a1) 競技者は、自分が参加するラウンドに呼ばれる時には会場にいて、競技をできる準備をしていなければならない。罰則：種目の失格。
+  - 3a2) パズルは、通常のスクランブルができるように、正常に動く状態でなければならない。
+  - 3a3) 多面体パズルは、完成された状態で一つの面につき固有の一色を持つ配色でなければならない。各々の異なったパズルは、動きや状態、解法がオリジナルのパズルと同一でなければならない。
+- 3d) パズルはステッカー、タイル、塗装、印刷などで色分けされていなければならない
+  - 3d1) 例外：視覚障害が医学的に証明される競技者は、異なる面に異なる手触りを持つパズルを用いることができる。手触りやパターンは一つの面につき同一でなければならない。スクランブルとジャッジをしやすくするために、各面は異なる色であることが望ましい。
+  - 3d2) パズルの色は、一つの面につき一色で、一様でなければならない。パズルの各色は他の色と明らかに異なる色でなければならない。
+  - 3d3) ステッカーやタイル、手触り、塗りは1.5mmの厚さを超えてはならない。立方体ではないパズルは一般的に入手可能な厚さを超えてはならない。
+- 3h) パズルの根本的な原理を変えるような改造はしてはならない。同じパズルの改造されていないものと比べ、追加の情報（例：パーツの特定）を競技者にもたらすようなものではない限り、改造されたパズルの使用は許される。
+  - 3h1) いわゆるピローパズルに代表されるような、丸みをおびたパズルは使用することができない。例外：丸みをおびた7x7x7キューブは使用できる。
+  - 3h2) いわゆるステッカーレスキューブに代表されるような、面の色が内部に見えるキューブは使用することができない。
+  - 3h3) パズルの改造によって競技者の成績が悪くなったとしても、それは追加試技を得る理由にはならない。
+- 3j) パズルはきれいで、あるパーツを他の似たパーツと区別するような印やパーツの持ち上げ、傷、その他の差異があってはならない。
+  - 3j1) パズルの過度でない擦り切れはWCA代理人の裁量により許容される。
+- 3k) パズルは大会で使用される前にWCA代理人によって承認されなければならない。
+- 3l) キューブパズルにはロゴがあってもよいが、一つ以下でなければならない。ルービックキューブやそれより大きいキューブパズルのロゴの位置は、センターパーツの一つでなければならない。
+  - 3l1) 色のない刻印（一面につき最大一つ）はロゴとは見なされない。
+- 3m) WCA 大会規則に適合する限り、全てのブランドのパズルやパズルのパーツを使うことができる。
 
+## <article-4><scrambling><scrambling> 第4条：スクランブル
 
-## <article-4><scrambling><scrambling> Article 4: Scrambling
+- 4a) スクランブラーはパズルにスクランブル手順を適用する。
+- 4b)パズルはコンピュータによりランダムに生成されたスクランブル手順を用いてスクランブルされなければならない。
+  - 4b1) 生成されたスクランブル手順は大会の前に調べられてはならない。いかなる場合も、WCA代理人によって除外されたり、選ばれたりしてはならない。
+  - 4b2) あるラウンドのスクランブル手順は、そのラウンドが終わるまで WCA代理人とその種目のスクランブラーのみにしか見られないようにしなければならない。例外：最少手数競技では、そのラウンドの間、競技者はスクランブル手順を受け取る(参照：第E条)。
+- 4d) スクランブルをする向きは以下の通り。
+  - 4d1) キューブパズルとメガミンクスは白面(不可能な場合は、最も明るい面)を上面に、緑面(不可能な場合は、隣接した面の中で最も暗い面)を正面にしてスクランブルする。
+  - 4d2) ピラミンクスは、黄面(不可能な場合は、最も明るい面)を底面に、緑面(不可能な場合は、隣接した面の中で最も暗い面)を正面にしてスクランブルする。
+  - 4d3) スクエア１は(考えられる２つの向きのうち)より暗い色の面を正面にしてスクランブルする。
+- 4f) 大会のスクランブル手順は、WCA公式スクランブルプログラムの現行公式バージョンを用いて生成されなければならない(WCA公式ウェブサイトから入手可能)。
+- 4g) スクランブルの後では、スクランブラーはパズルを正しくスクランブルしたか確認しなくてはならない。もしパズルの状態が間違っている場合、競技者はそれを正さなくてはならない(例：パズルを解き、スクランブル手順をもう一度適用する)。
+  - 4g1) 例外：6x6x6 キューブと7x7x7キューブは、WCA 代理人の裁量によって、スクランブルを正す必要はない。
 
-- 4a) A scrambler applies scramble sequences to the puzzles.
-- 4b) Puzzles must be scrambled using computer-generated random scramble sequences.
-  - 4b1) Generated scramble sequences must not be inspected before the competition, and must not be filtered or selected in any way by the WCA Delegate.
-  - 4b2) Scramble sequences for a round must be available only to the WCA Delegate and the scramblers for the event, until the end of the round. Exception: For Fewest Moves Solving, competitors receive scrambling sequences during the round (see [Article E](regulations:article:E)).
-- 4d) Scrambling orientation:
-  - 4d1) Cube puzzles and Megaminx are scrambled with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.
-  - 4d2) Pyraminx are scrambled with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
-  - 4d3) Square-1 are scrambled with the darker colour on front (out of the 2 possible scrambling orientations).
-- 4f) Competition scramble sequences must be generated using the current official version of the official WCA scramble program (available via the WCA website).
-- 4g) After scrambling a puzzle, the scrambler must verify that he has scrambled the puzzle correctly. If the puzzle state is wrong, he must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
-  - 4g1) Exception: For the 6x6x6 Cube and the 7x7x7 Cube, it is not necessary to correct the scramble, at the discretion of the WCA Delegate.
+## <article-5><puzzle-defects><puzzledefects> 第5条：パズルの欠損
 
-
-## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
-
-- 5a) Examples of puzzle defects include: popped pieces, pieces twisted in place, and detached screws/caps/stickers.
-- 5b) If a puzzle defect occurs during an attempt, the competitor may choose to either repair the defect and continue the attempt, or to stop the attempt.
-  - 5b1) If a competitor chooses to repair the puzzle, he must repair only the defective pieces. Tools and/or pieces of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the attempt (DNF).
-  - 5b2) Any repair to a puzzle must not give the competitor any advantage in solving the puzzle. Penalty: disqualification of the attempt (DNF).
-  - 5b3) Permitted repairs:
-    - 5b3a) If any pieces have fallen out or moved out of place, the competitor may place them back.
-    - 5b3b) If, after repairing the puzzle but before the end of the attempt, the competitor finds that the puzzle is unsolvable, he may disassemble and reassemble a maximum of 4 pieces to make the puzzle solvable.
-    - 5b3c) If the puzzle is unsolvable, and can be made solvable by rotating a single corner piece, the competitor may correct the corner piece by twisting it in place without disassembling the puzzle.
-  - 5b4) During blindfolded events, a puzzle defect must be repaired during the attempt, and all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
-  - 5b5) If parts of the puzzle are still defective or not fully placed at the end of the attempt, the result is recorded as the worst state obtainable by repairing the puzzle (see [Regulation 5b3](regulations:regulation:5b3)).
-- 5c) If a competitor has a puzzle defect, this does not give him the right to an extra attempt.
-
+- 5a) パズルの欠損の例：ポップ(パーツの脱落)、同じ場所で回転してしまったパーツ、ねじ/ふた/ステッカーの脱落。
+- 5b) 試技中にパズルの欠損が起きた時には、競技者は欠損を修復して試技を続けるか、試技を中止するかを選ぶことができる。
+  - 5b1) 競技者がパズルを修復することを選んだ場合、欠損したパーツのみ修復することができる。道具や他のパズルのパーツはオリジナルのパズルを修復するのに使ってはならない。罰則：試技の失格(DNF)。
+  - 5b2) パズルの修復をすることにより、競技者がパズルを解く上でいかなる形でも有利になってはならない。罰則：試技の失格(DNF)。
+  - 5b3) 許されている修復は以下の通りである：
+    - 5b3a) パーツが外れたり、ずれたりした場合は、競技者は元の位置に戻すことができる。
+    - 5b3b) パズルを修復してから試技が終わるまでの間に、競技者がパズルが完成できない状態にあることに気付いた場合には、最大４つのパーツを分解して組み立て直し、完成できる状態にすることができる。
+    - 5b3c) パズルが完成できない状態で、一つのコーナーパーツを回転させることで完成可能になる場合、競技者はパズルを分解することなく、コーナーパーツをその場で捻ることで正すことができる。
+  - 5b4) 目隠し競技においては、パズルの欠損は試技中に修復されなければならない。全ての修復は目隠しをした状態で行われなければならない。罰則：試技の失格(DNF)。
+  - 5b5) 試技の終わりにパズルのパーツが欠損している、あるいは、完全に配置されていない場合、結果はパズルを修復することで可能な状態のうち、完成から最も遠い状態として記録される。(参照：5b3)
+- 5c) パズルの欠損が起こっても、競技者に追加試技は与えられない。
 
 ## <article-7><environment><environment> Article 7: Environment
 
