@@ -3,7 +3,7 @@
 <version>バージョン：2013年1月1日
 
 
-## Notes
+## 注釈
 
 ### WCA大会規則・ガイドライン
 
@@ -67,46 +67,45 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
 - 1j) すべての大会役員は大会に参加できる。
 - 1k) 大会役員は複数の役割を担うことができる。(例：大会運営チーム、WCA代理人・ジャッジ・記録入力係・スクランブラー)
 
-## <article-2><competitors><competitors> Article 2: Competitors
+## <article-2><competitors><competitors> 第2条：競技者
 
-- 2a) Any person may compete in a WCA competition if he:
-  - 2a1) Complies with WCA Regulations.
-  - 2a2) Meets the competition requirements, which must be clearly announced before the competition.
-  - 2a3) Is not suspended by WCA Board.
-- 2b) Competitors below the age of 18 must obtain consent from their parent(s)/guardian(s) to register and compete.
-- 2c) Competitors register by providing all information required by the organisation team (including: name, country, date of birth, gender, contact information, selected events).
-  - 2c1) A competitor is not be eligible to compete without a completed registration, as determined by the organisation team.
-- 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and must not be disclosed to outside organisations/persons without the consent of the competitor.
-- 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship standing by means of documents (e.g. a passport). If a competitor is found ineligible to represent the country under which they have registered, the competitor may be disqualified retroactively and/or suspended, at the discretion of the WCA Board.
-  - 2e1) The eligible countries are defined by the Wikipedia article "List of sovereign states" ("UN member states and observer states" and "Other states").
-  - 2e2) Competitors with updates to their citizenship status may change their country of representation in their first competition of a calendar year.
-- 2f) Competitors must obey venue rules and conduct themselves in a considerate manner.
-- 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
-  - 2g3) Competitors in the Competitors Area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor from the event, at the discretion of the WCA Delegate.
-- 2h) Competitors must be fully dressed while in the competition venue. At the discretion of the Delegate, competitors may be disqualified from the competition for inappropriate clothing.
-- 2i) While competing, competitors must not use electronics or audio equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting).
-  - 2i1) Competitors may use certain non-electronic aids that do not give the competitor an unfair advantage, at the discretion of the WCA Delegate. This includes:
-    - 2i1a) Medical/physical aids worn by the competitor (etc. glasses, wrist brace, hearing aids).
-    - 2i1b) Earplugs and earmuffs (but not electronic noise-cancelling headphones).
-- 2j) The WCA Delegate may disqualify a competitor from a specific event.
-  - 2j1) If a competitor is disqualified from an event for any reason, he is not eligible for any more attempts in the event.
-  - 2j2) If a competitor is disqualified during the course of an event, his earlier results remains valid. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
-- 2k) The WCA Delegate may disqualify a competitor from the competition (i.e. from all events of the competition) if the competitor:
-  - 2k1) Fails to check in or register in time for the competition.
-  - 2k2) Is suspected of cheating or defrauding the officials during the competition.
-    - 2k2a) The WCA Delegate may disqualify any suspected results.
-  - 2k3) Behaves in a way that is unlawful, violent or indecent; or intentionally damages venue facilities or personal property within the venue.
-  - 2k4) Interferes with, or distracts others during, the competition.
-  - 2k5) Fails to abide by WCA Regulations during the competition.
-- 2l) A competitor may be disqualified immediately, or after a warning, depending on the nature and severity of the infraction.
-  - 2l1) A disqualified competitor is not eligible for the refund of any expenses due to participating in the competition.
-- 2n) Competitors may verbally dispute a ruling to the WCA Delegate.
-  - 2n1) Disputes are only permitted during the competition, within 30 minutes after the disputed incident happened and before the beginning of any following rounds of the relevant event.
-  - 2n2) The WCA Delegate must resolve the dispute before the beginning of the next round of the event.
-  - 2n3) The competitor must accept all final rulings of the WCA Delegate. Penalty: disqualification from the competition.
-- 2s) Competitors with other disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations from the WCA Delegate. Competitors requesting such accommodations should contact the organisation team and WCA Delegate at least two weeks before the competition.
-- 2t) Each competitor must be familiar with and understand the WCA Regulations before the competition.
-
+- 2a) 以下の条件を満たせば、誰でもWCA公式大会に参加することができる。
+  - 2a1) WCA 大会規則を尊守する。
+  - 2a2) 大会前に明示された基準を満たしている。
+  - 2a3) WCA 理事会により出場停止処分を受けていない。
+- 2b) 18 歳未満の競技者は、大会に登録し参加するために親/保護者の同意を得なければならない。
+- 2c) 競技者は登録のために、大会運営チームの必要とする全ての情報を提供する。(名前、国籍、生年月日、性別、連絡先、参加種目を含む)
+  - 2c1) 大会運営組織によって定められた完全な登録をしなければ、競技者は大会への参加資格を持たない。
+- 2d) 競技者の名前・国籍・性別・大会記録は公開情報とみなされる。他の全ての個人情報は機密情報とみなされ、競技者の同意なしに第三者に公開されてはならない。
+- 2e) 競技者は自らが国籍を持つ国を代表しなければならない。WCA代理人は文書(例：パスポート)を用いて国籍を確認することが望ましい。競技者に登録した国を代表する資格がないことが判明した場合、WCA理事会の裁量により、競技者は過去にさかのぼって失格または出場停止になる可能性がある。
+  - 2e1) 資格のある国はウィキペディア記事「国の一覧」によって定義される（「国連加盟国とオブザーバー国」と 「そのほかの国」）。
+  - 2e2) 国籍がかわった競技者は、年で最初に参加する大会において所属国を変更することができる。
+- 2f) 競技者は大会会場の規則に従い、公序良俗に従い行動しなければならない。
+- 2g) 競技者は指定された競技エリア内では静寂を保たなければならない。会話は許されるが、許容範囲の静寂さを保ち、競技中の競技者との距離を保たなければならない。
+  - 2g3) 競技者待機所にいる競技者は、進行中のラウンドのパズルのスクランブル状態についてお互いにコミュニケーションをとってはならない。罰則：WCA 代理人の裁量による、競技者の種目における失格。
+- 2h) 競技者は大会会場内にいる間は着衣しなければならない。代理人の裁量により、競技者は不適切な衣服によって大会を失格となる可能性がある。
+- 2i) 競技中、競技者は電子機器や音響機器(例：携帯電話、MP3 プレーヤー、ディクタフォン、追加照明)を使用してはならない。
+  - 2i1) WCA 代理人の裁量により、競技者は自身に不公平な利益をもたらさない非電子器具を使うことができる。これは以下のものを含む。
+    - 2i1a) 競技者の身に着けている医療器具、身体的器具(眼鏡、手首固定器、補聴器等)。
+    - 2i1b) 耳栓やイヤーマフ(ノイズキャンセリングヘッドホンは不可)。
+- 2j) WCA代理人は特定の種目において競技者を失格させることができる。
+  - 2j1) 競技者が何らかの理由で失格となると、その種目における試技を続ける資格はなくなる。
+  - 2j2) 競技者が競技の途中で失格となった場合、その種目における失格以前の記録は有効なまま残る。例外：不正行為や詐欺(参照：2k2a)。
+- 2k) WCA代理人は以下の理由で競技者を大会から(すなわち、大会の全種目において)失格させることができる。
+  - 2k1) 時間内に登録を済ませなかった場合。
+  - 2k2) 大会中に不正行為や大会役員を欺むく行為をした疑いがもたれる場合。
+    - 2k2a) WCA代理人は不正とみなされた結果を失格とすることができる。
+  - 2k3) 会場内において違法行為・暴力行為・下品な振る舞い・故意に会場設備や他者所有物に対する破損行為をした場合。
+  - 2k4) 他者を妨害したり、注意を散らせたりした場合。
+  - 2k5) 大会規則を遵守しない場合。
+- 2l) 競技者は違反行為の性質や重大さに応じて、即座に、または警告の後に失格となる可能性がある。
+  - 2l1) 失格となった競技者には、大会参加費用の払い戻しをうける資格はない。
+- 2n) 競技者は WCA 代理人に口頭で抗議してもよい。
+  - 2n1) 抗議は大会中、インシデントが起こってから 30 分以内、かつその種目の次のラウンドの開始前にのみ許可される。
+  - 2n2) WCA代理人は、その種目の次のラウンドの開始までに抗議を解決しなければならない。
+  - 2n3) 競技者はWCA代理人の最終決定を受け入れなければならない。罰則：大会の失格。
+- 2s) 競技者に障害があり、1つ以上のWCA大会規則を尊守することが難しい場合、WCA代理人に特別措置を要求することができる。そのような措置を要求する競技者は、少なくとも大会の2週間前までに大会運営チームとWCA代理人に連絡を取ることが望ましい。
+- 2t) 各競技者は大会前にWCA大会規則をよく理解しておかなければならない。
 
 ## <article-3><puzzles><puzzles> Article 3: Puzzles
 
