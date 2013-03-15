@@ -156,35 +156,33 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
   - 5b5) 試技の終わりにパズルのパーツが欠損している、あるいは、完全に配置されていない場合、結果はパズルを修復することで可能な状態のうち、完成から最も遠い状態として記録される。(参照：5b3)
 - 5c) パズルの欠損が起こっても、競技者に追加試技は与えられない。
 
-## <article-7><environment><environment> Article 7: Environment
+## <article-7><environment><environment> 第7条：競技環境
 
-- 7b) Spectators must remain at least 1.5 metres away from the solving stations when they are in use.
-- 7c) Lighting of the competition area must be given special attention. Lighting should be neutral, such that competitors can easily differentiate among the colours on the puzzles.
-- 7e) The competition area must be smoke-free.
-- 7f) Solving station:
-  - 7f1) Definitions:
-    - 7f1a) Stackmat: The Speedstacks Stackmat timer and a full-size compatible mat.
-    - 7f1b) Mat: The mat of the Stackmat.
-    - 7f1c) Timer: The timer of the Stackmat.
-    - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
-  - 7f2) The timer must be attached to the mat and placed on the surface, with the timer on the side of the mat nearest to the competitor.
-    - 7f2a) Exception: For Solving With Feet, the Stackmat must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
-- 7h) The competition area must have a Competitors Area.
-  - 7h1) The organisation team may require that a competitor who has been called to compete must remain within the Competitors Area until he has finished all of his attempts for the round.
+- 7b) 観客は、競技卓が使われている時には、少なくとも競技卓から1.5メートル離れていなければならない。
+- 7c) 競技エリアの照明には特別気をつけなければならない。競技者が容易にパズルの色の区別がつくように、照明は明るすぎず、暗すぎないべきである。
+- 7e) 競技エリアは禁煙でなければならない。
+- 7f) 競技卓：
+  - 7f1) 競技卓の定義：
+    - 7f1a) スタックマット：スピードスタックスのスタックマットタイマーと、通常の大きさの適したマットからなる。
+    - 7f1b) マット：スタックマットのマット。
+    - 7f1c) タイマー：スタックマットのタイマー。
+    - 7f1d) 競技面：スタックマットが置かれる平らな面のことを指す。マットは競技面の一部と見なされる。タイマーは、競技面の一部とは見なされない。
+  - 7f2) タイマーはマットに取りつけられ、競技面に直接置かれる。タイマーはマットの横、競技者に最も近い側に配置される。
+    - 7f2a) 例外：足競技においては、スタックマットは床に直接置かれなければならない。タイマーはマットの競技者から最も遠い側に置いてもよい。
+- 7h) 競技エリアには競技者待機場所がなければならない。
+  - 7h1) 大会運営チームは、競技に呼ばれた競技者がそのラウンドの全ての試技が終わるまで競技者待機場所に留まることを要請することができる。
 
+## <article-8><competitions><competitions> 第8条：大会
 
-## <article-8><competitions><competitions> Article 8: Competitions
-
-- 8a) An official WCA competition must:
-  - 8a1) Be approved by the WCA Board.
-  - 8a2) Follow the WCA Regulations.
-  - 8a3) Have a designated WCA Delegate in attendance.
-  - 8a4) Be announced on the WCA website at least two weeks before the beginning of the competition.
-  - 8a6) Be publicly accessible.
-  - 8a7) Use the authentic Speed Stacks Stackmat timer (Generation 2 or Pro) for time measurement.
-  - 8a8) Be open to all who wish to compete. Restrictions must be approved by the WCA Board and clearly stated when the competition is announced.
-- 8f) If WCA Regulations are not correctly observed during a competition, the WCA Board may disqualify affected attempts.
-
+- 8a) WCA公式の大会は以下を満たさなければならない：
+  - 8a1) WCA理事会により承認されること。
+  - 8a2) WCA 大会規則に従うこと。
+  - 8a3) 指名された WCA 代理人が出席すること。
+  - 8a4) 大会開始の少なくとも２週間前からWCAのウェブサイトで告知されること。
+  - 8a6) 一般に公開すること。
+  - 8a7) タイムの計測のために、正規のスピードスタックスのスタックマットタイマー（第二版あるいはプロ）を使うこと。
+  - 8a8) 参加を希望する者は誰でも参加できること。参加制限はWCA理事会により承認され、大会が告知される時に明言されなければならない。
+- 8f) 大会中にもしWCA大会規則が正しく遵守されなかった場合、WCA理事会は影響を受けた試技を無効とすることができる。
 
 ## <article-9><events><events> Article 9: Events
 
