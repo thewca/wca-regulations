@@ -1,69 +1,71 @@
-# <wca-title>WCA Regulations 2013
+# <wca-title>WCA レギュレーション 2013
 
-<version>Version: January 1, 2013
+<version>バージョン：2013年1月1日
 
 
 ## Notes
 
-### WCA Regulations and Guidelines
+### WCA大会規則・ガイドライン
 
-The WCA Regulations contains the full set of Regulations that apply to all official competitions sanctioned by the World Cube Association.  
-The WCA Regulations are also supplemented by the [WCA Guidelines](guidelines:top). The Regulations should be considered a complete document, but the Guidelines contain additional clarifications and explanations.
+WCA大会規則は全てのWCA公式大会に適用される規則であり、補足事項はWCAガイドラインに記載されています。
+WCA大会規則は完結した文書であり、ガイドラインにはより詳しい説明や解釈などが記載されています。
 
-### Wording
-To make the Regulations and Guidelines easier to read we use "he" where the reader should read "she or he".  
-Uses of the words "must", "must not", "should", "should not" and "may" match [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
+### 表現法
 
-### Information on the Internet
-Website of World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)  
-Original source of the WCA regulations: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)  
-WCA Regulations in [PDF format](wca-regulations-and-guidelines-2013.pdf)
+大会規則とガイドラインを見やすくするために、「彼」または「彼女」とすべきところにおいて「彼」を使用しています。表現は RFC 2119 に準拠するよう記述されています。
 
-### Source
-Development of the WCA Regulations and Guidelines is public [on GitHub](https://github.com/cubing/wca-documents).
+### インターネット上での情報
 
-### Contact
-For questions and feedback, please contact the [WCA Regulations Committee (WRC)](http://www.worldcubeassociation.org/contact-information).
+世界キューブ協会のウェブサイト：[www.worldcubeassociation.org](http://www.worldcubeassociation.org/)  
+WCA大会規則原文：[www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)  
+WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.pdf)
 
+### 出典
 
-## <contents> [Contents](regulations:contents)
+最新のWCA大会規則とガイドラインはGitHub上にて公開されています。
 
-Note: Because Article and Regulation numbers are not reassigned when Regulations are deleted, there may be gaps in numbering.
+### お問い合わせ先
+
+質問・ご指摘等は[WCA大会規則委員会](http://www.worldcubeassociation.org/contact-information)へお問い合わせ下さい。
+日本語での質問・ご指摘等はJRCA掲示板またはお問い合わせをご利用下さい。
+
+## <contents> [内容](regulations:contents)
+
+注釈：大会規則の条項の一部が削除された場合に、改めて番号を振り直していないため、条項の間に間がある場合があります
 
 <table-of-contents>
 
 
-## <article-1><officials><officials> Article 1: Officials
-
-- 1a) A competition must include a WCA Delegate and an organisation team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
-- 1b) The organisation team of a competition is responsible for logistics before, during, and after the competition.
-- 1c) The WCA Delegate may delegate responsibilities to other members of the organisation team, but is ultimately accountable for how these responsibilities are carried out. The WCA Delegate for a competition is responsible for:
-  - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the competition date.
-  - 1c3) Sending the competition results to the WCA Results Team.
-    - 1c3a) All scramble sequences used during a competition must be sent with the results of the competition.
-    - 1c3b) Scramble sequences must be labelled with the events, rounds, and groups for which they were used.
-  - 1c4) Sending corrections to the competition results to the WCA Board.
-  - 1c5) Advising the other officials where necessary.
-  - 1c6) Approving all events and round formats of a competition, before the competition starts, and if changes are required during the competition.
-  - 1c7) Decisions about disqualifying competitors during the competition.
-  - 1c8) Providing the scramble sequences.
-  - 1c9) Decisions about changes to the scheduled times of rounds. In cases of such changes, a clear announcement must be made to all competitors.
-  - 1c10) Making a copy of the WCA Regulations available at the competition.
-- 1e) Each event must have one or more judges.
-  - 1e1) A judge is responsible for executing the procedures of the event.
-    - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the Delegate, as long as the judge is able to ensure that all WCA Regulations are followed at all times.
-  - 1e2) Capable competitors must be available for judging, if needed by organisation team. Penalty: disqualification from the competition.
-- 1f) Each event must have one or more scramblers. Exception: Fewest Moves Solving.
-  - 1f1) A scrambler applies scramble sequences to prepare puzzles for attempts.
-  - 1f2) Capable competitors must be available for scrambling, if needed by organisation team. Penalty: disqualification from the competition.
-- 1g) Each event must have one or more score takers.
-  - 1g1) A score taker is responsible for compiling results.
-  - 1g2) Any change to the result on a score sheet must be made at the discretion of the WCA Delegate.
-- 1h) Competitors in the same round of an event may be divided into groups.
-  - 1h1) Scramblers and judges for a round should not scramble for/judge competitors in their own group before they have finished all of their attempts for the round. They may scramble for/judge competitors in their own group at the discretion of the WCA Delegate, but the organisation team must ensure that scramblers and judges cannot see any scrambles for their attempts that they have not attempted yet.
-- 1j) All officials may compete in the competition.
-- 1k) Officials may serve multiple roles (e.g. organisation team, WCA Delegate, judge, score taker, scrambler).
-
+## <article-1><officials><officials> 第1条：大会役員
+ 
+- 1a) 大会にはWCA代理人と大会運営チーム（一名以上で構成）、および以下の役員を置かなければならない：ジャッジ、スクランブラー、集計員。
+- 1b) 大会運営組織は大会前、大会中および大会後における支援の責任を負う。
+- 1c) WCA 代理人は大会運営チームの他のメンバーに責任を委任してもよいが、最終的にはそれらの責任の任務遂行について責任を持つ。大会においてWCA代理人は以下の責任を負う。
+  - 1c1) 大会、大会進行全般、およびインシデントにおける大会規則の遵守に関してWCA理事に報告すること。報告は大会から一週間以内に提出されなければならない。
+  - 1c3) 大会結果をWCA結果チームに送付すること。
+    - 1c3a) 大会中に使われたすべてのスクランブルは大会結果と一緒に送られなければならない。
+    - 1c3b) スクランブルはそれらが使われた種目、ラウンド、グループごとにまとめられていなければならない。
+  - 1c4) 大会結果の訂正をWCA理事会に送付すること。
+  - 1c5) 必要があれば大会役員に助言をすること。
+  - 1c6) 大会開始前および大会中に変更が必要である場合に、全ての種目および1c6)そのラウンド形式を承認すること。
+  - 1c7) 大会中に競技者を失格させるか否かの決定を下すこと。
+  - 1c8) スクランブルを用意すること。
+  - 1c9) 競技時間のスケジュールの変更の決定を下すこと。変更がなされた場合、全競技者に明確に伝えなくてはならない。
+  - 1c10) 大会で閲覧可能な大会規則のコピーを用意すること。
+- 1e) 各競技には必ずジャッジを置かなければならない。
+  - 1e1) ジャッジは種目の進行における責任を負う。
+    - 1e1a) 常に全ての大会規則が尊守されているとジャッジが保証できる時に限り、WCA代理人の裁量によりジャッジは複数の競技者を同時にジャッジすることができる。
+  - 1e2) ジャッジのできる競技者は、大会実行チームの要請でいつでもジャッジとなれるよう準備していなければならない。罰則：大会における失格。
+- 1f) 各競技にはスクランブラーを置かなければならない。例外：最少手数競技
+  - 1f1) スクランブラーはスクランブル手順を用いてパズルを開始状態へと準備する。
+  - 1f2) スクランブルのできる競技者は、大会実行チームの要請でいつでもスクランブラーとなれるよう準備しておかなければならない。罰則：大会における失格。
+- 1g) 各競技には記録入力係を置かなければならない。
+  - 1g1) 記録入力係は、結果の集計に責任を負う。
+  - 1g2) 記録用紙上の結果のいかなる訂正もWCA代理人の裁量によって行われなければならない。
+- 1h) 種目の同じラウンドの競技者を複数のグループに分割することができる。
+  - 1h1) 競技者はそのラウンドでの自分の全試技が終了するまでは、同じグループの競技者に対してスクランブルまたはジャッジをしないことが望ましい。競技者はWCA代理人の裁量によって、同じグループの競技者に対してスクランブル/ジャッジをすることができるが、その場合大会運営チームは、スクランブラーとジャッジが彼らのまだ終わってない試技のスクランブルを見ることがないように保証しなければならない。
+- 1j) すべての大会役員は大会に参加できる。
+- 1k) 大会役員は複数の役割を担うことができる。(例：大会運営チーム、WCA代理人・ジャッジ・記録入力係・スクランブラー)
 
 ## <article-2><competitors><competitors> Article 2: Competitors
 
