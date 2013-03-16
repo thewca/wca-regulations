@@ -184,63 +184,64 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
   - 8a8) 参加を希望する者は誰でも参加できること。参加制限はWCA理事会により承認され、大会が告知される時に明言されなければならない。
 - 8f) 大会中にもしWCA大会規則が正しく遵守されなかった場合、WCA理事会は影響を受けた試技を無効とすることができる。
 
-## <article-9><events><events> Article 9: Events
 
-- 9a) The WCA governs competitions for:
-  - 9a1) Puzzles known as Rubik's puzzles.
-  - 9a2) Other puzzles that are manipulated by twisting the sides, commonly known as "twisty puzzles".
-- 9b) The official puzzles and event formats of the WCA are:
-  - 9b1) Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Megaminx, Pyraminx, Square-1, and Rubik's Cube: One-Handed.
-    - 9b1a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3), and "Average of 5".
-  - 9b2) Rubik's Cube: With Feet, 6x6x6 Cube, and 7x7x7 Cube.
-    - 9b2a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3) and "Mean of 3".
-  - 9b3) Rubik's Cube: Fewest Moves, Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded, and Rubik's Cube: Multiple Blindfolded.
-    - 9b3a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3).
-- 9f) The results of a round are measured as follows:
-  - 9f1) All timed results under 10 minutes are measured and rounded down to the nearest hundredth of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second. 
-  - 9f2) All timed results, averages, and means over 10 minutes are measured and rounded to the nearest second (e.g. x.4 becomes x, x.5 becomes x+1).
-  - 9f4) The result of an attempt is recorded as DNF (Did Not Finish) if the attempt is disqualified or unsolved/unfinished.
-  - 9f5) The result of an attempt is recorded as DNS (Did Not Start) if the competitor is eligible for an attempt but declines it.
-  - 9f6) For "Best of X" rounds, each competitor is allotted X attempts. The best result of these attempts counts for the competitor's ranking in the round.
-  - 9f7) For "Best of X" rounds, a DNF or DNS is the worst possible result.
-  - 9f8) For "Average of 5" rounds, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts is removed, and the arithmetic mean of the remaining 3 attempts counts for the competitor's ranking in the round.
-  - 9f9) For "Average of 5" rounds, one DNF or DNS is permitted to count as the competitor's worst result of the round. If a competitor has more than one DNF and/or DNS result in the round, his average score for the round is DNF.
-  - 9f10) For "Mean of 3" rounds competitors are allotted 3 attempts. The arithmetic mean of the 3 attempts counts for the competitor's ranking in the round.
-  - 9f11) For "Mean of 3" rounds, if the competitor has at least one DNF or DNS result, his average score for the round is DNF.
-  - 9f12) For "Best of X" rounds, rankings are assessed based on the best result per competitor. The following are used to compare results:
-    - 9f12a) For timed results, "better" is defined as the shorter time.
-    - 9f12b) For Fewest Moves Solving, "better" is defined as the shorter solution length.
-    - 9f12c) For Multiple Blindfolded Solving, rankings are assessed based on number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, the attempt is considered unsolved (DNF). If competitors achieve the same result, rankings are assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings are assessed based on the number of puzzles the competitors failed to solve, where fewer unsolved puzzles is better.
-  - 9f13) For "Mean of 3" and "Average of 5" rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the shorter recorded time.
-  - 9f14) For "Mean of 3" and "Average of 5" rounds, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where "better" is defined as the shorter time.
-  - 9f15) Competitors who achieve the same result in a round receive an identical ranking for the round.
-- 9g) A Combined Round consists of two phases of attempts, where competitors advance to the second phase if they meet a designated cutoff during the first phase.
-  - 9g2) Whether a competitor proceeds to next phase of a Combined round, must be decided by ranking (best x competitors) or by result (all competitors with a best result under x) of the first phase.
-- 9i) Results of official WCA competitions must be listed on the WCA world rankings.
-  - 9i1) The WCA recognises the following types of regional records: national records, continental records, and world records.
-  - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognised as breaking that regional record.
-  - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
-- 9j) Each event must be held at most once per competition.
-- 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the Board.
-- 9l) Each round must be completed before any following round of the same event starts.
-- 9m) Events must have at most four rounds.
-  - 9m1) Events with 99 or fewer competitors must have at most three rounds.
-  - 9m2) Events with 15 or fewer competitors must have at most two rounds.
-  - 9m3) Events with 7 or fewer competitors must have at most one round.
-- 9o) Combined rounds and Qualification rounds each count as one round when counting the number of rounds per event.
-- 9p) If an event has multiple rounds, then:
-  - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
-  - 9p2) The competitors who advance to the next round must be determined by either a cutoff ranking or a cutoff time in the preceding elimination round.
-  - 9p3) If a qualifying competitor withdraws from a round, he may be replaced by the best-ranked competitor below the cutoff from the preceding round.
-- 9r) A qualification round must be held before the first round of the event.
-  - 9r1) When announcing an event, the organisation team must include:
-    - 9r1a) Any limit to the number of competitors permitted in the first round of the event.
-    - 9r1b) Any limit to the number of competitors permitted in the qualification round of the event, and any limit to the maximum number of those competitors who will proceed to the first round.
-    - 9r1c) The average/mean result or single solve result, achieved in a previous competition, required to qualify directly for the first round of the event.
-    - 9r1d) The latest permitted date used to determine the qualifying average/mean result or single solve result in the WCA rankings.
-  - 9r2) Each competitor of an event who has not directly qualified for the first round of the event must compete in the qualification round in order to participate in the first round.
-  - 9r3) A qualification round may be added to specifically accommodate newly registered competitors, and/or the maximum number of competitors in the qualification round or first round of an event may be increased. These changes must be made at least two weeks before the competition.
-- 9s) Each round of each event must have a time limit (see [Regulation A1a](regulation:A1a)).
+## <article-9><events><events> 第9条：競技種目
+
+- 9a) WCAは以下のものでの競技を認める。
+  - 9a1) ルービックパズルとして認知されているパズル。
+  - 9a2) 面を回転させて操作する、一般に“twisty puzzles”として認知されているパズル。
+- 9b) WCA公式パズル及び競技方式：
+  - 9b1) ルービックキューブ、2x2x2キューブ、4x4x4キューブ、5x5x5キューブ、クロック、メガミンクス、ピラミンクス、スクエア−1、ルービックキューブ：片手。
+    - 9b1a) これらの種目の競技方式は、“ベストオブ X”(X＝1,2,3)、“アベレージオブ5”である。
+  - 9b2) ルービックキューブ：足、6x6x6キューブ、7x7x7キューブ
+    - 9b2a) これらの種目の競技方式は、“ベストオブ X”(X＝1,2,3)または“ミーンオブ3”である。
+  - 9b3) ルービックキューブ：最少手数、ルービックキューブ：目隠し、4x4x4キューブ：目隠し、5x5x5キューブ：目隠し、ルービックキューブ：複数目隠し。
+    - 9b3a) これらの種目の競技方式は“ベストオブX”(X=1,2,3)である。
+- 9f) 各ラウンドの結果は以下のように計測・記録される：
+  - 9f1) 10分未満の全記録は計測後、1000分の1秒の位を切り捨てる。10分未満の全アベレージは計測後、1000分の1秒の位で四捨五入する。
+  - 9f2) 10分を超える全記録、アベレージは、計測後、10分の1秒単位で四捨五入する(例 x.4秒は x秒、x.5秒は x＋1秒)。
+  - 9f4) 失格または未完成の場合、競技の結果はDNF(Did Not Finish 未完成)と記録される。
+  - 9f5) 競技者が棄権する場合、競技の結果はDNS(Did Not Start 棄権)と記録される。
+  - 9f6) “ベストオブX”ラウンドでは、各競技者はX回の試技が認められる。それらの試技のうちの最高記録が、そのラウンドでの競技者の順位付けの参考にされる。
+  - 9f7) “ベストオブX”ラウンドでは、DNF・DNSは、最低記録とする。
+  - 9f8) “アベレージオブ5”ラウンドでは、競技者には5回の試技が認められる。それら5回の試技のうち、最高・最低記録を除いた残り3回の平均が、そのラウンドでの競技者の順位付けの参考にされる。
+  - 9f9) “アベレージオブ5”ラウンドでは、一回のDNFまたはDNSは、そのラウンドでの競技者の最低記録として取り扱う。競技者が二回以上DNFまたはDNSを記録した場合は、そのラウンドの平均記録はDNFとする。
+  - 9f10) “ミーンオブ3”ラウンドでは、競技者には3回の試技が認められる。3回の試技の平均が、そのラウンドでの競技者の順位付けの参考にされる。
+  - 9f11) “ミーンオブ3”ラウンドでは、競技者が一度でも DNF・DNSを記録した場合、そのラウンドの平均記録はDNFとする。
+  - 9f12) “ベストオブX”ラウンドでは、各競技者の最高記録に基づいて順位を付ける。結果を比較するために以下の基準を適用する。
+    - 9f12a) 計測結果ではより速いタイムが“優位”となる。
+    - 9f12b) 最少手数競技では、より少ない手数が“優位”となる。
+    - 9f12c) 複数目隠し競技では、完成させたパズルの個数から未完成のパズルの個数を引いた結果に基づいて順位が付けられ、差が大きい者が優位である。差が0未満になった場合、試技は未完成(DNF)とみなされる。競技者が同じ結果を出した場合は、合計記録に基づいて順位が付けられるが、より速い記録を出した者が優位となる。競技者が同じ結果を出し、合計記録も同じだった場合は、競技者が失敗したパズルの個数に基づいて順位を付けられるが、未完成のパズルがより少ない方が優位となる。
+  - 9f13) “ミーンオブ3”と“アベレージオブ5”ラウンドでは、競技者の平均記録の順序に基づいて順位を付けるが、より速いタイムが“優位”となる。
+  - 9f14) “ミーンオブ3”と“アベレージオブ5”ラウンドでは、二人以上の競技者が同じ平均結果を出した場合、各競技者の最高記録に基づいて順位が付けられるが、より速いタイムが“優位”となる。
+  - 9f15)各ラウンドで同じ結果を出した競技者は、そのラウンドでは同じ順位となる。
+- 9g) 複合ラウンドは二段階の競技で編成されているが、競技者は第一段階で指定された次ラウンド進出条件を満たすと第二段階に進む。
+  - 9g2) 競技者が複合ラウンドの第二段階に進むかどうかは、第一段階での順位(上位x名)、あるいは記録(最高記録がx未満の全ての競技者)によって決めなければならない。
+- 9i) WCA公式大会での記録は、WCA世界ランキングに掲載されなければならない。
+  - 9i1) WCAは、以下の種類の地域別記録を認める： 国別記録、大陸別記録、世界記録。
+  - 9i2) ラウンドでの全ての記録は、そのラウンドの最終日に出されたものとみなされる。もし地域別記録が同じ日に何度も更新された場合、最高記録のみがその地域別記録を更新したと認められる。
+  - 9i3) 種目に関する WCA 大会規則が変更される場合、現存する地域別記録はWCA 新規則においてその種目が削除されるまでは記録として残る。
+- 9j) 各種目は、一大会につき一回のみ行われなければならない。
+- 9k) 全ての競技者は、理事会に特別に認可された場合を除いて、大会の全ての種目に参加してもよい。
+- 9l) 各ラウンドは、同じ種目の次のラウンドが始まる前に終了しなければならない。
+- 9m) 各競技は最大4ラウンドまで行うことができる。
+  - 9m1) 99人以下の競技者による競技は最大3ラウンドまで行うことができる。
+  - 9m2) 15人以下の競技者による競技は最大2ラウンドまで行うことができる。
+  - 9m3) 7人以下の競技者による競技は1ラウンドのみ行うことができる。
+- 9o) 複合ラウンドや予選はそれぞれ１ラウンドとしてカウントする。
+- 9p) ラウンドが複数回行われる場合：
+  - 9p1) 競技者のうち少なくとも 25%を、同じ種目のラウンド間で脱落させなければならない。
+  - 9p2) 次のラウンドに進む競技者は、先行されたラウンドにおける次ラウンド進出基準順位または制限時間のどちらかによって決められなければならない。
+  - 9p3) 出場資格のある競技者が棄権する場合、先行されたラウンドで敗退した者の中で最上位の競技者が代わりに出場してもよい。
+- 9r) 予選は、第一ラウンドの前に行われなければならない。
+  - 9r1) 大会運営チームは、以下のことを含めて大会を告知しなければならない：
+    - 9r1a) 各競技の第一ラウンドの定員数。
+    - 9r1b) 各競技の予選ラウンドの定員数、及び第一ラウンドへ進める競技者数の上限。
+    - 9r1c) その種目の第一ラウンドへの直接参加資格を得るために必要な、過去の大会における平均、単発記録。
+    - 9r1d) いつの時点での WCA ランキングにおける平均、単発記録をもって、参加資格を与えるかどうか。
+  - 9r2) 第一ラウンドへの直接参加資格のない競技者は、第一ラウンドに出場するために、予選に出場しなければならない。
+  - 9r3) 新しく登録された競技者数に合わせて予選を増やしてもよく、予選または第一ラウンドの競技者の定員を増やしてもよい。これらの変更は少なくとも大会の二週間前までになされなければならない。
+- 9s) 各種目の各ラウンドには制限時間を設けなければならない(参照：[A1a](regulation:A1a))。
 
 
 ## <article-10><solved-state><solvedstate> Article 10: Solved State
