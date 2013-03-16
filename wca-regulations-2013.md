@@ -244,22 +244,22 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
 - 9s) 各種目の各ラウンドには制限時間を設けなければならない(参照：[A1a](regulation:A1a))。
 
 
-## <article-10><solved-state><solvedstate> Article 10: Solved State
+## <article-10><solved-state><solvedstate> 第10条：完成状態
 
-- 10b) Only the resting state of the puzzle, after the timer has been stopped, is considered.
-- 10c) The puzzle may be in any orientation at the end of the attempt.
-- 10d) All pieces of a puzzle must be fully attached to the puzzle in their required positions. Exception: see [Regulation 5b5](regulations:regulation:5b5).
-- 10e) A puzzle is solved when all face colours are reassembled and all parts are aligned within the limits specified below:
-  - 10e1) For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in [Regulation 10f](regulations:regulation:10f), the puzzle is considered to require one additional move to solve (see "Outer Block Turn Metric" in [Article 12][(regulations:article:12)).
-  - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle is considered solved without penalty.
-  - 10e3) If one move is required, the puzzle is be considered solved with a time penalty (+2 seconds).
-  - 10e4) If more than one move is required, the puzzle is considered unsolved (DNF).
-- 10f) Limits of acceptable misalignment for puzzles:
-  - 10f1) Cube-shaped puzzles: at most 45 degrees.
-  - 10f2) Megaminx: at most 36 degrees.
-  - 10f3) Pyraminx: at most 60 degrees.
-  - 10f4) Square-1: at most 45 degrees (U/D) or 90 degrees (/).
-- 10h) Puzzles not specified in this article are judged according to the solved state as defined by the generally accepted goal of the puzzle, applying the relevant regulations for the Rubik's Cube.
+- 10b) タイマーの停止後パズルが静止した状態のみが検討の対象である。
+- 10c) 試技後のパズルの向きはどの方向でも良い。
+- 10d) すべてのパーツは正しい場所に完全に付いていなければならない。例外： 参照：[5b5](regulations:regulation:5b5)。
+- 10e) パズルの完成とは、全ての面の色が再構成され、かつ以下に示す決められた限界範囲以内にずれが収まっているときである。
+  - 10e1) パズルの隣り合った2つの部分(例：隣り合った2つの並行なスライス)が[10f](regulations:regulation:10f)に規定されている限界を超えた場合は、完成するのに追加手順1手が必要と見なされる(参照：[第12条](regulations:article:12)の"外層ブロックターン法")。
+  - 10e2) 完成状態まで追加手数を要しない場合、ペナルティは課されない。
+  - 10e3) 1手を要する場合、+2秒ペナルティが課される。
+  - 10e4) 2手以上を要する場合、未完成(DNF)とする。
+- 10f) 容認できるパズルのずれの限界は以下のように決められている：
+  - 10f1) 立方体パズル：最大45度。
+  - 10f2) メガミンクス：最大36度。
+  - 10f3) ピラミンクス：最大60度。
+  - 10f4) スクエア 1：最大45度(U面/D面)、最大90度(縦回転)。
+- 10h) ここに記述されていないパズルについては、完成状態として一般的に容認される状態をその完成状態とし、ルービックキューブに関する適切な規則を適用する。
 
 
 ## <article-11><incidents><incidents> Article 11: Incidents
