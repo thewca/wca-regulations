@@ -454,11 +454,11 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
   - E3b) 色付きステッカー(競技者が持参)。
 
 
-## <article-F><clock><clocksolving> Article F: Clock Solving
+## <article-F><clock><clocksolving> 第F条：クロック競技
 
-- F1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-- F2) The judge places the scrambled puzzle onto the mat in a standing position.
-- F3) At the end of the inspection period, the competitor places the puzzle onto the mat in a standing position. He must not change the positions of any pins from their scrambled positions before the beginning of the solve. Penalty: disqualification (DNF).
+- F1) 基本的な流れは[A条](regulations:article:A)(スピード競技)に準じる。[A条](regulations:article:A)の対応箇所にとってかわる追加規則は以下の通りである。
+- F2) スクランブル後、ジャッジはパズルをスタックマット上に立てて置く。
+- F3) インスペクション後、競技者はパズルをスタックマット上に立てて置く。ソルブ開始前に、スクランブルされた状態のピンの位置を変えることは許されない。罰則：失格(DNF)。
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
