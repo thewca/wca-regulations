@@ -1,488 +1,471 @@
-# <wca-title>WCA Regulations 2013
+# <wca-title>WCA大会規則 2013
 
-<version>Version: January 1, 2013
-
-
-## Notes
-
-### WCA Regulations and Guidelines
-
-The WCA Regulations contains the full set of Regulations that apply to all official competitions sanctioned by the World Cube Association.  
-The WCA Regulations are also supplemented by the [WCA Guidelines](guidelines:top). The Regulations should be considered a complete document, but the Guidelines contain additional clarifications and explanations.
-
-### Wording
-To make the Regulations and Guidelines easier to read we use "he" where the reader should read "she or he".  
-Uses of the words "must", "must not", "should", "should not" and "may" match [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
-
-### Information on the Internet
-Website of World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)  
-Original source of the WCA regulations: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)  
-WCA Regulations in [PDF format](wca-regulations-and-guidelines-2013.pdf)
-
-### Source
-Development of the WCA Regulations and Guidelines is public [on GitHub](https://github.com/cubing/wca-documents).
-
-### Contact
-For questions and feedback, please contact the [WCA Regulations Committee (WRC)](http://www.worldcubeassociation.org/contact-information).
+<version>バージョン：2013年1月1日
 
 
-## <contents> [Contents](regulations:contents)
+## 注釈
 
-Note: Because Article and Regulation numbers are not reassigned when Regulations are deleted, there may be gaps in numbering.
+### WCA大会規則・ガイドライン
+
+WCA大会規則は全てのWCA公式大会に適用される規則であり、補足事項はWCAガイドラインに記載されています。
+WCA大会規則は完結した文書であり、ガイドラインにはより詳しい説明や解釈などが記載されています。
+
+### 表現法
+
+大会規則とガイドラインを見やすくするために、「彼」または「彼女」とすべきところにおいて「彼」を使用しています。表現は RFC 2119 に準拠するよう記述されています。
+
+### インターネット上での情報
+
+世界キューブ協会のウェブサイト：[www.worldcubeassociation.org](http://www.worldcubeassociation.org/)  
+WCA大会規則原文：[www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)  
+WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.pdf)
+
+### 出典
+
+最新のWCA大会規則とガイドラインはGitHub上にて公開されています。
+
+### お問い合わせ先
+
+質問・ご指摘等は[WCA大会規則委員会](http://www.worldcubeassociation.org/contact-information)へお問い合わせ下さい。
+日本語での質問・ご指摘等はJRCA掲示板またはお問い合わせをご利用下さい。
+
+## <contents> [内容](regulations:contents)
+
+注釈：大会規則の条項の一部が削除された場合に、改めて番号を振り直していないため、条項の間に間がある場合があります
 
 <table-of-contents>
 
 
-## <article-1><officials><officials> Article 1: Officials
+## <article-1><officials><officials> 第1条: 大会役員
+ 
+- 1a) 大会にはWCA代理人と大会運営チーム（一名以上で構成）、および以下の役員を置かなければならない：ジャッジ、スクランブラー、集計員。
+- 1b) 大会運営組織は大会前、大会中および大会後における支援の責任を負う。
+- 1c) WCA 代理人は大会運営チームの他のメンバーに責任を委任してもよいが、最終的にはそれらの責任の任務遂行について責任を持つ。大会においてWCA代理人は以下の責任を負う。
+  - 1c1) 大会、大会進行全般、およびインシデントにおける大会規則の遵守に関してWCA理事に報告すること。報告は大会から一週間以内に提出されなければならない。
+  - 1c3) 大会結果をWCA結果チームに送付すること。
+    - 1c3a) 大会中に使われたすべてのスクランブルは大会結果と一緒に送られなければならない。
+    - 1c3b) スクランブルはそれらが使われた種目、ラウンド、グループごとにまとめられていなければならない。
+  - 1c4) 大会結果の訂正をWCA理事会に送付すること。
+  - 1c5) 必要があれば大会役員に助言をすること。
+  - 1c6) 大会開始前および大会中に変更が必要である場合に、全ての種目およびそのラウンド形式を承認すること。
+  - 1c7) 大会中に競技者を失格させるか否かの決定を下すこと。
+  - 1c8) スクランブルを用意すること。
+  - 1c9) 競技時間のスケジュールの変更の決定を下すこと。変更がなされた場合、全競技者に明確に伝えなくてはならない。
+  - 1c10) 大会で閲覧可能な大会規則のコピーを用意すること。
+- 1e) 各競技には必ずジャッジを置かなければならない。
+  - 1e1) ジャッジは種目の進行における責任を負う。
+    - 1e1a) 常に全ての大会規則が尊守されているとジャッジが保証できる時に限り、WCA代理人の裁量によりジャッジは複数の競技者を同時にジャッジすることができる。
+  - 1e2) ジャッジのできる競技者は、大会実行チームの要請でいつでもジャッジとなれるよう準備していなければならない。罰則：大会における失格。
+- 1f) 各競技にはスクランブラーを置かなければならない。例外：最少手数競技
+  - 1f1) スクランブラーはスクランブル手順を用いてパズルを開始状態へと準備する。
+  - 1f2) スクランブルのできる競技者は、大会実行チームの要請でいつでもスクランブラーとなれるよう準備しておかなければならない。罰則：大会における失格。
+- 1g) 各競技には記録入力係を置かなければならない。
+  - 1g1) 記録入力係は、結果の集計に責任を負う。
+  - 1g2) 記録用紙上の結果のいかなる訂正もWCA代理人の裁量によって行われなければならない。
+- 1h) 種目の同じラウンドの競技者を複数のグループに分割することができる。
+  - 1h1) 競技者はそのラウンドでの自分の全試技が終了するまでは、同じグループの競技者に対してスクランブルまたはジャッジをしないことが望ましい。競技者はWCA代理人の裁量によって、同じグループの競技者に対してスクランブル/ジャッジをすることができるが、その場合大会運営チームは、スクランブラーとジャッジが彼らのまだ終わってない試技のスクランブルを見ることがないように保証しなければならない。
+- 1j) すべての大会役員は大会に参加できる。
+- 1k) 大会役員は複数の役割を担うことができる。(例：大会運営チーム、WCA代理人・ジャッジ・記録入力係・スクランブラー)
 
-- 1a) A competition must include a WCA Delegate and an organisation team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
-- 1b) The organisation team of a competition is responsible for logistics before, during, and after the competition.
-- 1c) The WCA Delegate may delegate responsibilities to other members of the organisation team, but is ultimately accountable for how these responsibilities are carried out. The WCA Delegate for a competition is responsible for:
-  - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the competition date.
-  - 1c3) Sending the competition results to the WCA Results Team.
-    - 1c3a) All scramble sequences used during a competition must be sent with the results of the competition.
-    - 1c3b) Scramble sequences must be labelled with the events, rounds, and groups for which they were used.
-  - 1c4) Sending corrections to the competition results to the WCA Board.
-  - 1c5) Advising the other officials where necessary.
-  - 1c6) Approving all events and round formats of a competition, before the competition starts, and if changes are required during the competition.
-  - 1c7) Decisions about disqualifying competitors during the competition.
-  - 1c8) Providing the scramble sequences.
-  - 1c9) Decisions about changes to the scheduled times of rounds. In cases of such changes, a clear announcement must be made to all competitors.
-  - 1c10) Making a copy of the WCA Regulations available at the competition.
-- 1e) Each event must have one or more judges.
-  - 1e1) A judge is responsible for executing the procedures of the event.
-    - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the Delegate, as long as the judge is able to ensure that all WCA Regulations are followed at all times.
-  - 1e2) Capable competitors must be available for judging, if needed by organisation team. Penalty: disqualification from the competition.
-- 1f) Each event must have one or more scramblers. Exception: Fewest Moves Solving.
-  - 1f1) A scrambler applies scramble sequences to prepare puzzles for attempts.
-  - 1f2) Capable competitors must be available for scrambling, if needed by organisation team. Penalty: disqualification from the competition.
-- 1g) Each event must have one or more score takers.
-  - 1g1) A score taker is responsible for compiling results.
-  - 1g2) Any change to the result on a score sheet must be made at the discretion of the WCA Delegate.
-- 1h) Competitors in the same round of an event may be divided into groups.
-  - 1h1) Scramblers and judges for a round should not scramble for/judge competitors in their own group before they have finished all of their attempts for the round. They may scramble for/judge competitors in their own group at the discretion of the WCA Delegate, but the organisation team must ensure that scramblers and judges cannot see any scrambles for their attempts that they have not attempted yet.
-- 1j) All officials may compete in the competition.
-- 1k) Officials may serve multiple roles (e.g. organisation team, WCA Delegate, judge, score taker, scrambler).
+## <article-2><competitors><competitors> 第2条: 競技者
 
+- 2a) 以下の条件を満たせば、誰でもWCA公式大会に参加することができる。
+  - 2a1) WCA 大会規則を尊守する。
+  - 2a2) 大会前に明示された基準を満たしている。
+  - 2a3) WCA 理事会により出場停止処分を受けていない。
+- 2b) 18 歳未満の競技者は、大会に登録し参加するために親/保護者の同意を得なければならない。
+- 2c) 競技者は登録のために、大会運営チームの必要とする全ての情報を提供する。(名前、国籍、生年月日、性別、連絡先、参加種目を含む)
+  - 2c1) 大会運営組織によって定められた完全な登録をしなければ、競技者は大会への参加資格を持たない。
+- 2d) 競技者の名前・国籍・性別・大会記録は公開情報とみなされる。他の全ての個人情報は機密情報とみなされ、競技者の同意なしに第三者に公開されてはならない。
+- 2e) 競技者は自らが国籍を持つ国を代表しなければならない。WCA代理人は文書(例：パスポート)を用いて国籍を確認することが望ましい。競技者に登録した国を代表する資格がないことが判明した場合、WCA理事会の裁量により、競技者は過去にさかのぼって失格または出場停止になる可能性がある。
+  - 2e1) 資格のある国はウィキペディア記事「国の一覧」によって定義される（「国連加盟国とオブザーバー国」と「そのほかの国」）。
+  - 2e2) 国籍がかわった競技者は、年で最初に参加する大会において所属国を変更することができる。
+- 2f) 競技者は大会会場の規則に従い、公序良俗に従い行動しなければならない。
+- 2g) 競技者は指定された競技エリア内では静寂を保たなければならない。会話は許されるが、許容範囲の静寂さを保ち、競技中の競技者との距離を保たなければならない。
+  - 2g3) 競技者待機所にいる競技者は、進行中のラウンドのパズルのスクランブル状態についてお互いにコミュニケーションをとってはならない。罰則：WCA代理人の裁量による、競技者の種目における失格。
+- 2h) 競技者は大会会場内にいる間は着衣しなければならない。代理人の裁量により、競技者は不適切な衣服によって大会を失格となる可能性がある。
+- 2i) 競技中、競技者は電子機器や音響機器(例：携帯電話、MP3プレーヤー、ディクタフォン、追加照明)を使用してはならない。
+  - 2i1) WCA 代理人の裁量により、競技者は自身に不公平な利益をもたらさない非電子器具を使うことができる。これは以下のものを含む。
+    - 2i1a) 競技者の身に着けている医療器具、身体的器具(眼鏡、手首固定器、補聴器等)。
+    - 2i1b) 耳栓やイヤーマフ(ノイズキャンセリングヘッドホンは不可)。
+- 2j) WCA代理人は特定の種目において競技者を失格させることができる。
+  - 2j1) 競技者が何らかの理由で失格となると、その種目における試技を続ける資格はなくなる。
+  - 2j2) 競技者が競技の途中で失格となった場合、その種目における失格以前の記録は有効なまま残る。例外：不正行為や詐欺(参照：[2k2a](regulations:regulation:2k2a))。
+- 2k) WCA代理人は以下の理由で競技者を大会から(すなわち、大会の全種目において)失格させることができる。
+  - 2k1) 時間内に登録を済ませなかった場合。
+  - 2k2) 大会中に不正行為や大会役員を欺むく行為をした疑いがもたれる場合。
+    - 2k2a) WCA代理人は不正とみなされた結果を失格とすることができる。
+  - 2k3) 会場内において違法行為・暴力行為・下品な振る舞い・故意に会場設備や他者所有物に対する破損行為をした場合。
+  - 2k4) 他者を妨害したり、注意を散らせたりした場合。
+  - 2k5) 大会規則を遵守しない場合。
+- 2l) 競技者は違反行為の性質や重大さに応じて、即座に、または警告の後に失格となる可能性がある。
+  - 2l1) 失格となった競技者には、大会参加費用の払い戻しをうける資格はない。
+- 2n) 競技者は WCA 代理人に口頭で抗議してもよい。
+  - 2n1) 抗議は大会中、インシデントが起こってから 30 分以内、かつその種目の次のラウンドの開始前にのみ許可される。
+  - 2n2) WCA代理人は、その種目の次のラウンドの開始までに抗議を解決しなければならない。
+  - 2n3) 競技者はWCA代理人の最終決定を受け入れなければならない。罰則：大会の失格。
+- 2s) 競技者に障害があり、1つ以上のWCA大会規則を尊守することが難しい場合、WCA代理人に特別措置を要求することができる。そのような措置を要求する競技者は、少なくとも大会の2週間前までに大会運営チームとWCA代理人に連絡を取ることが望ましい。
+- 2t) 各競技者は大会前にWCA大会規則をよく理解しておかなければならない。
 
-## <article-2><competitors><competitors> Article 2: Competitors
+## <article-3><puzzles><puzzles> 第3条: パズル
 
-- 2a) Any person may compete in a WCA competition if he:
-  - 2a1) Complies with WCA Regulations.
-  - 2a2) Meets the competition requirements, which must be clearly announced before the competition.
-  - 2a3) Is not suspended by WCA Board.
-- 2b) Competitors below the age of 18 must obtain consent from their parent(s)/guardian(s) to register and compete.
-- 2c) Competitors register by providing all information required by the organisation team (including: name, country, date of birth, gender, contact information, selected events).
-  - 2c1) A competitor is not be eligible to compete without a completed registration, as determined by the organisation team.
-- 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and must not be disclosed to outside organisations/persons without the consent of the competitor.
-- 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship standing by means of documents (e.g. a passport). If a competitor is found ineligible to represent the country under which they have registered, the competitor may be disqualified retroactively and/or suspended, at the discretion of the WCA Board.
-  - 2e1) The eligible countries are defined by the Wikipedia article "List of sovereign states" ("UN member states and observer states" and "Other states").
-  - 2e2) Competitors with updates to their citizenship status may change their country of representation in their first competition of a calendar year.
-- 2f) Competitors must obey venue rules and conduct themselves in a considerate manner.
-- 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
-  - 2g3) Competitors in the Competitors Area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor from the event, at the discretion of the WCA Delegate.
-- 2h) Competitors must be fully dressed while in the competition venue. At the discretion of the Delegate, competitors may be disqualified from the competition for inappropriate clothing.
-- 2i) While competing, competitors must not use electronics or audio equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting).
-  - 2i1) Competitors may use certain non-electronic aids that do not give the competitor an unfair advantage, at the discretion of the WCA Delegate. This includes:
-    - 2i1a) Medical/physical aids worn by the competitor (etc. glasses, wrist brace, hearing aids).
-    - 2i1b) Earplugs and earmuffs (but not electronic noise-cancelling headphones).
-- 2j) The WCA Delegate may disqualify a competitor from a specific event.
-  - 2j1) If a competitor is disqualified from an event for any reason, he is not eligible for any more attempts in the event.
-  - 2j2) If a competitor is disqualified during the course of an event, his earlier results remains valid. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
-- 2k) The WCA Delegate may disqualify a competitor from the competition (i.e. from all events of the competition) if the competitor:
-  - 2k1) Fails to check in or register in time for the competition.
-  - 2k2) Is suspected of cheating or defrauding the officials during the competition.
-    - 2k2a) The WCA Delegate may disqualify any suspected results.
-  - 2k3) Behaves in a way that is unlawful, violent or indecent; or intentionally damages venue facilities or personal property within the venue.
-  - 2k4) Interferes with, or distracts others during, the competition.
-  - 2k5) Fails to abide by WCA Regulations during the competition.
-- 2l) A competitor may be disqualified immediately, or after a warning, depending on the nature and severity of the infraction.
-  - 2l1) A disqualified competitor is not eligible for the refund of any expenses due to participating in the competition.
-- 2n) Competitors may verbally dispute a ruling to the WCA Delegate.
-  - 2n1) Disputes are only permitted during the competition, within 30 minutes after the disputed incident happened and before the beginning of any following rounds of the relevant event.
-  - 2n2) The WCA Delegate must resolve the dispute before the beginning of the next round of the event.
-  - 2n3) The competitor must accept all final rulings of the WCA Delegate. Penalty: disqualification from the competition.
-- 2s) Competitors with other disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations from the WCA Delegate. Competitors requesting such accommodations should contact the organisation team and WCA Delegate at least two weeks before the competition.
-- 2t) Each competitor must be familiar with and understand the WCA Regulations before the competition.
+- 3a) 競技者は大会に自分自身でパズルを用意して参加しなければならない。
+  - 3a1) 競技者は、自分が参加するラウンドに呼ばれる時には会場にいて、競技をできる準備をしていなければならない。罰則：種目の失格。
+  - 3a2) パズルは、通常のスクランブルができるように、正常に動く状態でなければならない。
+  - 3a3) 多面体パズルは、完成された状態で一つの面につき固有の一色を持つ配色でなければならない。各々の異なったパズルは、動きや状態、解法がオリジナルのパズルと同一でなければならない。
+- 3d) パズルはステッカー、タイル、塗装、印刷などで色分けされていなければならない
+  - 3d1) 例外：視覚障害が医学的に証明される競技者は、異なる面に異なる手触りを持つパズルを用いることができる。手触りやパターンは一つの面につき同一でなければならない。スクランブルとジャッジをしやすくするために、各面は異なる色であることが望ましい。
+  - 3d2) パズルの色は、一つの面につき一色で、一様でなければならない。パズルの各色は他の色と明らかに異なる色でなければならない。
+  - 3d3) ステッカーやタイル、手触り、塗りは1.5mmの厚さを超えてはならない。立方体ではないパズルは一般的に入手可能な厚さを超えてはならない。
+- 3h) パズルの根本的な原理を変えるような改造はしてはならない。同じパズルの改造されていないものと比べ、追加の情報（例：パーツの特定）を競技者にもたらすようなものではない限り、改造されたパズルの使用は許される。
+  - 3h1) いわゆるピローパズルに代表されるような、丸みをおびたパズルは使用することができない。例外：丸みをおびた7x7x7キューブは使用できる。
+  - 3h2) いわゆるステッカーレスキューブに代表されるような、面の色が内部に見えるキューブは使用することができない。
+  - 3h3) パズルの改造によって競技者の成績が悪くなったとしても、それは追加試技を得る理由にはならない。
+- 3j) パズルはきれいで、あるパーツを他の似たパーツと区別するような印やパーツの持ち上げ、傷、その他の差異があってはならない。
+  - 3j1) パズルの過度でない擦り切れはWCA代理人の裁量により許容される。
+- 3k) パズルは大会で使用される前にWCA代理人によって承認されなければならない。
+- 3l) キューブパズルにはロゴがあってもよいが、一つ以下でなければならない。ルービックキューブやそれより大きいキューブパズルのロゴの位置は、センターパーツの一つでなければならない。
+  - 3l1) 色のない刻印（一面につき最大一つ）はロゴとは見なされない。
+- 3m) WCA 大会規則に適合する限り、全てのブランドのパズルやパズルのパーツを使うことができる。
 
+## <article-4><scrambling><scrambling> 第4条: スクランブル
 
-## <article-3><puzzles><puzzles> Article 3: Puzzles
+- 4a) スクランブラーはパズルにスクランブル手順を適用する。
+- 4b)パズルはコンピュータによりランダムに生成されたスクランブル手順を用いてスクランブルされなければならない。
+  - 4b1) 生成されたスクランブル手順は大会の前に調べられてはならない。いかなる場合も、WCA代理人によって除外されたり、選ばれたりしてはならない。
+  - 4b2) あるラウンドのスクランブル手順は、そのラウンドが終わるまで WCA代理人とその種目のスクランブラーのみにしか見られないようにしなければならない。例外：最少手数競技では、そのラウンドの間、競技者はスクランブル手順を受け取る(参照：[第E条](regulations:article:E))。
+- 4d) スクランブルをする向きは以下の通り。
+  - 4d1) キューブパズルとメガミンクスは白面(不可能な場合は、最も明るい面)を上面に、緑面(不可能な場合は、隣接した面の中で最も暗い面)を正面にしてスクランブルする。
+  - 4d2) ピラミンクスは、黄面(不可能な場合は、最も明るい面)を底面に、緑面(不可能な場合は、隣接した面の中で最も暗い面)を正面にしてスクランブルする。
+  - 4d3) スクエア１は(考えられる２つの向きのうち)より暗い色の面を正面にしてスクランブルする。
+- 4f) 大会のスクランブル手順は、WCA公式スクランブルプログラムの現行公式バージョンを用いて生成されなければならない(WCA公式ウェブサイトから入手可能)。
+- 4g) スクランブルの後では、スクランブラーはパズルを正しくスクランブルしたか確認しなくてはならない。もしパズルの状態が間違っている場合、競技者はそれを正さなくてはならない(例：パズルを解き、スクランブル手順をもう一度適用する)。
+  - 4g1) 例外：6x6x6 キューブと7x7x7キューブは、WCA代理人の裁量によって、スクランブルを正す必要はない。
 
-- 3a) Competitors must provide their own puzzles for the competition.
-  - 3a1) Competitors must be present and ready to compete when they are called to compete for a round. Penalty: disqualification from the event.
-  - 3a2) Puzzles must be fully operational, such that normal scrambling is possible.
-  - 3a3) Polyhedral puzzles must use a colour scheme with one unique colour per face in the solved state. Each puzzle variation must have moves, states, and solutions functionally identical to the original puzzle.
-- 3d) Puzzles must have coloured stickers, coloured tiles, or painted/printed colours.
-  - 3d1) Exception: Competitors with a medically documented visual disability may use textured puzzles with different textures on different faces. Textures/patterns must be uniform per face. Each face should have a distinct colour, to aid in scrambling and judging.
-  - 3d2) The colours of puzzles must be solid, with one uniform colour per face. Each colour on the puzzle must be clearly distinct from the other colours.
-  - 3d3) Stickers/tiles/textures/paint must not be thicker than 1.5 mm, or the generally available thickness for non-cube puzzles.
-- 3h) Modifications that enhance the basic concept of a puzzle are not permitted.  Modified versions of puzzles are permitted only if the modification does not make any additional information available to the competitor (e.g. identity of pieces), compared to an unmodified version of the same puzzle.
-  - 3h1) "Pillowed" puzzles are not permitted. Exception: Pillowed 7x7x7 cubes are permitted.
-  - 3h2) "Stickerless" cubes, and other cubes whose face colours are visible inside the cube, are not permitted.
-  - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
-- 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that distinguish any piece from a similar piece.
-  - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
-- 3k) Puzzles must be approved by the WCA Delegate before use in the competition.
-- 3l) A cube puzzle may have a logo, but it must have at most one logo. For the Rubik's Cube or bigger cube puzzles the logo must be placed on one of the centre pieces.
-  - 3l1) Colourless engravings (max. 1 per face) are not considered logos.
-- 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
+## <article-5><puzzle-defects><puzzledefects> 第5条: パズルの欠損
 
+- 5a) パズルの欠損の例：ポップ(パーツの脱落)、同じ場所で回転してしまったパーツ、ねじ/ふた/ステッカーの脱落。
+- 5b) 試技中にパズルの欠損が起きた時には、競技者は欠損を修復して試技を続けるか、試技を中止するかを選ぶことができる。
+  - 5b1) 競技者がパズルを修復することを選んだ場合、欠損したパーツのみ修復することができる。道具や他のパズルのパーツはオリジナルのパズルを修復するのに使ってはならない。罰則：試技の失格(DNF)。
+  - 5b2) パズルの修復をすることにより、競技者がパズルを解く上でいかなる形でも有利になってはならない。罰則：試技の失格(DNF)。
+  - 5b3) 許されている修復は以下の通りである：
+    - 5b3a) パーツが外れたり、ずれたりした場合は、競技者は元の位置に戻すことができる。
+    - 5b3b) パズルを修復してから試技が終わるまでの間に、競技者がパズルが完成できない状態にあることに気付いた場合には、最大４つのパーツを分解して組み立て直し、完成できる状態にすることができる。
+    - 5b3c) パズルが完成できない状態で、一つのコーナーパーツを回転させることで完成可能になる場合、競技者はパズルを分解することなく、コーナーパーツをその場で捻ることで正すことができる。
+  - 5b4) 目隠し競技においては、パズルの欠損は試技中に修復されなければならない。全ての修復は目隠しをした状態で行われなければならない。罰則：試技の失格(DNF)。
+  - 5b5) 試技の終わりにパズルのパーツが欠損している、あるいは、完全に配置されていない場合、結果はパズルを修復することで可能な状態のうち、完成から最も遠い状態として記録される。(参照：[5b3](regulations:regulation:5b3))
+- 5c) パズルの欠損が起こっても、競技者に追加試技は与えられない。
 
-## <article-4><scrambling><scrambling> Article 4: Scrambling
+## <article-7><environment><environment> 第7条: 競技環境
 
-- 4a) A scrambler applies scramble sequences to the puzzles.
-- 4b) Puzzles must be scrambled using computer-generated random scramble sequences.
-  - 4b1) Generated scramble sequences must not be inspected before the competition, and must not be filtered or selected in any way by the WCA Delegate.
-  - 4b2) Scramble sequences for a round must be available only to the WCA Delegate and the scramblers for the event, until the end of the round. Exception: For Fewest Moves Solving, competitors receive scrambling sequences during the round (see [Article E](regulations:article:E)).
-- 4d) Scrambling orientation:
-  - 4d1) Cube puzzles and Megaminx are scrambled with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.
-  - 4d2) Pyraminx are scrambled with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
-  - 4d3) Square-1 are scrambled with the darker colour on front (out of the 2 possible scrambling orientations).
-- 4f) Competition scramble sequences must be generated using the current official version of the official WCA scramble program (available via the WCA website).
-- 4g) After scrambling a puzzle, the scrambler must verify that he has scrambled the puzzle correctly. If the puzzle state is wrong, he must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
-  - 4g1) Exception: For the 6x6x6 Cube and the 7x7x7 Cube, it is not necessary to correct the scramble, at the discretion of the WCA Delegate.
+- 7b) 観客は、競技卓が使われている時には、少なくとも競技卓から1.5メートル離れていなければならない。
+- 7c) 競技エリアの照明には特別気をつけなければならない。競技者が容易にパズルの色の区別がつくように、照明は明るすぎず、暗すぎないべきである。
+- 7e) 競技エリアは禁煙でなければならない。
+- 7f) 競技卓：
+  - 7f1) 競技卓の定義：
+    - 7f1a) スタックマット：スピードスタックスのスタックマットタイマーと、通常の大きさの適したマットからなる。
+    - 7f1b) マット：スタックマットのマット。
+    - 7f1c) タイマー：スタックマットのタイマー。
+    - 7f1d) 競技面：スタックマットが置かれる平らな面のことを指す。マットは競技面の一部と見なされる。タイマーは、競技面の一部とは見なされない。
+  - 7f2) タイマーはマットに取りつけられ、競技面に直接置かれる。タイマーはマットの横、競技者に最も近い側に配置される。
+    - 7f2a) 例外：足競技においては、スタックマットは床に直接置かれなければならない。タイマーはマットの競技者から最も遠い側に置いてもよい。
+- 7h) 競技エリアには競技者待機場所がなければならない。
+  - 7h1) 大会運営チームは、競技に呼ばれた競技者がそのラウンドの全ての試技が終わるまで競技者待機場所に留まることを要請することができる。
 
+## <article-8><competitions><competitions> 第8条: 大会
 
-## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
+- 8a) WCA公式の大会は以下を満たさなければならない：
+  - 8a1) WCA理事会により承認されること。
+  - 8a2) WCA 大会規則に従うこと。
+  - 8a3) 指名された WCA 代理人が出席すること。
+  - 8a4) 大会開始の少なくとも２週間前からWCAのウェブサイトで告知されること。
+  - 8a6) 一般に公開すること。
+  - 8a7) タイムの計測のために、正規のスピードスタックスのスタックマットタイマー（第二版あるいはプロ）を使うこと。
+  - 8a8) 参加を希望する者は誰でも参加できること。参加制限はWCA理事会により承認され、大会が告知される時に明言されなければならない。
+- 8f) 大会中にもしWCA大会規則が正しく遵守されなかった場合、WCA理事会は影響を受けた試技を無効とすることができる。
 
-- 5a) Examples of puzzle defects include: popped pieces, pieces twisted in place, and detached screws/caps/stickers.
-- 5b) If a puzzle defect occurs during an attempt, the competitor may choose to either repair the defect and continue the attempt, or to stop the attempt.
-  - 5b1) If a competitor chooses to repair the puzzle, he must repair only the defective pieces. Tools and/or pieces of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the attempt (DNF).
-  - 5b2) Any repair to a puzzle must not give the competitor any advantage in solving the puzzle. Penalty: disqualification of the attempt (DNF).
-  - 5b3) Permitted repairs:
-    - 5b3a) If any pieces have fallen out or moved out of place, the competitor may place them back.
-    - 5b3b) If, after repairing the puzzle but before the end of the attempt, the competitor finds that the puzzle is unsolvable, he may disassemble and reassemble a maximum of 4 pieces to make the puzzle solvable.
-    - 5b3c) If the puzzle is unsolvable, and can be made solvable by rotating a single corner piece, the competitor may correct the corner piece by twisting it in place without disassembling the puzzle.
-  - 5b4) During blindfolded events, a puzzle defect must be repaired during the attempt, and all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
-  - 5b5) If parts of the puzzle are still defective or not fully placed at the end of the attempt, the result is recorded as the worst state obtainable by repairing the puzzle (see [Regulation 5b3](regulations:regulation:5b3)).
-- 5c) If a competitor has a puzzle defect, this does not give him the right to an extra attempt.
+## <article-9><events><events> 第9条: 競技種目
 
+- 9a) WCAは以下のものでの競技を認める。
+  - 9a1) ルービックパズルとして認知されているパズル。
+  - 9a2) 面を回転させて操作する、一般に“twisty puzzles”として認知されているパズル。
+- 9b) WCA公式パズル及び競技方式：
+  - 9b1) ルービックキューブ、2x2x2キューブ、4x4x4キューブ、5x5x5キューブ、クロック、メガミンクス、ピラミンクス、スクエア−1、ルービックキューブ：片手。
+    - 9b1a) これらの種目の競技方式は、“ベストオブ X”(X＝1,2,3)、“アベレージオブ5”である。
+  - 9b2) ルービックキューブ：足、6x6x6キューブ、7x7x7キューブ
+    - 9b2a) これらの種目の競技方式は、“ベストオブ X”(X＝1,2,3)または“ミーンオブ3”である。
+  - 9b3) ルービックキューブ：最少手数、ルービックキューブ：目隠し、4x4x4キューブ：目隠し、5x5x5キューブ：目隠し、ルービックキューブ：複数目隠し。
+    - 9b3a) これらの種目の競技方式は“ベストオブX”(X=1,2,3)である。
+- 9f) 各ラウンドの結果は以下のように計測・記録される：
+  - 9f1) 10分未満の全記録は計測後、1000分の1秒の位を切り捨てる。10分未満の全アベレージは計測後、1000分の1秒の位で四捨五入する。
+  - 9f2) 10分を超える全記録、アベレージは、計測後、10分の1秒単位で四捨五入する(例 x.4秒は x秒、x.5秒は x＋1秒)。
+  - 9f4) 失格または未完成の場合、競技の結果はDNF(Did Not Finish 未完成)と記録される。
+  - 9f5) 競技者が棄権する場合、競技の結果はDNS(Did Not Start 棄権)と記録される。
+  - 9f6) “ベストオブX”ラウンドでは、各競技者はX回の試技が認められる。それらの試技のうちの最高記録が、そのラウンドでの競技者の順位付けの参考にされる。
+  - 9f7) “ベストオブX”ラウンドでは、DNF・DNSは、最低記録とする。
+  - 9f8) “アベレージオブ5”ラウンドでは、競技者には5回の試技が認められる。それら5回の試技のうち、最高・最低記録を除いた残り3回の平均が、そのラウンドでの競技者の順位付けの参考にされる。
+  - 9f9) “アベレージオブ5”ラウンドでは、一回のDNFまたはDNSは、そのラウンドでの競技者の最低記録として取り扱う。競技者が二回以上DNFまたはDNSを記録した場合は、そのラウンドの平均記録はDNFとする。
+  - 9f10) “ミーンオブ3”ラウンドでは、競技者には3回の試技が認められる。3回の試技の平均が、そのラウンドでの競技者の順位付けの参考にされる。
+  - 9f11) “ミーンオブ3”ラウンドでは、競技者が一度でも DNF・DNSを記録した場合、そのラウンドの平均記録はDNFとする。
+  - 9f12) “ベストオブX”ラウンドでは、各競技者の最高記録に基づいて順位を付ける。結果を比較するために以下の基準を適用する。
+    - 9f12a) 計測結果ではより速いタイムが“優位”となる。
+    - 9f12b) 最少手数競技では、より少ない手数が“優位”となる。
+    - 9f12c) 複数目隠し競技では、完成させたパズルの個数から未完成のパズルの個数を引いた結果に基づいて順位が付けられ、差が大きい者が優位である。差が0未満になった場合、試技は未完成(DNF)とみなされる。競技者が同じ結果を出した場合は、合計記録に基づいて順位が付けられるが、より速い記録を出した者が優位となる。競技者が同じ結果を出し、合計記録も同じだった場合は、競技者が失敗したパズルの個数に基づいて順位を付けられるが、未完成のパズルがより少ない方が優位となる。
+  - 9f13) “ミーンオブ3”と“アベレージオブ5”ラウンドでは、競技者の平均記録の順序に基づいて順位を付けるが、より速いタイムが“優位”となる。
+  - 9f14) “ミーンオブ3”と“アベレージオブ5”ラウンドでは、二人以上の競技者が同じ平均結果を出した場合、各競技者の最高記録に基づいて順位が付けられるが、より速いタイムが“優位”となる。
+  - 9f15)各ラウンドで同じ結果を出した競技者は、そのラウンドでは同じ順位となる。
+- 9g) 複合ラウンドは二段階の競技で編成されているが、競技者は第一段階で指定された次ラウンド進出条件を満たすと第二段階に進む。
+  - 9g2) 競技者が複合ラウンドの第二段階に進むかどうかは、第一段階での順位(上位x名)、あるいは記録(最高記録がx未満の全ての競技者)によって決めなければならない。
+- 9i) WCA公式大会での記録は、WCA世界ランキングに掲載されなければならない。
+  - 9i1) WCAは、以下の種類の地域別記録を認める： 国別記録、大陸別記録、世界記録。
+  - 9i2) ラウンドでの全ての記録は、そのラウンドの最終日に出されたものとみなされる。もし地域別記録が同じ日に何度も更新された場合、最高記録のみがその地域別記録を更新したと認められる。
+  - 9i3) 種目に関する WCA 大会規則が変更される場合、現存する地域別記録はWCA 新規則においてその種目が削除されるまでは記録として残る。
+- 9j) 各種目は、一大会につき一回のみ行われなければならない。
+- 9k) 全ての競技者は、理事会に特別に認可された場合を除いて、大会の全ての種目に参加してもよい。
+- 9l) 各ラウンドは、同じ種目の次のラウンドが始まる前に終了しなければならない。
+- 9m) 各競技は最大4ラウンドまで行うことができる。
+  - 9m1) 99人以下の競技者による競技は最大3ラウンドまで行うことができる。
+  - 9m2) 15人以下の競技者による競技は最大2ラウンドまで行うことができる。
+  - 9m3) 7人以下の競技者による競技は1ラウンドのみ行うことができる。
+- 9o) 複合ラウンドや予選はそれぞれ１ラウンドとしてカウントする。
+- 9p) ラウンドが複数回行われる場合：
+  - 9p1) 競技者のうち少なくとも 25%を、同じ種目のラウンド間で脱落させなければならない。
+  - 9p2) 次のラウンドに進む競技者は、先行されたラウンドにおける次ラウンド進出基準順位または制限時間のどちらかによって決められなければならない。
+  - 9p3) 出場資格のある競技者が棄権する場合、先行されたラウンドで敗退した者の中で最上位の競技者が代わりに出場してもよい。
+- 9r) 予選は、第一ラウンドの前に行われなければならない。
+  - 9r1) 大会運営チームは、以下のことを含めて大会を告知しなければならない：
+    - 9r1a) 各競技の第一ラウンドの定員数。
+    - 9r1b) 各競技の予選ラウンドの定員数、及び第一ラウンドへ進める競技者数の上限。
+    - 9r1c) その種目の第一ラウンドへの直接参加資格を得るために必要な、過去の大会における平均、単発記録。
+    - 9r1d) いつの時点での WCA ランキングにおける平均、単発記録をもって、参加資格を与えるかどうか。
+  - 9r2) 第一ラウンドへの直接参加資格のない競技者は、第一ラウンドに出場するために、予選に出場しなければならない。
+  - 9r3) 新しく登録された競技者数に合わせて予選を増やしてもよく、予選または第一ラウンドの競技者の定員を増やしてもよい。これらの変更は少なくとも大会の二週間前までになされなければならない。
+- 9s) 各種目の各ラウンドには制限時間を設けなければならない(参照：[A1a](regulation:A1a))。
 
-## <article-7><environment><environment> Article 7: Environment
+## <article-10><solved-state><solvedstate> 第10条: 完成状態
 
-- 7b) Spectators must remain at least 1.5 metres away from the solving stations when they are in use.
-- 7c) Lighting of the competition area must be given special attention. Lighting should be neutral, such that competitors can easily differentiate among the colours on the puzzles.
-- 7e) The competition area must be smoke-free.
-- 7f) Solving station:
-  - 7f1) Definitions:
-    - 7f1a) Stackmat: The Speedstacks Stackmat timer and a full-size compatible mat.
-    - 7f1b) Mat: The mat of the Stackmat.
-    - 7f1c) Timer: The timer of the Stackmat.
-    - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
-  - 7f2) The timer must be attached to the mat and placed on the surface, with the timer on the side of the mat nearest to the competitor.
-    - 7f2a) Exception: For Solving With Feet, the Stackmat must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
-- 7h) The competition area must have a Competitors Area.
-  - 7h1) The organisation team may require that a competitor who has been called to compete must remain within the Competitors Area until he has finished all of his attempts for the round.
+- 10b) タイマーの停止後パズルが静止した状態のみが検討の対象である。
+- 10c) 試技後のパズルの向きはどの方向でも良い。
+- 10d) すべてのパーツは正しい場所に完全に付いていなければならない。例外： 参照：[5b5](regulations:regulation:5b5)。
+- 10e) パズルの完成とは、全ての面の色が再構成され、かつ以下に示す決められた限界範囲以内にずれが収まっているときである。
+  - 10e1) パズルの隣り合った2つの部分(例：隣り合った2つの並行なスライス)が[10f](regulations:regulation:10f)に規定されている限界を超えた場合は、完成するのに追加手順1手が必要と見なされる(参照：[第12条](regulations:article:12)の"外層ブロックターン法")。
+  - 10e2) 完成状態まで追加手数を要しない場合、ペナルティは課されない。
+  - 10e3) 1手を要する場合、+2秒ペナルティが課される。
+  - 10e4) 2手以上を要する場合、未完成(DNF)とする。
+- 10f) 容認できるパズルのずれの限界は以下のように決められている：
+  - 10f1) 立方体パズル：最大45度。
+  - 10f2) メガミンクス：最大36度。
+  - 10f3) ピラミンクス：最大60度。
+  - 10f4) スクエア 1：最大45度(U面/D面)、最大90度(縦回転)。
+- 10h) ここに記述されていないパズルについては、完成状態として一般的に容認される状態をその完成状態とし、ルービックキューブに関する適切な規則を適用する。
 
+## <article-11><incidents><incidents> 第11条: インシデント
 
-## <article-8><competitions><competitions> Article 8: Competitions
+- 11a) インシデントとは:
+  - 11a1) 大会役員または競技者による不適切な競技の進行。
+  - 11a2) 妨害や混乱、施設の不調(例：停電や警報)。
+  - 11a3) 備品の故障。
+- 11b) インシデントが発生した場合、WCA代理人が公平かつ適切な対処を下す。
+- 11d) WCA大会規則が明確でない場合、またはそのインシデントについてWCA大会規則に記載がない場合は、WCA代理人は公平なスポーツマンシップに基づいて判断しなければならない。
+- 11e) 試技中にインシデントが発生した場合、WCA代理人は競技者に対しインシデント発生時の試技に代えて追加試技を認める事ができる。競技者は、インシデント発生時の試技が終了する前に、口頭または書面でジャッジとWCA代理人に追加試技の資格があることを申し出なければならない。この申し出は追加試技を保証するものではない。
+  - 11e1) 競技者に追加試技が認められた場合、追加試技は異なるスクランブルでなければならない。WCA公式スクランブルプログラムの現行公式バージョンを用いてこのスクランブルを生成しなければならない(参照：[4f](regulations:regulation:4f))。
+- 11f) インシデントの判断にはWCA代理人の裁量で動画または写真を用いることができる。
 
-- 8a) An official WCA competition must:
-  - 8a1) Be approved by the WCA Board.
-  - 8a2) Follow the WCA Regulations.
-  - 8a3) Have a designated WCA Delegate in attendance.
-  - 8a4) Be announced on the WCA website at least two weeks before the beginning of the competition.
-  - 8a6) Be publicly accessible.
-  - 8a7) Use the authentic Speed Stacks Stackmat timer (Generation 2 or Pro) for time measurement.
-  - 8a8) Be open to all who wish to compete. Restrictions must be approved by the WCA Board and clearly stated when the competition is announced.
-- 8f) If WCA Regulations are not correctly observed during a competition, the WCA Board may disqualify affected attempts.
+## <article-12><notation><notation> 第12条: 記号法
 
+- 12a) ルービックキューブと類似パズルの記号法：
+  - 12a1) 1層回し：
+    - 12a1a) 時計回りに90度：F(前面)、B(背面)、R(右面)、L(左面)、U(上面)、D(下面)。
+    - 12a1b) 反時計回りに90度：F'、B'、R'、L'、U'、D'。
+    - 12a1c) 180度: F2、B2、R2、L2、U2、D2。
+  - 12a2) 複数外層スライス回し(最外層スライスと隣り合った内側の複数のスライス。一緒に回す層の数をnとする、2層回しのときnは省略可能)。
+    - 12a2a) 時計回りに90度：nFw、nBw、nRw、nLw、nUw、nDw。
+    - 12a2b) 反時計周りに90度：nFw'、nBw'、nRw'、nLw'、nUw'、nDw'。
+    - 12a2c) 180度：nFw2、nBw2、nRw2、nLw2、nUw2、nDw2。
+  - 12a3) 外層ブロックターン法(OBTM)は以下のように定義される：
+    - 12a3a) 1層回しと複数外層スライス回しは1手と数える。
+    - 12a3b) 持ち替えは0手と数える。
+- 12b) 立方体パズルの持ち替え記号：
+  - 12b1) 時計回りに90度：[f]またはz、[b]またはz'、[r]またはx、[l]またはx'、[u]またはy、[d]またはy'。
+  - 12b2) 反時計回りに90度：[f']またはz'、[b']またはz、[r']またはx'、[l']またはx、[u']またはy'、[d']またはy。
+  - 12b3) 180度：[f2]またはz2、[b2]またはz2、[r2]またはx2、[l2]またはx2、[u2]またはy2、[d2]またはy2。
+- 12c) スクエア1の記号法：
+  - 12c1) 中央層の最小のスライスを前面の左側に固定する。
+  - 12c2) (x,y)とは：上層を時計回りにx掛ける30度、下層を時計回りにy掛ける30度回転させること。
+  - 12c3) "/"とは：パズルの右半分を180度回転させること。
+- 12d) メガミンクスの記号法(スクランブル専用):
+    - 12d1a) 時計回りに72度: U(上面)。
+    - 12d1b) 反時計回りに72度: U'(上面)。
+  - 12d2) その他の動きはメガミンクスの上面左辺の3ピースを固定した状態で回す。
+    - 12d2c) 時計回りに144 度、上面左辺の3ピースを除くパズル全体を回す：R++(垂直スライス), D++(水平スライス)。
+    - 12d2d) 反時計回りに144度、上面左辺の3ピースを除くパズル全体を回す：R--(垂直スライス), D--(水平スライス)。
+- 12e) ピラミンクスの記号法：
+  - 12e1) パズルの向きは、下面が完全に水平であり前面がピラミンクスを持つ者に向かった状態とする。
+  - 12e2) 時計回りに120度：U(上面2層)、L(左面2層)、R(右面2層)、B(背面2層)、u(上頂点)、l(左頂点)、r(右頂点)、b(背頂点)。
+  - 12e3) 反時計回りに120度：U'(上面2層)、L'(左面2層)、R'(右面2層)、B'(背面2層)、u'(上頂点)、l'(左頂点)、r'(右頂点)、b'(背頂点)。
+- 12g) クロックの記号法:
+  - 12g1) パズルの向きは、12時が上方向の状態、かつ盤面はどちらが前面でも良い。
+  - 12g2) ピンを上げる：UR(右上1つ)、DR(右下1つ)、DL(左下1つ)、UL(左上1つ)、U(上2つ)、R(右2つ)、D(下2つ)、L(左2つ)、ALL(4つ全て)。
+  - 12g3) 上がっているピンに隣接するギアを回し、その後全てのピンを下げる：x+(時計回りにx回転)、x-(反時計回りにx回転)。
+  - 12g4) 12時が上方向になるように裏返し、すべてのピンを下げる：y2。
 
-## <article-9><events><events> Article 9: Events
+## <article-A><speedsolving><speedsolving> 第A条: スピード競技
 
-- 9a) The WCA governs competitions for:
-  - 9a1) Puzzles known as Rubik's puzzles.
-  - 9a2) Other puzzles that are manipulated by twisting the sides, commonly known as "twisty puzzles".
-- 9b) The official puzzles and event formats of the WCA are:
-  - 9b1) Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Megaminx, Pyraminx, Square-1, and Rubik's Cube: One-Handed.
-    - 9b1a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3), and "Average of 5".
-  - 9b2) Rubik's Cube: With Feet, 6x6x6 Cube, and 7x7x7 Cube.
-    - 9b2a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3) and "Mean of 3".
-  - 9b3) Rubik's Cube: Fewest Moves, Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded, and Rubik's Cube: Multiple Blindfolded.
-    - 9b3a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3).
-- 9f) The results of a round are measured as follows:
-  - 9f1) All timed results under 10 minutes are measured and rounded down to the nearest hundredth of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second. 
-  - 9f2) All timed results, averages, and means over 10 minutes are measured and rounded to the nearest second (e.g. x.4 becomes x, x.5 becomes x+1).
-  - 9f4) The result of an attempt is recorded as DNF (Did Not Finish) if the attempt is disqualified or unsolved/unfinished.
-  - 9f5) The result of an attempt is recorded as DNS (Did Not Start) if the competitor is eligible for an attempt but declines it.
-  - 9f6) For "Best of X" rounds, each competitor is allotted X attempts. The best result of these attempts counts for the competitor's ranking in the round.
-  - 9f7) For "Best of X" rounds, a DNF or DNS is the worst possible result.
-  - 9f8) For "Average of 5" rounds, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts is removed, and the arithmetic mean of the remaining 3 attempts counts for the competitor's ranking in the round.
-  - 9f9) For "Average of 5" rounds, one DNF or DNS is permitted to count as the competitor's worst result of the round. If a competitor has more than one DNF and/or DNS result in the round, his average score for the round is DNF.
-  - 9f10) For "Mean of 3" rounds competitors are allotted 3 attempts. The arithmetic mean of the 3 attempts counts for the competitor's ranking in the round.
-  - 9f11) For "Mean of 3" rounds, if the competitor has at least one DNF or DNS result, his average score for the round is DNF.
-  - 9f12) For "Best of X" rounds, rankings are assessed based on the best result per competitor. The following are used to compare results:
-    - 9f12a) For timed results, "better" is defined as the shorter time.
-    - 9f12b) For Fewest Moves Solving, "better" is defined as the shorter solution length.
-    - 9f12c) For Multiple Blindfolded Solving, rankings are assessed based on number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, the attempt is considered unsolved (DNF). If competitors achieve the same result, rankings are assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings are assessed based on the number of puzzles the competitors failed to solve, where fewer unsolved puzzles is better.
-  - 9f13) For "Mean of 3" and "Average of 5" rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the shorter recorded time.
-  - 9f14) For "Mean of 3" and "Average of 5" rounds, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where "better" is defined as the shorter time.
-  - 9f15) Competitors who achieve the same result in a round receive an identical ranking for the round.
-- 9g) A Combined Round consists of two phases of attempts, where competitors advance to the second phase if they meet a designated cutoff during the first phase.
-  - 9g2) Whether a competitor proceeds to next phase of a Combined round, must be decided by ranking (best x competitors) or by result (all competitors with a best result under x) of the first phase.
-- 9i) Results of official WCA competitions must be listed on the WCA world rankings.
-  - 9i1) The WCA recognises the following types of regional records: national records, continental records, and world records.
-  - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognised as breaking that regional record.
-  - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
-- 9j) Each event must be held at most once per competition.
-- 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the Board.
-- 9l) Each round must be completed before any following round of the same event starts.
-- 9m) Events must have at most four rounds.
-  - 9m1) Events with 99 or fewer competitors must have at most three rounds.
-  - 9m2) Events with 15 or fewer competitors must have at most two rounds.
-  - 9m3) Events with 7 or fewer competitors must have at most one round.
-- 9o) Combined rounds and Qualification rounds each count as one round when counting the number of rounds per event.
-- 9p) If an event has multiple rounds, then:
-  - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
-  - 9p2) The competitors who advance to the next round must be determined by either a cutoff ranking or a cutoff time in the preceding elimination round.
-  - 9p3) If a qualifying competitor withdraws from a round, he may be replaced by the best-ranked competitor below the cutoff from the preceding round.
-- 9r) A qualification round must be held before the first round of the event.
-  - 9r1) When announcing an event, the organisation team must include:
-    - 9r1a) Any limit to the number of competitors permitted in the first round of the event.
-    - 9r1b) Any limit to the number of competitors permitted in the qualification round of the event, and any limit to the maximum number of those competitors who will proceed to the first round.
-    - 9r1c) The average/mean result or single solve result, achieved in a previous competition, required to qualify directly for the first round of the event.
-    - 9r1d) The latest permitted date used to determine the qualifying average/mean result or single solve result in the WCA rankings.
-  - 9r2) Each competitor of an event who has not directly qualified for the first round of the event must compete in the qualification round in order to participate in the first round.
-  - 9r3) A qualification round may be added to specifically accommodate newly registered competitors, and/or the maximum number of competitors in the qualification round or first round of an event may be increased. These changes must be made at least two weeks before the competition.
-- 9s) Each round of each event must have a time limit (see [Regulation A1a](regulation:A1a)).
+- A1) スピード競技の試技は、以下の規則を守らなければならない。
+  - A1a) 大会運営チームは試技、ラウンドに制限時間を設けることができる。
+    - A1a1) 1試技の制限時間は10分を基本とするが、大会運営チームは制限時間をそれ以下、以上と告知することができる。
+    - A1a2) 制限時間を累積方式とすることもできる。(例：3試技で20分という制限時間)DNFとなった試技の経過時間は、累積方式の制限時間に加算する。
+    - A1a3) 各ラウンドにおいて、制限時間はラウンド開始前に告知されなければならず、ラウンド開始後の変更は望ましくない。制限時間の変更はWCA代理人の裁量によるものでなければならない。WCA代理人は変更が公平であるよう熟慮しなければならない。
+    - A1a4) 競技者は制限時間内に各試技を終えなければならない。制限時間に達した場合、ジャッジは直ちに試技を中止させ、DNFとして結果を記録する。例外：複数目隠し競技(参照：[H1b1](regulations:regulation:H1b1))。
+    - A1a5) ペナルティが課された最終的な記録が制限時間を下回っている時に限り、試技が制限時間内だと判定される。例外：複数目隠し競技(参照：[H1b1](regulations:regulation:H1b1))。
+  - A1b) 制限時間が10分を超える場合、ストップウォッチを用いて記録を計測しなければならない。
+    - A1b1) 制限時間が10分を超える場合、スタックマットタイマーは任意で使用しても良い。
+    - A1b2) スタックマットタイマーで計測できる範囲内の記録の場合、それが元記録(ペナルティなどを加算する前の記録)となる。スタックマットタイマーの記録がない場合は、ストップウォッチの数値をその試技の元記録とする。
+  - A1c) 競技者はその種目における必要条件を満たしていなければならない(例：そのパズルの解き方を知っている)。DNF記録が予期される競技者はWCA代理人の裁量によって、その種目を失格となる場合がある。
+- A2) スクランブル：
+  - A2a) 各ラウンドの呼び出しが行われた時、競技者は完成状態のパズルをスクランブラーに提出し、競技開始まで競技者待機場所で待機する。
+  - A2b) スクランブラーは[第4条](regulations:article:4)の規則に従い、パズルをスクランブルする。
+  - A2c) スクランブラーがパズルのスクランブを始めた後、競技者はインスペクション開始までパズルを見てはならない。
+    - A2c1) スクランブラーは競技者や観客からパズルの一部も見えないよう、スクランブルされたパズルを覆い隠さなければならない。試技の開始までスクランブルされたパズルが覆われた状態にする。
+  - A2d) ジャッジはパズルをスクランブラーから受け取った際に、簡単に確認作業をおこなう。スクランブル状態に懸念がある場合は、スクランブラーに確認を仰ぐ。
+  - A2e) ジャッジはスタックマットの上に任意の向きで、パズルが全く見えないようにスクランブルされたパズルを置く。ジャッジがパズルを置く際に、競技者は特定の向きで置くように指示することは認められない。
+- A3) インスペクション：
+  - A3a) 競技者は各試技の前にパズルを観察(インスペクション)することができる。
+    - A3a1) 競技者にはインスペクションからソルブ開始まで最大15秒の時間が与えられる。
+  - A3b) 競技者が試技を開始する前に、ジャッジはスタックマットタイマーと場合によってはストップウォッチの表示をリセットする。
+    - A3b1) 競技者の用意ができているだろうと判断した際、ジャッジは競技者に「レディ?/準備はよろしいですか？」と尋ねる。競技者は呼び出しから1分以内に競技開始の準備をしなければならない。罰則：ジャッジの判断による試技の失格(DNF)。
+    - A3b2) 競技者が準備ができていることを認めた際、ジャッジはパズルの覆いを外す。試技にストップウォッチが必要な際、ジャッジはストップウォッチを同時にスタートさせる。
+  - A3c) 競技者はインスペクション中に、パズルを持ち上げることができる。
+    - A3c1) 競技者はインスペクション中に、パズルを回転させてはならない。罰則：試技の失格(DNF)。
+    - A3c2) もしパズルにずれがある場合、競技者はパズルのずれを10fの制限内で修正することができる。
+    - A3c3) 競技者はスタート前にタイマーをリセットすることができる。
+  - A3d) インスペクションの終了時に競技者は任意の向きや場所でスタックマットの上にパズルを置く。
+    - A3d1) パズルはスタックマットタイマーの上に重ねて置いてはならない。罰則：+2秒ペナルティ。
+    - A3d2) インスペクションが8秒経過した際、ジャッジは「8秒」という。
+    - A3d3) インスペクションが12秒経過した際、ジャッジは「12秒」という。
+- A4) 試技の開始
+  - A4b) 競技者は手の平を下にして、スタックマットタイマーのセンサー部に指で触れるように両手を置かなければならない。罰則：+2秒ペナルティ。
+    - A4b1) インスペクション後とスタートの間に、競技者はパズルに物理的接触をしてはならない。罰則：+2秒ペナルティ。
+  - A4d) 競技者はスタックマットタイマーが緑色に点灯したことを確認した上で、両手をタイマーから離しスタートする。
+    - A4d1) 競技者はインスペクション開始から15秒以内にスタートしなければならない。罰則：+2秒ペナルティ。
+    - A4d2) 競技者はインスペクション開始から17秒以内にスタートしなければならない。罰則：試技の失格(DNF)。
+  - A4e) スタート時の+2秒ペナルティは累積方式とする。
+- A5) 試技中：
+  - A5a) インスペクション中・試技中に競技者はジャッジ以外のだれともコミュニケーションをとってはならない。罰則：試技の失格(DNF)。
+  - A5b) インスペクション中・試技中に、競技者は誰の助けも得てはならないし、競技面以外の物理的な補助を得てはならない(参照：[2i](regulations:regulation:2i))。罰則：試技の失格(DNF)。
+- A6) 試技の終了：
+  - A6a) 競技者はパズルを離して試技を終えた後にタイマーを止める。
+    - A6a1) 記録計測にストップウォッチが使用されている場合、競技者はパズルを離して試技を終えた後に、ジャッジに競技が終了したことを知らせる。
+    - A6a2) スタックマットタイマーを使用せず、ストップウォッチを使用している場合、競技者の基本的な終了合図は次の通りである。パズルから手を離し、手の平を下にして競技面に手をおく。競技者とジャッジは適当な合図を試技前に決めることができる。
+  - A6b) 競技者はスタックマットタイマーを正確に止める責任を負う。
+    - A6b1) 試技が終わる前にスタックマットタイマーが停止し、記録表示が0.06秒未満の場合、追加試技を行う。競技者が故意にタイマーを止めたとWCA代理人が判断した場合、競技者は追加試技の権利を失う。
+    - A6b2) 試技が終わる前にスタックマットタイマーが停止し、記録表示が0.06秒以上の場合、その試技は失格(DNF)とする。例外：競技者がスタックマットタイマーの故障を実証することができる場合は、WCA代理人の判断で追加試技を行うことができる。
+  - A6c) 競技者はタイマーを止める前に完全にパズルから手を離さなければならない。罰則：+2秒ペナルティ。
+  - A6d) 競技者は両手を使い、手のひらを下にしてスタックマットタイマーを止めなければならない。罰則：+2秒ペナルティ。
+  - A6e) ジャッジが完成状態を確認するまで、競技者はパズルに触れたり回転させたりしてはならない。罰則：試技の失格(DNF)。例外：回転させていない場合はジャッジの判断により、+2 秒ペナルティとすることができる。
+  - A6f) ジャッジが結果を記録するまで、競技者はスタックマットタイマーをリセットしてはならない。罰則：ジャッジの判断により、試技の失格(DNF)
+  - A6g) ジャッジはパズルの完成状態であるかを決定する。ジャッジは完成を確認する際にパズルを動かしたり、ずれを修正したりしてはならない。例外：クロック競技の場合はパズルを動かしてもよい。
+  - A6h) 完成状態について協議をする場合、協議が解決するまでパズルを動かしたり、ずれを直したりしてはならない。
+  - A6i) 試技終了時の+2秒ペナルティは累積方式とする。
+- A7) 結果の記録：
+  - A7a) ジャッジは競技者に記録を伝える。
+    - A7a1) ジャッジは完成状態と判断したら、ジャッジは「オッケー」という。
+    - A7a2) ジャッジは罰則を適用する場合、ジャッジは「ペナルティ」という。
+    - A7a3) 記録がDNFの場合、ジャッジは「DNF」という。
+  - A7b) ジャッジは記録用紙に結果を記入する。
+    - A7b1) 罰則を適用する場合、ジャッジは罰則が適用されていないスタックマットタイマーに表示された元記録とペナルティを記録する。フォーマットは「X + T + Y = F」が望ましく、Xにインスペクションや試技開始時のペナルティの合計を、Tにスタックマットタイマーに表示されたタイムを、Yに試技終了時のペナルティの合計を、Fに最終的な結果を記録する。XやYが0の場合、0は省略し記入しない(例：2 + 17.65 + 2 = 21.65、17.65 + 2 = 19.65)。
+  - A7c) ジャッジと競技者の双方とも、結果に同意するため記録用紙に名前(またはイニシャル)で署名しなければならない。
+    - A7c1) 競技者またはジャッジが記録用紙への署名を拒んだ場合、WCA代理人はこの問題を解決しなければならない。
+  - A7f) そのラウンドの競技者の記録用紙の記入が終わったら、ジャッジは記録記録入力係に記録用紙を渡す。
 
+## <article-B><blindfolded><blindfoldedsolving> 第B条: 目隠し競技
 
-## <article-10><solved-state><solvedstate> Article 10: Solved State
+- B1) 基本的な流れは[第A条](regulations:article:A)(スピード競技)に準じる。[第A条](regulations:article:A)の対応箇所に取って代わる追加規則は以下の通りである。
+  - B1a) インスペクションはない。
+  - B1b) 競技者は自分で目隠しを用意しなければならない。
+- B2) 試技の開始：
+  - B2a) ジャッジはタイマーとストップウォッチをリセットする。
+  - B2b) 競技者は手のひらを下にして、指でセンサーに触れるように両手を置かなければならない。罰則：+2秒ペナルティ。
+  - B2c) 競技者は、試技開始までパズルに触れてはならない。罰則：+2秒ペナルティ。
+  - B2d) 競技者は、タイマーから手を離し、タイマーをスタートさせ、試技を始める。
+    - B2d1) 競技者はタイマーをスタートさせた後、自らパズルの覆いをはずさなければならない。
+  - B2e) ストップウォッチを計測に使用する場合、ジャッジは試技が開始されたらすぐにストップウォッチをスタートさせる。
+- B3) 記憶段階：
+  - B3a) 記憶段階の間、競技者はパズルを手に取ることができる。
+  - B3b) 競技者は物理的なメモを取ってはならない。罰則：試技の失格(DNF)。
+  - B3c) 競技者は記憶段階の間、パズルのスライスを回転させてはならない。
+- B4) 目隠し段階：
+  - B4a) 競技者は目隠しを着用し、目隠し段階を開始する。
+  - B4b) 競技者は完全に目隠しを着用するまではパズルのスライスを回転させてはならない。
+  - B4c) 競技者がソルブを行っている間、ジャッジは競技者の顔とパズルの間を確実に不透明の物体で遮らなければならない。
+    - B4c1) いかなる場合においても競技者は、不透明の物体が顔とパズルの間になくてもパズルへの視界が完全に遮られるように、目隠しを着用していなければならない。
+    - B4c2) 原則、競技者が目隠しを着用している間、ジャッジは競技者の顔とパズルの間に物体(例:紙や段ボール)を挟まなければならない。
+    - B4c3) 事前にジャッジと競技者の同意があれば、競技者は目隠し中にパズルを適切な物体(例:譜面台、机の天板)の向こう側にパズルを配置することを選択してもよい。
+  - B4d) 競技者は目隠し段階の間にパズルの状態を見て確認してはならない。罰則：試技の失格(DNF)。
+  - B4e) 競技者は最初の一手を始める前であれば、目隠しを取って記憶段階に戻ることができる。
+- B5) 試技の終了：
+  - B5a) スタックマット使用時、競技者はパズルから手を離しタイマーを止めることによって試技を終了する。
+  - B5b) ストップウォッチ使用の場合、競技者は試技が終了したらパズルを競技面に戻し、ジャッジに口頭で試技終了を知らせる。ジャッジはその時点でストップウォッチを止める。
+  - B5c) 競技者はパズルを触らないのであれば、タイマーを止める前に目隠しを取ることができる。しかし目隠しを取った後はパズルのスライスを回転させてはならない。罰則：試技の失格(DNF)。
 
-- 10b) Only the resting state of the puzzle, after the timer has been stopped, is considered.
-- 10c) The puzzle may be in any orientation at the end of the attempt.
-- 10d) All pieces of a puzzle must be fully attached to the puzzle in their required positions. Exception: see [Regulation 5b5](regulations:regulation:5b5).
-- 10e) A puzzle is solved when all face colours are reassembled and all parts are aligned within the limits specified below:
-  - 10e1) For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in [Regulation 10f](regulations:regulation:10f), the puzzle is considered to require one additional move to solve (see "Outer Block Turn Metric" in [Article 12][(regulations:article:12)).
-  - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle is considered solved without penalty.
-  - 10e3) If one move is required, the puzzle is be considered solved with a time penalty (+2 seconds).
-  - 10e4) If more than one move is required, the puzzle is considered unsolved (DNF).
-- 10f) Limits of acceptable misalignment for puzzles:
-  - 10f1) Cube-shaped puzzles: at most 45 degrees.
-  - 10f2) Megaminx: at most 36 degrees.
-  - 10f3) Pyraminx: at most 60 degrees.
-  - 10f4) Square-1: at most 45 degrees (U/D) or 90 degrees (/).
-- 10h) Puzzles not specified in this article are judged according to the solved state as defined by the generally accepted goal of the puzzle, applying the relevant regulations for the Rubik's Cube.
+## <article-C><one-handed><onehandedsolving> 第C条: 片手競技
 
+- C1) 基本的な流れは[第A条](regulations:article:A)(スピード競技)に準じる。[第A条](regulations:article:A)の対応箇所に取って代わる追加規則は以下の通りである。
+  - C1b) ソルビング中、競技者は片方の手以外の体の部分でパズルに触れてはならない。罰則：試技の失格(DNF)。
+    - C1b2)パズルの欠損が発生し、競技者が修復する事を選択した時、修復はソルブに使用している片方の手のみで行わなくてはならない。罰則：試技の失格(DNF)。
+    - C1b3) パズルの欠損が発生してパズルのパーツが体の他の部分に一時的に接触し、それが競技者の故意ではない場合、それはパズルに触れたとはみなされない。ただしジャッジの裁量による。
+  - C1c)ソルブ中に競技者が一旦パズルに手を触れたら、もう片方の手ではパズルに触れてはならない。罰則：試技の失格(DNF)。
 
-## <article-11><incidents><incidents> Article 11: Incidents
+## <article-D><feet><solvingwithfeet> 第D条: 足競技
 
-- 11a) Incidents include:
-  - 11a1) Incorrect execution of event procedures, by officials or competitors.
-  - 11a2) Interference or facility interruptions (e.g. power failure, emergency alarm activation).
-  - 11a3) Equipment malfunction.
-- 11b) If an incident occurs, the WCA Delegate determines an impartial and appropriate course of action.
-- 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make his decision based on fair sportsmanship.
-- 11e) If an incident occurs during an attempt, the WCA Delegate may award a competitor an extra attempt, replacing the attempt during which the incident occurred. The competitor must appeal verbally or in writing to the judge and WCA Delegate at the time of the incident, before finishing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.
-  - 11e1) If a competitor is awarded an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble sequence must be generated using the current official version of the official WCA scramble program (see [Regulation 4f](regulations:regulation:4f)).
-- 11f) Decisions about an incident may be supported with video or photographic analysis, at the discretion of the WCA Delegate.
+- D1) 基本的な流れは[第A条](regulations:article:A)(スピード競技)に準じる。[第A条](regulations:article:A)の対応箇所に取って代わる追加規則は以下の通りである。
+  - D1a) 試技中、競技者は椅子に座るか、床面に座るか、または立っていなければならない。
+  - D1b) 試技中、競技者は両足と床面以外を使用してはならない。罰則：試技の失格(DNF)。
+  - D1c) 試技中、競技者は両足以外の身体の部分でパズルに触れてはならない。罰則：試技の失格(DNF)。
+- D3) 試技の開始：
+  - D3a) 競技者は両足をタイマーのセンサーの上に置く。
+  - D3b) 競技者はセンサーから足を離して試技を開始する。
+- D4) 試技の終了：
+  - D4a) 競技者はタイマーのセンサー部に両足を置いてタイマーを止める。
 
+## <article-E><fewest-moves><fewestmovessolving> 第E条: 最少手数競技
 
-## <article-12><notation><notation> Article 12: Notation
+- E2) 最少手数競技の競技手順：
+  - E2a) ジャッジがスクランブル手順を全競技者に渡す。ジャッジがストップウォッチをスタートさせ「ゴー」と言う。
+  - E2b) 全競技者は制限時間60分間に最少手数解法を導き出す。
+    - E2b1) ジャッジは55分経過時に「残り時間5分」を告知することが望ましい。また60分経過時に「止め」と言う。
+  - E2c) 60分終了時、競技者は名前と、判読できる文字で書いた解法を書いた解答用紙をジャッジに渡さなければならない。外層ブロックターン法(参照：[12a](regulations:regulation:12a))にて定義されている回転記号を使うこと。罰則：試技の失格(DNF)。
+  - E2d)手数は、外層ブロックターン法(参照：[12a](regulations:regulation:12a))を用いて計算する。
+    - E2d1) 解法は手数と持ち替えを合わせて80以下でなければならない。
+  - E2e) 競技者の解法はスクランブルのアルゴリズムと一切関連があってはならない。罰則：試技の失格(DNF)。
+    - E2e1) WCA代理人は競技者に対し、スクランブルのアルゴリズムに関係のない解法の各手順の意図に関する説明を求めることができる。もし競技者が解法に妥当な説明ができなかった場合、その試技は失格となる。
+- E3) 競技者は試技の間、以下の道具を使用することができる。その他のものを使用した場合の罰則：試技の失格(DNF)。
+  - E3a) 紙とペン(共にジャッジが支給)。
+  - E3b) 1〜3個のキューブ(競技者が持参)。
+  - E3b) 色付きステッカー(競技者が持参)。
 
-- 12a) Notation for Rubik's Cube and similar puzzles:
-  - 12a1) Face Moves:
-    - 12a1a) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
-    - 12a1b) Anti-clockwise, 90 degrees: F', B', R', L', U', D'.
-    - 12a1c) 180 degrees: F2, B2, R2, L2, U2, D2.
-  - 12a2) Multiple Outer Slice Moves (outer slice plus adjacent inner slices; n is defined as total number of slices to move; n may be omitted for two slices):
-    - 12a2a) Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw.
-    - 12a2b) Anti-clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw'.
-    - 12a2c) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
-  - 12a3) Outer Block Turn Metric (OBTM) is defined as:
-    - 12a3a) Each move of the categories Face Moves and Multiple Outer Slice Moves is counted as 1 move.
-    - 12a3b) Each rotation is counted as 0 moves.
-- 12b) Rotations for all cube shaped puzzles:
-  - 12b1) Clockwise, 90 degrees: [f] or z, [b] or z', [r] or x, [l] or x', [u] or y, [d] or y'.
-  - 12b2) Anti-clockwise, 90 degrees: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y.
-  - 12b3) 180 degrees: [f2] or z2, [b2] or z2, [r2] or x2, [l2] or x2, [u2] or y2, [d2] or y2.
-- 12c) Notation for Square-1:
-  - 12c1) Moves are applied with the smallest slice of the middle layer on left side of front face.
-  - 12c2) (x,y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise.
-  - 12c3) "/" means: turn the right half of the puzzle 180 degrees.
-- 12d) Notation for Megaminx (scrambling notation only):
-    - 12d1a) Clockwise, 72 degrees: U (upper face).
-    - 12d1b) Anti-clockwise, 72 degrees: U' (upper face).
-  - 12d2) Other moves are applied while keeping 3 pieces fixed at top left of the puzzle:
-    - 12d2c) Clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R++ (vertical slices), D++ (horizontal slices).
-    - 12d2d) Anti-clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R-- (vertical slices), D-- (horizontal slices).
-- 12e) Notation for Pyraminx:
-  - 12e1) The puzzle is oriented with the bottom face completely horizontal and the front face facing the person who holds the Pyraminx.
-  - 12e2) Clockwise, 120 degrees: U (upper 2 layers), L (left 2 layers), R (right 2 layers), B (back 2 layers), u (upper vertex), l (left vertex), r (right vertex), b (back vertex).
-  - 12e3) Anti-clockwise, 120 degrees: U' (upper 2 layers), L' (left 2 layers), R' (right 2 layers), B' (back 2 layers), u' (upper vertex), l' (left vertex), r' (right vertex), b' (back vertex).
-- 12g) Notation for Clock:
-  - 12g1) The puzzle is oriented with twelve on top, and either side in front.
-  - 12g2) Move pins up: UR (top-right), DR (bottom-right), DL (bottom-left), UL (top-left), U (both top), R (both right), D (both bottom), L (both left), ALL (all).
-  - 12g3) Turn a wheel next to an up-position pin and move all pins down afterwards: x+ (x clockwise turns), x- (x anti-clockwise turns).
-  - 12g4) Turn around the puzzle so that twelve is still on top, and then move all pins down: y2.
+## <article-F><clock><clocksolving> 第F条: クロック競技
 
+- F1) 基本的な流れは[第A条](regulations:article:A)(スピード競技)に準じる。[第A条](regulations:article:A)の対応箇所にとってかわる追加規則は以下の通りである。
+- F2) スクランブル後、ジャッジはパズルをスタックマット上に立てて置く。
+- F3) インスペクション後、競技者はパズルをスタックマット上に立てて置く。ソルブ開始前に、スクランブルされた状態のピンの位置を変えることは許されない。罰則：失格(DNF)。
 
-## <article-A><speedsolving><speedsolving> Article A: Speed Solving
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> 第H条: 複数目隠し競技
 
-- A1) Speed Solving attempts must abide by the following procedure.
-  - A1a) The organisation team may enforce time limits for attempts and/or rounds.
-    - A1a1) The default time limit per attempt is 10 minutes, though the organisation team may announce a higher or lower time limit.
-    - A1a2) Cumulative time limits may be enforced (e.g. 3 attempts with a cumulative time limit of 20 minutes). The time elapsed in a DNF result counts towards the cumulative time limit.
-    - A1a3) For each round, any time limits must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
-    - A1a4) The competitor must end each attempt within the time limit. If a competitor reaches the time limit for an attempt/round, the judge stops the attempt immediately and record the result as DNF. Exception: Multiple Blindfolded Solving (see [Regulation H1b1](regulations:regulation:H1b1)).
-    - A1a5) An attempt is considered to meet the time limit if and only if the final result, after any time penalties are applied, is less than the time limit. Exception: Multiple Blindfolded Solving (see [Regulation H1b1](regulations:regulation:H1b1)).
-  - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
-    - A1b1) Simultaneous use of a Stackmat timer is optional.
-    - A1b2) If a time from the Stackmat timer is available, it is the original recorded time. Otherwise, the stopwatch time is the original recorded time. 
-  - A1c) A competitor participating in an event must be able to fulfill the event's requirements (e.g. know how to solve the puzzle). A competitor competing with expectation of a DNF result may be disqualified from the event, at the discretion of the WCA Delegate.
-- A2) Scrambling:
-  - A2a) When called for a round, the competitor submits his puzzle, in its solved state, to the scrambler and waits in the Competitors Area until he is called to compete.
-  - A2b) A scrambler scrambles the puzzle according to the regulations in [Article 4](regulations:article:4).
-  - A2c) After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.
-    - A2c1) The scrambler places a cover over the scrambled puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover remains over the puzzle until the beginning of the attempt.
-  - A2d) When taking a puzzle from the scrambler, the judge briefly inspects the puzzle to ensure thorough scrambling of the puzzle. The judge raises any concerns with the scrambler, who then conducts a detailed check.
-  - A2e) The judge places the puzzle onto the mat in an arbitrary orientation and ensures that it is covered completely. The competitor is not permitted to request a specific orientation.
-- A3) Inspection:
-  - A3a) The competitor may inspect the puzzle at the beginning of each attempt.
-    - A3a1) The competitor is allotted a maximum of 15 seconds to inspect the puzzle and start the solve.
-  - A3b) Before the competitor starts the attempt, the judge resets the timer and, where applicable, the stopwatch.
-    - A3b1) When the judge believes the competitor is ready, he asks "READY?". The competitor must be ready to start the attempt within one minute of being called. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
-    - A3b2) When the competitor confirms his readiness, the judge uncovers the puzzle. If the attempt requires a stopwatch, the judge starts it at the same time.
-  - A3c) The competitor may pick up the puzzle during inspection.
-    - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the attempt (DNF).
-    - A3c2) If the pieces of the puzzle are not fully aligned, then the competitor may align the faces, as long as misalignments stay within the limits 10f.
-    - A3c3) The competitor may reset the timer before he starts the solve.
-  - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation and position.
-    - A3d1) The puzzle must not rest on the timer. Penalty: time penalty (+2 seconds).
-    - A3d2) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
-    - A3d3) When 12 seconds of inspection have elapsed, the judge calls "12 SECONDS".
-- A4) Starting the solve:
-  - A4b) The competitor places his hands on the elevated sensor unit of the timer, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
-    - A4b1) The competitor must have no physical contact with the puzzle between the inspection period and the beginning of the solve. Penalty: time penalty (+2 seconds).
-  - A4d) The competitor starts the solve by confirming that the timer light is green and then removing his hands from the timer, thus starting the timer.
-    - A4d1) The competitor must start the solve within 15 seconds of the beginning of the inspection. Penalty: time penalty (+2 seconds).
-    - A4d2) The competitor must start the solve within 17 seconds of the beginning of the inspection. Penalty: disqualification of the attempt (DNF).
-  - A4e) Time penalties for starting the solve are cumulative.
-- A5) During the solve:
-  - A5a) While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge. Penalty: disqualification of the attempt (DNF).
-  - A5b) While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface (also see [Regulation 2i](regulations:regulation:2i)). Penalty: disqualification of the attempt (DNF).
-- A6) Stopping the solve:
-  - A6a) The competitor stops the solve by releasing the puzzle and then stopping the timer.
-    - A6a1) If a stopwatch is in use as the timing device, the competitor ends the solve by releasing the puzzle and notifying the judge that he has stopped the solve.
-    - A6a2) When using a stopwatch without a Stackmat, the competitor's default notification signal consists of releasing the puzzle(s) in his hand and placing his hands on the surface, with palms down. The competitor and the judge may agree on another appropriate notification before the beginning of the solve.
-  - A6b) The competitor is responsible for stopping the timer correctly.
-    - A6b1) If the timer stops before the end of the solve and the timer shows a time strictly below 0.06 seconds, then the attempt is replaced by an extra attempt. A competitor forfeits his right to the additional attempt if the WCA Delegate determines that the timer was stopped deliberately.
-    - A6b2) If the timer stops before the end of the solve and displays a time of 0.06 seconds or higher, then the attempt is disqualified (DNF). Exception: if the competitor can demonstrate that the timer malfunctioned, he may receive an extra attempt, at the WCA Delegate's discretion.
-  - A6c) The competitor must fully release the puzzle before stopping the timer. Penalty: time penalty (+2 seconds).
-  - A6d) The competitor must stop the timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
-  - A6e) The competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been applied, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
-  - A6f) The competitor must not reset the timer until the judge has recorded the result on the score sheet. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
-  - A6g) The judge determines whether the puzzle is solved. He must not make moves or align faces when examining the puzzle. Exception: The judge is permitted to make moves when examining a Clock.
-  - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle before the dispute is resolved.
-  - A6i) Time penalties for stopping the solve are cumulative.
-- A7) Recording results:
-  - A7a) The judge tells the competitor the result.
-    - A7a1) If the judge finds that the puzzle is solved, he calls "OKAY".
-    - A7a2) If the judge assigns any penalties, the judge calls "PENALTY".
-    - A7a3) If the result is DNF, the judge calls "DNF".
-  - A7b) The judge records the result on a score sheet.
-    - A7b1) If penalties are assigned, the judge records the original recorded result displayed on the timer, along with any penalties. The format should be "X + T + Y = F", where X represents the sum of time penalties before/starting the solve, T represents the time displayed on the timer, Y represents a sum of time penalties during/after the solve, and F represents the final result. If X and/or Y is 0, the 0 terms are omitted (e.g. 2 + 17.65 + 2 = 21.65, or 17.65 + 2 = 19.65).
-  - A7c) The judge and competitor must both sign (or initial) the score sheet to acknowledge the result.
-    - A7c1) If the competitor or the judge refuses to accept and sign the score sheet, the WCA Delegate must resolve the dispute.
-  - A7f) When a competitor's score sheet for a round is complete, the judge delivers the score sheet to the score taker.
+- H1) 基本的な流れは[第B条](regulations:article:B)(目隠し競技)に準じる。[第B条](regulations:article:B)の対応箇所にとってかわる追加規則は以下の通りである。
+  - H1a) 競技者は競技の開始までにジャッジに何個のパズル(２個以上)に挑戦するか宣言しなければならない。
+    - H1a1) 競技者は試技の開始後にパズルの個数の変更をしてはならない。
+    - H1a2) 大会運営チームは各競技者の宣言した個数を試技の開始まで公開してはならない。
+  - H1b) 競技者が6個未満のパズルに挑戦する場合、(挑戦するパズルの個数)×10分の時間が与えられる。それ以上の場合は60分が制限時間となる。
+    - H1b1) 競技者はいつでも試技を終わらせることができる。制限時間に達した場合、ジャッジは試技を中断させ記録を記入する、この場合制限時間が元記録となる。
+  - H1d) 試技を行ったパズルに対する+2秒ペナルティーは累積される。
 
+## <article-Z><optional><optional> 第Z条: オプション規則
 
-## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
+大会運営チームは大会運営を容易にするためのオプション規則を追加採用することができる。オプション規則を大会に適用するには WCA理事会の承認を得なければならない。
 
-- B1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-  - B1a) There is no inspection period.
-  - B1b) The competitor supplies his own blindfold.
-- B2) Starting the attempt:
-  - B2a) The judge resets the timer and stopwatch.
-  - B2b) The competitor places his hands on the elevated sensor unit of the Stackmat, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
-  - B2c) The competitor must have no physical contact with the puzzle before the beginning of the attempt. Penalty: time penalty (+2 seconds).
-  - B2d) The competitor starts the attempt by removing his hands from the timer, thus starting the timer.
-    - B2d1) The competitor removes the cover from the puzzle after starting the timer.
-  - B2e) If a stopwatch is in use, the judge starts the stopwatch as soon as the competitor starts the solve.
-- B3) Memorisation phase:
-  - B3a) The competitor may pick up the puzzle during the memorisation phase.
-  - B3b) The competitor must not make physical notes. Penalty: disqualification of the attempt (DNF).
-  - B3c) The competitor must not apply moves to the puzzle during the memorisation phase.
-- B4) Blindfolded phase:
-  - B4a) The competitor dons the blindfold to start the blindfolded phase.
-  - B4b) The competitor must not apply moves to the puzzle before he has fully donned the blindfold.
-  - B4c) The judge must ensure that there is an opaque object between the competitor's face and the puzzle while the competitor is solving.
-    - B4c1) In all cases, the competitor must wear the blindfold such that his view of the puzzle would still be clearly blocked if the opaque object were not in the way.
-    - B4c2) By default, the judge should place the object (e.g. a sheet of paper or cardboard) between the competitor and the puzzle while the competitor is wearing the blindfold.
-    - B4c3) If the judge and competitor agree beforehand, the competitor may choose to place the puzzle behind a suitable object (e.g. a music stand, the surface of the table) by himself during the blindfolded phase.
-  - B4d) The competitor must not look at the puzzle at any point during the blindfolded phase. Penalty: disqualification of the attempt (DNF).
-  - B4e) Until he applies the first move to the puzzle, the competitor may remove the blindfold to return to the memorisation phase.
-- B5) Stopping the solve:
-  - B5a) When using the Stackmat, the competitor stops the attempt by releasing the puzzle and then stopping the timer.
-  - B5b) When using a stopwatch, the competitor ends the attempt by placing the puzzle back onto the surface and notifying the judge that he is stopping the attempt. At that moment, the judge stops the timer.
-  - B5c) If he is not touching the puzzle, the competitor may remove the blindfold before he stops the timer. He must not touch the puzzle until the end of the attempt. Penalty: disqualification of the attempt (DNF).
-
-
-## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
-
-- C1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-  - C1b) During the solve, the competitor must use only one hand to touch the puzzle. Penalty: disqualification of the attempt (DNF).
-    - C1b2) If a puzzle defect occurs, and the competitor chooses to repair it, he must repair it using only the solving hand. Penalty: disqualification of the attempt (DNF).
-    - C1b3) If a puzzle defect occurs, and pieces of the puzzle briefly come in contact with other body parts without the competitor's intention, this is not considered touching the puzzle, at the discretion of the judge.
-  - C1c) During the solve, once a competitor touches the puzzle with one hand, he must not touch the puzzle with the other hand. Penalty: disqualification of the attempt (DNF).
-
-
-## <article-D><feet><solvingwithfeet> Article D: Solving With Feet
-
-- D1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-  - D1a) During the attempt, the competitor must sit in a chair, sit on the surface, or stand.
-  - D1b) During the attempt, the competitor must only use his feet and the surface. Penalty: disqualification of the attempt (DNF).
-  - D1c) During the solve, the competitor must use only his feet to touch the puzzle. Penalty: disqualification of the attempt (DNF).
-- D3) Starting the solve:
-  - D3a) The competitor places his feet onto the timer sensors.
-  - D3b) The competitor removes his feet from the timer sensors to start the solve.
-- D4) Stopping the solve:
-  - D4a) The competitor stops the timer by placing his feet onto the timer sensors.
-
-
-## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
-
-- E2) Procedure for Fewest Moves Solving:
-  - E2a) The judge distributes a scramble sequence to all competitors. The judge then starts the stopwatch and calls "GO".
-  - E2b) All competitors have a total time limit of 60 minutes to devise a solution.
-    - E2b1) The judge should call "5 MINUTES REMAINING" at 55 minutes, and must call "STOP" at 60 minutes.
-  - E2c) At 60 minutes, each competitor must give the judge a legibly written solution with the competitor's name, using the notation defined for Outer Block Turn Metric (described in [Regulation 12a](regulations:regulation:12a)). Penalty: disqualification of the attempt (DNF).
-  - E2d) The length of the solution is calculated in Outer Block Turn Metric (see [Regulation 12a](regulations:regulation:12a)).
-    - E2d1) The competitor is permitted a maximum solution length of 80 (moves and rotations).
-  - E2e) The competitor's solution must not be directly derived from any part of the scrambling algorithm. Penalty: disqualification of the attempt (DNF).
-    - E2e1) The WCA Delegate may ask the competitor to explain the purpose of each move in his solution, irrespective of scrambling algorithm. If the competitor cannot give a valid explanation, the attempt is disqualified.
-- E3) The competitor may use the following objects during the attempt. Penalty for using unauthorised objects: disqualification of the attempt (DNF).
-  - E3a) Paper and pens (both supplied by judge).
-  - E3b) 1-3 puzzles corresponding to the event (self-supplied).
-  - E3c) Coloured stickers (self-supplied).
-
-
-## <article-F><clock><clocksolving> Article F: Clock Solving
-
-- F1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-- F2) The judge places the scrambled puzzle onto the mat in a standing position.
-- F3) At the end of the inspection period, the competitor places the puzzle onto the mat in a standing position. He must not change the positions of any pins from their scrambled positions before the beginning of the solve. Penalty: disqualification (DNF).
-
-
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
-
-- H1) Standard speed solving procedures is followed, as described in [Article B](regulations:article:B) (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in [Article B](regulations:article:B) are described below.
-  - H1a) Before an attempt, the competitor must notify the judge of the number of puzzles he wishes to attempt blindfolded. The number of puzzles must be at least 2.
-    - H1a1) A competitor is not permitted to change the number of puzzles after the beginning of the attempt.
-    - H1a2) The organisation team must not disclose the competitor's requested number of puzzles until the beginning of the attempt.
-  - H1b) If he is attempting fewer than 6 puzzles, the competitor is allotted a time limit of 10 minutes times the number of puzzles in the attempt, else the time limit is 60 minutes.
-    - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge stops the attempt and the attempt is then scored; the time limit for the attempt counts as the original recorded time.
-  - H1d) Time penalties for the puzzles of the attempt are cumulative.
-
-
-## <article-Z><optional><optional> Article Z: Optional Regulations
-
-Organisation teams may adopt optional regulations to facilitate the administration of the competition.
-The WCA Board must approve any optional regulations for a competition.
-
-- Z1) The organisation team may require competitors to submit puzzles during registration.
-- Z2) The organisation team may limit the number of events per competitor.
-- Z3) The organisation team may select competitors who directly qualify for certain rounds of certain events based on the results of specific previous competitions.
-- Z4) The organisation team may limit the number of competitors per event, on either a "first come first serve" basis or based upon qualification times or rankings in the WCA world rankings of a previously announced calendar date.
-- Z5) The organisation team may prohibit competitors from participating in specific combinations of events.
-
+- Z1) 大会運営チームは登録時に競技者のパズルを回収してもよい。
+- Z2) 大会運営チームは競技者1人あたりの参加種目数を制限してもよい。
+- Z3) 大会運営チームは特定の過去の大会での成績に基づき、特定の種目の特定のラウンドに直接参加できるよう競技者を選抜することができる。
+- Z4) 大会運営チームは種目毎の競技者数を、申込順、制限時間、あるいは事前に定めた日付より前の時点でのWCA世界ランキングによって制限することができる。
+- Z5) 大会運営チームはある特定の組み合わせの種目への出場を禁止することができる。
