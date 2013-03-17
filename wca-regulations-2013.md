@@ -437,21 +437,21 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
   - D4a) 競技者はタイマーのセンサー部に両足を置いてタイマーを止める。
 
 
-## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
+## <article-E><fewest-moves><fewestmovessolving> 第E条：最少手数競技
 
-- E2) Procedure for Fewest Moves Solving:
-  - E2a) The judge distributes a scramble sequence to all competitors. The judge then starts the stopwatch and calls "GO".
-  - E2b) All competitors have a total time limit of 60 minutes to devise a solution.
-    - E2b1) The judge should call "5 MINUTES REMAINING" at 55 minutes, and must call "STOP" at 60 minutes.
-  - E2c) At 60 minutes, each competitor must give the judge a legibly written solution with the competitor's name, using the notation defined for Outer Block Turn Metric (described in [Regulation 12a](regulations:regulation:12a)). Penalty: disqualification of the attempt (DNF).
-  - E2d) The length of the solution is calculated in Outer Block Turn Metric (see [Regulation 12a](regulations:regulation:12a)).
-    - E2d1) The competitor is permitted a maximum solution length of 80 (moves and rotations).
-  - E2e) The competitor's solution must not be directly derived from any part of the scrambling algorithm. Penalty: disqualification of the attempt (DNF).
-    - E2e1) The WCA Delegate may ask the competitor to explain the purpose of each move in his solution, irrespective of scrambling algorithm. If the competitor cannot give a valid explanation, the attempt is disqualified.
-- E3) The competitor may use the following objects during the attempt. Penalty for using unauthorised objects: disqualification of the attempt (DNF).
-  - E3a) Paper and pens (both supplied by judge).
-  - E3b) 1-3 puzzles corresponding to the event (self-supplied).
-  - E3c) Coloured stickers (self-supplied).
+- E2) 最少手数競技の競技手順：
+  - E2a) ジャッジがスクランブル手順を全競技者に渡す。ジャッジがストップウォッチをスタートさせ「ゴー」と言う。
+  - E2b) 全競技者は制限時間60分間に最少手数解法を導き出す。
+    - E2b1) ジャッジは55分経過時に「残り時間5分」を告知することが望ましい。また60分経過時に「止め」と言う。
+  - E2c) 60分終了時、競技者は名前と、判読できる文字で書いた解法を書いた解答用紙をジャッジに渡さなければならない。外層ブロックターン法(参照：[12a](regulations:regulation:12a))にて定義されている回転記号を使うこと。罰則：試技の失格(DNF)。
+  - E2d)手数は、外層ブロックターン法(参照：[12a](regulations:regulation:12a))を用いて計算する。
+    - E2d1) 解法は手数と持ち替えを合わせて80以下でなければならない。
+  - E2e) 競技者の解法はスクランブルのアルゴリズムと一切関連があってはならない。罰則：試技の失格(DNF)。
+    - E2e1) WCA代理人は競技者に対し、スクランブルのアルゴリズムに関係のない解法の各手順の意図に関する説明を求めることができる。もし競技者が解法に妥当な説明ができなかった場合、その試技は失格となる。
+- E3) 競技者は試技の間、以下の道具を使用することができる。その他のものを使用した場合の罰則：試技の失格(DNF)。
+  - E3a) 紙とペン(共にジャッジが支給)。
+  - E3b) 1〜3個のキューブ(競技者が持参)。
+  - E3b) 色付きステッカー(競技者が持参)。
 
 
 ## <article-F><clock><clocksolving> Article F: Clock Solving
