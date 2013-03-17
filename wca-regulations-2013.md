@@ -262,17 +262,17 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
 - 10h) ここに記述されていないパズルについては、完成状態として一般的に容認される状態をその完成状態とし、ルービックキューブに関する適切な規則を適用する。
 
 
-## <article-11><incidents><incidents> Article 11: Incidents
+## <article-11><incidents><incidents> 第11条：インシデント
 
-- 11a) Incidents include:
-  - 11a1) Incorrect execution of event procedures, by officials or competitors.
-  - 11a2) Interference or facility interruptions (e.g. power failure, emergency alarm activation).
-  - 11a3) Equipment malfunction.
-- 11b) If an incident occurs, the WCA Delegate determines an impartial and appropriate course of action.
-- 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make his decision based on fair sportsmanship.
-- 11e) If an incident occurs during an attempt, the WCA Delegate may award a competitor an extra attempt, replacing the attempt during which the incident occurred. The competitor must appeal verbally or in writing to the judge and WCA Delegate at the time of the incident, before finishing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.
-  - 11e1) If a competitor is awarded an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble sequence must be generated using the current official version of the official WCA scramble program (see [Regulation 4f](regulations:regulation:4f)).
-- 11f) Decisions about an incident may be supported with video or photographic analysis, at the discretion of the WCA Delegate.
+- 11a) インシデントとは:
+  - 11a1) 大会役員または競技者による不適切な競技の進行。
+  - 11a2) 妨害や混乱、施設の不調(例：停電や警報)。
+  - 11a3) 備品の故障。
+- 11b) インシデントが発生した場合、WCA代理人が公平かつ適切な対処を下す。
+- 11d) WCA大会規則が明確でない場合、またはそのインシデントについてWCA大会規則に記載がない場合は、WCA代理人は公平なスポーツマンシップに基づいて判断しなければならない。
+- 11e) 試技中にインシデントが発生した場合、WCA代理人は競技者に対しインシデント発生時の試技に代えて追加試技を認める事ができる。競技者は、インシデント発生時の試技が終了する前に、口頭または書面でジャッジとWCA代理人に追加試技の資格があることを申し出なければならない。この申し出は追加試技を保証するものではない。
+  - 11e1) 競技者に追加試技が認められた場合、追加試技は異なるスクランブルでなければならない。WCA公式スクランブルプログラムの現行公式バージョンを用いてこのスクランブルを生成しなければならない(参照：[4f](regulations:regulation:4f))。
+- 11f) インシデントの判断にはWCA代理人の裁量で動画または写真を用いることができる。
 
 
 ## <article-12><notation><notation> Article 12: Notation
