@@ -36,7 +36,7 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
 <table-of-contents>
 
 
-## <article-1><officials><officials> 第1条：大会役員
+## <article-1><officials><officials> 第1条: 大会役員
  
 - 1a) 大会にはWCA代理人と大会運営チーム（一名以上で構成）、および以下の役員を置かなければならない：ジャッジ、スクランブラー、集計員。
 - 1b) 大会運営組織は大会前、大会中および大会後における支援の責任を負う。
@@ -67,7 +67,7 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
 - 1j) すべての大会役員は大会に参加できる。
 - 1k) 大会役員は複数の役割を担うことができる。(例：大会運営チーム、WCA代理人・ジャッジ・記録入力係・スクランブラー)
 
-## <article-2><competitors><competitors> 第2条：競技者
+## <article-2><competitors><competitors> 第2条: 競技者
 
 - 2a) 以下の条件を満たせば、誰でもWCA公式大会に参加することができる。
   - 2a1) WCA 大会規則を尊守する。
@@ -107,7 +107,7 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
 - 2s) 競技者に障害があり、1つ以上のWCA大会規則を尊守することが難しい場合、WCA代理人に特別措置を要求することができる。そのような措置を要求する競技者は、少なくとも大会の2週間前までに大会運営チームとWCA代理人に連絡を取ることが望ましい。
 - 2t) 各競技者は大会前にWCA大会規則をよく理解しておかなければならない。
 
-## <article-3><puzzles><puzzles> 第3条：パズル
+## <article-3><puzzles><puzzles> 第3条: パズル
 
 - 3a) 競技者は大会に自分自身でパズルを用意して参加しなければならない。
   - 3a1) 競技者は、自分が参加するラウンドに呼ばれる時には会場にいて、競技をできる準備をしていなければならない。罰則：種目の失格。
@@ -128,7 +128,7 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
   - 3l1) 色のない刻印（一面につき最大一つ）はロゴとは見なされない。
 - 3m) WCA 大会規則に適合する限り、全てのブランドのパズルやパズルのパーツを使うことができる。
 
-## <article-4><scrambling><scrambling> 第4条：スクランブル
+## <article-4><scrambling><scrambling> 第4条: スクランブル
 
 - 4a) スクランブラーはパズルにスクランブル手順を適用する。
 - 4b)パズルはコンピュータによりランダムに生成されたスクランブル手順を用いてスクランブルされなければならない。
@@ -142,7 +142,7 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
 - 4g) スクランブルの後では、スクランブラーはパズルを正しくスクランブルしたか確認しなくてはならない。もしパズルの状態が間違っている場合、競技者はそれを正さなくてはならない(例：パズルを解き、スクランブル手順をもう一度適用する)。
   - 4g1) 例外：6x6x6 キューブと7x7x7キューブは、WCA代理人の裁量によって、スクランブルを正す必要はない。
 
-## <article-5><puzzle-defects><puzzledefects> 第5条：パズルの欠損
+## <article-5><puzzle-defects><puzzledefects> 第5条: パズルの欠損
 
 - 5a) パズルの欠損の例：ポップ(パーツの脱落)、同じ場所で回転してしまったパーツ、ねじ/ふた/ステッカーの脱落。
 - 5b) 試技中にパズルの欠損が起きた時には、競技者は欠損を修復して試技を続けるか、試技を中止するかを選ぶことができる。
@@ -156,7 +156,7 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
   - 5b5) 試技の終わりにパズルのパーツが欠損している、あるいは、完全に配置されていない場合、結果はパズルを修復することで可能な状態のうち、完成から最も遠い状態として記録される。(参照：[5b3](regulations:regulation:5b3))
 - 5c) パズルの欠損が起こっても、競技者に追加試技は与えられない。
 
-## <article-7><environment><environment> 第7条：競技環境
+## <article-7><environment><environment> 第7条: 競技環境
 
 - 7b) 観客は、競技卓が使われている時には、少なくとも競技卓から1.5メートル離れていなければならない。
 - 7c) 競技エリアの照明には特別気をつけなければならない。競技者が容易にパズルの色の区別がつくように、照明は明るすぎず、暗すぎないべきである。
@@ -172,7 +172,7 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
 - 7h) 競技エリアには競技者待機場所がなければならない。
   - 7h1) 大会運営チームは、競技に呼ばれた競技者がそのラウンドの全ての試技が終わるまで競技者待機場所に留まることを要請することができる。
 
-## <article-8><competitions><competitions> 第8条：大会
+## <article-8><competitions><competitions> 第8条: 大会
 
 - 8a) WCA公式の大会は以下を満たさなければならない：
   - 8a1) WCA理事会により承認されること。
@@ -184,7 +184,7 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
   - 8a8) 参加を希望する者は誰でも参加できること。参加制限はWCA理事会により承認され、大会が告知される時に明言されなければならない。
 - 8f) 大会中にもしWCA大会規則が正しく遵守されなかった場合、WCA理事会は影響を受けた試技を無効とすることができる。
 
-## <article-9><events><events> 第9条：競技種目
+## <article-9><events><events> 第9条: 競技種目
 
 - 9a) WCAは以下のものでの競技を認める。
   - 9a1) ルービックパズルとして認知されているパズル。
@@ -242,7 +242,7 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
   - 9r3) 新しく登録された競技者数に合わせて予選を増やしてもよく、予選または第一ラウンドの競技者の定員を増やしてもよい。これらの変更は少なくとも大会の二週間前までになされなければならない。
 - 9s) 各種目の各ラウンドには制限時間を設けなければならない(参照：[A1a](regulation:A1a))。
 
-## <article-10><solved-state><solvedstate> 第10条：完成状態
+## <article-10><solved-state><solvedstate> 第10条: 完成状態
 
 - 10b) タイマーの停止後パズルが静止した状態のみが検討の対象である。
 - 10c) 試技後のパズルの向きはどの方向でも良い。
@@ -259,7 +259,7 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
   - 10f4) スクエア 1：最大45度(U面/D面)、最大90度(縦回転)。
 - 10h) ここに記述されていないパズルについては、完成状態として一般的に容認される状態をその完成状態とし、ルービックキューブに関する適切な規則を適用する。
 
-## <article-11><incidents><incidents> 第11条：インシデント
+## <article-11><incidents><incidents> 第11条: インシデント
 
 - 11a) インシデントとは:
   - 11a1) 大会役員または競技者による不適切な競技の進行。
@@ -271,7 +271,7 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
   - 11e1) 競技者に追加試技が認められた場合、追加試技は異なるスクランブルでなければならない。WCA公式スクランブルプログラムの現行公式バージョンを用いてこのスクランブルを生成しなければならない(参照：[4f](regulations:regulation:4f))。
 - 11f) インシデントの判断にはWCA代理人の裁量で動画または写真を用いることができる。
 
-## <article-12><notation><notation> 第12条：記号法
+## <article-12><notation><notation> 第12条: 記号法
 
 - 12a) ルービックキューブと類似パズルの記号法：
   - 12a1) 1層回し：
@@ -309,7 +309,7 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
   - 12g3) 上がっているピンに隣接するギアを回し、その後全てのピンを下げる：x+(時計回りにx回転)、x-(反時計回りにx回転)。
   - 12g4) 12時が上方向になるように裏返し、すべてのピンを下げる：y2。
 
-## <article-A><speedsolving><speedsolving> 第A条：スピード競技
+## <article-A><speedsolving><speedsolving> 第A条: スピード競技
 
 - A1) スピード競技の試技は、以下の規則を守らなければならない。
   - A1a) 大会運営チームは試技、ラウンドに制限時間を設けることができる。
@@ -378,7 +378,7 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
     - A7c1) 競技者またはジャッジが記録用紙への署名を拒んだ場合、WCA代理人はこの問題を解決しなければならない。
   - A7f) そのラウンドの競技者の記録用紙の記入が終わったら、ジャッジは記録記録入力係に記録用紙を渡す。
 
-## <article-B><blindfolded><blindfoldedsolving> 第B条：目隠し競技
+## <article-B><blindfolded><blindfoldedsolving> 第B条: 目隠し競技
 
 - B1) 基本的な流れは[第A条](regulations:article:A)(スピード競技)に準じる。[第A条](regulations:article:A)の対応箇所に取って代わる追加規則は以下の通りである。
   - B1a) インスペクションはない。
@@ -408,7 +408,7 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
   - B5b) ストップウォッチ使用の場合、競技者は試技が終了したらパズルを競技面に戻し、ジャッジに口頭で試技終了を知らせる。ジャッジはその時点でストップウォッチを止める。
   - B5c) 競技者はパズルを触らないのであれば、タイマーを止める前に目隠しを取ることができる。しかし目隠しを取った後はパズルのスライスを回転させてはならない。罰則：試技の失格(DNF)。
 
-## <article-C><one-handed><onehandedsolving> 第C条：片手競技
+## <article-C><one-handed><onehandedsolving> 第C条: 片手競技
 
 - C1) 基本的な流れは[第A条](regulations:article:A)(スピード競技)に準じる。[第A条](regulations:article:A)の対応箇所に取って代わる追加規則は以下の通りである。
   - C1b) ソルビング中、競技者は片方の手以外の体の部分でパズルに触れてはならない。罰則：試技の失格(DNF)。
@@ -416,7 +416,7 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
     - C1b3) パズルの欠損が発生してパズルのパーツが体の他の部分に一時的に接触し、それが競技者の故意ではない場合、それはパズルに触れたとはみなされない。ただしジャッジの裁量による。
   - C1c)ソルブ中に競技者が一旦パズルに手を触れたら、もう片方の手ではパズルに触れてはならない。罰則：試技の失格(DNF)。
 
-## <article-D><feet><solvingwithfeet> 第D条：足競技
+## <article-D><feet><solvingwithfeet> 第D条: 足競技
 
 - D1) 基本的な流れは[第A条](regulations:article:A)(スピード競技)に準じる。[第A条](regulations:article:A)の対応箇所に取って代わる追加規則は以下の通りである。
   - D1a) 試技中、競技者は椅子に座るか、床面に座るか、または立っていなければならない。
@@ -428,7 +428,7 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
 - D4) 試技の終了：
   - D4a) 競技者はタイマーのセンサー部に両足を置いてタイマーを止める。
 
-## <article-E><fewest-moves><fewestmovessolving> 第E条：最少手数競技
+## <article-E><fewest-moves><fewestmovessolving> 第E条: 最少手数競技
 
 - E2) 最少手数競技の競技手順：
   - E2a) ジャッジがスクランブル手順を全競技者に渡す。ジャッジがストップウォッチをスタートさせ「ゴー」と言う。
@@ -444,13 +444,13 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
   - E3b) 1〜3個のキューブ(競技者が持参)。
   - E3b) 色付きステッカー(競技者が持参)。
 
-## <article-F><clock><clocksolving> 第F条：クロック競技
+## <article-F><clock><clocksolving> 第F条: クロック競技
 
 - F1) 基本的な流れは[第A条](regulations:article:A)(スピード競技)に準じる。[第A条](regulations:article:A)の対応箇所にとってかわる追加規則は以下の通りである。
 - F2) スクランブル後、ジャッジはパズルをスタックマット上に立てて置く。
 - F3) インスペクション後、競技者はパズルをスタックマット上に立てて置く。ソルブ開始前に、スクランブルされた状態のピンの位置を変えることは許されない。罰則：失格(DNF)。
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> 第H条：複数目隠し競技
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> 第H条: 複数目隠し競技
 
 - H1) 基本的な流れは[第B条](regulations:article:B)(目隠し競技)に準じる。[第B条](regulations:article:B)の対応箇所にとってかわる追加規則は以下の通りである。
   - H1a) 競技者は競技の開始までにジャッジに何個のパズル(２個以上)に挑戦するか宣言しなければならない。
@@ -460,7 +460,7 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
     - H1b1) 競技者はいつでも試技を終わらせることができる。制限時間に達した場合、ジャッジは試技を中断させ記録を記入する、この場合制限時間が元記録となる。
   - H1d) 試技を行ったパズルに対する+2秒ペナルティーは累積される。
 
-## <article-Z><optional><optional> 第Z条：オプション規則
+## <article-Z><optional><optional> 第Z条: オプション規則
 
 大会運営チームは大会運営を容易にするためのオプション規則を追加採用することができる。オプション規則を大会に適用するには WCA理事会の承認を得なければならない。
 
