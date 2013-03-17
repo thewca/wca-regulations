@@ -424,17 +424,17 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
   - C1c)ソルブ中に競技者が一旦パズルに手を触れたら、もう片方の手ではパズルに触れてはならない。罰則：試技の失格(DNF)。
 
 
-## <article-D><feet><solvingwithfeet> Article D: Solving With Feet
+## <article-D><feet><solvingwithfeet> 第D条：足競技
 
-- D1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-  - D1a) During the attempt, the competitor must sit in a chair, sit on the surface, or stand.
-  - D1b) During the attempt, the competitor must only use his feet and the surface. Penalty: disqualification of the attempt (DNF).
-  - D1c) During the solve, the competitor must use only his feet to touch the puzzle. Penalty: disqualification of the attempt (DNF).
-- D3) Starting the solve:
-  - D3a) The competitor places his feet onto the timer sensors.
-  - D3b) The competitor removes his feet from the timer sensors to start the solve.
-- D4) Stopping the solve:
-  - D4a) The competitor stops the timer by placing his feet onto the timer sensors.
+- D1) 基本的な流れは[A条](regulations:article:A)(スピード競技)に準じる。[A条](regulations:article:A)の対応箇所に取って代わる追加規則は以下の通りである。
+  - D1a) 試技中、競技者は椅子に座るか、床面に座るか、または立っていなければならない。
+  - D1b) 試技中、競技者は両足と床面以外を使用してはならない。罰則：試技の失格(DNF)。
+  - D1c) 試技中、競技者は両足以外の身体の部分でパズルに触れてはならない。罰則：試技の失格(DNF)。
+- D3) 試技の開始：
+  - D3a) 競技者は両足をタイマーのセンサーの上に置く。
+  - D3b) 競技者はセンサーから足を離して試技を開始する。
+- D4) 試技の終了：
+  - D4a) 競技者はタイマーのセンサー部に両足を置いてタイマーを止める。
 
 
 ## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
