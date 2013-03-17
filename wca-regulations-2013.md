@@ -472,14 +472,13 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
   - H1d) 試技を行ったパズルに対する+2秒ペナルティーは累積される。
 
 
-## <article-Z><optional><optional> Article Z: Optional Regulations
+## <article-Z><optional><optional> 第Z条：オプション規則
 
-Organisation teams may adopt optional regulations to facilitate the administration of the competition.
-The WCA Board must approve any optional regulations for a competition.
+大会運営チームは大会運営を容易にするためのオプション規則を追加採用することができる。オプション規則を大会に適用するには WCA理事会の承認を得なければならない。
 
-- Z1) The organisation team may require competitors to submit puzzles during registration.
-- Z2) The organisation team may limit the number of events per competitor.
-- Z3) The organisation team may select competitors who directly qualify for certain rounds of certain events based on the results of specific previous competitions.
-- Z4) The organisation team may limit the number of competitors per event, on either a "first come first serve" basis or based upon qualification times or rankings in the WCA world rankings of a previously announced calendar date.
-- Z5) The organisation team may prohibit competitors from participating in specific combinations of events.
+- Z1) 大会運営チームは登録時に競技者のパズルを回収してもよい。
+- Z2) 大会運営チームは競技者1人あたりの参加種目数を制限してもよい。
+- Z3) 大会運営チームは特定の過去の大会での成績に基づき、特定の種目の特定のラウンドに直接参加できるよう競技者を選抜することができる。
+- Z4) 大会運営チームは種目毎の競技者数を、申込順、制限時間、あるいは事前に定めた日付より前の時点でのWCA世界ランキングによって制限することができる。
+- Z5) 大会運営チームはある特定の組み合わせの種目への出場を禁止することができる。
 
