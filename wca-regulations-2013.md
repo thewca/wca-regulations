@@ -415,13 +415,13 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
   - B5c) 競技者はパズルを触らないのであれば、タイマーを止める前に目隠しを取ることができる。しかし目隠しを取った後はパズルのスライスを回転させてはならない。罰則：試技の失格(DNF)。
 
 
-## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
+## <article-C><one-handed><onehandedsolving> 第C条：片手競技
 
-- C1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-  - C1b) During the solve, the competitor must use only one hand to touch the puzzle. Penalty: disqualification of the attempt (DNF).
-    - C1b2) If a puzzle defect occurs, and the competitor chooses to repair it, he must repair it using only the solving hand. Penalty: disqualification of the attempt (DNF).
-    - C1b3) If a puzzle defect occurs, and pieces of the puzzle briefly come in contact with other body parts without the competitor's intention, this is not considered touching the puzzle, at the discretion of the judge.
-  - C1c) During the solve, once a competitor touches the puzzle with one hand, he must not touch the puzzle with the other hand. Penalty: disqualification of the attempt (DNF).
+- C1) 基本的な流れは[A条](regulations:article:A)(スピード競技)に準じる。[A条](regulations:article:A)の対応箇所に取って代わる追加規則は以下の通りである。
+  - C1b) ソルビング中、競技者は片方の手以外の体の部分でパズルに触れてはならない。罰則：試技の失格(DNF)。
+    - C1b2)パズルの欠損が発生し、競技者が修復する事を選択した時、修復はソルブに使用している片方の手のみで行わなくてはならない。罰則：試技の失格(DNF)。
+    - C1b3) パズルの欠損が発生してパズルのパーツが体の他の部分に一時的に接触し、それが競技者の故意ではない場合、それはパズルに触れたとはみなされない。ただしジャッジの裁量による。
+  - C1c)ソルブ中に競技者が一旦パズルに手を触れたら、もう片方の手ではパズルに触れてはならない。罰則：試技の失格(DNF)。
 
 
 ## <article-D><feet><solvingwithfeet> Article D: Solving With Feet
