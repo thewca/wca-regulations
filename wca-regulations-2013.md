@@ -314,74 +314,74 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
   - 12g4) 12時が上方向になるように裏返し、すべてのピンを下げる：y2。
 
 
-## <article-A><speedsolving><speedsolving> Article A: Speed Solving
+## <article-A><speedsolving><speedsolving> 第A条：スピード競技
 
-- A1) Speed Solving attempts must abide by the following procedure.
-  - A1a) The organisation team may enforce time limits for attempts and/or rounds.
-    - A1a1) The default time limit per attempt is 10 minutes, though the organisation team may announce a higher or lower time limit.
-    - A1a2) Cumulative time limits may be enforced (e.g. 3 attempts with a cumulative time limit of 20 minutes). The time elapsed in a DNF result counts towards the cumulative time limit.
-    - A1a3) For each round, any time limits must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
-    - A1a4) The competitor must end each attempt within the time limit. If a competitor reaches the time limit for an attempt/round, the judge stops the attempt immediately and record the result as DNF. Exception: Multiple Blindfolded Solving (see [Regulation H1b1](regulations:regulation:H1b1)).
-    - A1a5) An attempt is considered to meet the time limit if and only if the final result, after any time penalties are applied, is less than the time limit. Exception: Multiple Blindfolded Solving (see [Regulation H1b1](regulations:regulation:H1b1)).
-  - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
-    - A1b1) Simultaneous use of a Stackmat timer is optional.
-    - A1b2) If a time from the Stackmat timer is available, it is the original recorded time. Otherwise, the stopwatch time is the original recorded time. 
-  - A1c) A competitor participating in an event must be able to fulfill the event's requirements (e.g. know how to solve the puzzle). A competitor competing with expectation of a DNF result may be disqualified from the event, at the discretion of the WCA Delegate.
-- A2) Scrambling:
-  - A2a) When called for a round, the competitor submits his puzzle, in its solved state, to the scrambler and waits in the Competitors Area until he is called to compete.
-  - A2b) A scrambler scrambles the puzzle according to the regulations in [Article 4](regulations:article:4).
-  - A2c) After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.
-    - A2c1) The scrambler places a cover over the scrambled puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover remains over the puzzle until the beginning of the attempt.
-  - A2d) When taking a puzzle from the scrambler, the judge briefly inspects the puzzle to ensure thorough scrambling of the puzzle. The judge raises any concerns with the scrambler, who then conducts a detailed check.
-  - A2e) The judge places the puzzle onto the mat in an arbitrary orientation and ensures that it is covered completely. The competitor is not permitted to request a specific orientation.
-- A3) Inspection:
-  - A3a) The competitor may inspect the puzzle at the beginning of each attempt.
-    - A3a1) The competitor is allotted a maximum of 15 seconds to inspect the puzzle and start the solve.
-  - A3b) Before the competitor starts the attempt, the judge resets the timer and, where applicable, the stopwatch.
-    - A3b1) When the judge believes the competitor is ready, he asks "READY?". The competitor must be ready to start the attempt within one minute of being called. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
-    - A3b2) When the competitor confirms his readiness, the judge uncovers the puzzle. If the attempt requires a stopwatch, the judge starts it at the same time.
-  - A3c) The competitor may pick up the puzzle during inspection.
-    - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the attempt (DNF).
-    - A3c2) If the pieces of the puzzle are not fully aligned, then the competitor may align the faces, as long as misalignments stay within the limits 10f.
-    - A3c3) The competitor may reset the timer before he starts the solve.
-  - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation and position.
-    - A3d1) The puzzle must not rest on the timer. Penalty: time penalty (+2 seconds).
-    - A3d2) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
-    - A3d3) When 12 seconds of inspection have elapsed, the judge calls "12 SECONDS".
-- A4) Starting the solve:
-  - A4b) The competitor places his hands on the elevated sensor unit of the timer, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
-    - A4b1) The competitor must have no physical contact with the puzzle between the inspection period and the beginning of the solve. Penalty: time penalty (+2 seconds).
-  - A4d) The competitor starts the solve by confirming that the timer light is green and then removing his hands from the timer, thus starting the timer.
-    - A4d1) The competitor must start the solve within 15 seconds of the beginning of the inspection. Penalty: time penalty (+2 seconds).
-    - A4d2) The competitor must start the solve within 17 seconds of the beginning of the inspection. Penalty: disqualification of the attempt (DNF).
-  - A4e) Time penalties for starting the solve are cumulative.
-- A5) During the solve:
-  - A5a) While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge. Penalty: disqualification of the attempt (DNF).
-  - A5b) While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface (also see [Regulation 2i](regulations:regulation:2i)). Penalty: disqualification of the attempt (DNF).
-- A6) Stopping the solve:
-  - A6a) The competitor stops the solve by releasing the puzzle and then stopping the timer.
-    - A6a1) If a stopwatch is in use as the timing device, the competitor ends the solve by releasing the puzzle and notifying the judge that he has stopped the solve.
-    - A6a2) When using a stopwatch without a Stackmat, the competitor's default notification signal consists of releasing the puzzle(s) in his hand and placing his hands on the surface, with palms down. The competitor and the judge may agree on another appropriate notification before the beginning of the solve.
-  - A6b) The competitor is responsible for stopping the timer correctly.
-    - A6b1) If the timer stops before the end of the solve and the timer shows a time strictly below 0.06 seconds, then the attempt is replaced by an extra attempt. A competitor forfeits his right to the additional attempt if the WCA Delegate determines that the timer was stopped deliberately.
-    - A6b2) If the timer stops before the end of the solve and displays a time of 0.06 seconds or higher, then the attempt is disqualified (DNF). Exception: if the competitor can demonstrate that the timer malfunctioned, he may receive an extra attempt, at the WCA Delegate's discretion.
-  - A6c) The competitor must fully release the puzzle before stopping the timer. Penalty: time penalty (+2 seconds).
-  - A6d) The competitor must stop the timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
-  - A6e) The competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been applied, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
-  - A6f) The competitor must not reset the timer until the judge has recorded the result on the score sheet. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
-  - A6g) The judge determines whether the puzzle is solved. He must not make moves or align faces when examining the puzzle. Exception: The judge is permitted to make moves when examining a Clock.
-  - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle before the dispute is resolved.
-  - A6i) Time penalties for stopping the solve are cumulative.
-- A7) Recording results:
-  - A7a) The judge tells the competitor the result.
-    - A7a1) If the judge finds that the puzzle is solved, he calls "OKAY".
-    - A7a2) If the judge assigns any penalties, the judge calls "PENALTY".
-    - A7a3) If the result is DNF, the judge calls "DNF".
-  - A7b) The judge records the result on a score sheet.
-    - A7b1) If penalties are assigned, the judge records the original recorded result displayed on the timer, along with any penalties. The format should be "X + T + Y = F", where X represents the sum of time penalties before/starting the solve, T represents the time displayed on the timer, Y represents a sum of time penalties during/after the solve, and F represents the final result. If X and/or Y is 0, the 0 terms are omitted (e.g. 2 + 17.65 + 2 = 21.65, or 17.65 + 2 = 19.65).
-  - A7c) The judge and competitor must both sign (or initial) the score sheet to acknowledge the result.
-    - A7c1) If the competitor or the judge refuses to accept and sign the score sheet, the WCA Delegate must resolve the dispute.
-  - A7f) When a competitor's score sheet for a round is complete, the judge delivers the score sheet to the score taker.
+- A1) スピード競技の試技は、以下の規則を守らなければならない。
+  - A1a) 大会運営チームは試技、ラウンドに制限時間を設けることができる。
+    - A1a1) 1試技の制限時間は10分を基本とするが、大会運営チームは制限時間をそれ以下、以上と告知することができる。
+    - A1a2) 制限時間を累積方式とすることもできる。(例：3試技で20分という制限時間)DNFとなった試技の経過時間は、累積方式の制限時間に加算する。
+    - A1a3) 各ラウンドにおいて、制限時間はラウンド開始前に告知されなければならず、ラウンド開始後の変更は望ましくない。制限時間の変更はWCA代理人の裁量によるものでなければならない。WCA代理人は変更が公平であるよう熟慮しなければならない。
+    - A1a4) 競技者は制限時間内に各試技を終えなければならない。制限時間に達した場合、ジャッジは直ちに試技を中止させ、DNFとして結果を記録する。例外：複数目隠し競技(参照：[H1b1](regulations:regulation:H1b1))。
+    - A1a5) ペナルティが課された最終的な記録が制限時間を下回っている時に限り、試技が制限時間内だと判定される。例外：複数目隠し競技(参照：[H1b1](regulations:regulation:H1b1))。
+  - A1b) 制限時間が10分を超える場合、ストップウォッチを用いて記録を計測しなければならない。
+    - A1b1) 制限時間が10分を超える場合、スタックマットタイマーは任意で使用しても良い。
+    - A1b2) スタックマットタイマーで計測できる範囲内の記録の場合、それが元記録(ペナルティなどを加算する前の記録)となる。スタックマットタイマーの記録がない場合は、ストップウォッチの数値をその試技の元記録とする。
+  - A1c) 競技者はその種目における必要条件を満たしていなければならない(例：そのパズルの解き方を知っている)。DNF記録が予期される競技者はWCA代理人の裁量によって、その種目を失格となる場合がある。
+- A2) スクランブル：
+  - A2a) 各ラウンドの呼び出しが行われた時、競技者は完成状態のパズルをスクランブラーに提出し、競技開始まで競技者待機場所で待機する。
+  - A2b) スクランブラーは[第4条](regulations:article:4)の規則に従い、パズルをスクランブルする。
+  - A2c) スクランブラーがパズルのスクランブを始めた後、競技者はインスペクション開始までパズルを見てはならない。
+    - A2c1) スクランブラーは競技者や観客からパズルの一部も見えないよう、スクランブルされたパズルを覆い隠さなければならない。試技の開始までスクランブルされたパズルが覆われた状態にする。
+  - A2d) ジャッジはパズルをスクランブラーから受け取った際に、簡単に確認作業をおこなう。スクランブル状態に懸念がある場合は、スクランブラーに確認を仰ぐ。
+  - A2e) ジャッジはスタックマットの上に任意の向きで、パズルが全く見えないようにスクランブルされたパズルを置く。ジャッジがパズルを置く際に、競技者は特定の向きで置くように指示することは認められない。
+- A3) インスペクション：
+  - A3a) 競技者は各試技の前にパズルを観察(インスペクション)することができる。
+    - A3a1) 競技者にはインスペクションからソルブ開始まで最大15秒の時間が与えられる。
+  - A3b) 競技者が試技を開始する前に、ジャッジはスタックマットタイマーと場合によってはストップウォッチの表示をリセットする。
+    - A3b1) 競技者の用意ができているだろうと判断した際、ジャッジは競技者に「レディ?/準備はよろしいですか？」と尋ねる。競技者は呼び出しから1分以内に競技開始の準備をしなければならない。罰則：ジャッジの判断による試技の失格(DNF)。
+    - A3b2) 競技者が準備ができていることを認めた際、ジャッジはパズルの覆いを外す。試技にストップウォッチが必要な際、ジャッジはストップウォッチを同時にスタートさせる。
+  - A3c) 競技者はインスペクション中に、パズルを持ち上げることができる。
+    - A3c1) 競技者はインスペクション中に、パズルを回転させてはならない。罰則：試技の失格(DNF)。
+    - A3c2) もしパズルにずれがある場合、競技者はパズルのずれを10fの制限内で修正することができる。
+    - A3c3) 競技者はスタート前にタイマーをリセットすることができる。
+  - A3d) インスペクションの終了時に競技者は任意の向きや場所でスタックマットの上にパズルを置く。
+    - A3d1) パズルはスタックマットタイマーの上に重ねて置いてはならない。罰則：+2秒ペナルティ。
+    - A3d2) インスペクションが8秒経過した際、ジャッジは「8秒」という。
+    - A3d3) インスペクションが12秒経過した際、ジャッジは「12秒」という。
+- A4) 試技の開始
+  - A4b) 競技者は手の平を下にして、スタックマットタイマーのセンサー部に指で触れるように両手を置かなければならない。罰則：+2秒ペナルティ。
+    - A4b1) インスペクション後とスタートの間に、競技者はパズルに物理的接触をしてはならない。罰則：+2秒ペナルティ。
+  - A4d) 競技者はスタックマットタイマーが緑色に点灯したことを確認した上で、両手をタイマーから離しスタートする。
+    - A4d1) 競技者はインスペクション開始から15秒以内にスタートしなければならない。罰則：+2秒ペナルティ。
+    - A4d2) 競技者はインスペクション開始から17秒以内にスタートしなければならない。罰則：試技の失格(DNF)。
+  - A4e) スタート時の+2秒ペナルティは累積方式とする。
+- A5) 試技中：
+  - A5a) インスペクション中・試技中に競技者はジャッジ以外のだれともコミュニケーションをとってはならない。罰則：試技の失格(DNF)。
+  - A5b) インスペクション中・試技中に、競技者は誰の助けも得てはならないし、競技面以外の物理的な補助を得てはならない(参照：[2i](regulations:regulation:2i))。罰則：試技の失格(DNF)。
+- A6) 試技の終了：
+  - A6a) 競技者はパズルを離して試技を終えた後にタイマーを止める。
+    - A6a1) 記録計測にストップウォッチが使用されている場合、競技者はパズルを離して試技を終えた後に、ジャッジに競技が終了したことを知らせる。
+    - A6a2) スタックマットタイマーを使用せず、ストップウォッチを使用している場合、競技者の基本的な終了合図は次の通りである。パズルから手を離し、手の平を下にして競技面に手をおく。競技者とジャッジは適当な合図を試技前に決めることができる。
+  - A6b) 競技者はスタックマットタイマーを正確に止める責任を負う。
+    - A6b1) 試技が終わる前にスタックマットタイマーが停止し、記録表示が0.06秒未満の場合、追加試技を行う。競技者が故意にタイマーを止めたとWCA代理人が判断した場合、競技者は追加試技の権利を失う。
+    - A6b2) 試技が終わる前にスタックマットタイマーが停止し、記録表示が0.06秒以上の場合、その試技は失格(DNF)とする。例外：競技者がスタックマットタイマーの故障を実証することができる場合は、WCA代理人の判断で追加試技を行うことができる。
+  - A6c) 競技者はタイマーを止める前に完全にパズルから手を離さなければならない。罰則：+2秒ペナルティ。
+  - A6d) 競技者は両手を使い、手のひらを下にしてスタックマットタイマーを止めなければならない。罰則：+2秒ペナルティ。
+  - A6e) ジャッジが完成状態を確認するまで、競技者はパズルに触れたり回転させたりしてはならない。罰則：試技の失格(DNF)。例外：回転させていない場合はジャッジの判断により、+2 秒ペナルティとすることができる。
+  - A6f) ジャッジが結果を記録するまで、競技者はスタックマットタイマーをリセットしてはならない。罰則：ジャッジの判断により、試技の失格(DNF)
+  - A6g) ジャッジはパズルの完成状態であるかを決定する。ジャッジは完成を確認する際にパズルを動かしたり、ずれを修正したりしてはならない。例外：クロック競技の場合はパズルを動かしてもよい。
+  - A6h) 完成状態について協議をする場合、協議が解決するまでパズルを動かしたり、ずれを直したりしてはならない。
+  - A6i) 試技終了時の+2秒ペナルティは累積方式とする。
+- A7) 結果の記録：
+  - A7a) ジャッジは競技者に記録を伝える。
+    - A7a1) ジャッジは完成状態と判断したら、ジャッジは「オッケー」という。
+    - A7a2) ジャッジは罰則を適用する場合、ジャッジは「ペナルティ」という。
+    - A7a3) 記録がDNFの場合、ジャッジは「DNF」という。
+  - A7b) ジャッジは記録用紙に結果を記入する。
+    - A7b1) 罰則を適用する場合、ジャッジは罰則が適用されていないスタックマットタイマーに表示された元記録とペナルティを記録する。フォーマットは「X + T + Y = F」が望ましく、Xにインスペクションや試技開始時のペナルティの合計を、Tにスタックマットタイマーに表示されたタイムを、Yに試技終了時のペナルティの合計を、Fに最終的な結果を記録する。XやYが0の場合、0は省略し記入しない(例：2 + 17.65 + 2 = 21.65、17.65 + 2 = 19.65)。
+  - A7c) ジャッジと競技者の双方とも、結果に同意するため記録用紙に名前(またはイニシャル)で署名しなければならない。
+    - A7c1) 競技者またはジャッジが記録用紙への署名を拒んだ場合、WCA代理人はこの問題を解決しなければならない。
+  - A7f) そのラウンドの競技者の記録用紙の記入が終わったら、ジャッジは記録記録入力係に記録用紙を渡す。
 
 
 ## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
