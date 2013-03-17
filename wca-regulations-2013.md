@@ -275,43 +275,43 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
 - 11f) インシデントの判断にはWCA代理人の裁量で動画または写真を用いることができる。
 
 
-## <article-12><notation><notation> Article 12: Notation
+## <article-12><notation><notation> 第12条：記号法
 
-- 12a) Notation for Rubik's Cube and similar puzzles:
-  - 12a1) Face Moves:
-    - 12a1a) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
-    - 12a1b) Anti-clockwise, 90 degrees: F', B', R', L', U', D'.
-    - 12a1c) 180 degrees: F2, B2, R2, L2, U2, D2.
-  - 12a2) Multiple Outer Slice Moves (outer slice plus adjacent inner slices; n is defined as total number of slices to move; n may be omitted for two slices):
-    - 12a2a) Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw.
-    - 12a2b) Anti-clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw'.
-    - 12a2c) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
-  - 12a3) Outer Block Turn Metric (OBTM) is defined as:
-    - 12a3a) Each move of the categories Face Moves and Multiple Outer Slice Moves is counted as 1 move.
-    - 12a3b) Each rotation is counted as 0 moves.
-- 12b) Rotations for all cube shaped puzzles:
-  - 12b1) Clockwise, 90 degrees: [f] or z, [b] or z', [r] or x, [l] or x', [u] or y, [d] or y'.
-  - 12b2) Anti-clockwise, 90 degrees: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y.
-  - 12b3) 180 degrees: [f2] or z2, [b2] or z2, [r2] or x2, [l2] or x2, [u2] or y2, [d2] or y2.
-- 12c) Notation for Square-1:
-  - 12c1) Moves are applied with the smallest slice of the middle layer on left side of front face.
-  - 12c2) (x,y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise.
-  - 12c3) "/" means: turn the right half of the puzzle 180 degrees.
-- 12d) Notation for Megaminx (scrambling notation only):
-    - 12d1a) Clockwise, 72 degrees: U (upper face).
-    - 12d1b) Anti-clockwise, 72 degrees: U' (upper face).
-  - 12d2) Other moves are applied while keeping 3 pieces fixed at top left of the puzzle:
-    - 12d2c) Clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R++ (vertical slices), D++ (horizontal slices).
-    - 12d2d) Anti-clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R-- (vertical slices), D-- (horizontal slices).
-- 12e) Notation for Pyraminx:
-  - 12e1) The puzzle is oriented with the bottom face completely horizontal and the front face facing the person who holds the Pyraminx.
-  - 12e2) Clockwise, 120 degrees: U (upper 2 layers), L (left 2 layers), R (right 2 layers), B (back 2 layers), u (upper vertex), l (left vertex), r (right vertex), b (back vertex).
-  - 12e3) Anti-clockwise, 120 degrees: U' (upper 2 layers), L' (left 2 layers), R' (right 2 layers), B' (back 2 layers), u' (upper vertex), l' (left vertex), r' (right vertex), b' (back vertex).
-- 12g) Notation for Clock:
-  - 12g1) The puzzle is oriented with twelve on top, and either side in front.
-  - 12g2) Move pins up: UR (top-right), DR (bottom-right), DL (bottom-left), UL (top-left), U (both top), R (both right), D (both bottom), L (both left), ALL (all).
-  - 12g3) Turn a wheel next to an up-position pin and move all pins down afterwards: x+ (x clockwise turns), x- (x anti-clockwise turns).
-  - 12g4) Turn around the puzzle so that twelve is still on top, and then move all pins down: y2.
+- 12a) ルービックキューブと類似パズルの記号法：
+  - 12a1) 1層回し：
+    - 12a1a) 時計回りに90度：F(前面)、B(背面)、R(右面)、L(左面)、U(上面)、D(下面)。
+    - 12a1b) 反時計回りに90度：F'、B'、R'、L'、U'、D'。
+    - 12a1c) 180度: F2、B2、R2、L2、U2、D2。
+  - 12a2) 複数外層スライス回し(最外層スライスと隣り合った内側の複数のスライス。一緒に回す層の数をnとする、2層回しのときnは省略可能)。
+    - 12a2a) 時計回りに90度：nFw、nBw、nRw、nLw、nUw、nDw。
+    - 12a2b) 反時計周りに90度：nFw'、nBw'、nRw'、nLw'、nUw'、nDw'。
+    - 12a2c) 180度：nFw2、nBw2、nRw2、nLw2、nUw2、nDw2。
+  - 12a3) 外層ブロックターン法(OBTM)は以下のように定義される：
+    - 12a3a) 1層回しと複数外層スライス回しは1手と数える。
+    - 12a3b) 持ち替えは0手と数える。
+- 12b) 立方体パズルの持ち替え記号：
+  - 12b1) 時計回りに90度：[f]またはz、[b]またはz'、[r]またはx、[l]またはx'、[u]またはy、[d]またはy'。
+  - 12b2) 反時計回りに90度：[f']またはz'、[b']またはz、[r']またはx'、[l']またはx、[u']またはy'、[d']またはy。
+  - 12b3) 180度：[f2]またはz2、[b2]またはz2、[r2]またはx2、[l2]またはx2、[u2]またはy2、[d2]またはy2。
+- 12c) スクエア1の記号法：
+  - 12c1) 中央層の最小のスライスを前面の左側に固定する。
+  - 12c2) (x,y)とは：上層を時計回りにx掛ける30度、下層を時計回りにy掛ける30度回転させること。
+  - 12c3) "/"とは：パズルの右半分を180度回転させること。
+- 12d) メガミンクスの記号法(スクランブル専用):
+    - 12d1a) 時計回りに72度: U(上面)。
+    - 12d1b) 反時計回りに72度: U'(上面)。
+  - 12d2) その他の動きはメガミンクスの上面左辺の3ピースを固定した状態で回す。
+    - 12d2c) 時計回りに144 度、上面左辺の3ピースを除くパズル全体を回す：R++(垂直スライス), D++(水平スライス)。
+    - 12d2d) 反時計回りに144度、上面左辺の3ピースを除くパズル全体を回す：R--(垂直スライス), D--(水平スライス)。
+- 12e) ピラミンクスの記号法：
+  - 12e1) パズルの向きは、下面が完全に水平であり前面がピラミンクスを持つ者に向かった状態とする。
+  - 12e2) 時計回りに120度：U(上面2層)、L(左面2層)、R(右面2層)、B(背面2層)、u(上頂点)、l(左頂点)、r(右頂点)、b(背頂点)。
+  - 12e3) 反時計回りに120度：U'(上面2層)、L'(左面2層)、R'(右面2層)、B'(背面2層)、u'(上頂点)、l'(左頂点)、r'(右頂点)、b'(背頂点)。
+- 12g) クロックの記号法:
+  - 12g1) パズルの向きは、12時が上方向の状態、かつ盤面はどちらが前面でも良い。
+  - 12g2) ピンを上げる：UR(右上1つ)、DR(右下1つ)、DL(左下1つ)、UL(左上1つ)、U(上2つ)、R(右2つ)、D(下2つ)、L(左2つ)、ALL(4つ全て)。
+  - 12g3) 上がっているピンに隣接するギアを回し、その後全てのピンを下げる：x+(時計回りにx回転)、x-(反時計回りにx回転)。
+  - 12g4) 12時が上方向になるように裏返し、すべてのピンを下げる：y2。
 
 
 ## <article-A><speedsolving><speedsolving> Article A: Speed Solving
