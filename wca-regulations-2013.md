@@ -461,15 +461,15 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
 - F3) インスペクション後、競技者はパズルをスタックマット上に立てて置く。ソルブ開始前に、スクランブルされた状態のピンの位置を変えることは許されない。罰則：失格(DNF)。
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> 第H条：複数目隠し競技
 
-- H1) Standard speed solving procedures is followed, as described in [Article B](regulations:article:B) (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in [Article B](regulations:article:B) are described below.
-  - H1a) Before an attempt, the competitor must notify the judge of the number of puzzles he wishes to attempt blindfolded. The number of puzzles must be at least 2.
-    - H1a1) A competitor is not permitted to change the number of puzzles after the beginning of the attempt.
-    - H1a2) The organisation team must not disclose the competitor's requested number of puzzles until the beginning of the attempt.
-  - H1b) If he is attempting fewer than 6 puzzles, the competitor is allotted a time limit of 10 minutes times the number of puzzles in the attempt, else the time limit is 60 minutes.
-    - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge stops the attempt and the attempt is then scored; the time limit for the attempt counts as the original recorded time.
-  - H1d) Time penalties for the puzzles of the attempt are cumulative.
+- H1) 基本的な流れは[B条](regulations:article:B)(目隠し競技)に準じる。[B条](regulations:article:B)の対応箇所にとってかわる追加規則は以下の通りである。
+  - H1a) 競技者は競技の開始までにジャッジに何個のパズル(２個以上)に挑戦するか宣言しなければならない。
+    - H1a1) 競技者は試技の開始後にパズルの個数の変更をしてはならない。
+    - H1a2) 大会運営チームは各競技者の宣言した個数を試技の開始まで公開してはならない。
+  - H1b) 競技者が6個未満のパズルに挑戦する場合、(挑戦するパズルの個数)×10分の時間が与えられる。それ以上の場合は60分が制限時間となる。
+    - H1b1) 競技者はいつでも試技を終わらせることができる。制限時間に達した場合、ジャッジは試技を中断させ記録を記入する、この場合制限時間が元記録となる。
+  - H1d) 試技を行ったパズルに対する+2秒ペナルティーは累積される。
 
 
 ## <article-Z><optional><optional> Article Z: Optional Regulations
