@@ -29,7 +29,7 @@ WCA指南用于补充[WCA规则](regulations:top)。关于WCA的更多信息见�
 <table-of-contents>
 
 
-## <article-1><officials><officials> 第一章: 工作人员
+## <article-1><officials><officials> 第一章：工作人员
 
 - 1c3+) [建议] 比赛成绩应该在比赛最后一天结束后准备完毕。
 - 1c3b+) [澄清] 如果有多个组，不需要确认具体每个选手在哪一组。
@@ -40,7 +40,7 @@ WCA指南用于补充[WCA规则](regulations:top)。关于WCA的更多信息见�
 - 1h1+) [澄清] 只有在对比赛组织很必要的情况下，打乱员/裁判才可以打乱/裁同组选手。
 
 
-## <article-2><competitors><competitors> 第二章: 选手
+## <article-2><competitors><competitors> 第二章：选手
 
 - 2c+) [附加] 第一次参加比赛的选手应该用他们合法的姓名报名。他们也可以使用一个合理的昵称，由WCA代表决定。
 - 2c++) [附加] 选手禁止提供故意误导他人的信息，参加过比赛的选手应该提供的信息应与之前的信息保持一致（例如姓名和WCA ID）。
@@ -51,7 +51,7 @@ WCA指南用于补充[WCA规则](regulations:top)。关于WCA的更多信息见�
 - 2s+) [提醒] 特批之处必须记录在WCA报告中。
 
 
-## <article-3><puzzles><puzzles> 第三章: 魔方
+## <article-3><puzzles><puzzles> 第三章：魔方
 
 - 3a+) [澄清] 选手可以使用任意合适大小的魔方，由WCA代表决定。
 - 3a++) [附加] 默认的，选手在同一轮里应该使用同一个魔方。选手也可以在每次还原之间更换魔方，由WCA代表决定。
@@ -61,7 +61,7 @@ WCA指南用于补充[WCA规则](regulations:top)。关于WCA的更多信息见�
 - 3h++) [举例] 超常的修改包括：新的转动方式，无法进行常规的转动，可以看到更多的块，可以看到背面的颜色，自动转动，更多或不同的还原状态。
 
 
-## <article-4><scrambling><scrambling> 第四章: 打乱
+## <article-4><scrambling><scrambling> 第四章：打乱
 
 - 4b1+) [提醒] WCA代表禁止重新生成任何打乱来替代原有打乱。例如，不允许看一眼打乱公式，然后以“更公平”为由重新生成打乱。
 - 4b2+) [澄清] 通常，所有官方打乱公式在比赛时应保密，赛后统一公开发布（见[规则1c3a](regulations:regulation:1c3a)）。特殊情况下（例如世界纪录），主办团队可以在该轮比赛结束后提前公布特定的打乱公式。
@@ -70,13 +70,13 @@ WCA指南用于补充[WCA规则](regulations:top)。关于WCA的更多信息见�
 - 4f++) [提醒] 如果WCA代表在比赛中生成了额外的打乱，他必须保存它们（见[规则1c3a](regulations:regulation:1c3a)）。
 
 
-## <article-5><puzzle-defects><puzzledefects> 第五章: 魔方故障
+## <article-5><puzzle-defects><puzzledefects> 第五章：魔方故障
 
 - 5b5+) [举例] 某些块没有归位的例子：五阶中心块在原地发生了原地转。
 - 5b5++) [举例] 结束还原时魔方处于故障状态的判罚举例：金字塔魔方的某个角块掉了，那么将它装回来之后有三种可能性，一种还原，两种“+2”，那么此次还原将记为“+2”。
 
 
-## <article-6><awards><awards> 第六章: 奖金/奖品/奖状
+## <article-6><awards><awards> 第六章：奖金/奖品/奖状
 
 - 6a+) [SEPARATE][附加] 奖金，奖品，奖状可根据公示的比赛规程给予获奖的参赛者。
 - 6b+) [SEPARATE][建议] 参赛者应该参加颁奖典礼以获得奖金/奖品/奖状。
@@ -85,20 +85,20 @@ WCA指南用于补充[WCA规则](regulations:top)。关于WCA的更多信息见�
 - 6d+) [SEPARATE][建议] 组织团队至少应有证书发放给所有获奖选手，证书上应有组织团队负责人和WCA代表的签名。
 
 
-## <article-7><environment><environment> 第七章: 比赛环境
+## <article-7><environment><environment> 第七章：比赛环境
 
 - 7d+) [SEPARATE][附加] 比赛区域的温度应该保持在21到25摄氏度。
 - 7h2+) [SEPARATE][附加] 位于选手区的选手应该看不到正在比赛的魔方。
 
 
-## <article-8><competitions><competitions> 第八章: 赛事
+## <article-8><competitions><competitions> 第八章：赛事
 
 - 8a4+) [建议] 如果照顾到新的报名选手而需要对资格轮次和第一轮的参赛人数上限做出增加修改时，建议提前一个月以上执行。（见[规则9r3](regulations:regulation:9r3)）。
 - 8a4++) [建议] 比赛建议在开始前至少一个月公示。
 - 8a5+) [SEPARATE][建议] 一场比赛应该有至少12名选手。
 
 
-## <article-9><events><events> 第九章: 项目
+## <article-9><events><events> 第九章：项目
 
 - 9b+) [附加] 如果可能，所有项目的决赛建议采用“5次取去尾平均”或“3次取平均”的形式。
 - 9b++) [附加] [规则9b](regulations:regulation:9b)以外的项目或形式也可以进行，但将作为非官方项目，并因此不会包含在比赛的官方成绩中。
@@ -107,18 +107,18 @@ WCA指南用于补充[WCA规则](regulations:top)。关于WCA的更多信息见�
 - 9r+) [解释] 资格轮的目的是让没有排名或低排名的选手有机会进入第一轮比赛，与已注册选手进行比赛。
 
 
-## <article-0><solved-state><solvedstate> 第十章: 完成状态
+## <article-0><solved-state><solvedstate> 第十章：完成状态
 
 - 10f+) [解释] 对齐限度选择了一个比较自然的方法将两个相差一步的状态区分开来。
 
 
-## <article-1><incidents><incidents> 第十一章: 意外事件
+## <article-1><incidents><incidents> 第十一章：意外事件
 
 - 11e+) [澄清] 由于申请不保证被接受，选手应该在申请时保持计时器的运行，并适当的继续复原。
 - 11e1+) [提醒] 额外的还原必须用官方打乱软件（见[规则4f](regulations:regulation:4f)，[指南4f+](guidelines:guideline:4f+)）生成的未经修改的打乱公式。
 
 
-## <article-A><speedsolving><speedsolving> 附则A: 速拧
+## <article-A><speedsolving><speedsolving> 附则A：速拧
 
 - A1a2+) [附加] 对于累积时限，裁判在记下DNF的同时在括号中记录原始时间，例如“DNF (1:02.27)”。
 - A1a3+) [提醒] 主办团队和WCA代表必须意识到时限会影响选手的策略（例如在混合轮的前两次加快手速，以求单次成绩达到及格线），所以在开始该轮后再改变时限会对某些选手产生不公平。
@@ -129,31 +129,31 @@ WCA指南用于补充[WCA规则](regulations:top)。关于WCA的更多信息见�
 - A6g+) [附加] 在裁判考虑是否作出超过对齐限度惩罚时，他不应触碰魔方。
 
 
-## <article-B><blindfolded><blindfoldedsolving> 附则B: 盲拧
+## <article-B><blindfolded><blindfoldedsolving> 附则B：盲拧
 
 - B1+) [提醒] 选手使用的魔方上不能有任何纹理，标记，或是其他可以区分相似块的特性（见[规则3k](regulations:regulation:3k)）。这点对于盲拧项目需要特别注意。
 - B1b+) [建议] 眼罩在使用前应该由WCA代表检查。
 
 
-## <article-C><one-handed><onehandedsolving> 附则C: 单拧
+## <article-C><one-handed><onehandedsolving> 附则C：单拧
 
 - C1b+) [澄清] 选手在观察时可以使用双手。
 - C1b++) [澄清] 对于同一轮的不同还原，选手可以使用不同的手。
 - C1b2+) [提醒] 修复魔方时可以借助桌面。
 
 
-## <article-D><feet><solvingwithfeet> 附则D: 脚拧
+## <article-D><feet><solvingwithfeet> 附则D：脚拧
 
 - D1b+) [澄清] 选手可以穿着袜子还原。
 - D1c+) [提醒] 在修复魔方故障时，身体的其他部位也禁止触碰魔方。
 
 
-## <article-E><fewest-moves><fewestmovessolving> 附则E: 最少步还原
+## <article-E><fewest-moves><fewestmovessolving> 附则E：最少步还原
 
 - E2b+) [澄清] 选手可以选择在时限到达前提交他的解法并结束还原。
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> 附则H: 多个盲拧
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> 附则H：多个盲拧
 
 - H1b1+) [提醒] 到达时限后，整个还原不会被取消资格（DNF），由多盲规则的例外限定（见[规则A1a4](regulations:regulation:A1a4)和[规则A1a5](regulations:regulation:A1a5)）。
 - H1b1++) [附加] 裁判可以让选手继续还原，但必须在完全根据规则裁决完成之后。

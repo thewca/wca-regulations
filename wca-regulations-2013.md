@@ -1,6 +1,6 @@
 # <wca-title>WCA 规则 2013
 
-<version>版本: 2013年1月1日
+<version>版本：2013年1月1日
 
 
 ## 注释
@@ -39,7 +39,7 @@ WCA规则及指南的修订公开[于GitHub](https://github.com/cubing/wca-docum
 <table-of-contents>
 
 
-## <article-1><officials><officials> 第一章: 工作人员
+## <article-1><officials><officials> 第一章：工作人员
 
 - 1a) 一场比赛必须包含一位WCA代表及一个由以下成员组成的主办团队（包含至少一个人）：裁判，打乱员，录入员。
 - 1b) 一场比赛的主办团队负责比赛前后的后勤工作。
@@ -71,7 +71,7 @@ WCA规则及指南的修订公开[于GitHub](https://github.com/cubing/wca-docum
 - 1k) 工作人员可以身兼数职（例如组织团队，WCA代表，裁判，录入员，打乱员）。
 
 
-## <article-2><competitors><competitors> 第二章:  选手
+## <article-2><competitors><competitors> 第二章： 选手
 
 - 2a) 所有满足以下条件的个人可以参加WCA比赛：
 	- 2a1) 遵从WCA规则。
@@ -112,7 +112,7 @@ WCA规则及指南的修订公开[于GitHub](https://github.com/cubing/wca-docum
 - 2t) 每个选手必须在比赛前熟悉并理解WCA规则。
 
 
-## <article-3><puzzles><puzzles> 第三章: 魔方
+## <article-3><puzzles><puzzles> 第三章：魔方
 
 - 3a) 选手必须提供他们自己的魔方参赛。
 	- 3a1) 当被要求出赛时，选手必须做好了出赛的所有准备。惩罚：取消当前项目资格。
@@ -134,7 +134,7 @@ WCA规则及指南的修订公开[于GitHub](https://github.com/cubing/wca-docum
 - 3m) 只要符合WCA规则，可以使用任何品牌的魔方及零部件。
 
 
-## <article-4><scrambling><scrambling> 第四章: 打乱
+## <article-4><scrambling><scrambling> 第四章：打乱
 
 - 4a) 打乱员将魔方按照打乱公式打乱。
 - 4b) 必须使用电脑生成的随机打乱序列将魔方打乱。
@@ -149,7 +149,7 @@ WCA规则及指南的修订公开[于GitHub](https://github.com/cubing/wca-docum
 	- 4g1) 例外：对于六阶魔方及七阶魔方，可以不纠正打乱错误，由WCA代表决定。
 
 
-## <article-5><puzzle-defects><puzzledefects> 第五章: 魔方故障
+## <article-5><puzzle-defects><puzzledefects> 第五章：魔方故障
 
 - 5a) 魔方故障的例子包括：POP，某些块原地转，掉贴纸、贴片、盖子等。
 - 5b) 如果在某次还原中发生了魔方故障，选手可以选择修复魔方继续还原，或是停止还原。
@@ -164,7 +164,7 @@ WCA规则及指南的修订公开[于GitHub](https://github.com/cubing/wca-docum
 - 5c) 魔方发生故障不能作为参赛者获得额外还原机会的理由。
 
 
-## <article-7><environment><environment> 第七章: 比赛环境
+## <article-7><environment><environment> 第七章：比赛环境
 
 - 7b) 观众距离正在使用的比赛区必须保持1.5米以上。
 - 7c) 比赛区的光照必须特别注意。光照应使用白光以便选手可以更容易识别不同的颜色。
@@ -181,7 +181,7 @@ WCA规则及指南的修订公开[于GitHub](https://github.com/cubing/wca-docum
 	- 7h1) 主办团队可以要求被叫到比赛的选手在完成本轮比赛前始终待在选手区。
 
 
-## <article-8><competitions><competitions> 第八章: 赛事
+## <article-8><competitions><competitions> 第八章：赛事
 
 - 8a) 一场WCA官方比赛必须：
 	- 8a1) 被WCA董事会批准。
@@ -194,7 +194,7 @@ WCA规则及指南的修订公开[于GitHub](https://github.com/cubing/wca-docum
 - 8f) 如果WCA规则在比赛中没有被正确遵守，WCA董事会有权取消相关成绩。
 
 
-## <article-9><events><events> 第九章: 项目
+## <article-9><events><events> 第九章：项目
 
 - 9a) WCA管理的项目有：
 	- 9a1) 被广为接受的Rubik魔方。
@@ -253,7 +253,7 @@ WCA规则及指南的修订公开[于GitHub](https://github.com/cubing/wca-docum
 - 9s) 每个项目的每一轮必须有时限（见[规则A1a](regulations:regulation:A1a)）。
 
 
-## <article-10><solved-state><solvedstate> 第十章: 完成状态
+## <article-10><solved-state><solvedstate> 第十章：完成状态
 
 - 10b) 只将计时器停止以后魔方的静止状态作为判罚依据。
 - 10c) 魔方在结束还原时可以任意朝向。
@@ -271,7 +271,7 @@ WCA规则及指南的修订公开[于GitHub](https://github.com/cubing/wca-docum
 - 10h) 其他的魔方在完成其一般定义的目标时，便认为是已完成的，在适合的情况下也可应用本规则中已定义的完成判定条款。
 
 
-## <article-11><incidents><incidents> 第十一章: 意外事件
+## <article-11><incidents><incidents> 第十一章：意外事件
 
 - 11a) 意外事件包括：
 	- 11a1) 工作人员或选手不正确地执行赛程。
@@ -284,7 +284,7 @@ WCA规则及指南的修订公开[于GitHub](https://github.com/cubing/wca-docum
 - 11f) 关于意外的判罚可以参考对视频或照片的分析，由WCA代表决定。
 
 
-## <article-12><notation><notation> 第十二章: 标记方法
+## <article-12><notation><notation> 第十二章：标记方法
 
 - 12a) 三阶魔方及与之相似魔方的标记方法：
 	- 12a1) 表层转动：
@@ -323,7 +323,7 @@ WCA规则及指南的修订公开[于GitHub](https://github.com/cubing/wca-docum
 	- 12g4) 翻转魔表并保持12点向上，然后将所有按钮按下：y2。
 
 
-## <article-A><speedsolving><speedsolving> 附则A: 速拧
+## <article-A><speedsolving><speedsolving> 附则A：速拧
 
 - A1) 速拧还原必须遵循以下过程。
 	- A1a) 主办团队可以对每次还原或累计时间加上时限。
@@ -393,7 +393,7 @@ WCA规则及指南的修订公开[于GitHub](https://github.com/cubing/wca-docum
 	- A7f) 当选手该轮的成绩单全部填完后，裁判将成绩单递送给录入员。
 
 
-## <article-B><blindfolded><blindfoldedsolving> 附则B: 盲拧
+## <article-B><blindfolded><blindfoldedsolving> 附则B：盲拧
 
 - B1) 主要遵循速拧规则，见[附则A](regulations:article:A)（速拧）。与[附则A](regulations:article:A)中的速拧规则不同的附加规则见下文。
 	- B1a) 没有观察阶段。
@@ -424,7 +424,7 @@ WCA规则及指南的修订公开[于GitHub](https://github.com/cubing/wca-docum
 	- B5c) 如果已经放下魔方，选手可以在停止计时器前摘下眼罩，但在那之后他不可以再触碰魔方。惩罚：取消此次还原资格（DNF）。
 
 
-## <article-C><one-handed><onehandedsolving> 附则C: 单拧
+## <article-C><one-handed><onehandedsolving> 附则C：单拧
 
 - C1) 主要遵循速拧规则，见[附则A](regulations:article:A)（速拧）。与[附则A](regulations:article:A)中的速拧规则不同的附加规则见下文。
 	- C1b) 在还原过程中，选手只可以使用一只手触碰魔方。惩罚：取消此次还原资格（DNF）。
@@ -433,7 +433,7 @@ WCA规则及指南的修订公开[于GitHub](https://github.com/cubing/wca-docum
 	- C1c) 在还原时，一旦选手的某只手触碰了魔方，他不能使用另一只手触碰魔方。惩罚：取消此次还原资格（DNF）。
 
 
-## <article-D><feet><solvingwithfeet> 附则D: 脚拧
+## <article-D><feet><solvingwithfeet> 附则D：脚拧
 
 - D1) 主要遵循速拧规则，见[附则A](regulations:article:A)（速拧）。与[附则A](regulations:article:A)中的速拧规则不同的附加规则见下文。
 	- D1a) 在还原中，选手必须坐在椅子上，坐在地上，或者站着。
@@ -446,7 +446,7 @@ WCA规则及指南的修订公开[于GitHub](https://github.com/cubing/wca-docum
 	- D4a) 选手将双脚放置于计时器感应区以结束还原。
 
 
-## <article-E><fewest-moves><fewestmovessolving> 附则E: 最少步还原
+## <article-E><fewest-moves><fewestmovessolving> 附则E：最少步还原
 
 - E2) 最少步还原过程：
 	- E2a) 裁判将打乱公式发给所有参赛选手。然后裁判启动停表并说“开始”。
@@ -463,14 +463,14 @@ WCA规则及指南的修订公开[于GitHub](https://github.com/cubing/wca-docum
 	- E3c) 贴纸（自备）。
 
 
-## <article-F><clock><clocksolving> 附则F: 魔表
+## <article-F><clock><clocksolving> 附则F：魔表
 
 - F1) 主要遵循速拧规则，见[附则A](regulations:article:A)（速拧）。与[附则A](regulations:article:A)中的速拧规则不同的附加规则见下文。
 - F2) 裁判将打乱的魔表立着放在垫子上。
 - F3) 在观察结束后，选手将魔表立着放在垫子上。在开始还原前禁止改变按钮的位置。惩罚：取消此次还原资格（DNF）。
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> 附则H: 多个盲拧
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> 附则H：多个盲拧
 
 - H1) 主要遵循速拧规则，见[附则A](regulations:article:A)（速拧）。与[附则A](regulations:article:A)中的速拧规则不同的附加规则见下文。
 	- H1a) 在开始还原前，选手必须告知裁判他希望尝试还原魔方的个数。该数不能小于2。
@@ -481,7 +481,7 @@ WCA规则及指南的修订公开[于GitHub](https://github.com/cubing/wca-docum
 	- H1d) 所有魔方的加罚时间累加。
 
 
-## <article-Z><optional><optional> 附录Z: 可选规则
+## <article-Z><optional><optional> 附录Z：可选规则
 
 主办团队可以采用可选规则以使得比赛更易管理。
 WCA董事会必须批准一场比赛用到的所有可选规则。
