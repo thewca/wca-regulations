@@ -384,35 +384,35 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
   - A7f) そのラウンドの競技者の記録用紙の記入が終わったら、ジャッジは記録記録入力係に記録用紙を渡す。
 
 
-## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
+## <article-B><blindfolded><blindfoldedsolving> 第B条：目隠し競技
 
-- B1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-  - B1a) There is no inspection period.
-  - B1b) The competitor supplies his own blindfold.
-- B2) Starting the attempt:
-  - B2a) The judge resets the timer and stopwatch.
-  - B2b) The competitor places his hands on the elevated sensor unit of the Stackmat, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
-  - B2c) The competitor must have no physical contact with the puzzle before the beginning of the attempt. Penalty: time penalty (+2 seconds).
-  - B2d) The competitor starts the attempt by removing his hands from the timer, thus starting the timer.
-    - B2d1) The competitor removes the cover from the puzzle after starting the timer.
-  - B2e) If a stopwatch is in use, the judge starts the stopwatch as soon as the competitor starts the solve.
-- B3) Memorisation phase:
-  - B3a) The competitor may pick up the puzzle during the memorisation phase.
-  - B3b) The competitor must not make physical notes. Penalty: disqualification of the attempt (DNF).
-  - B3c) The competitor must not apply moves to the puzzle during the memorisation phase.
-- B4) Blindfolded phase:
-  - B4a) The competitor dons the blindfold to start the blindfolded phase.
-  - B4b) The competitor must not apply moves to the puzzle before he has fully donned the blindfold.
-  - B4c) The judge must ensure that there is an opaque object between the competitor's face and the puzzle while the competitor is solving.
-    - B4c1) In all cases, the competitor must wear the blindfold such that his view of the puzzle would still be clearly blocked if the opaque object were not in the way.
-    - B4c2) By default, the judge should place the object (e.g. a sheet of paper or cardboard) between the competitor and the puzzle while the competitor is wearing the blindfold.
-    - B4c3) If the judge and competitor agree beforehand, the competitor may choose to place the puzzle behind a suitable object (e.g. a music stand, the surface of the table) by himself during the blindfolded phase.
-  - B4d) The competitor must not look at the puzzle at any point during the blindfolded phase. Penalty: disqualification of the attempt (DNF).
-  - B4e) Until he applies the first move to the puzzle, the competitor may remove the blindfold to return to the memorisation phase.
-- B5) Stopping the solve:
-  - B5a) When using the Stackmat, the competitor stops the attempt by releasing the puzzle and then stopping the timer.
-  - B5b) When using a stopwatch, the competitor ends the attempt by placing the puzzle back onto the surface and notifying the judge that he is stopping the attempt. At that moment, the judge stops the timer.
-  - B5c) If he is not touching the puzzle, the competitor may remove the blindfold before he stops the timer. He must not touch the puzzle until the end of the attempt. Penalty: disqualification of the attempt (DNF).
+- B1) 基本的な流れは[A条](regulations:article:A)(スピード競技)に準じる。[A条](regulations:article:A)の対応箇所に取って代わる追加規則は以下の通りである。
+  - B1a) インスペクションはない。
+  - B1b) 競技者は自分で目隠しを用意しなければならない。
+- B2) 試技の開始：
+  - B2a) ジャッジはタイマーとストップウォッチをリセットする。
+  - B2b) 競技者は手のひらを下にして、指でセンサーに触れるように両手を置かなければならない。罰則：+2秒ペナルティ。
+  - B2c) 競技者は、試技開始までパズルに触れてはならない。罰則：+2秒ペナルティ。
+  - B2d) 競技者は、タイマーから手を離し、タイマーをスタートさせ、試技を始める。
+    - B2d1) 競技者はタイマーをスタートさせた後、自らパズルの覆いをはずさなければならない。
+  - B2e) ストップウォッチを計測に使用する場合、ジャッジは試技が開始されたらすぐにストップウォッチをスタートさせる。
+- B3) 記憶段階：
+  - B3a) 記憶段階の間、競技者はパズルを手に取ることができる。
+  - B3b) 競技者は物理的なメモを取ってはならない。罰則：試技の失格(DNF)。
+  - B3c) 競技者は記憶段階の間、パズルのスライスを回転させてはならない。
+- B4) 目隠し段階：
+  - B4a) 競技者は目隠しを着用し、目隠し段階を開始する。
+  - B4b) 競技者は完全に目隠しを着用するまではパズルのスライスを回転させてはならない。
+  - B4c) 競技者がソルブを行っている間、ジャッジは競技者の顔とパズルの間を確実に不透明の物体で遮らなければならない。
+    - B4c1) いかなる場合においても競技者は、不透明の物体が顔とパズルの間になくてもパズルへの視界が完全に遮られるように、目隠しを着用していなければならない。
+    - B4c2) 原則、競技者が目隠しを着用している間、ジャッジは競技者の顔とパズルの間に物体(例:紙や段ボール)を挟まなければならない。
+    - B4c3) 事前にジャッジと競技者の同意があれば、競技者は目隠し中にパズルを適切な物体(例:譜面台、机の天板)の向こう側にパズルを配置することを選択してもよい。
+  - B4d) 競技者は目隠し段階の間にパズルの状態を見て確認してはならない。罰則：試技の失格(DNF)。
+  - B4e) 競技者は最初の一手を始める前であれば、目隠しを取って記憶段階に戻ることができる。
+- B5) 試技の終了：
+  - B5a) スタックマット使用時、競技者はパズルから手を離しタイマーを止めることによって試技を終了する。
+  - B5b) ストップウォッチ使用の場合、競技者は試技が終了したらパズルを競技面に戻し、ジャッジに口頭で試技終了を知らせる。ジャッジはその時点でストップウォッチを止める。
+  - B5c) 競技者はパズルを触らないのであれば、タイマーを止める前に目隠しを取ることができる。しかし目隠しを取った後はパズルのスライスを回転させてはならない。罰則：試技の失格(DNF)。
 
 
 ## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
