@@ -154,7 +154,12 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 5b3b) If, after repairing the puzzle but before the end of the attempt, the competitor finds that the puzzle is unsolvable, he may disassemble and reassemble a maximum of 4 pieces to make the puzzle solvable.
         - 5b3c) If the puzzle is unsolvable, and can be made solvable by rotating a single corner piece, the competitor may correct the corner piece by twisting it in place without disassembling the puzzle.
     - 5b4) During blindfolded events, a puzzle defect must be repaired during the attempt, and all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
-    - 5b5) If parts of the puzzle are still defective or not fully placed at the end of the attempt, the result is recorded as the worst state obtainable by repairing the puzzle (see [Regulation 5b3](regulations:regulation:5b3)).
+    - 5b5) If at the end of the attempt some parts of the puzzle are physically detached or not fully placed, the following regulations apply:
+        - 5b5a) If one or more parts without coloured faces is affected, the puzzle is considered solved.
+        - 5b5b) If one part with one coloured face is affected, the puzzle is considered solved.
+        - 5b5c) If more than one part with one coloured face is affected, the puzzle is considered unsolved (DNF).
+        - 5b5d) If one or more parts with more than one coloured face, the puzzle is considered unsolved (DNF).
+        - 5b5e) 5b5c and 5b5d supercede 5b5a and 5b5b.
 - 5c) If a competitor has a puzzle defect, this does not give him the right to an extra attempt.
 
 
