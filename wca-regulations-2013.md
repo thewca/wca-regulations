@@ -136,8 +136,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 4b2) Scramble sequences for a round must be available only to the WCA Delegate and the scramblers for the event, until the end of the round. Exception: For Fewest Moves Solving, competitors receive scrambling sequences during the round (see [Article E](regulations:article:E)).
 - 4d) Scrambling orientation:
     - 4d1) Cube puzzles and Megaminx are scrambled with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.
-    - 4d2) Pyraminx are scrambled with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
-    - 4d3) Square-1 are scrambled with the darker colour on front (out of the 2 possible scrambling orientations).
+    - 4d2) Pyraminx is scrambled with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
+    - 4d3) Square-1 is scrambled with the darker colour on front (out of the 2 possible scrambling orientations).
 - 4f) Competition scramble sequences must be generated using the current official version of the official WCA scramble program (available via the WCA website).
 - 4g) After scrambling a puzzle, the scrambler must verify that he has scrambled the puzzle correctly. If the puzzle state is wrong, he must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
     - 4g1) Exception: For the 6x6x6 Cube and the 7x7x7 Cube, it is not necessary to correct the scramble, at the discretion of the WCA Delegate.
@@ -249,7 +249,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 9r1d) The latest permitted date used to determine the qualifying average/mean result or single solve result in the WCA rankings.
     - 9r2) Each competitor of an event who has not directly qualified for the first round of the event must compete in the qualification round in order to participate in the first round.
     - 9r3) A qualification round may be added to specifically accommodate newly registered competitors, and/or the maximum number of competitors in the qualification round or first round of an event may be increased. These changes must be made at least two weeks before the competition.
-- 9s) Each round of each event must have a time limit (see [Regulation A1a](regulation:A1a)).
+- 9s) Each round of each event must have a time limit (see [Regulation A1a](regulations:regulation:A1a)).
 
 
 ## <article-10><solved-state><solvedstate> Article 10: Solved State
@@ -306,6 +306,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 12c2) (x,y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise.
     - 12c3) "/" means: turn the right half of the puzzle 180 degrees.
 - 12d) Notation for Megaminx (scrambling notation only):
+    - 12d1) Moves applied to the upper face:
         - 12d1a) Clockwise, 72 degrees: U (upper face).
         - 12d1b) Anti-clockwise, 72 degrees: U' (upper face).
     - 12d2) Other moves are applied while keeping 3 pieces fixed at top left of the puzzle:
@@ -350,7 +351,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A3b2) When the competitor confirms his readiness, the judge uncovers the puzzle. If the attempt requires a stopwatch, the judge starts it at the same time.
     - A3c) The competitor may pick up the puzzle during inspection.
         - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the attempt (DNF).
-        - A3c2) If the pieces of the puzzle are not fully aligned, then the competitor may align the faces, as long as misalignments stay within the limits 10f.
+        - A3c2) If the pieces of the puzzle are not fully aligned, then the competitor may align the faces, as long as misalignments stay within the limits of [Regulation 10f](regulations:regulation:10f).
         - A3c3) The competitor may reset the timer before he starts the solve.
     - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation and position.
         - A3d1) The puzzle must not rest on the timer. Penalty: time penalty (+2 seconds).
