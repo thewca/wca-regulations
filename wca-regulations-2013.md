@@ -159,7 +159,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 5b5b) If one part with one coloured face is affected, the puzzle is considered solved.
         - 5b5c) If more than one part with one coloured face is affected, the puzzle is considered unsolved (DNF).
         - 5b5d) If one or more parts with more than one coloured face is affected, the puzzle is considered unsolved (DNF).
-        - 5b5e) 5b5c and 5b5d supercede 5b5a and 5b5b.
+        - 5b5e) Regulations [5b5c](regulations:regulation:5b5c) and [5b5d](regulations:regulation:5b5d) supercede [5b5a](regulations:regulation:5b5a) and [5b5b](regulations:regulation:5b5b).
 - 5c) If a competitor has a puzzle defect, this does not give him the right to an extra attempt.
 
 
@@ -258,7 +258,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 10c) The puzzle may be in any orientation at the end of the attempt.
 - 10d) All pieces of a puzzle must be fully attached to the puzzle in their required positions. Exception: see [Regulation 5b5](regulations:regulation:5b5).
 - 10e) A puzzle is solved when all face colours are reassembled and all parts are aligned within the limits specified below:
-    - 10e1) For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in [Regulation 10f](regulations:regulation:10f), the puzzle is considered to require one additional move to solve (see "Outer Block Turn Metric" in [Article 12][(regulations:article:12)).
+    - 10e1) For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in [Regulation 10f](regulations:regulation:10f), the puzzle is considered to require one additional move to solve (see "Outer Block Turn Metric" in [Article 12](regulations:article:12)).
     - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle is considered solved without penalty.
     - 10e3) If one move is required, the puzzle is be considered solved with a time penalty (+2 seconds).
     - 10e4) If more than one move is required, the puzzle is considered unsolved (DNF).
