@@ -72,8 +72,8 @@ To be more informative, each Guideline is classified using one of the following 
 
 ## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
 
-- 5b5+) [EXAMPLE] Examples of pieces physically detached, resulting in a solved state: one 3x3x3 center cap, one big cube center piece, an inner piece of a big cube, an arbitrary combination of pieces not exceeding the limit of one coloured face.
-- 5b5++) [EXAMPLE] Examples of pieces physically detached, resulting in a "DNF": two 3x3x3 center caps, two big cube center pieces, a 3x3x3 edge piece, a 4x4x4 edge piece (``wing''), an arbitrary combination of pieces exceeding the limit of one coloured face.
+- 5b5+) [EXAMPLE] Examples of pieces physically detached, resulting in a solved state: one 3x3x3 center cap, one big cube center piece, an inner piece of a big cube.
+- 5b5++) [EXAMPLE] Examples of pieces physically detached, resulting in a "DNF": two 3x3x3 center caps, two big cube center pieces, a 3x3x3 edge piece, a 4x4x4 edge piece (``wing''), any combination of two pieces that both have coloured faces.
 - 5b5+++) [EXAMPLE] Example of pieces not fully attached, resulting in a solved state: a 5x5x5 centre piece twisted in its spot.
 - 5b5++++) [EXAMPLE] Example of pieces physically attached but not fully placed, resulting in a "DNF": a 3x3x3 edge piece slightly popped out.
 
