@@ -1,6 +1,6 @@
 # <wca-title>WCA 规则 2013
 
-<version>版本: 2013年1月1日
+<version>版本: 2013年5月21日
 
 
 ## 注释
@@ -165,7 +165,7 @@ WCA规则及指南的修订公开[于GitHub](https://github.com/cubing/wca-docum
 		- 5b5b) 对于同一部分的单色块受影响的情况，魔方被认为是复原的。
 		- 5b5c) 对于两个或以上部分的单色块受影响的情况，魔方被认为没有复原（DNF）。
 		- 5b5d) 对于有多色块受影响的情况，魔方被认为没有复原（DNF）。
-		- 5b5e) 5b5c 和 5b5d 比 5b5a 和 5b5b 优先判定.
+		- 5b5e) 规则[5b5c](regulations:regulation:5b5c)和规则[5b5d](regulations:regulation:5b5d)比规则[5b5a](regulations:regulation:5b5a)和规则[5b5b](regulations:regulation:5b5b)优先判定.
 - 5c) 魔方发生故障不能作为参赛者获得额外还原机会的理由。
 
 
@@ -312,6 +312,7 @@ WCA规则及指南的修订公开[于GitHub](https://github.com/cubing/wca-docum
 	- 12c2) (x,y) 表示：顺时针转动上面x乘以30度，顺时针转动下面y乘以30度。
 	- 12c3) "/" 表示：转魔方的右半部分180度。
 - 12d) 五魔方的标记方法（仅用于打乱）：
+	- 12d1) 上面的转动：
 		- 12d1a) 顺时针72度：U（上面）。
 		- 12d1b) 逆时针72度：U'（上面）。
 	- 12d2) 其他转动保持位于魔方顶面和左面相交处的三个块不变：
