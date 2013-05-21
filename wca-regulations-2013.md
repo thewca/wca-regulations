@@ -1,6 +1,6 @@
 # <wca-title>WCA Regulations 2013
 
-<version>Version: May 10, 2013
+<version>Version: May 21, 2013
 
 
 ## Notes
