@@ -158,7 +158,7 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
     - 5b5b) 一面にのみ色が付いているパーツが1つ影響を受けた場合、パズルは完成とみなされる。
     - 5b5c) 一面にのみ色が付いているパーツが2つ以上影響を受けた場合、パズルは未完成(DNF)とみなされる。
     - 5b5d) 複数面に色が付いているパーツが1つ以上影響を受けた場合、パズルは未完成(DNF)とみなされる。
-    - 5b5e) [5b5c](regulations:regulation:5b5c)と[5b5d](regulations:regulation:5b5d)5b5dは[5b5a](regulations:regulation:5b5a)と[5b5b](regulations:regulation:5b5b)に優越する。
+    - 5b5e) [5b5c](regulations:regulation:5b5c)と[5b5d](regulations:regulation:5b5d)は[5b5a](regulations:regulation:5b5a)と[5b5b](regulations:regulation:5b5b)に優越する。
 - 5c) パズルの欠損が起こっても、競技者に追加試技は与えられない。
 
 ## <article-7><environment><environment> 第7条: 競技環境
