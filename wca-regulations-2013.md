@@ -1,7 +1,6 @@
 # <wca-title>WCA大会規則 2013
 
-<version>バージョン：2013年1月1日
-
+<version>バージョン：2013年5月21日
 
 ## 注釈
 
@@ -34,7 +33,6 @@ WCA大会規則原文PDF版：[PDF format](wca-regulations-and-guidelines-2013.p
 注釈：大会規則の条項の一部が削除された場合に、改めて番号を振り直していないため、条項の間に間がある場合があります
 
 <table-of-contents>
-
 
 ## <article-1><officials><officials> 第1条: 大会役員
  

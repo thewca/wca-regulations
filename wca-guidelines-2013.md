@@ -1,7 +1,6 @@
 # <wca-title>WCA ガイドライン 2013
 
-<version>バージョン：2013年1月1日
-
+<version>バージョン：2013年5月21日
 
 ## 注釈
 
@@ -26,7 +25,6 @@ WCA ガイドラインにはWCA規則の補足を載せています。WCAにつ�
 ## <contents> [コンテンツ](guidelines:contents)
 
 <table-of-contents>
-
 
 ## <article-1><officials><officials> 第1条: 大会役員
 
