@@ -290,12 +290,12 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 12a1a) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
         - 12a1b) Anti-clockwise, 90 degrees: F', B', R', L', U', D'.
         - 12a1c) 180 degrees: F2, B2, R2, L2, U2, D2.
-    - 12a2) Multiple Outer Slice Moves (outer slice plus adjacent inner slices; n is defined as total number of slices to move; n may be omitted for two slices):
+    - 12a2) Outer Block Moves (outer slice plus adjacent inner slices; n is defined as total number of slices to move; n may be omitted for two slices):
         - 12a2a) Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw.
         - 12a2b) Anti-clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw'.
         - 12a2c) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
     - 12a3) Outer Block Turn Metric (OBTM) is defined as:
-        - 12a3a) Each move of the categories Face Moves and Multiple Outer Slice Moves is counted as 1 move.
+        - 12a3a) Each move of the categories Face Moves and Outer Block Moves is counted as 1 move.
         - 12a3b) Each rotation is counted as 0 moves.
 - 12b) Rotations for all cube shaped puzzles:
     - 12b1) Clockwise, 90 degrees: [f] or z, [b] or z', [r] or x, [l] or x', [u] or y, [d] or y'.
