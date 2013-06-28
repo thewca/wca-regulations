@@ -1,162 +1,162 @@
-# <wca-title>WCA Guidelines 2013
+# <wca-title>WCA 지침 2013
 
-<version>Version: May 21, 2013
-
-
-## Notes
-
-### WCA Regulations 
-
-The WCA Guidelines supplement the [WCA Regulations](regulations:top). Please see the Regulations for more information about the WCA.  
-
-### Numbering
-
-Guidelines are numbered in correspondence with related regulations. Note that mutiple Guidelines may correspond to the same Regulation, and some Guidelines correspond to Regulations that do not exist anymore.
-
-### Labels 
-
-To be more informative, each Guideline is classified using one of the following labels. Note that this should be treated as metadata, not as a description of importance.
-
-- <label>[ADDITION] Additional information to supplement the Regulations.
-- <label>[CLARIFICATION] Information to address any possible questions about interpretation of the Regulations.
-- <label>[EXPLANATION] Information that clarifies the intent of Regulations.
-- <label>[RECOMMENDATION] Something that is not strictly mandatory, but that should be done if possible.
-- <label>[REMINDER] Information that may be addressed other Regulations/Guideline, but whose relevance is worth reiterating.
+<version>버전: 2013년 5월 21일
 
 
-## <contents> [Contents](guidelines:contents)
+## 참고
+
+### WCA 규정 
+
+WCA 지침은 [WCA 규정](regulations:top)을 보충한다. WCA에 대한 더 많은 정보를 얻으려면 규정을 보시오.  
+
+### 번호 매기기
+
+지침들은 그에 해당하는 규정에 맞추어 번호가 매겨졌다. 한 개 이상의 지침이 한 규정에 대응할 수 있으며, 몇몇 지침들은 더 이상 존재하지 않는 규정에 대응한다는 것을 참고하시오.
+
+### 분류 
+
+더욱 명확한 정보를 주기 위해, 각 지침은 다음의 분류를 사용함으로써 구분된다. 이것은 메타데이터로만 사용되어야 하며, 중요도의 표시가 아닌 것을 참고하라.
+
+- <label>[추가] 규정을 보완하기 위한 추가적 정보.
+- <label>[명확] 규정에 대한 해석에 대해 생길 수 있는 질문에 대한 정보.
+- <label>[설명] 규정의 의도를 명확히 하는 정보.
+- <label>[권장] 강제적이진 않으나 가능하다면 지켜져야 하는 것.
+- <label>[주의] 다른 규정/지침에서 서술되어 있으나 되풀이할 만한 정보.
+
+
+## <contents> [목차](guidelines:contents)
 
 <table-of-contents>
 
 
-## <article-1><officials><officials> Article 1: Officials
+## <article-1><officials><officials> 제 1 조: 운영진
 
-- 1c3+) [RECOMMENDATION] Results should be ready at the end of the last day of competition.
-- 1c3b+) [CLARIFICATION] If there are multiple groups, it is not necessary to identify which competitor was in which groups.
-- 1c4+) [RECOMMENDATION] Corrections to the results should be available within one week of the competition date.
-- 1c10+) [CLARIFICATION] It is sufficient to ensure access to a digital copy of the Regulations.
-- 1h+) [RECOMMENDATION] Competitors in the same group should use the same scramble sequences. Different groups should use different scramble sequences.
-- 1h+) [RECOMMENDATION] All final rounds of all events, as well as all Fewest Moves Solving rounds, should have the same scrambles for all competitors (i.e. only 1 group).
-- 1h1+) [CLARIFICATION] Scramblers/judges should only scramble for/judge other competitors in the same group only if it is important for competition logistics.
-
-
-## <article-2><competitors><competitors> Article 2: Competitors
-
-- 2c+) [ADDITION] First-time competitors should register using their legal name. They may register using a reasonable nickname, at the discretion of the WCA Delegate.
-- 2c++) [ADDITION] Competitors must not provide intentionally misleading information, and returning competitors should provide information consistent with past information (e.g. exact name and WCA ID).
-- 2d+) [ADDITION] Date of birth and contact information should be especially secured.
-- 2d++) [RECOMMENDATION] If a third party (e.g. journalist) asks the organisation team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
-- 2h+) [CLARIFICATION] Competitors may be barefoot for Solving With Feet.
-- 2j2+) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, his results from earlier rounds remain valid.
-- 2s+) [REMINDER] Special accommodations must be noted in the Delegate Report.
+- 1c3+) [권장] 기록들은 대회의 마지막 날, 끝날 때까지 준비되어 있어야 한다.
+- 1c3b+) [명확] 그룹이 여러 개라면, 어느 선수가 어떤 그룹에 있었는지 구분할 필요는 없다.
+- 1c4+) [권장] 기록에 대한 수정은 대회 날짜로부터 1주일 이내에 해야 한다.
+- 1c10+) [명확] 디지털 상의 복사본을 사용해도 좋다.
+- 1h+) [권장] 같은 그룹의 선수들은 같은 스크램블 공식을 사용해야 한다. 다른 그룹의 선수들은 다른 스크램블 공식을 사용해야 한다.
+- 1h+) [권장] 최소회전을 포함한 모든 종목의 모든 결승라운드는 모든 참가자들에게 같은 스크램블을 적용시켜야 한다(즉, 그룹은 1개여야 한다).
+- 1h1+) [명확] 스크램블러/심판들은 대회의 실행계획에 중요한 상황일 때만 오직 같은 그룹에 속해있는 심판이나 선수들의 스크램블을 담당할 수 있다.
 
 
-## <article-3><puzzles><puzzles> Article 3: Puzzles
+## <article-2><competitors><competitors> 제 2 조: 선수
 
-- 3a+) [CLARIFICATION] Competitors may use puzzles of any reasonable size, at the discretion of the WCA Delegate.
-- 3a++) [ADDITION] By default, a competitor should use the same puzzle for consecutive attempts in a speed solving round. A competitor may switch puzzles between attempts, at the discretion of the judge or WCA Delegate.
-- 3a++) [CLARIFICATION] Competitors may borrow puzzles from other competitors privately, to use in competition.
-- 3a1+) [CLARIFICATION] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit their puzzle at the moment).
-- 3h+) [CLARIFICATION] Puzzles may be refined internally by sanding or lubricating.
-- 3h++) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, or the puzzles has more/different solved states.
-
-
-## <article-4><scrambling><scrambling> Article 4: Scrambling
-
-- 4b1+) [REMINDER] The WCA Delegate must never re-generate any scrambles to replace other ones for the purpose of filtering. For example, it is not be permitted to glance at the scrambles for a competition and generate the entire set again in order to generate "fairer" scrambles.
-- 4b2+) [CLARIFICATION] In general, all official scramble sequences should be kept secret during the competition and published together after the end of the competition (see [Regulation 1c3a](regulations:regulation:1c3a)). In some cases (e.g. world records), the organisation team may wish to release specific scrambles sooner after the end of a round.
-- 4d+) [CLARIFICATION] Some puzzles use standard colour schemes, except that black is replaced with white. In this case, black is the darkest colour and must not be treated as white.
-- 4f+) [RECOMMENDATION] The WCA Delegate should generate sufficient scrambles for the entire competition ahead of time, including spare scrambles for extra attempts.
-- 4f++) [REMINDER] If the WCA Delegate generates any additional scrambles during the competition, he must save them (see [Regulation 1c3a](regulations:regulation:1c3a)).
+- 2c+) [추가] 처음 참가하는 선수들은 자신의 법적 이름을 사용하여 등록해야 한다. 선수들은 WCA 파견위원의 결정에 따라 합리적인 별명을 사용할 수 있다.
+- 2c++) [추가] 선수들은 고의로 잘못된 정보를 제공하면 안 되며, 다른 대회에 참가했던 선수들은 이전의 정보와 같은 정보(예를 들어: 정확한 이름과 WCA ID)를 제공해야 한다.
+- 2d+) [추가] 생년월일과 연락 방법은 특히 보안이 유지되어야 한다.
+- 2d++) [권장] 제 3자(예를 들어: 기자)가 운영진에게 어떤 참가자와 접촉하기를 원하면, 선수의 동의가 먼저 구해져야 한다.
+- 2h+) [명확] 발 종목에서 선수는 맨 발로 할 수 있다.
+- 2j2+) [예시] 예를 들어, 선수가 결승에 참가하지 못해서 종목에서 실격처리 되었다면, 그의 이전 라운드에서의 기록들은 유효하다.
+- 2s+) [주의] 특별 조정들은 반드시 파견위원의 보고에 서술되어야 한다.
 
 
-## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
+## <article-3><puzzles><puzzles> 제 3 조: 퍼즐
 
-- 5b5+) [EXAMPLE] Examples of pieces physically detached, resulting in a solved state: one 3x3x3 center cap, one big cube center piece, an inner piece of a big cube.
-- 5b5++) [EXAMPLE] Examples of pieces physically detached, resulting in a "DNF": two 3x3x3 center caps, two big cube center pieces, a 3x3x3 edge piece, a 4x4x4 edge piece ("wing"), any combination of two pieces that both have coloured faces.
-- 5b5+++) [EXAMPLE] Example of pieces not fully attached, resulting in a solved state: a 5x5x5 centre piece twisted in its spot.
-- 5b5++++) [EXAMPLE] Example of pieces physically attached but not fully placed, resulting in a "DNF": a 3x3x3 edge piece slightly popped out.
-
-## <article-6><awards><awards> Article 6: Awards/prizes/honours
-
-- 6a+) [SEPARATE][ADDITION] Awards, prizes or honours may be given to competitors according to the announcement of the competition.
-- 6b+) [SEPARATE][RECOMMENDATION] Competitors should attend the winner's ceremony to receive awards/prizes/honours.
-- 6b1+) [SEPARATE][RECOMMENDATION] The winner's ceremony should be held in the competition venue, within one hour after the end of the last event.
-- 6c+) [SEPARATE][RECOMMENDATION] Winners of awards, prizes or honours should be prepared to talk to journalists or any media covering the competition.
-- 6d+) [SEPARATE][RECOMMENDATION] Organisation teams of competitions should have certificates for all category winners, signed by the leader of the organisation team and by the WCA delegate.
+- 3a+) [명확] WCA 파견위원의 결정에 따라, 선수들은 적합하다면 어떠한 크기의 퍼즐을 사용해도 된다.
+- 3a++) [추가] 선수는 스피드 솔빙 라운드의 연속된 시도들에서 같은 퍼즐을 사용해야 한다. 선수는 심판이나 WCA 파견위원의 결정에 따라 시도들 사이에 퍼즐을 바꿀 수 있다.
+- 3a++) [명확] 선수들은 대회에 사용하기 위해 다른 선수들에게서 개인적으로 퍼즐을 빌릴 수 있다.
+- 3a1+) [명확] 선수들은 불릴 때 기록을 재러 가지 않거나, 제출할 퍼즐이 준비되지 않으면(예를 들어, 다른 선수의 퍼즐을 빌리려고 했으나 그 선수가 그 때 퍼즐을 기록을 재는 데 사용하고 있어서 제출할 수 없는 경우) 실격 당할 수 있다.
+- 3h+) [명확] 퍼즐들은 사포나 윤활유를 이용하여 내부 성능을 향상시켜도 된다.
+- 3h++) [예시] 기본적 기능을 향상시킬 수 있는 개조는 다음을 포함한다: 새로운 움직임이 가능하거나, 기존의 움직임이 불가능하거나, 더 많은 조각이나 면들이 더 보이거나, 뒷면의 색이 보이거나, 움직임이 자동적으로 가능하거나, 퍼즐이 더 많은/다른 맞추어진 상태가 있게 하는 것.
 
 
-## <article-7><environment><environment> Article 7: Environment
+## <article-4><scrambling><scrambling> 제 4 조: 스크램블
 
-- 7d+) [SEPARATE][ADDITION] The temperature of the competition area should be 21 to 25 degrees Celsius.
-- 7h2+) [SEPARATE][ADDITION] The competitors in the competitors area should not be able to see the puzzles of the competitors on stage.
-
-
-## <article-8><competitions><competitions> Article 8: Competitions
-
-- 8a4+) [RECOMMENDATION] Changes to increase the maximum number of competitors in qualification round or first round, or to add a qualification round for newly registered competitors should be made at least one month before the competition (see [Regulation 9r3](regulations:regulation:9r3)).
-- 8a4++) [RECOMMENDATION] The competition should be announced at least one month before the beginning of the competition.
-- 8a5+) [SEPARATE][RECOMMENDATION] The competition should have at least 12 competitors.
+- 4b1+) [주의] WCA 파견위원은 절대로 스크램블 공식들을 골라낼 목적으로 어떠한 스크램블 공식도 재 생성할 수 없다. 예를 들어, "타당한" 스크램블을 생성하기 위해 대회의 스크램블을 보거나, 전체 스크램블을 재 생성하는 것은 허용되지 않는다.
+- 4b2+) [명확] 보편적으로, 모든 공식 스크램블 공식들은 대회 중에는 비밀로 지켜져야 하고 대회가 끝난 뒤에는 모두에게 알려져야 한다.([1c3a항](regulations:regulation:1c3a)을 보시오.) 몇몇 상황에서는(예를 들어: 세계신기록이 경신된 경우), 운영진은 특정한 스크램블 공식들을 라운드가 끝난 바로 다음 공개할 수 있다.
+- 4d+) [명확] 몇몇 퍼즐들은 검은 색이 흰색을 대신하는 표준 색 배치를 사용한다. 이 경우, 검은색은 가장 어두운 색이 되며 흰 색과 같이 간주해서는 안 된다.
+- 4f+) [권장] WCA 파견위원은 추가 시도들을 위한 여분의 스크램블 공식을 포함한 대회 전 대회 전체에 쓰일 충분한 스크램블 공식들을 생성해야 한다.
+- 4f++) [주의] WCA 파견위원이 대회 중에 추가적인 스크램블 공식을 생성했을 경우, 파견위원은 그 공식들을 저장해야만 한다.([1c3a항](regulations:regulation:1c3a)을 보시오.)
 
 
-## <article-9><events><events> Article 9: Events
+## <article-5><puzzle-defects><puzzledefects> 제 5 조: 퍼즐 파손
 
-- 9b+) [ADDITION] The preferred format for the final of an event is "Average of 5" or "Mean of 3", if possible.
-- 9b++) [ADDITION] Events other than those specified in [Regulation 9b](regulations:regulation:9b) may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
-- 9f5+) [CLARIFICATION] The result for an attempt is DNS if the competitor was eligible for the attempt and did not attempt it. If the competitor did not qualify for an attempt (e.g. in a combined round), he does not have any result for the attempt.
-- 9q+) [SEPARATE][RECOMMENDATION] Events and rounds should have at least 2 competitors.
-- 9r+) [EXPLANATION] The goal of a qualification round is to let unranked or low ranked competitors qualify for the first round of an event with many registered competitors.
+- 5b5+) [예시] 조각이 완전히 제자리에 있지 않지만 맞춘 것으로 간주하는 경우의 예: 3x3x3 큐브의 센터 캡 하나인 경우, 빅큐브에서 센터 조각 하나인 경우, 빅큐브의 내부 조각인 경우.
+- 5b5++) [예시] 조각이 완전히 제자리에 있지 않고 “DNF”로 처리되는 경우의 예: 3x3x3 큐브의 센터 캡 두개인 경우, 빅큐브의 센터 조각 두개인 경우, 3x3x3 큐브의 엣지 조각인 경우, 4x4x4 큐브의 엣지 (“wing”) 조각인 경우, 두 조각 모두 색깔이 있는 면일 경우의 어느 조합이라도 해당.
+- 5b5+++) [예시] 조각이 완전히 떨어지지 않은 경우지만 맞춘 것으로 간주하는 경우의 예: 5x5x5 큐브의 센터 조각이 그 자리에서 비틀어져있을 경우.
+- 5b5++++) [예시] 조각이 붙어있지만 완벽하게 제자리에 있지 않고 “DNF”로 처리되는 경우의 예: 3x3x3 큐브 엣지 조각이 살짝 튀어나와 있을 경우.
 
+## <article-6><awards><awards> 제 6 조: 수상
 
-## <article-0><solved-state><solvedstate> Article 10: Solved State
-
-- 10f+) [EXPLANATION] The misalignment limits are selected so that they provide a natural cutoff between one state of a puzzle (without penalty) and a state one move away.
-
-
-## <article-1><incidents><incidents> Article 11: Incidents
-
-- 11e+) [CLARIFICATION] Since an appeal is not guaranteed to be successful, the competitor may choose to keep the timer running while appealing it, and resume the attempt when appropriate.
-- 11e1+) [REMINDER] The extra attempt must be scrambled using an unmodified scramble sequence generated by an official scrambler (see [Regulation 4f](regulations:regulation:4f), [Guideline 4f+](guidelines:guideline:4f+)).
+- 6a+) [분리][추가] 상품, 상장, 그리고 상패는 대회의 공지에 따라 선수들에게 주어질 수 있다.
+- 6b+) [분리][권장] 선수들은 상품/상장/상패를 받기 위해 시상식에 참가해야 한다.
+- 6b1+) [분리][권장] 시상식은 마지막 종목의 끝으로부터 한 시간 이내에 대회 장소에서 열려야 한다.
+- 6c+) [분리][권장] 상품, 상장, 또는 상패를 수상한 사람들은 대회를 담당하는 기자들이나 대중매체에 응해야 한다.
+- 6d+) [분리][권장] 운영진은 모든 종목의 우승자에게 증명서를 주어야 하며, 운영진의 담당자와 WCA 파견위원의 서명이 있어야 한다.
 
 
-## <article-A><speedsolving><speedsolving> Article A: Speed Solving
+## <article-7><environment><environment> 제 7 조: 환경
 
-- A1a2+) [ADDITION] In case of a cumulative time limit, the judge records the original recorded time for a DNF on the score sheet in parentheses, e.g. "DNF (1:02.27)".
-- A1a3+) [REMINDER] The organisation team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the beginning of the round can disadvantage some competitors unfairly.
-- A1a4+) [REMINDER] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and WCA Delegate should be informed (see [Regulation 1g2](regulations:regulation:1g2)). Judges must always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
-- A2c1+) [CLARIFICATION] In the past, score cards have been used to cover puzzles while leaving some sides exposed. This is no longer permitted.
-- A3c3+) [CLARIFICATION] Although the judge is required to reset the timer for the competitor (see [Regulation A3b](regulations:regulation:A3b)), the competitor may reset it before/during the inspection phase if the judge accidentally neglected to do so.
-- A6b+) [EXPLANATION] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timer malfunctions.
-- A6g+) [ADDITION] While he is determining whether to assign a penalty for misalignment, the judge should not touch the puzzle.
+- 7d+) [분리][추가] 대회 장소의 온도는 섭씨 21에서 25도여야 한다.
+- 7h2+) [분리][추가] 대기 장소에 있는 선수들은 무대의 선수들의 퍼즐을 볼 수 없어야 한다.
 
 
-## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
+## <article-8><competitions><competitions> 제 8 조: 대회
 
-- B1+) [REMINDER] The competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces (see [Regulation 3k](regulations:regulation:3k)). This should be given special attention for Blindfolded Solving
-- B1b+) [RECOMMENDATION] Blindfolds should be checked by the WCA Delegate before use in the competition.
-
-
-## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
-
-- C1b+) [CLARIFICATION] The competitor may use both hands during inspection.
-- C1b++) [CLARIFICATION] The competitor is not required to use the same solving hand for different attempts of the same round.
-- C1b2+) [REMINDER] Use of the surface is permitted while repairing the puzzle.
+- 8a4+) [권장] 퀄리피케이션 라운드나 첫 라운드의 최대 참가자를 늘리거나 새로이 등록한 참가자들을 위해 퀄리피케이션 라운드의 추가 등의 변경은 적어도 대회 시작 한 달 전에 이루어져야 한다.(see [9r3항](regulations:regulation:9r3)을 보시오.)
+- 8a4++) [권장] 대회는 대회의 시작으로부터 적어도 한 달 전 발표되어야 한다.
+- 8a5+) [분리][권장] 대회는 적어도 12명의 참가자가 있어야 한다.
 
 
-## <article-D><feet><solvingwithfeet> Article D: Solving With Feet
+## <article-9><events><events> 제 9 조: 종목
 
-- D1b+) [CLARIFICATION] The competitor may wear socks while solving.
-- D1c+) [REMINDER] While repairing puzzle defects, other body parts must not touch the puzzle.
-
-
-## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
-
-- E2b+) [CLARIFICATION] A competitor may choose to stop his attempt early by handing in a solution before the time limit.
+- 9b+) [추가] 가능하다면 종목의 결승의 형식은 “5회 평균 기록”이나 “3회 평균 기록”을 추천한다.
+- 9b++) [추가]  [규정 9b](regulations:regulation:9b)에 명시된 종목 외의 종목이 대회 중에 열릴 수 있으나. 비공인 기록으로 인정될 것이며, 따라서 대회의 공식 결과에는 포함되지 않을 것이다.
+- 9f5+) [명확] 시도의 결과가 DNS인 경우는 선수가 시도를 할 수 있었으나 시도하지 하지 않은 것이다. 선수가 시도할 자격이 없었으면 (예: 통합 라운드), 그 선수의 시도에 대한 기록은 없다.
+- 9q+) [분리][권장] 종목과 라운드는 적어도 2명의 참가자가 있어야 한다.
+- 9r+) [설명] 퀄리피케이션 라운드의 목적은 랭킹에 등록되어있지 않거나 랭킹이 낮은 선수들에게 자격을 부여하여 많은 선수들이 참가하는 종목의 첫 라운드에 출전하게 하는 것이다.
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
+## <article-0><solved-state><solvedstate> 제 10 조: 맞추어진 상태
 
-- H1b1+) [REMINDER] The attempt is not disqualified for reaching the time limit, due to exceptions for Multiple Blindfolded Solving (see [Regulation A1a4](regulations:regulation:A1a4) and [Regulation A1a5](regulations:regulation:A1a5)).
-- H1b1++) [ADDITION] The judge may permit the competitor to continue the attempt unofficially, but the attempt must be stopped and judged first, in full accordance with the Regulations.
-- H1d+) [EXAMPLE] Example: If a competitor attempts 10 cubes, stops with a time of 59:57, and has two time penalties, the time for the result is 59:57 + 2*2 = 60:01 (also see [Regulation A1a5](regulations:regulation:A1a5)).
-- H1d++) [EXAMPLE] Example: If a competitor attempts 10 cubes, and the judge stops him at one 60 minutes, and has two time penalties, the time for the result is 60:00 + 2*2 = 60:04.
+- 10f+) [설명] 어긋남의 기준은 퍼즐의 맞추어진 상태(페널티 없이)와 한 회전 떨어져있는 상태의 자연스러운 경계를 제공하기 위해 선택되었다.
+
+
+## <article-1><incidents><incidents> 제 11 조: 특별 상황
+
+- 11e+) [명확] 어필이 항상 성공적이라는 것을 보장할 수 없으므로, 선수는 어필 중에 타이머가 계속 작동되도록 한 후 시도를 계속할 수 있다.
+- 11e1+) [주의] 추가 시도에선 공인 스크램블 프로그램으로 생성된 변형되지 않은 스크램블 공식으로 퍼즐이 섞여야 한다.([규정 4f](regulations:regulation:4f), [지침 4f+](guidelines:guideline:4f+)을 보시오.)
+
+
+## <article-A><speedsolving><speedsolving> 제 A 조: 스피드 솔빙
+
+- A1a2+) [추가] 누적 시간제한이 있는 경우, 심판은 DNF의 경우 원래의 시간 기록을 스코어시트 괄호 안에 써넣는다. 예를 들어: “DNF (1:02.27)"
+- A1a3+) [주의] 운영진과 WCA 파견위원은 선수의 계획을 촉진할 수 있다는 것을 염두에 두어야 하며(예를 들어, 통합 라운드에서 처음 두 번의 시도에서 최선을 다하여 컷 오프를 통과하려고 노력하는 것), 시간제한을 라운드의 시작 이후 변경하는 것은 몇몇 선수들에게 불이익을 줄 수 있다는 것을 염두에 두어야 한다.
+- A1a4+) [주의] 만약 뜻하지 않게 선수가 시간제한을 넘는 기록을 내도 된다고 허가 받았을 경우, 시간제한이 반드시 소급적으로 적용되어야 하며, 심판, 선수, 그리고 WCA 파견위원에게 알려져야 한다.([규정 1g2항](regulations:regulation:1g2)을 보시오.) 심판들은 반드시 당시의 시도에 대한 시간제한(누적 시간제한의 경우 이전의 시도에 따라 결정될 것이다)을 알고 있어야 한다.
+- A2c1+) [명확] 이전에는 스코어 카드들이 퍼즐을 가리는 데 쓰였으나 몇몇 면들이 보였다. 이것은 더 이상 허용되지 않는다.
+- A3c3+) [명확] 심판이 선수를 위해 타이머를 초기화해야 하지만(see [규정 A3b항](regulations:regulation:A3b)을 보시오.), 심판이 실수로 초기화하지 않은 경우 선수가 미리 보기 시간 전/중 초기화시켜도 된다.
+- A6b+) [설명] 임의의 값 0.06초는 스택맷 타이머의 오작동에 대한 문제를 해결하기 위해 정해졌다.
+- A6g+) [추가] 어긋남에 대해 페널티를 부여할 지를 결정할 때 심판은 퍼즐에 손을 대선 안 된다.
+
+
+## <article-B><blindfolded><blindfoldedsolving> 제 B 조: 눈 가리기
+
+- B1+) [주의] 선수는 비슷한 다른 조각으로부터 구별이 가능하도록 하는 질감, 표시, 또는 다른 특징이 없는 퍼즐을 사용해야 한다.([규정 3k항](regulations:regulation:3k)을 보시오.) 이것은 눈 가리기 종목에서 특별한 주의가 필요하다.
+- B1b+) [권장] 안대는 대회에서 사용되기 전 WCA 파견위원에 의해 확인되어야 한다.
+
+
+## <article-C><one-handed><onehandedsolving> 제 C 조: 한 손
+
+- C1b+) [명확] 선수는 미리 보기 시간 동안 두 손을 사용할 수 있다.
+- C1b++) [명확] 선수는 같은 라운드의 다른 시도에서 반드시 같은 손을 사용하지 않아도 된다.
+- C1b2+) [주의] 표면은 퍼즐의 파손을 고칠 때 사용할 수 있다.
+
+
+## <article-D><feet><solvingwithfeet> 제 D 조: 발
+
+- D1b+) [명확] 선수는 맞추는 동안 양말을 신고 있어도 된다.
+- D1c+) [주의] 퍼즐 파손을 고칠 때, 신체의 다른 부위가 퍼즐에 닿아서는 안 된다.
+
+
+## <article-E><fewest-moves><fewestmovessolving> 제 E 조: 최소 회전
+
+- E2b+) [명확] 선수는 시간제한이 끝나기 전 해법을 제출함으로써 시도를 일찍 끝낼 수 있다.
+
+
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> 제 H 조: 복수 눈 가리기
+
+- H1b1+) [주의] 복수 눈 가리기의 예외사항([규정 A1a4항](regulations:regulation:A1a4) and [규정 A1a5항](regulations:regulation:A1a5)을 보시오.)에 따라, 시간제한이 되어도 시도는 실격 처리되지 않는다.
+- H1b1++) [추가] 심판은 공식 기록으로 포함되진 않지만 선수가 시도를 계속 하도록 해도 되지만, 시도는 규정에 따라 먼저 멈추어지고 판정이 내려져야 한다.
+- H1d+) [예시] 예시: 선수가 10개의 큐브를 시도하고, 59분 57초에 멈추고, 두 개의 시간 페널티가 있다면, 기록은 59:57 + 2*2 = 60:01 이다.([규정 A1a5항](regulations:regulation:A1a5)을 보시오.)
+- H1d++) [예시] 예시: 선수가 10개의 큐브를 시도하고, 심판이 60분이 되었을 때 멈추게 했으며, 두 개의 시간 페널티들이 있으면, 기록은 60:00 + 2*2 = 60:04 이다.
