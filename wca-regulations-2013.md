@@ -27,7 +27,7 @@ WCA 규정과 지침의 변천은 [GitHub](https://github.com/cubing/wca-documen
 
 ## <contents> [목차](regulations:contents)
 
-Note: Because Article and Regulation numbers are not reassigned when Regulations are deleted, there may be gaps in numbering.
+참고: 규정이 삭제 된 경우 조 및 규정 번호가 다시 할당되지 않기 때문에 번호에 차이가 있을 수 있다.
 
 <table-of-contents>
 
