@@ -87,7 +87,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 2i1b) 귀마개 (단, 소음방지용 전자 헤드폰은 허용되지 않는다)
 - 2j) WCA 파견위원은 특정 종목으로부터 선수를 실격시킬 수 있다.
     - 2j1) 선수가 어떠한 이유로든 그 종목으로부터 실격 당한다면, 그 선수는 더 이상 그 종목에서 시도할 수 없다.
-    - 2j2) 선수가 종목의 진행 중에 실격 당했다면, 그 선수의 실격 이전의 기록들은 유효하다. 예외: 부정행위나 사기([규정 2k2a항](regulations:regulation:2k2a) 참고)
+    - 2j2) 선수가 종목의 진행 중에 실격 당했다면, 그 선수의 실격 이전의 기록들은 유효하다. 예외: 부정행위나 사기([규정 2k2a항](regulations:regulation:2k2a) 참조)
 - 2k) WCA 파견위원은 대회로부터(즉, 대회의 모든 종목으로부터) 다음과 같은 이유들로 강제로 선수를 실격시킬 수 있다:
     - 2k1) 선수가 대회 참가 등록 시 제 시간에 오지 않은 경우.
     - 2k2) 선수가 대회 중에 부정행위를 저지르거나 운영진에게 사기를 쳤다고 의심받을 때.
@@ -132,7 +132,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 4a) 스크램블러는 퍼즐에 스크램블 공식을 적용한다.
 - 4b) 퍼즐은 무작위로 컴퓨터로 생성된 스크램블 공식으로 스크램블 되어야 한다.
     - 4b1) 생성된 스크램블 공식들은 대회 전 미리 공개되어서는 안 되며, 어떠한 방법으로든 WCA 파견위원으로부터 골라져서는 안 된다.
-    - 4b2) 스크램블 공식들은 해당하는 라운드가 끝나기 전까진 WCA 파견위원과 스크램블러들에게만 공개되어야만 한다. 예외: 최소회전종목에서는, 선수들이 라운드 도중 스크램블 공식을 받는다.([제 E 조](regulations:article:E) 참고)
+    - 4b2) 스크램블 공식들은 해당하는 라운드가 끝나기 전까진 WCA 파견위원과 스크램블러들에게만 공개되어야만 한다. 예외: 최소회전종목에서는, 선수들이 라운드 도중 스크램블 공식을 받는다.([제 E 조](regulations:article:E) 참조)
 - 4d) 스크램블 방향:
     - 4d1) 정육면체 퍼즐들과 메가밍크스는 흰색(또는 가장 밝은 색)을 윗면으로, 초록색(또는 이웃하는 가장 어두운 색)을 앞면으로 배치한 뒤 섞는다.
     - 4d2) 피라밍크스는 노란색(또는 가장 밝은 색)을 아랫면으로, 초록색(또는 이웃하는 가장 어두운 색)을 앞면으로 배치하고 섞는다.
@@ -248,14 +248,14 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 9r1d) 참가 여부를 결정하는데 사용될, 당시의 WCA 랭킹에서의 평균/싱글 기록이 쓰일 마지막 날짜
     - 9r2) 첫 라운드에 참가할 자격을 얻을 수 없는 선수는 첫 라운드에 참가하기 위해서는 퀄리피케이션 라운드를 치러야 한다.
     - 9r3) 이전에 대회에 참가하지 않은 참가자들의 수용을 위해 퀄리피케이션 라운드는 추가될 수 있으며, 그리고/또는 퀄리피케이션 라운드 또는 첫 라운드의 최대 참가자 수가 늘어날 수 있다. 변경이 있을 경우 적어도 대회 2주 전까지 결정이 되어야 한다.
-- 9s) 각 종목의 각 라운드는 시간제한이 있어야만 한다.([규정 A1a항](regulations:regulation:A1a) 참고).
+- 9s) 각 종목의 각 라운드는 시간제한이 있어야만 한다.([규정 A1a항](regulations:regulation:A1a) 참조).
 
 
 ## <article-10><solved-state><solvedstate> 제 10 조: 맞추어진 상태
 
 - 10b) 타이머가 멈추었을 때 놓여있는 상태의 퍼즐만 고려한다.
 - 10c) 시도가 끝났을 때의 퍼즐은 어떠한 방향으로도 있을 수 있다.
-- 10d) 퍼즐의 모든 조각은 제 위치에 퍼즐에 붙어있는 상태여야 한다. 예외: [규정 5b5항](regulations:regulation:5b5) 참고.
+- 10d) 퍼즐의 모든 조각은 제 위치에 퍼즐에 붙어있는 상태여야 한다. 예외: [규정 5b5항](regulations:regulation:5b5) 참조.
 - 10e) 큐브 퍼즐은 모든 면이 동일한 색을 가지고 모든 조각들이 아래의 제한 이내로 어긋나 있는 경우 맞추어졌다고 한다:
     - 10e1) 퍼즐의 인접한 두 부분이(예를 들어: 큐브의 평행한 인접하는 두 층) [규정 10f항](regulations:regulation:10f)에 나와 있는 어긋남의 기준을 넘어가면 완성에 1회전 부족한 것으로 본다.([제 12 조](regulations:article:12)의 “외부 블록 턴 방식” 참조).
     - 10e2) 완성을 위한 추가적인 회전이 필요 없으면 퍼즐이 맞추어진 상태로 인정되고 페널티는 주어지지 않는다.
@@ -324,170 +324,170 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 ## <article-A><speedsolving><speedsolving> 제 A 조: 스피드 솔빙
 
-- A1) Speed Solving attempts must abide by the following procedure.
-    - A1a) The organisation team may enforce time limits for attempts and/or rounds.
-        - A1a1) The default time limit per attempt is 10 minutes, though the organisation team may announce a higher or lower time limit.
-        - A1a2) Cumulative time limits may be enforced (e.g. 3 attempts with a cumulative time limit of 20 minutes). The time elapsed in a DNF result counts towards the cumulative time limit.
-        - A1a3) For each round, any time limits must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
-        - A1a4) The competitor must end each attempt within the time limit. If a competitor reaches the time limit for an attempt/round, the judge stops the attempt immediately and record the result as DNF. Exception: Multiple Blindfolded Solving (see [Regulation H1b1](regulations:regulation:H1b1)).
-        - A1a5) An attempt is considered to meet the time limit if and only if the final result, after any time penalties are applied, is less than the time limit. Exception: Multiple Blindfolded Solving (see [Regulation H1b1](regulations:regulation:H1b1)).
-    - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
-        - A1b1) Simultaneous use of a Stackmat timer is optional.
-        - A1b2) If a time from the Stackmat timer is available, it is the original recorded time. Otherwise, the stopwatch time is the original recorded time. 
-    - A1c) A competitor participating in an event must be able to fulfill the event's requirements (e.g. know how to solve the puzzle). A competitor competing with expectation of a DNF result may be disqualified from the event, at the discretion of the WCA Delegate.
-- A2) Scrambling:
-    - A2a) When called for a round, the competitor submits his puzzle, in its solved state, to the scrambler and waits in the Competitors Area until he is called to compete.
-    - A2b) A scrambler scrambles the puzzle according to the regulations in [Article 4](regulations:article:4).
-    - A2c) After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.
-        - A2c1) The scrambler places a cover over the scrambled puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover remains over the puzzle until the beginning of the attempt.
-    - A2d) When taking a puzzle from the scrambler, the judge briefly inspects the puzzle to ensure thorough scrambling of the puzzle. The judge raises any concerns with the scrambler, who then conducts a detailed check.
-    - A2e) The judge places the puzzle onto the mat in an arbitrary orientation and ensures that it is covered completely. The competitor is not permitted to request a specific orientation.
-- A3) Inspection:
-    - A3a) The competitor may inspect the puzzle at the beginning of each attempt.
-        - A3a1) The competitor is allotted a maximum of 15 seconds to inspect the puzzle and start the solve.
-    - A3b) Before the competitor starts the attempt, the judge resets the timer and, where applicable, the stopwatch.
-        - A3b1) When the judge believes the competitor is ready, he asks "READY?". The competitor must be ready to start the attempt within one minute of being called. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
-        - A3b2) When the competitor confirms his readiness, the judge uncovers the puzzle. If the attempt requires a stopwatch, the judge starts it at the same time.
-    - A3c) The competitor may pick up the puzzle during inspection.
-        - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the attempt (DNF).
-        - A3c2) If the pieces of the puzzle are not fully aligned, then the competitor may align the faces, as long as misalignments stay within the limits of [Regulation 10f](regulations:regulation:10f).
-        - A3c3) The competitor may reset the timer before he starts the solve.
-    - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation and position.
-        - A3d1) The puzzle must not rest on the timer. Penalty: time penalty (+2 seconds).
-        - A3d2) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
-        - A3d3) When 12 seconds of inspection have elapsed, the judge calls "12 SECONDS".
-- A4) Starting the solve:
-    - A4b) The competitor places his hands on the elevated sensor unit of the timer, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
-        - A4b1) The competitor must have no physical contact with the puzzle between the inspection period and the beginning of the solve. Penalty: time penalty (+2 seconds).
-    - A4d) The competitor starts the solve by confirming that the timer light is green and then removing his hands from the timer, thus starting the timer.
-        - A4d1) The competitor must start the solve within 15 seconds of the beginning of the inspection. Penalty: time penalty (+2 seconds).
-        - A4d2) The competitor must start the solve within 17 seconds of the beginning of the inspection. Penalty: disqualification of the attempt (DNF).
-    - A4e) Time penalties for starting the solve are cumulative.
-- A5) During the solve:
-    - A5a) While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge. Penalty: disqualification of the attempt (DNF).
-    - A5b) While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface (also see [Regulation 2i](regulations:regulation:2i)). Penalty: disqualification of the attempt (DNF).
-- A6) Stopping the solve:
-    - A6a) The competitor stops the solve by releasing the puzzle and then stopping the timer.
-        - A6a1) If a stopwatch is in use as the timing device, the competitor ends the solve by releasing the puzzle and notifying the judge that he has stopped the solve.
-        - A6a2) When using a stopwatch without a Stackmat, the competitor's default notification signal consists of releasing the puzzle(s) in his hand and placing his hands on the surface, with palms down. The competitor and the judge may agree on another appropriate notification before the beginning of the solve.
-    - A6b) The competitor is responsible for stopping the timer correctly.
-        - A6b1) If the timer stops before the end of the solve and the timer shows a time strictly below 0.06 seconds, then the attempt is replaced by an extra attempt. A competitor forfeits his right to the additional attempt if the WCA Delegate determines that the timer was stopped deliberately.
-        - A6b2) If the timer stops before the end of the solve and displays a time of 0.06 seconds or higher, then the attempt is disqualified (DNF). Exception: if the competitor can demonstrate that the timer malfunctioned, he may receive an extra attempt, at the WCA Delegate's discretion.
-    - A6c) The competitor must fully release the puzzle before stopping the timer. Penalty: time penalty (+2 seconds).
-    - A6d) The competitor must stop the timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
-    - A6e) The competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been applied, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
-    - A6f) The competitor must not reset the timer until the judge has recorded the result on the score sheet. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
-    - A6g) The judge determines whether the puzzle is solved. He must not make moves or align faces when examining the puzzle. Exception: The judge is permitted to make moves when examining a Clock.
-    - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle before the dispute is resolved.
-    - A6i) Time penalties for stopping the solve are cumulative.
-- A7) Recording results:
-    - A7a) The judge tells the competitor the result.
-        - A7a1) If the judge finds that the puzzle is solved, he calls "OKAY".
-        - A7a2) If the judge assigns any penalties, the judge calls "PENALTY".
-        - A7a3) If the result is DNF, the judge calls "DNF".
-    - A7b) The judge records the result on a score sheet.
-        - A7b1) If penalties are assigned, the judge records the original recorded result displayed on the timer, along with any penalties. The format should be "X + T + Y = F", where X represents the sum of time penalties before/starting the solve, T represents the time displayed on the timer, Y represents a sum of time penalties during/after the solve, and F represents the final result. If X and/or Y is 0, the 0 terms are omitted (e.g. 2 + 17.65 + 2 = 21.65, or 17.65 + 2 = 19.65).
-    - A7c) The judge and competitor must both sign (or initial) the score sheet to acknowledge the result.
-        - A7c1) If the competitor or the judge refuses to accept and sign the score sheet, the WCA Delegate must resolve the dispute.
-    - A7f) When a competitor's score sheet for a round is complete, the judge delivers the score sheet to the score taker.
+- A1) 스피드 큐빙으로 분류되는 종목들은 아래 절차를 준수해야 한다.
+    - A1a) 운영진은 각 솔브 와/또는 각 라운드에 시간제한을 둘 수 있다.
+        - A1a1) 각 솔브의 기본 제한시간은 10분이나, 운영진이 그보다 짧거나 긴 시간제한을 정할 수 있다.
+        - A1a2) 누적 시간제한이 적용될 수 있다(예: 3개 시도에 누적 시간제한 20분). DNF 기록에서 사용된 시간도 누적 시간을 계산하는데 포함된다.
+        - A1a3) 각 라운드의 시간제한은 라운드의 시작 전에 발표되어야 하며, 라운드의 시작 이후에는 변경되어선 안 된다. 변경은 WCA 파견위원의 결정에 따라 이루어져야 하며, 이 때 파견위원은 변경이 공평한지 조심스레 숙고해야 한다.
+        - A1a4) 선수는 각 시도를 시간제한 내에 마쳐야만 한다. 만약 선수가 그 시도/라운드의 제한된 시간을 모두 사용한다면, 심판은 즉시 그 시도를 멈추게 하고 기록을 DNF로 처리한다. 예외: 복수 눈 가리기([규정 H1b1항](regulations:regulation:H1b1) 참조).
+        - A1a5) 페널티가 적용된 후의 최후의 기록이 시간 제한보다 작거나 같을 때만 시간 제한 이내에 시도된 것으로 간주된다. 예외: 복수 눈 가리기([규정 H1b1항](regulations:regulation:H1b1) 참조).
+    - A1b) 허용 시간이 10분 이상이면 스톱워치가 시간 측정용으로 사용된다.
+        - A1b1) 스택맷 타이머의 동시 사용은 선택적이다.
+        - A1b2) 만약 스택맷 타이머의 기록을 사용할 수 있으면 그 시간이 기록이 되고, 그 외의 경우는 스톱워치 시간을 기록으로 인정한다. 
+    - A1c) 어떤 종목에 참가하는 선수는 그 종목의 필요조건 (예: 그 퍼즐을 맞출 줄 아는 것)을 만족해야만 한다. DNF 기록을 노리고 참가하는 선수는 WCA 파견위원의 결정에 따라 그 종목으로부터 실격당할 수 있다.
+- A2) 스크램블:
+    - A2a) 라운드에 불렸을 때, 선수는 퍼즐을 맞추어진 상태로 스크램블러에게 넘긴 뒤, 기록 측정을 위해 불려 질 때까지 정해진 구역에서 기다려야 한다.
+    - A2b) 스크램블러는 [제 4 조](regulations:article:4) 규정에 따라 퍼즐을 섞는다.
+    - A2c) 스크램블러가 스크램블을 시작하면 선수는 미리 보기 시간 전까지 퍼즐을 보아서는 안 된다.
+        - A2c1) 스크램블러는 섞인 퍼즐 위에 덮개를 씌워 어떤 선수나 관중도 큐브의 어떤 부분이라도 볼 수 없게 한다. 덮개는 시도의 시작까지 덮여있어야 한다.
+    - A2d) 스크램블러에게 큐브를 건네 받을 때, 심판은 퍼즐이 충분히 섞였는지를 간단하게 점검한다. 의심스러운 경우에 심판은 스크램블러에게 더 자세한 확인을 위해 연락한다.
+    - A2e) 심판은 퍼즐을 임의의 방향으로 스택맷 위에 놓고, 확실히 덮개로 덮였는지 확인한다. 선수는 특정한 방향을 요구할 수 없다.
+- A3) 미리 보기:
+    - A3a) 맞추기 시작하기 전에 큐브를 미리 볼 수 있다.
+        - A3a1) 미리 보기는 최대 15초이다.
+    - A3b) 선수가 미리 보기를 하기 전, 심판이 타이머와 스톱워치를 초기화시킨다.
+        - A3b1) 선수가 미리 보기를 시작할 준비가 되었다고 판단되었을 때, 심판은 '준비되셨습니까?'라고 묻는다. 선수는 1분 이내에 시도를 시작할 준비가 되어있어야만 한다. 어길 시 벌칙: 심판의 결정에 따른 그 시도의 실격(DNF)
+        - A3b2) 선수가 ‘네’ 라고 응답을 하면, 심판은 퍼즐을 공개한다. 스톱워치가 필요한 시도라면, 심판은 동시에 스톱워치를 시작한다.
+    - A3c) 미리 보기 시간 동안 선수는 퍼즐을 집어 들 수 있다.
+        - A3c1) 선수는 미리 보기시간 동안 퍼즐에 어떠한 조작도 해서는 안 된다. 어길 시 벌칙: 기회의 실격 처리(DNF)
+        - A3c2) 만일 퍼즐의 면들이 바르게 정돈 되어있지 않으면, 정렬의 목적으로만 [규정 10f항](regulations:regulation:10f)의 제한 이내로 수정할 수 있다.
+        - A3c3) 선수는 시작 전 자신의 타이머를 초기화 할 수 있다.
+    - A3d) 미리 보기가 끝난 후 선수는 퍼즐을 매트 위에 아무 방향이나 위치로 놓는다.
+        - A3d1) 퍼즐은 스택맷 타이머 위에 놓여서는 안 된다. 어길 시 벌칙: 2초 페널티
+        - A3d2) 미리 보기 8초경과 시 심판이 ‘8초’ 라고 말한다.
+        - A3d3) 미리 보기 12초경과 시 심판이 ‘12초’ 이라고 말한다.
+- A4) 맞추기 시작하기:
+    - A4b) 선수는 반드시 손을 타이머의 센서 위에 올려놔야 하며, 손바닥을 아래로 하여 손가락이 센서에 닿게 한다. 이를 어길 시 벌칙: 2초 페널티
+        - A4b1) 미리 보기 시간 후와 퍼즐을 맞추기 시작하기 이전 사이에 선수는 퍼즐과 어떠한 신체적 접촉도 할 수 없다. 이를 어길 시 벌칙: 2초 페널티
+    - A4d) 선수는 타이머에 초록색 불이 들어온 것을 확인하고 타이머에서 손을 떼어 타이머를 작동시킴으로써 시작한다.
+        - A4d1) 선수는 미리 보기 시작 후 15초 이내에 시작하여야 한다. 어길 시 벌칙: 2초 페널티
+        - A4d2) 미리 보기 시작 후 17초 이내에 시작하여야 한다. 어길 시 벌칙: 시도의 실격(DNF)
+    - A4e) ‘맞추기 시작하기’에서의 페널티는 누적 된다.
+- A5) 맞추는 동안:
+    - A5a) 미리 보기 또는 퍼즐을 맞추는 동안, 선수는 심판이 아닌 다른 어떠한 사람과도 소통할 수 없다. 어길 시 벌칙: 시도의 실격처리(DNF)
+    - A5b) 미리 보기 또는 퍼즐을 맞추는 동안, 선수는 책상이나 땅바닥의 표면을 제외한 다른 사람이나 물건으로부터([규정 2i항](regulations:regulation:2i) 참조) 어떠한 도움도 받을 수 없다. 어길 시 벌칙: 기회의 실격처리 (DNF)
+- A6) 맞추기 끝내기:
+    - A6a) 선수가 퍼즐을 놓고 타이머를 멈춤과 동시에 맞추기는 끝난다.
+        - A6a1) 스톱워치가 시간을 재는 데 쓰이는 경우, 선수는 퍼즐을 놓고 심판에게 솔브가 끝났다는 것을 알림으로써 맞추기를 끝낸다.
+        - A6a2) 스택맷 타이머 없이 스톱워치만을 사용할 경우, 선수가 맞추기를 끝내는 것은 퍼즐(들)을 놓고 표면에 손바닥을 아래로 하여 손을 내려놓는 것으로 한다. 선수와 심판은 솔브를 시작하기 전 다른 적합한 신호로 이를 대신할 수 있다.
+    - A6b) 타이머가 정확하게 멈추는 것은 선수의 책임이다.
+        - A6b1) 타이머가 퍼즐이 맞춰지기 전에 멈춘 경우, 타이머가 0.06초 미만을 보이고 있다면 선수는 다른 기회를 얻는다. 선수가 고의로 타이머를 멈추었다고 WCA 파견위원이 판단한다면 선수가 다른 기회를 가질 권리를 포기한 것으로 간주한다.
+        - A6b2) 타이머가 퍼즐이 맞춰지기 전에 멈춘 경우, 타이머가 0.06초 이상을 보이고 있다면 그 시도는 실격으로 처리된다(DNF). 예외: 선수가 타이머 오작동이라는 것을 보일 수 있다면, WCA 파견위원의 결정에 따라 다른 기회를 얻을 수 있다.
+    - A6c) 선수는 반드시 퍼즐을 완전히 놓은 뒤 타이머를 멈춰야 한다. 어길 시 벌칙: 2초 페널티
+    - A6d) 선수는 타이머를 양손으로, 손바닥을 아래로 하고 평평하게 센서에 닿게 하여 멈춰야 한다. 어길 시 벌칙: 2초 페널티
+    - A6e) 심판이 퍼즐을 확인하기 전까지 선수는 퍼즐을 만지거나 이동시켜서는 안 된다. 어길 시 벌칙: 시도의 실격 처리(DNF). 예외: 만약 퍼즐에 어떠한 회전도 추가되지 않았다면 심판의 결정에 따라 2초 페널티가 대신 주어질 수 있다.
+    - A6f) 심판이 결과를 기록하기 전까지 선수는 타이머를 초기화해서는 안 된다. 어길 시 벌칙: 심판의 결정에 따라 시도의 실격 처리(DNF)
+    - A6g) 심판은 퍼즐이 맞춰져 있는지 확인한다. 심판은 회전하거나 면을 정렬해서는 안 된다. 예외: 클락을 판단할 때 심판은 클락에 회전을 추가할 수 있다.
+    - A6h) 판단하는 데에 문제가 있는 경우, 문제가 해결되기 전까지 퍼즐을 만지거나 이동시켜서는 안 된다.
+    - A6i) 맞추기 끝내기에서의 벌칙 시간은 누적된다.
+- A7) 기록 작성:
+    - A7a) 심판은 선수에게 기록을 알려준다.
+        - A7a1) 심판이 퍼즐이 완성되었다고 판단하면, "오케이" 라고 말한다.
+        - A7a2) 심판이 페널티를 추가하면, “페널티" 라고 말한다.
+        - A7a3) 기록이 DNF이면, 심판이 “DNF" 라고 말한다.
+    - A7b) 심판이 대회 기록 용지에 결과를 기록한다.
+        - A7b1) 페널티가 추가된 경우, 심판은 타이머에 표시된 기록과 페널티를 함께 기록한다. 이때 형식은 “X+T+Y=F"이어야 하며, X는 솔브를 시작하기 전이나 시작할 때 주어진 총 페널티 시간이고, T는 타이머에 표시된 시간이며, Y는 솔브 중이나 솔브 후 주어진 총 페널티 시간이고, F는 최종 기록을 뜻한다. X와/나 Y가 0이라면 생략된다. (예: 2+17.65+2=21.65, 또는 17.65+2=19.65)
+    - A7c) 심판과 선수는 기록을 인정한다는 의미로 둘 다 스코어시트에 서명해야 한다.
+        - A7c1) 선수나 심판이 인정하지 않고 서명을 거부할 경우, WCA 파견위원이 이 논쟁을 해결해야만 한다.
+    - A7f) 한 라운드가 끝난 뒤 심판은 대회 기록 용지를 기록자에게 전달한다.
 
 
-## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
+## <article-B><blindfolded><blindfoldedsolving> 제 B 조: 눈 가리기
 
-- B1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-    - B1a) There is no inspection period.
-    - B1b) The competitor supplies his own blindfold.
-- B2) Starting the attempt:
-    - B2a) The judge resets the timer and stopwatch.
-    - B2b) The competitor places his hands on the elevated sensor unit of the Stackmat, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
-    - B2c) The competitor must have no physical contact with the puzzle before the beginning of the attempt. Penalty: time penalty (+2 seconds).
-    - B2d) The competitor starts the attempt by removing his hands from the timer, thus starting the timer.
-        - B2d1) The competitor removes the cover from the puzzle after starting the timer.
-    - B2e) If a stopwatch is in use, the judge starts the stopwatch as soon as the competitor starts the solve.
-- B3) Memorisation phase:
-    - B3a) The competitor may pick up the puzzle during the memorisation phase.
-    - B3b) The competitor must not make physical notes. Penalty: disqualification of the attempt (DNF).
-    - B3c) The competitor must not apply moves to the puzzle during the memorisation phase.
-- B4) Blindfolded phase:
-    - B4a) The competitor dons the blindfold to start the blindfolded phase.
-    - B4b) The competitor must not apply moves to the puzzle before he has fully donned the blindfold.
-    - B4c) The judge must ensure that there is an opaque object between the competitor's face and the puzzle while the competitor is solving.
-        - B4c1) In all cases, the competitor must wear the blindfold such that his view of the puzzle would still be clearly blocked if the opaque object were not in the way.
-        - B4c2) By default, the judge should place the object (e.g. a sheet of paper or cardboard) between the competitor and the puzzle while the competitor is wearing the blindfold.
-        - B4c3) If the judge and competitor agree beforehand, the competitor may choose to place the puzzle behind a suitable object (e.g. a music stand, the surface of the table) by himself during the blindfolded phase.
-    - B4d) The competitor must not look at the puzzle at any point during the blindfolded phase. Penalty: disqualification of the attempt (DNF).
-    - B4e) Until he applies the first move to the puzzle, the competitor may remove the blindfold to return to the memorisation phase.
-- B5) Stopping the solve:
-    - B5a) When using the Stackmat, the competitor stops the attempt by releasing the puzzle and then stopping the timer.
-    - B5b) When using a stopwatch, the competitor ends the attempt by placing the puzzle back onto the surface and notifying the judge that he is stopping the attempt. At that moment, the judge stops the timer.
-    - B5c) If he is not touching the puzzle, the competitor may remove the blindfold before he stops the timer. He must not touch the puzzle until the end of the attempt. Penalty: disqualification of the attempt (DNF).
-
-
-## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
-
-- C1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-    - C1b) During the solve, the competitor must use only one hand to touch the puzzle. Penalty: disqualification of the attempt (DNF).
-        - C1b2) If a puzzle defect occurs, and the competitor chooses to repair it, he must repair it using only the solving hand. Penalty: disqualification of the attempt (DNF).
-        - C1b3) If a puzzle defect occurs, and pieces of the puzzle briefly come in contact with other body parts without the competitor's intention, this is not considered touching the puzzle, at the discretion of the judge.
-    - C1c) During the solve, once a competitor touches the puzzle with one hand, he must not touch the puzzle with the other hand. Penalty: disqualification of the attempt (DNF).
+- B1) [제 A 조](regulations:article:A)에 설명된 표준의 스피드 큐빙 과정이 적용된다. 이에 대응하여 대신하는 추가적 규정들은 아래에 설명된다.
+    - B1a) 미리 보기 시간은 주어지지 않는다.
+    - B1b) 선수는 반드시 자기의 안대를 가져와야 한다.
+- B2) 맞추기 시작하기:
+    - B2a) 심판이 타이머와 스톱워치를 초기화한다.
+    - B2b) 선수는 반드시 손을 스택맷 타이머의 센서 위에 올려놓아야 한다. 손바닥을 아래로 하고 손가락이 센서에 닿게 한다. 어길 시 벌칙: 2초 페널티
+    - B2c) 선수는 퍼즐을 맞추기 이전에는 퍼즐과 어떠한 신체적 접촉도 할 수 없다. 어길 시 벌칙: 2초 페널티
+    - B2d) 선수는 타이머에서 손을 떼서 타이머를 작동시킴으로써 시작한다.
+        - B2d1) 선수는 퍼즐의 덮개를 타이머 작동 이후 벗겨야 한다.
+    - B2e) 스톱워치를 추가적으로 사용할 때에는, 선수가 맞추기 시작함과 동시에 심판이 스톱워치를 작동시킨다.
+- B3) 암기:
+    - B3a) 암기와 맞추는 과정 중에는 선수가 퍼즐을 집어들 수 있다.
+    - B3b) 선수는 어떠한 기록도 할 수 없다. 어길 시 벌칙: 시도의 실격 처리(DNF)
+    - B3c) 선수는 암기 과정 동안 퍼즐을 회전시킬 수 없다.
+- B4) 맞추는 동안:
+    - B4a) 선수는 맞추기 시작하기 위해 안대를 착용한다.
+    - B4b) 안대가 완벽히 착용되기 전에는 선수는 퍼즐을 조작할 수 없다.
+    - B4c) 심판은 선수가 퍼즐을 맞추는 동안 선수의 얼굴과 퍼즐 사이에 불투명한 물체가 있다는 것을 보증해야 한다.
+        - B4c1) 모든 경우에, 선수는 불투명한 물체가 있더라도 퍼즐을 완전히 볼 수 없도록 안대를 착용해야 한다.
+        - B4c2) 심판은 선수가 안대를 착용하고 있을 때 선수와 퍼즐 사이에 물체(예를 들어: 종이나 마분지)를 두어야 한다.
+        - B4c3) 심판과 선수가 동의한다면, 선수는 퍼즐을 적합한 물체 뒤에(예를 들어: 보면대나 책상의 표면) 퍼즐을 놓고 맞출 것을 선택할 수 있다.
+    - B4d) 선수는 퍼즐을 맞추는 도중에는 퍼즐을 볼 수 없다. 어길 시 벌칙: 시도의 실격처리(DNF)
+    - B4e) 선수는 첫 번째 퍼즐 조작 전에는 안대를 벗어 다시 암기로 돌아갈 수 있다.
+- B5) 맞추기 끝내기:
+    - B5a) 스택맷 타이머를 쓰는 경우, 선수는 퍼즐을 놓고 타이머를 멈춤과 동시에 맞추기가 끝난다.
+    - B5b) 스톱워치를 쓰는 경우, 선수는 퍼즐을 바닥에 놓고 심판에게 맞추기가 끝났음을 알림으로써 맞추기가 끝난다. 그 순간 심판은 타이머를 멈춘다.
+    - B5c) 선수는 퍼즐에 손대지 않은 채로 맞추기가 끝나기 전에 안대를 벗을 수 있으나 벗은 이상 퍼즐을 절대 조작할 수 없다. 어길 시 벌칙: 시도의 실격처리(DNF)
 
 
-## <article-D><feet><solvingwithfeet> Article D: Solving With Feet
+## <article-C><one-handed><onehandedsolving> 제 C 조: 한 손
 
-- D1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-    - D1a) During the attempt, the competitor must sit in a chair, sit on the surface, or stand.
-    - D1b) During the attempt, the competitor must only use his feet and the surface. Penalty: disqualification of the attempt (DNF).
-    - D1c) During the solve, the competitor must use only his feet to touch the puzzle. Penalty: disqualification of the attempt (DNF).
-- D3) Starting the solve:
-    - D3a) The competitor places his feet onto the timer sensors.
-    - D3b) The competitor removes his feet from the timer sensors to start the solve.
-- D4) Stopping the solve:
-    - D4a) The competitor stops the timer by placing his feet onto the timer sensors.
+- C1) [제 A 조](regulations:article:A)에 설명된 표준의 스피드 큐빙 과정이 적용된다. 이에 대응하여 대신하는 추가적 규정들은 아래에 설명된다.
+    - C1b) 맞추는 동안 선수는 한 손만 큐브에 손댈 수 있다. 어길 시 벌칙: 시도의 실격 처리(DNF)
+        - C1b2) 퍼즐 손상 시, 선수가 고치기로 했다면 퍼즐을 맞추는 한 손으로만 해야 한다. 어길 시 벌칙: 시도의 실격 처리(DNF)
+        - C1b3) 퍼즐 손상 시, 퍼즐 조각이 잠시 동안 선수의 의도와는 상관없이 다른 신체 부위에 닿게 된다면, 심판의 결정에 따라 이것은 퍼즐을 만진 것으로 간주되지 않는다.
+    - C1c) 퍼즐을 맞추는 동안 선수가 한 손으로 퍼즐을 만진 이상, 다른 손으로는 퍼즐을 만질 수 없다. 어길 시 벌칙: 시도의 실격 처리(DNF)
 
 
-## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
+## <article-D><feet><solvingwithfeet> 제 D 조: 발
 
-- E2) Procedure for Fewest Moves Solving:
-    - E2a) The judge distributes a scramble sequence to all competitors. The judge then starts the stopwatch and calls "GO".
-    - E2b) All competitors have a total time limit of 60 minutes to devise a solution.
-        - E2b1) The judge should call "5 MINUTES REMAINING" at 55 minutes, and must call "STOP" at 60 minutes.
-    - E2c) At 60 minutes, each competitor must give the judge a legibly written solution with the competitor's name, using the notation defined for Outer Block Turn Metric (described in [Regulation 12a](regulations:regulation:12a)). Penalty: disqualification of the attempt (DNF).
-    - E2d) The length of the solution is calculated in Outer Block Turn Metric (see [Regulation 12a](regulations:regulation:12a)).
-        - E2d1) The competitor is permitted a maximum solution length of 80 (moves and rotations).
-    - E2e) The competitor's solution must not be directly derived from any part of the scrambling algorithm. Penalty: disqualification of the attempt (DNF).
-        - E2e1) The WCA Delegate may ask the competitor to explain the purpose of each move in his solution, irrespective of scrambling algorithm. If the competitor cannot give a valid explanation, the attempt is disqualified.
-- E3) The competitor may use the following objects during the attempt. Penalty for using unauthorised objects: disqualification of the attempt (DNF).
-    - E3a) Paper and pens (both supplied by judge).
-    - E3b) 1-3 puzzles corresponding to the event (self-supplied).
-    - E3c) Coloured stickers (self-supplied).
+- D1) [제 A 조](regulations:article:A)에 설명된 표준의 스피드 큐빙 과정이 적용된다. 이에 대응하여 대신하는 추가적 규정들은 아래에 설명된다.
+    - D1a) 선수는 반드시 의자에 앉거나, 바닥에 앉거나, 서서 맞추어야 한다.
+    - D1b) 미리 보기 와 맞출 때 선수는 반드시 발과 바닥만을 이용한다. 어길 시 벌칙: 시도의 실격 처리(DNF)
+    - D1c) 퍼즐을 맞추는 동안 선수는 퍼즐에 자신의 발만 접촉시킬 수 있다. 어길 시 벌칙: 시도의 실격 처리(DNF)
+- D3) 맞추기 시작하기:
+    - D3a) 선수는 반드시 발을 타이머의 센서 위에 올려놓는다.
+    - D3b) 맞추기를 시작하기 위해 선수는 발을 타이머의 센서에서 뗀다.
+- D4) 맞추기 끝내기:
+    - D4a) 선수는 발을 타이머의 센서에 올려놓아 맞추기를 끝낸다.
 
 
-## <article-F><clock><clocksolving> Article F: Clock Solving
+## <article-E><fewest-moves><fewestmovessolving> 제 E 조: 최소 회전
 
-- F1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-- F2) The judge places the scrambled puzzle onto the mat in a standing position.
-- F3) At the end of the inspection period, the competitor places the puzzle onto the mat in a standing position. He must not change the positions of any pins from their scrambled positions before the beginning of the solve. Penalty: disqualification (DNF).
+- E2) 최소 회전의 순서:
+    - E2a) 심판은 모든 선수에게 스크램블 공식을 나누어 준다. 심판은 스톱워치를 시작함과 동시에 "시작"이라고 말한다.
+    - E2b) 모든 선수들은 최소 회전 수 해법을 연구할 시간 60분이 주어진다.
+        - E2b1) 심판은 55분 후 “5분 남았습니다” 라고 말해야 하고. 60분 후에는 “정지” 라고 반드시 말해야 한다.
+    - E2c) 60분이 지난 후 선수는 반드시 이름과 함께 심판이 알아볼 수 있게 외부 블록 턴 방식([규정 12a항](regulations:regulation:12a) 참조)을 이용하여 작성한 해법을 제출해야 한다. 어길 시 벌칙: 시도의 실격 처리 (DNF)
+    - E2d) 해법의 길이를 재는 방식은 외부 블록 턴 방식([규정 12a항](regulations:regulation:12a) 참조)을 사용한다.
+        - E2d1) 선수에게 허용된 해법의 최대 길이는 80(면 회전과 전체 회전)이다.
+    - E2e) 선수의 해법은 스크램블 공식과 어떤 직접적인 관련도 없어야 한다. 어길 시 벌칙: 기회의 실격 처리(DNF)
+        - E2e1) WCA 파견위원은 선수의 해법에 대해 스크램블 공식과 관련이 없는 설명을 선수에게 요구할 수 있다. 선수가 타당한 설명을 할 수 없다면, 그 시도는 실격 처리된다.
+- E3) 선수는 다음의 물건들을 사용할 수 있다. 허가 되지 않은 물건들의 사용에 대한 벌칙: 시도의 실격 처리(DNF)
+    - E3a) 종이와 펜 (둘 다 심판이 제공한다).
+    - E3b) 종목에 해당하는 1~3개의 퍼즐 (본인이 가져와야 한다).
+    - E3c) 색깔 스티커 (본인이 가져와야 한다).
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
+## <article-F><clock><clocksolving> 제 F 조: 클락
 
-- H1) Standard speed solving procedures is followed, as described in [Article B](regulations:article:B) (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in [Article B](regulations:article:B) are described below.
-    - H1a) Before an attempt, the competitor must notify the judge of the number of puzzles he wishes to attempt blindfolded. The number of puzzles must be at least 2.
-        - H1a1) A competitor is not permitted to change the number of puzzles after the beginning of the attempt.
-        - H1a2) The organisation team must not disclose the competitor's requested number of puzzles until the beginning of the attempt.
-    - H1b) If he is attempting fewer than 6 puzzles, the competitor is allotted a time limit of 10 minutes times the number of puzzles in the attempt, else the time limit is 60 minutes.
-        - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge stops the attempt and the attempt is then scored; the time limit for the attempt counts as the original recorded time.
-    - H1d) Time penalties for the puzzles of the attempt are cumulative.
+- F1) [제 A 조](regulations:article:A)에 설명된 표준의 스피드 큐빙 과정이 적용된다. 이에 대응하여 대신하는 추가적 규정들은 아래에 설명된다.
+- F2) 심판은 스크램블된 퍼즐을 스택매트 위에 세워 놓는다.
+- F3) 미리 보기 시간 후, 선수는 퍼즐을 스택매트 위에 세워놓는다. 선수는 솔브를 시작하기 전 스크램블 된 상황에서 핀을 움직이면 안 된다. 어길 시 벌칙: 실격(DNF)
 
 
-## <article-Z><optional><optional> Article Z: Optional Regulations
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> 제 H 조: 복수 눈 가리기
 
-Organisation teams may adopt optional regulations to facilitate the administration of the competition.
-The WCA Board must approve any optional regulations for a competition.
+- H1) [제 B 조](regulations:article:B)에 설명된 표준의 스피드 큐빙 과정이 적용된다. 제 B조에 대응하여 대신하는 추가적 규정들은 아래에 설명 된다.
+    - H1a) 시도 전에 선수는 반드시 심판에게 시도하기를 원하는 퍼즐의 수를 알려주어야 한다. 퍼즐의 수는 최소한 2개여야 한다.
+        - H1a1) 시도 시작 후에 선수는 큐브의 개수를 변경할 수 없다.
+        - H1a2) 운영진은 선수가 시도하기를 원하는 퍼즐의 수를 시도의 시작 전까지 공개해서는 안 된다.
+    - H1b) 선수가 6개미만의 퍼즐을 시도한다면, 그 선수는 퍼즐 수 곱하기 10분의 시간제한이 주어지고, 그 외의 경우 60분의 시간제한이 주어진다.
+        - H1b1) 선수는 시도의 종료를 아무 때나 알릴 수 있다. 주어진 시간이 끝났을 경우, 심판은 시도를 끝내고 그 시도를 기록한다; 이 때 시도의 제한시간이 기록되는 시간이 된다.
+    - H1d) 시도의 퍼즐에 대한 시간 페널티들은 누적될 수 있다.
 
-- Z1) The organisation team may require competitors to submit puzzles during registration.
-- Z2) The organisation team may limit the number of events per competitor.
-- Z3) The organisation team may select competitors who directly qualify for certain rounds of certain events based on the results of specific previous competitions.
-- Z4) The organisation team may limit the number of competitors per event, on either a "first come first serve" basis or based upon qualification times or rankings in the WCA world rankings of a previously announced calendar date.
-- Z5) The organisation team may prohibit competitors from participating in specific combinations of events.
+
+## <article-Z><optional><optional> 제 Z 조: 부가적 규정
+
+운영진은 대회의 운영을 촉진시키기 위해 부가적 규정을 이용할 수 있다.
+반드시 WCA 위원회가 대회의 부가적 규정의 사용을 승인해야 한다.
+
+- Z1) 운영진은 선수들에게 등록을 하면서 미리 퍼즐을 제출하라고 요구할 수 있다.
+- Z2) 운영진은 선수 당 참가 가능한 종목의 개수를 제한할 수 있다.
+- Z3) 운영진은 특정 대회의 결과를 기준으로 특정 종목의 특정 라운드에 참가 자격이 있는 사람만을 참가시킬 수 있다.
+- Z4) 운영진은 선착순, 적정 수준 이상의 기록, 또는 미리 발표 된 특정 날짜의 WCA 세계랭킹으로 각 종목의 최대 선수 수를 제한할 수 있다.
+- Z5) 운영진은 선수들이 특정 종목들을 동시에 참가하는 것을 제한할 수 있다.
 
