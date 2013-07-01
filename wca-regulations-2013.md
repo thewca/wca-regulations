@@ -1,329 +1,328 @@
-# <wca-title>WCA Regulations 2013
+# <wca-title>WCA 규정 2013
 
-<version>Version: May 21, 2013
-
-
-## Notes
-
-### WCA Regulations and Guidelines
-
-The WCA Regulations contains the full set of Regulations that apply to all official competitions sanctioned by the World Cube Association.    
-The WCA Regulations are also supplemented by the [WCA Guidelines](guidelines:top). The Regulations should be considered a complete document, but the Guidelines contain additional clarifications and explanations.
-
-### Wording
-To make the Regulations and Guidelines easier to read we use "he" where the reader should read "she or he".    
-Uses of the words "must", "must not", "should", "should not" and "may" match [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
-
-### Information on the Internet
-Website of World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)    
-Original source of the WCA regulations: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)    
-WCA Regulations in [PDF format](wca-regulations-and-guidelines-2013.pdf)
-
-### Source
-Development of the WCA Regulations and Guidelines is public [on GitHub](https://github.com/cubing/wca-documents).
-
-### Contact
-For questions and feedback, please contact the [WCA Regulations Committee (WRC)](http://www.worldcubeassociation.org/contact-information).
+<version>버전: 2013년 5월 21일
 
 
-## <contents> [Contents](regulations:contents)
+## 참고
+
+### WCA 규정과 지침
+
+WCA 규정은 국제 큐브 협회로부터 인정된 모든 공인 대회에 적용되는 모든 규정들을 포함한다.    
+WCA 규정은 또한 [WCA 지침](guidelines:top)으로 보완된다. 규정들은 하나의 완성된 문서로 간주되어야 하나, 지침은 추가적인 설명을 포함한다.
+
+### 표현법
+영어 원문에는 'he', 'she'와 같은 표현의 언어적인 문제에 대한 언급이 있으나 한국어는 무관한 내용이므로 이 점은 생략하였으며 'must', 'must not' 'should', 'should not', 'may'와 같은 단어의 번역은 [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt)를 따른다.
+
+### 인터넷 상에서의 정보
+국제 큐브 협회의 웹사이트: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)    
+WCA 규정의 출처: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)    
+WCA 규정의 [PDF 형식](wca-regulations-and-guidelines-2013.pdf)
+
+### 출처
+WCA 규정과 지침의 변천은 [GitHub](https://github.com/cubing/wca-documents)에 공개되어 있다.
+
+### 연락
+질문사항과 피드백이 있다면, [WCA 규정 위원회 (WRC)](http://www.worldcubeassociation.org/contact-information)에 연락해주십시오.
+
+
+## <contents> [목차](regulations:contents)
 
 Note: Because Article and Regulation numbers are not reassigned when Regulations are deleted, there may be gaps in numbering.
 
 <table-of-contents>
 
 
-## <article-1><officials><officials> Article 1: Officials
+## <article-1><officials><officials> 제 1 조: 운영진
 
-- 1a) A competition must include a WCA Delegate and an organisation team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
-- 1b) The organisation team of a competition is responsible for logistics before, during, and after the competition.
-- 1c) The WCA Delegate may delegate responsibilities to other members of the organisation team, but is ultimately accountable for how these responsibilities are carried out. The WCA Delegate for a competition is responsible for:
-    - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the competition date.
-    - 1c3) Sending the competition results to the WCA Results Team.
-        - 1c3a) All scramble sequences used during a competition must be sent with the results of the competition.
-        - 1c3b) Scramble sequences must be labelled with the events, rounds, and groups for which they were used.
-    - 1c4) Sending corrections to the competition results to the WCA Board.
-    - 1c5) Advising the other officials where necessary.
-    - 1c6) Approving all events and round formats of a competition, before the competition starts, and if changes are required during the competition.
-    - 1c7) Decisions about disqualifying competitors during the competition.
-    - 1c8) Providing the scramble sequences.
-    - 1c9) Decisions about changes to the scheduled times of rounds. In cases of such changes, a clear announcement must be made to all competitors.
-    - 1c10) Making a copy of the WCA Regulations available at the competition.
-- 1e) Each event must have one or more judges.
-    - 1e1) A judge is responsible for executing the procedures of the event.
-        - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the Delegate, as long as the judge is able to ensure that all WCA Regulations are followed at all times.
-    - 1e2) Capable competitors must be available for judging, if needed by organisation team. Penalty: disqualification from the competition.
-- 1f) Each event must have one or more scramblers. Exception: Fewest Moves Solving.
-    - 1f1) A scrambler applies scramble sequences to prepare puzzles for attempts.
-    - 1f2) Capable competitors must be available for scrambling, if needed by organisation team. Penalty: disqualification from the competition.
-- 1g) Each event must have one or more score takers.
-    - 1g1) A score taker is responsible for compiling results.
-    - 1g2) Any change to the result on a score sheet must be made at the discretion of the WCA Delegate.
-- 1h) Competitors in the same round of an event may be divided into groups.
-    - 1h1) Scramblers and judges for a round should not scramble for/judge competitors in their own group before they have finished all of their attempts for the round. They may scramble for/judge competitors in their own group at the discretion of the WCA Delegate, but the organisation team must ensure that scramblers and judges cannot see any scrambles for their attempts that they have not attempted yet.
-- 1j) All officials may compete in the competition.
-- 1k) Officials may serve multiple roles (e.g. organisation team, WCA Delegate, judge, score taker, scrambler).
-
-
-## <article-2><competitors><competitors> Article 2: Competitors
-
-- 2a) Any person may compete in a WCA competition if he:
-    - 2a1) Complies with WCA Regulations.
-    - 2a2) Meets the competition requirements, which must be clearly announced before the competition.
-    - 2a3) Is not suspended by WCA Board.
-- 2b) Competitors below the age of 18 must obtain consent from their parent(s)/guardian(s) to register and compete.
-- 2c) Competitors register by providing all information required by the organisation team (including: name, country, date of birth, gender, contact information, selected events).
-    - 2c1) A competitor is not be eligible to compete without a completed registration, as determined by the organisation team.
-- 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and must not be disclosed to outside organisations/persons without the consent of the competitor.
-- 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship standing by means of documents (e.g. a passport). If a competitor is found ineligible to represent the country under which they have registered, the competitor may be disqualified retroactively and/or suspended, at the discretion of the WCA Board.
-    - 2e1) The eligible countries are defined by the Wikipedia article "List of sovereign states" ("UN member states and observer states" and "Other states").
-    - 2e2) Competitors with updates to their citizenship status may change their country of representation in their first competition of a calendar year.
-- 2f) Competitors must obey venue rules and conduct themselves in a considerate manner.
-- 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
-    - 2g3) Competitors in the Competitors Area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor from the event, at the discretion of the WCA Delegate.
-- 2h) Competitors must be fully dressed while in the competition venue. At the discretion of the Delegate, competitors may be disqualified from the competition for inappropriate clothing.
-- 2i) While competing, competitors must not use electronics or audio equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting).
-    - 2i1) Competitors may use certain non-electronic aids that do not give the competitor an unfair advantage, at the discretion of the WCA Delegate. This includes:
-        - 2i1a) Medical/physical aids worn by the competitor (etc. glasses, wrist brace, hearing aids).
-        - 2i1b) Earplugs and earmuffs (but not electronic noise-cancelling headphones).
-- 2j) The WCA Delegate may disqualify a competitor from a specific event.
-    - 2j1) If a competitor is disqualified from an event for any reason, he is not eligible for any more attempts in the event.
-    - 2j2) If a competitor is disqualified during the course of an event, his earlier results remains valid. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
-- 2k) The WCA Delegate may disqualify a competitor from the competition (i.e. from all events of the competition) if the competitor:
-    - 2k1) Fails to check in or register in time for the competition.
-    - 2k2) Is suspected of cheating or defrauding the officials during the competition.
-        - 2k2a) The WCA Delegate may disqualify any suspected results.
-    - 2k3) Behaves in a way that is unlawful, violent or indecent; or intentionally damages venue facilities or personal property within the venue.
-    - 2k4) Interferes with, or distracts others during, the competition.
-    - 2k5) Fails to abide by WCA Regulations during the competition.
-- 2l) A competitor may be disqualified immediately, or after a warning, depending on the nature and severity of the infraction.
-    - 2l1) A disqualified competitor is not eligible for the refund of any expenses due to participating in the competition.
-- 2n) Competitors may verbally dispute a ruling to the WCA Delegate.
-    - 2n1) Disputes are only permitted during the competition, within 30 minutes after the disputed incident happened and before the beginning of any following rounds of the relevant event.
-    - 2n2) The WCA Delegate must resolve the dispute before the beginning of the next round of the event.
-    - 2n3) The competitor must accept all final rulings of the WCA Delegate. Penalty: disqualification from the competition.
-- 2s) Competitors with other disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations from the WCA Delegate. Competitors requesting such accommodations should contact the organisation team and WCA Delegate at least two weeks before the competition.
-- 2t) Each competitor must be familiar with and understand the WCA Regulations before the competition.
+- 1a) 대회는 반드시 한 명의 WCA 파견위원과 다음과 같은 운영진(한 명 이상으로 이루어진)이 포함되어야 한다: 심판, 스크램블러, 그리고 기록자.
+- 1b) 대회의 운영진은 대회 전, 대회 중, 그리고 대회 후의 실행 계획에 대한 책임이 있다.
+- 1c) WCA 파견위원은 운영진의 다른 구성원에게 책임을 위임할 수 있으나, 어떻게 수행되었는지에 대한 궁극적인 책임이 있다. 대회의 WCA파견위원은 다음과 같은 책임이 있다:
+    - 1c1) 대회에서 WCA의 모든 규정들이 지켜졌는지, 대회의 전체적인 과정, 그리고 대회 중 일어난 사건들을 WCA에 보고해야 한다. 대회가 끝난 뒤 일주일 안에 보고해야 한다.
+    - 1c3) WCA에 대회 결과를 통보해야 한다.
+        - 1c3a) 대회에서 쓰인 모든 스크램블 공식들을 대회 결과와 함께 보내야 한다.
+        - 1c3b) 스크램블 공식들에는 사용된 종목, 라운드, 그리고 그룹이 표시되어야 한다.
+    - 1c4) 대회 결과 중 수정되어야 하는 부분이 있으면 WCA에 통보해야 한다.
+    - 1c5) 필요 시에는 다른 운영진에게 조언을 한다.
+    - 1c6) 대회가 시작되기 전 혹은 대회 중에 변화가 필요할 때, 모든 종목과 체계를 승인해야 한다.
+    - 1c7) 대회 중 선수들의 실격 여부를 결정한다.
+    - 1c8) 스크램블 공식을 제공해야 한다.
+    - 1c9) 대회 라운드 시간의 변화에 대한 결정을 내린다. 변화가 있는 경우, 모든 선수들에게 명확한 통보가 있어야 한다.
+    - 1c10) 대회에서 사용 가능한 WCA 규정의 복사본을 만든다.
+- 1e) 각 종목은 한 명 이상의 심판이 반드시 있어야 한다.
+    - 1e1) 심판은 그 종목을 절차에 따라 진행해야 할 책임이 있다.
+        - 1e1a) 심판은 파견위원의 재량에 따라 여러 선수들을 동시에 심판할 수 있는데, 이 때 모든 WCA 규정들이 지켜졌다고 심판이 보증할 수 있어야 한다.
+    - 1e2) 운영진이 필요 시 역량이 있는 선수들은 심판이 가능해야 한다. 어길 시 벌칙: 대회로부터의 실격
+- 1f) 각 종목은 스크램블러가 반드시 한 명 이상 있어야 한다. 예외: 최소회전
+    - 1f1) 스크램블러는 선수의 시도를 위해 준비된 큐브에 스크램블 공식을 적용시킨다.
+    - 1f2) 운영진의 필요 시 역량이 있는 선수들은 스크램블이 가능해야 한다. 어길 시 벌칙: 대회로부터의 실격
+- 1g) 각 종목은 반드시 기록자가 한 명 이상 있어야 한다.
+    - 1g1) 기록자는 모든 결과의 기록을 책임진다.
+    - 1g2) 스코어 시트의 기록의 변경은 반드시 WCA 파견위원의 결정 하에 이루어져야 한다.
+- 1h) 같은 라운드의 선수들은 그룹으로 나누어서 진행할 수 있다.
+    - 1h1) 참가하는 심판/스크램블러는 절대로 자신이 맡은 조에 속하면 안 되고 자신의 순서가 끝난 다음에 심판/스크램블러의 역할을 할 수 있다. 참가하는 심판/스크램블러는 WCA 파견위원의 결정에 따라 자신의 조의 스크램블을 할 수 있으나, 운영진이 심판/스크램블러들이 아직 시도하지 않은 시도의 스크램블 된 큐브를 보지 않았다고 반드시 보증할 수 있어야 한다.
+- 1j) 모든 운영진은 대회에 참가할 수 있다.
+- 1k) 운영진은 여러 역할을 가질 수 있다. (예: 운영진, WCA 파견위원, 심판, 기록자, 스크램블러)
 
 
-## <article-3><puzzles><puzzles> Article 3: Puzzles
+## <article-2><competitors><competitors> 제 2 조: 선수
 
-- 3a) Competitors must provide their own puzzles for the competition.
-    - 3a1) Competitors must be present and ready to compete when they are called to compete for a round. Penalty: disqualification from the event.
-    - 3a2) Puzzles must be fully operational, such that normal scrambling is possible.
-    - 3a3) Polyhedral puzzles must use a colour scheme with one unique colour per face in the solved state. Each puzzle variation must have moves, states, and solutions functionally identical to the original puzzle.
-- 3d) Puzzles must have coloured stickers, coloured tiles, or painted/printed colours.
-    - 3d1) Exception: Competitors with a medically documented visual disability may use textured puzzles with different textures on different faces. Textures/patterns must be uniform per face. Each face should have a distinct colour, to aid in scrambling and judging.
-    - 3d2) The colours of puzzles must be solid, with one uniform colour per face. Each colour on the puzzle must be clearly distinct from the other colours.
-    - 3d3) Stickers/tiles/textures/paint must not be thicker than 1.5 mm, or the generally available thickness for non-cube puzzles.
-- 3h) Modifications that enhance the basic concept of a puzzle are not permitted. Modified versions of puzzles are permitted only if the modification does not make any additional information available to the competitor (e.g. identity of pieces), compared to an unmodified version of the same puzzle.
-    - 3h1) "Pillowed" puzzles are not permitted. Exception: Pillowed 7x7x7 cubes are permitted.
-    - 3h2) "Stickerless" cubes, and other cubes whose face colours are visible inside the cube, are not permitted.
-    - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
-- 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that distinguish any piece from a similar piece.
-    - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
-- 3k) Puzzles must be approved by the WCA Delegate before use in the competition.
-- 3l) A cube puzzle may have a logo, but it must have at most one logo. For the Rubik's Cube or bigger cube puzzles the logo must be placed on one of the centre pieces.
-    - 3l1) Colourless engravings (max. 1 per face) are not considered logos.
-- 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
-
-
-## <article-4><scrambling><scrambling> Article 4: Scrambling
-
-- 4a) A scrambler applies scramble sequences to the puzzles.
-- 4b) Puzzles must be scrambled using computer-generated random scramble sequences.
-    - 4b1) Generated scramble sequences must not be inspected before the competition, and must not be filtered or selected in any way by the WCA Delegate.
-    - 4b2) Scramble sequences for a round must be available only to the WCA Delegate and the scramblers for the event, until the end of the round. Exception: For Fewest Moves Solving, competitors receive scrambling sequences during the round (see [Article E](regulations:article:E)).
-- 4d) Scrambling orientation:
-    - 4d1) Cube puzzles and Megaminx are scrambled with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.
-    - 4d2) Pyraminx is scrambled with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
-    - 4d3) Square-1 is scrambled with the darker colour on front (out of the 2 possible scrambling orientations).
-- 4f) Competition scramble sequences must be generated using the current official version of the official WCA scramble program (available via the WCA website).
-- 4g) After scrambling a puzzle, the scrambler must verify that he has scrambled the puzzle correctly. If the puzzle state is wrong, he must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
-    - 4g1) Exception: For the 6x6x6 Cube and the 7x7x7 Cube, it is not necessary to correct the scramble, at the discretion of the WCA Delegate.
-
-
-## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
-
-- 5a) Examples of puzzle defects include: popped pieces, pieces twisted in place, and detached screws/caps/stickers.
-- 5b) If a puzzle defect occurs during an attempt, the competitor may choose to either repair the defect and continue the attempt, or to stop the attempt.
-    - 5b1) If a competitor chooses to repair the puzzle, he must repair only the defective pieces. Tools and/or pieces of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the attempt (DNF).
-    - 5b2) Any repair to a puzzle must not give the competitor any advantage in solving the puzzle. Penalty: disqualification of the attempt (DNF).
-    - 5b3) Permitted repairs:
-        - 5b3a) If any pieces have fallen out or moved out of place, the competitor may place them back.
-        - 5b3b) If, after repairing the puzzle but before the end of the attempt, the competitor finds that the puzzle is unsolvable, he may disassemble and reassemble a maximum of 4 pieces to make the puzzle solvable.
-        - 5b3c) If the puzzle is unsolvable, and can be made solvable by rotating a single corner piece, the competitor may correct the corner piece by twisting it in place without disassembling the puzzle.
-    - 5b4) During blindfolded events, a puzzle defect must be repaired during the attempt, and all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
-    - 5b5) If at the end of the attempt some parts of the puzzle are physically detached or not fully placed, the following regulations apply:
-        - 5b5a) If one or more parts without coloured faces is affected, the puzzle is considered solved.
-        - 5b5b) If one part with one coloured face is affected, the puzzle is considered solved.
-        - 5b5c) If more than one part with one coloured face is affected, the puzzle is considered unsolved (DNF).
-        - 5b5d) If one or more parts with more than one coloured face is affected, the puzzle is considered unsolved (DNF).
-        - 5b5e) Regulations [5b5c](regulations:regulation:5b5c) and [5b5d](regulations:regulation:5b5d) supercede [5b5a](regulations:regulation:5b5a) and [5b5b](regulations:regulation:5b5b).
-- 5c) If a competitor has a puzzle defect, this does not give him the right to an extra attempt.
+- 2a) 다음 사항들을 만족하면 누구나 대회에 참여할 수 있다:
+    - 2a1) WCA 경기 규정을 지켜야 한다.
+    - 2a2) 대회의 요구사항에 부합하여야 하며, 그 요구사항은 대회 이전에 반드시 공지되어야 한다.
+    - 2a3) 국제큐브협회에 의해 추방되지 않았어야 한다.
+- 2b) 18세 미만의 선수는 등록과 참가를 위해 반드시 부모님/보호자의 동의가 있어야 한다.
+- 2c) 대회 등록자는 반드시 운영진으로부터 요구된 모든 정보를 제공해야 등록이 완료 된다. (이름, 국적, 생년월일, 성별, 연락처, 참가 종목이 포함되어야 한다.)
+    - 2c1) 완전한 등록이 되지 않은 선수는 운영진의 결정에 따라 참가가 부적합하다고 판단될 수 있다.
+- 2d) 선수의 이름, 국적, 성별, 그리고 기록은 공개적 정보로 간주된다. 다른 모든 개인정보는 비밀로 간주되며, 선수의 동의 없이는 외부 기관/개인에게 공개되어서는 안 된다.
+- 2e) 선수는 국적이 있는 국가를 대표해야만 한다. WCA 파견위원은 문서(예: 여권)로 국적을 판단해야 한다. 선수가 등록한 국가를 대표하기에 부적격이라고 판단되면, 그 선수는 WCA 위원회의 결정에 따라 실격처리와 함께/또는 추방될 수 있다.
+    - 2e1) 유효한 국가들은 위키 백과의 글 “List of sovereign states”에 의해 정의된다. ("UN member states and observer states" 와 "Other states")
+    - 2e2) 국적에 변동이 있는 선수들은 그 선수가 참가하는 매 해의 첫 대회에서 자신이 대표하는 국가를 변경할 수 있다.
+- 2f) 선수는 참가하는 대회의 규칙을 반드시 지켜야 하며 다른 사람들을 배려하여야 한다.
+- 2g) 선수는 지정된 대회장에 있을 때는 반드시 정숙해야 한다. 대화는 허락되나 적당한 수준이어야 하며, 현재 기록을 재는 선수와는 떨어져있어야 한다.
+    - 2g3) 선수 구역의 선수들은 진행되고 있는 라운드의 스크램블 된 상태에 대해 대화해서는 안 된다. 어길 시 벌칙: WCA 파견위원의 결정에 따라 그 종목에서의 선수의 실격
+- 2h) 선수는 반드시 완전한 복장을 갖추어야 한다. 파견위원의 결정에 따라, 선수들은 부적절한 의상에 의해 대회로부터 실격될 수 있다.
+- 2i) 선수는 시합하는 동안에는 음향 기기나 기타 전자제품(예: 휴대전화, MP3 플레이어, 녹음기, 또는 추가 조명장치)을 절대로 사용할 수 없다.
+    - 2i1) 선수들은 참가자에게 불공평한 이익을 주지 않는 특정 비전자기기를 WCA 파견위원의 결정에 따라 사용할 수 있다. 이것은 다음을 포함한다:
+        - 2i1a) 선수가 착용하고 있는 의학적 보조 장치 (예: 안경, 손목 보호대, 보청장치 등)
+        - 2i1b) 귀마개 (단, 소음방지용 전자 헤드폰은 허용되지 않는다)
+- 2j) WCA 파견위원은 특정 종목으로부터 선수를 실격시킬 수 있다.
+    - 2j1) 선수가 어떠한 이유로든 그 종목으로부터 실격 당한다면, 그 선수는 더 이상 그 종목에서 시도할 수 없다.
+    - 2j2) 선수가 종목의 진행 중에 실격 당했다면, 그 선수의 실격 이전의 기록들은 유효하다. 예외: 부정행위나 사기([규정 2k2a항](regulations:regulation:2k2a) 참고)
+- 2k) WCA 파견위원은 대회로부터(즉, 대회의 모든 종목으로부터) 다음과 같은 이유들로 강제로 선수를 실격시킬 수 있다:
+    - 2k1) 선수가 대회 참가 등록 시 제 시간에 오지 않은 경우.
+    - 2k2) 선수가 대회 중에 부정행위를 저지르거나 운영진에게 사기를 쳤다고 의심받을 때.
+        - 2k2a) WCA 파견위원은 의심되는 모든 결과를 실격처리 할 수 있다.
+    - 2k3) 선수가 불법적, 폭력적, 또는 타당하지 않은 행동을 하거나 대회장에 있는 시설이나 타인의 소유물에 고의적으로 손상을 가한 경우.
+    - 2k4) 선수가 대회 진행을 방해하거나 다른 선수들에게 노골적인 방해를 하는 경우.
+    - 2k5) 선수가 국제큐브협회 경기 규정을 따르지 않는 경우.
+- 2l) 선수에게는 상황에 따라 실격이 선언 즉시 적용되거나 경고가 주어진 후 적용된다.
+    - 2l1) 선수가 실격을 당하면, 참가비나 참가에 소요된 경비에 대해 어떠한 환불도 요구할 수 없다.
+- 2n) 선수는 판정에 대해 WCA 파견위원에게 대화로 이의를 제기할 수 있다.
+    - 2n1) 판정에 대한 이의는 오직 대회 중, 사건 발생 30분 이내, 그리고 다음 라운드 시작 이전에만 가능하다.
+    - 2n2) 판정에 대한 이의는 다음 라운드 시작 이전에 WCA 파견위원이 반드시 처리해야 한다.
+    - 2n3) 선수는 WCA 파견위원의 최종판결을 반드시 받아들여야 한다. 어길 시 벌칙: 선수의 실격 처리
+- 2s) 하나 이상의 WCA 규정을 따를 수 없는 장애가 있는 선수는 WCA 파견위원에게 특별 조정을 요구할 수 있다. 이 조정을 요구하는 참가자들은 적어도 대회 2주 전 대회 운영진과 WCA 파견위원과 연락해야 한다.
+- 2t) 대회 전에 모든 선수는 WCA 규정을 잘 알며 이해하고 있어야 한다.
 
 
-## <article-7><environment><environment> Article 7: Environment
+## <article-3><puzzles><puzzles> 제 3 조: 퍼즐
 
-- 7b) Spectators must remain at least 1.5 metres away from the solving stations when they are in use.
-- 7c) Lighting of the competition area must be given special attention. Lighting should be neutral, such that competitors can easily differentiate among the colours on the puzzles.
-- 7e) The competition area must be smoke-free.
-- 7f) Solving station:
-    - 7f1) Definitions:
-        - 7f1a) Stackmat: The Speedstacks Stackmat timer and a full-size compatible mat.
-        - 7f1b) Mat: The mat of the Stackmat.
-        - 7f1c) Timer: The timer of the Stackmat.
-        - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
-    - 7f2) The timer must be attached to the mat and placed on the surface, with the timer on the side of the mat nearest to the competitor.
-        - 7f2a) Exception: For Solving With Feet, the Stackmat must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
-- 7h) The competition area must have a Competitors Area.
-    - 7h1) The organisation team may require that a competitor who has been called to compete must remain within the Competitors Area until he has finished all of his attempts for the round.
-
-
-## <article-8><competitions><competitions> Article 8: Competitions
-
-- 8a) An official WCA competition must:
-    - 8a1) Be approved by the WCA Board.
-    - 8a2) Follow the WCA Regulations.
-    - 8a3) Have a designated WCA Delegate in attendance.
-    - 8a4) Be announced on the WCA website at least two weeks before the beginning of the competition.
-    - 8a6) Be publicly accessible.
-    - 8a7) Use the authentic Speed Stacks Stackmat timer (Generation 2 or Pro) for time measurement.
-    - 8a8) Be open to all who wish to compete. Restrictions must be approved by the WCA Board and clearly stated when the competition is announced.
-- 8f) If WCA Regulations are not correctly observed during a competition, the WCA Board may disqualify affected attempts.
+- 3a) 대회에 쓸 퍼즐은 반드시 선수 본인이 준비해야 한다.
+    - 3a1) 선수들은 라운드에서 기록을 재도록 불릴 때 참석해 있어야 하고 참가할 준비가 되어있어야 한다. 어길 시 벌칙: 종목으로부터의 실격 처리
+    - 3a2) 퍼즐은 일반적인 스크램블이 가능하도록 완전히 조작이 가능해야 한다.
+    - 3a3) 다면체 퍼즐은 반드시 맞춰진 상태에서 각 면당 한 색깔인 색 배치를 사용해야 한다. 선수들은 정품 퍼즐과 움직임, 상태, 해법이 같은 퍼즐을 사용해야 한다.
+- 3d) 퍼즐은 반드시 색상 스티커, 색상 타일, 또는 칠해진/인쇄된 색이 있어야 한다.
+    - 3d1) 예외: 의학적으로 시각 장애가 있는 선수들은 다른 면에 다른 질감이 있는 퍼즐을 사용할 수 있다. 질감/패턴은 각 면에서 일정해야 한다. 스크램블과 심판을 위해 각 면은 다른 색과 구별되는 색이 있어야 한다.
+    - 3d2) 퍼즐의 각 색상은 단색이어야 하며 각 면의 색은 일정하여야 한다. 또한 각각의 색은 다른 색들과 확연히 구분되어야 한다.
+    - 3d3) 스티커, 타일, 질감이나 페인트의 두께는 절대로 1.5mm를 넘을 수 없으며 큐브 퍼즐 이외의 퍼즐들은 일반적으로 납득할만한 두께여야 한다.
+- 3h) 퍼즐의 기본적인 기능을 향상시키는 어떠한 개조도 허용되지 않는다. 개조된 퍼즐은 개조가 개조되지 않은 퍼즐에 비해 선수에게 어떠한 추가적 정보를(예: 보이지 않는 조각의 판단) 주지 않는 한도 내라면 인정된다.
+    - 3h1) "필로우“ 버전의 큐브는 인정되지 않는다. 예외: 필로우 7x7x7 큐브는 허용된다.
+    - 3h2) "자체 색“ 큐브, 그리고 큐브의 내부에서 면의 색이 보이는 큐브들은 인정되지 않는다.
+    - 3h3) 퍼즐의 개조에 의해 결과가 좋지 않게 나와도 추가적인 시도는 주어지지 않는다.
+- 3j) 퍼즐은 반드시 깨끗해야 하며 한 조각이 다른 유사한 조각으로부터 구별되는 표시, 튀어나온 조각, 손상, 다른 차이점 등이 있어서는 안 된다.
+    - 3j1) 퍼즐은 WCA 파견위원의 결정에 따라 적당히 닳은 부분이 있어도 된다.
+- 3k) 퍼즐은 대회에서 사용하기 이전에 반드시 WCA 파견위원으로부터 승인 받아야 한다.
+- 3l) 큐브 퍼즐에 로고는 사용이 가능하지만 최대 하나의 로고만 허용된다. 3x3x3 이상의 큐브 퍼즐의 로고는 반드시 중앙조각 중 하나에 위치해야 한다.
+    - 3l1) 퍼즐에 무색으로 새겨진 문양은 (한 면에 최대 한 개) 로고로 고려하지 않는다.
+- 3m) 모든 브랜드의 퍼즐과 퍼즐 조각은 WCA 규정을 따른다면 허가된다.
 
 
-## <article-9><events><events> Article 9: Events
+## <article-4><scrambling><scrambling> 제 4 조: 스크램블
 
-- 9a) The WCA governs competitions for:
-    - 9a1) Puzzles known as Rubik's puzzles.
-    - 9a2) Other puzzles that are manipulated by twisting the sides, commonly known as "twisty puzzles".
-- 9b) The official puzzles and event formats of the WCA are:
-    - 9b1) Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Megaminx, Pyraminx, Square-1, and Rubik's Cube: One-Handed.
-        - 9b1a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3), and "Average of 5".
-    - 9b2) Rubik's Cube: With Feet, 6x6x6 Cube, and 7x7x7 Cube.
-        - 9b2a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3) and "Mean of 3".
-    - 9b3) Rubik's Cube: Fewest Moves, Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded, and Rubik's Cube: Multiple Blindfolded.
-        - 9b3a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3).
-- 9f) The results of a round are measured as follows:
-    - 9f1) All timed results under 10 minutes are measured and rounded down to the nearest hundredth of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second. 
-    - 9f2) All timed results, averages, and means over 10 minutes are measured and rounded to the nearest second (e.g. x.4 becomes x, x.5 becomes x+1).
-    - 9f4) The result of an attempt is recorded as DNF (Did Not Finish) if the attempt is disqualified or unsolved/unfinished.
-    - 9f5) The result of an attempt is recorded as DNS (Did Not Start) if the competitor is eligible for an attempt but declines it.
-    - 9f6) For "Best of X" rounds, each competitor is allotted X attempts. The best result of these attempts counts for the competitor's ranking in the round.
-    - 9f7) For "Best of X" rounds, a DNF or DNS is the worst possible result.
-    - 9f8) For "Average of 5" rounds, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts is removed, and the arithmetic mean of the remaining 3 attempts counts for the competitor's ranking in the round.
-    - 9f9) For "Average of 5" rounds, one DNF or DNS is permitted to count as the competitor's worst result of the round. If a competitor has more than one DNF and/or DNS result in the round, his average score for the round is DNF.
-    - 9f10) For "Mean of 3" rounds competitors are allotted 3 attempts. The arithmetic mean of the 3 attempts counts for the competitor's ranking in the round.
-    - 9f11) For "Mean of 3" rounds, if the competitor has at least one DNF or DNS result, his average score for the round is DNF.
-    - 9f12) For "Best of X" rounds, rankings are assessed based on the best result per competitor. The following are used to compare results:
-        - 9f12a) For timed results, "better" is defined as the shorter time.
-        - 9f12b) For Fewest Moves Solving, "better" is defined as the shorter solution length.
-        - 9f12c) For Multiple Blindfolded Solving, rankings are assessed based on number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, the attempt is considered unsolved (DNF). If competitors achieve the same result, rankings are assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings are assessed based on the number of puzzles the competitors failed to solve, where fewer unsolved puzzles is better.
-    - 9f13) For "Mean of 3" and "Average of 5" rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the shorter recorded time.
-    - 9f14) For "Mean of 3" and "Average of 5" rounds, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where "better" is defined as the shorter time.
-    - 9f15) Competitors who achieve the same result in a round receive an identical ranking for the round.
-- 9g) A Combined Round consists of two phases of attempts, where competitors advance to the second phase if they meet a designated cutoff during the first phase.
-    - 9g2) Whether a competitor proceeds to next phase of a Combined round, must be decided by ranking (best x competitors) or by result (all competitors with a best result under x) of the first phase.
-- 9i) Results of official WCA competitions must be listed on the WCA world rankings.
-    - 9i1) The WCA recognises the following types of regional records: national records, continental records, and world records.
-    - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognised as breaking that regional record.
-    - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
-- 9j) Each event must be held at most once per competition.
-- 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the Board.
-- 9l) Each round must be completed before any following round of the same event starts.
-- 9m) Events must have at most four rounds.
-    - 9m1) Events with 99 or fewer competitors must have at most three rounds.
-    - 9m2) Events with 15 or fewer competitors must have at most two rounds.
-    - 9m3) Events with 7 or fewer competitors must have at most one round.
-- 9o) Combined rounds and Qualification rounds each count as one round when counting the number of rounds per event.
-- 9p) If an event has multiple rounds, then:
-    - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
-    - 9p2) The competitors who advance to the next round must be determined by either a cutoff ranking or a cutoff time in the preceding elimination round.
-    - 9p3) If a qualifying competitor withdraws from a round, he may be replaced by the best-ranked competitor below the cutoff from the preceding round.
-- 9r) A qualification round must be held before the first round of the event.
-    - 9r1) When announcing an event, the organisation team must include:
-        - 9r1a) Any limit to the number of competitors permitted in the first round of the event.
-        - 9r1b) Any limit to the number of competitors permitted in the qualification round of the event, and any limit to the maximum number of those competitors who will proceed to the first round.
-        - 9r1c) The average/mean result or single solve result, achieved in a previous competition, required to qualify directly for the first round of the event.
-        - 9r1d) The latest permitted date used to determine the qualifying average/mean result or single solve result in the WCA rankings.
-    - 9r2) Each competitor of an event who has not directly qualified for the first round of the event must compete in the qualification round in order to participate in the first round.
-    - 9r3) A qualification round may be added to specifically accommodate newly registered competitors, and/or the maximum number of competitors in the qualification round or first round of an event may be increased. These changes must be made at least two weeks before the competition.
-- 9s) Each round of each event must have a time limit (see [Regulation A1a](regulations:regulation:A1a)).
+- 4a) 스크램블러는 퍼즐에 스크램블 공식을 적용한다.
+- 4b) 퍼즐은 무작위로 컴퓨터로 생성된 스크램블 공식으로 스크램블 되어야 한다.
+    - 4b1) 생성된 스크램블 공식들은 대회 전 미리 공개되어서는 안 되며, 어떠한 방법으로든 WCA 파견위원으로부터 골라져서는 안 된다.
+    - 4b2) 스크램블 공식들은 해당하는 라운드가 끝나기 전까진 WCA 파견위원과 스크램블러들에게만 공개되어야만 한다. 예외: 최소회전종목에서는, 선수들이 라운드 도중 스크램블 공식을 받는다.([제 E 조](regulations:article:E) 참고)
+- 4d) 스크램블 방향:
+    - 4d1) 정육면체 퍼즐들과 메가밍크스는 흰색(또는 가장 밝은 색)을 윗면으로, 초록색(또는 이웃하는 가장 어두운 색)을 앞면으로 배치한 뒤 섞는다.
+    - 4d2) 피라밍크스는 노란색(또는 가장 밝은 색)을 아랫면으로, 초록색(또는 이웃하는 가장 어두운 색)을 앞면으로 배치하고 섞는다.
+    - 4d3) 스퀘어-1은 2개의 가능한 방향 중 앞면에 더 어두운 색이 앞면으로 오게 하는 방향으로 배치하고 섞는다.
+- 4f) 대회의 스크램블 공식들은 현재 버전의 WCA 공인 스크램블 프로그램(WCA 웹사이트를 통해 이용 가능)을 이용하여 생성되어야 한다.
+- 4g) 퍼즐이 섞인 이후, 스크램블러는 스크램블을 제대로 적용시켰는지 확인해야 한다. 만약 틀리게 적용했다면, 스크램블러는 그것을 수정해야 한다(예: 큐브를 맞추고 다시 스크램블 공식을 적용한다).
+    - 4g1) 예외: 6x6x6 큐브와 7x7x7 큐브의 경우, WCA 파견위원의 결정에 따라 잘못된 스크램블을 수정할 필요가 없다.
 
 
-## <article-10><solved-state><solvedstate> Article 10: Solved State
+## <article-5><puzzle-defects><puzzledefects> 제 5 조: 퍼즐 파손
 
-- 10b) Only the resting state of the puzzle, after the timer has been stopped, is considered.
-- 10c) The puzzle may be in any orientation at the end of the attempt.
-- 10d) All pieces of a puzzle must be fully attached to the puzzle in their required positions. Exception: see [Regulation 5b5](regulations:regulation:5b5).
-- 10e) A puzzle is solved when all face colours are reassembled and all parts are aligned within the limits specified below:
-    - 10e1) For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in [Regulation 10f](regulations:regulation:10f), the puzzle is considered to require one additional move to solve (see "Outer Block Turn Metric" in [Article 12](regulations:article:12)).
-    - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle is considered solved without penalty.
-    - 10e3) If one move is required, the puzzle is be considered solved with a time penalty (+2 seconds).
-    - 10e4) If more than one move is required, the puzzle is considered unsolved (DNF).
-- 10f) Limits of acceptable misalignment for puzzles:
-    - 10f1) Cube-shaped puzzles: at most 45 degrees.
-    - 10f2) Megaminx: at most 36 degrees.
-    - 10f3) Pyraminx: at most 60 degrees.
-    - 10f4) Square-1: at most 45 degrees (U/D) or 90 degrees (/).
-- 10h) Puzzles not specified in this article are judged according to the solved state as defined by the generally accepted goal of the puzzle, applying the relevant regulations for the Rubik's Cube.
-
-
-## <article-11><incidents><incidents> Article 11: Incidents
-
-- 11a) Incidents include:
-    - 11a1) Incorrect execution of event procedures, by officials or competitors.
-    - 11a2) Interference or facility interruptions (e.g. power failure, emergency alarm activation).
-    - 11a3) Equipment malfunction.
-- 11b) If an incident occurs, the WCA Delegate determines an impartial and appropriate course of action.
-- 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make his decision based on fair sportsmanship.
-- 11e) If an incident occurs during an attempt, the WCA Delegate may award a competitor an extra attempt, replacing the attempt during which the incident occurred. The competitor must appeal verbally or in writing to the judge and WCA Delegate at the time of the incident, before finishing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.
-    - 11e1) If a competitor is awarded an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble sequence must be generated using the current official version of the official WCA scramble program (see [Regulation 4f](regulations:regulation:4f)).
-- 11f) Decisions about an incident may be supported with video or photographic analysis, at the discretion of the WCA Delegate.
+- 5a) 파손의 예시에는 조각의 폭발, 제자리에서 돌아간 조각, 그리고 분리된 나사/캡/스티커가 포함된다.
+- 5b) 시도 중 퍼즐 파손이 일어났다면, 선수는 파손을 고치고 시도를 계속 하거나 시도를 멈출 수 있다.
+    - 5b1) 선수가 퍼즐을 고치기로 했다면 파손된 부분만 고쳐야 한다. 도구나 퍼즐의 다른 조각을 사용해 원래 퍼즐을 고칠 수 없다. 어길 시 벌칙: 시도의 실격 처리 (DNF)
+    - 5b2) 선수가 퍼즐을 맞출 때 이득을 주는 어떤 수리도 퍼즐에 있어서는 안 된다. 어길 시 벌칙: 시도의 실격 처리 (DNF)
+    - 5b3) 허용된 수리:
+        - 5b3a) 조각이 제자리에서 움직이거나 빠져 나왔을 때, 선수는 그 조각을 다시 끼워 넣을 수 있다.
+        - 5b3b) 퍼즐을 고친 후지만 시도가 끝나기 전에 선수가 그 퍼즐을 맞추는 것이 불가능하다고 판단될 때 선수는 최대 4 조각을 분해 후 조립하여 퍼즐을 맞출 수 있는 상태로 바꿀 수 있다.
+        - 5b3c) 퍼즐이 맞추는 것이 불가능하나, 코너 조각 하나를 제 자리에서 돌려 맞출 수 있는 상태가 된다면, 선수는 코너조각을 돌려 분해하지 않고 수정할 수 있다.
+    - 5b4) 눈 가리기 종목 시, 퍼즐 파손은 시도 중에만 고칠 수 있으며 모든 수리는 반드시 눈을 가린 채로 해야 한다. 어길 시 벌칙: 시도의 실격 처리 (DNF)
+    - 5b5) 만일 시도가 끝난 뒤에 퍼즐의 일부분이 떨어져 있거나 완전히 제자리에 있지 않다면 다음 규정들이 적용된다:
+        - 5b5a) 만일 색깔 있는 면이 아닌 다른 부분/부분들이 영향을 받았다면 퍼즐은 맞춰진 것으로 간주한다.
+        - 5b5b) 만일 색깔 있는 한 면의 한 부분이 영향을 받았다면 퍼즐은 맞춰진 것으로 간주한다.
+        - 5b5c) 만일 색깔 있는 한 면의 두 부분 이상이 영향을 받았다면 퍼즐은 맞춰지지 않은 것으로 간주한다 (DNF).
+        - 5b5d) 만일 두 색깔 이상의 면의 부분/부분들이 영향을 받았다면 퍼즐은 맞춰지지 않은 것으로 간주한다 (DNF).
+        - 5b5e) 규정 [5b5c항](regulations:regulation:5b5c) 와 [5b5d항](regulations:regulation:5b5d)은 [5b5a항](regulations:regulation:5b5a) 와 [5b5b항](regulations:regulation:5b5b)로 대체할 수 있다..
+- 5c) 퍼즐 파손이 있어도 선수에게 재시도할 기회는 주어지지 않는다.
 
 
-## <article-12><notation><notation> Article 12: Notation
+## <article-7><environment><environment> 제 7 조: 환경
 
-- 12a) Notation for Rubik's Cube and similar puzzles:
-    - 12a1) Face Moves:
-        - 12a1a) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
-        - 12a1b) Anti-clockwise, 90 degrees: F', B', R', L', U', D'.
-        - 12a1c) 180 degrees: F2, B2, R2, L2, U2, D2.
-    - 12a2) Multiple Outer Slice Moves (outer slice plus adjacent inner slices; n is defined as total number of slices to move; n may be omitted for two slices):
-        - 12a2a) Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw.
-        - 12a2b) Anti-clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw'.
-        - 12a2c) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
-    - 12a3) Outer Block Turn Metric (OBTM) is defined as:
-        - 12a3a) Each move of the categories Face Moves and Multiple Outer Slice Moves is counted as 1 move.
-        - 12a3b) Each rotation is counted as 0 moves.
-- 12b) Rotations for all cube shaped puzzles:
-    - 12b1) Clockwise, 90 degrees: [f] or z, [b] or z', [r] or x, [l] or x', [u] or y, [d] or y'.
-    - 12b2) Anti-clockwise, 90 degrees: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y.
-    - 12b3) 180 degrees: [f2] or z2, [b2] or z2, [r2] or x2, [l2] or x2, [u2] or y2, [d2] or y2.
-- 12c) Notation for Square-1:
-    - 12c1) Moves are applied with the smallest slice of the middle layer on left side of front face.
-    - 12c2) (x,y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise.
-    - 12c3) "/" means: turn the right half of the puzzle 180 degrees.
-- 12d) Notation for Megaminx (scrambling notation only):
-    - 12d1) Moves applied to the upper face:
-        - 12d1a) Clockwise, 72 degrees: U (upper face).
-        - 12d1b) Anti-clockwise, 72 degrees: U' (upper face).
-    - 12d2) Other moves are applied while keeping 3 pieces fixed at top left of the puzzle:
-        - 12d2c) Clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R++ (vertical slices), D++ (horizontal slices).
-        - 12d2d) Anti-clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R-- (vertical slices), D-- (horizontal slices).
-- 12e) Notation for Pyraminx:
-    - 12e1) The puzzle is oriented with the bottom face completely horizontal and the front face facing the person who holds the Pyraminx.
-    - 12e2) Clockwise, 120 degrees: U (upper 2 layers), L (left 2 layers), R (right 2 layers), B (back 2 layers), u (upper vertex), l (left vertex), r (right vertex), b (back vertex).
-    - 12e3) Anti-clockwise, 120 degrees: U' (upper 2 layers), L' (left 2 layers), R' (right 2 layers), B' (back 2 layers), u' (upper vertex), l' (left vertex), r' (right vertex), b' (back vertex).
-- 12g) Notation for Clock:
-    - 12g1) The puzzle is oriented with twelve on top, and either side in front.
-    - 12g2) Move pins up: UR (top-right), DR (bottom-right), DL (bottom-left), UL (top-left), U (both top), R (both right), D (both bottom), L (both left), ALL (all).
-    - 12g3) Turn a wheel next to an up-position pin and move all pins down afterwards: x+ (x clockwise turns), x- (x anti-clockwise turns).
-    - 12g4) Turn around the puzzle so that twelve is still on top, and then move all pins down: y2.
+- 7b) 관중은 선수들과 적어도 1.5미터 이상 떨어져 있어야 한다.
+- 7c) 대회 장소의 조명은 특별한 주의가 필요하다. 조면은 선수들이 퍼즐의 색깔을 쉽게 구별할 수 있도록 백색광 이어야 한다.
+- 7e) 대회 장소는 반드시 금연이어야 한다.
+- 7f) 맞추는 환경:
+    - 7f1) 용어 정의:
+        - 7f1a) 스택맷: 스피드스택스의 스택맷 타이머와 표준 사이즈의 호환되는 매트.
+        - 7f1b) 매트: 스택맷의 매트.
+        - 7f1c) 타이머: 스택맷의 타이머.
+        - 7f1d) 표면: 스택맷이 설치된 평평한 면. 매트는 표면의 일부로 간주한다. 타이머는 표면의 일부로 간주하지 않는다.
+    - 7f2) 타이머는 매트에 부착되어 있어야 하고 표면에 설치되어야 한다. 타이머가 있는 매트의 변이 선수에게 가장 가까이 있는 변이어야 한다.
+        - 7f2a) 예외: 발 종목에서는, 스택맷은 바닥 바로 위에 설치되어야 한다. 타이머는 매트에서 선수에게 가장 먼 변에 설치해도 된다.
+- 7h) 대회 장소에는 선수들을 위한 대기 장소가 있어야 한다.
+    - 7h1) 운영진은 참가하기 위해 불린 선수가 라운드의 모든 시도를 끝마칠 때 까지 대기 장소에서 기다릴 것을 요구할 수 있다.
 
 
-## <article-A><speedsolving><speedsolving> Article A: Speed Solving
+## <article-8><competitions><competitions> 제 8 조: 대회
+
+- 8a) WCA 공인 대회는 다음을 만족해야만 한다:
+    - 8a1) WCA 위원회에 의해 승인되어야 한다.
+    - 8a2) WCA 경기 규정을 따라야 한다.
+    - 8a3) WCA 파견위원이 대회에 있어야 한다.
+    - 8a4) WCA 웹사이트에 적어도 대호 시작 2주 전부터 공표되어야 한다.
+    - 8a6) 대중에게 개방되어 있어야 한다.
+    - 8a7) 시간 측정은 정품 스피스 스택스 스택맷 타이머 (제너레이션 2 또는 프로)를 사용해야 한다.
+    - 8a8) 참가하고자 하는 모든 사람들에게 개방되어야 한다. 참가 제한은 WCA 위원회에 의해 승인되어야 하고 대회가 발표될 때 명확히 설명되어야 한다.
+- 8f) 만일 WCA 경기 규정이 대회 중에 제대로 지켜지지 않으면 WCA 위원회는 영향을 받은 시도들의 기록을 실격 처리할 수 있다.
+
+
+## <article-9><events><events> 제 9 조: 종목
+
+- 9a) WCA가 관장하는 종목들은:
+    - 9a1) 루빅스 퍼즐이라 이름 붙여진 모든 퍼즐들.
+    - 9a2) 면들을 돌려서 맞추는 이른바 ‘트위스티 퍼즐’류의 퍼즐들이다.
+- 9b) WCA 공식 퍼즐 종목과 형식들은:
+    - 9b1) 3x3x3, 2x2x2, 4x4x4, 5x5x5, 루빅스 클락, 메가밍크스, 피라밍크스, 스퀘어-1과 3x3x3 한 손 이다.
+        - 9b1a) 이 종목들의 대회 형식은: “X회 최고기록(이때 X는 1, 2, 또는 3이다.), 그리고 ”5회 평균 기록“
+    - 9b2) 3x3x3 발, 6x6x6, 7x7x7
+        - 9b2a) 이 종목들의 대회 형식은: “X회 최고기록(이때 X는 1, 2, 또는 3이다.), 그리고 ”3회 평균 기록“
+    - 9b3) 3x3x3 최소회전, 3x3x3 눈 가리기, 4x4x4 눈 가리기, 5x5x5 눈 가리기, 그리고 3x3x3 복수 눈 가리기
+        - 9b3a) 이 종목들의 대회 형식은: “X회 최고 기록(이때 X는 1, 2, 또는 3이다.)
+- 9f) 각 라운드의 결과는 다음과 같이 측정한다:
+    - 9f1) 10분 미만의 모든 기록은 천 분의 일 초 단위에서 버림 하여 측정한다. 10분 미만의 모든 평균기록들은 천 분의 일 초 단위에서 버림 하여 측정한다. 
+    - 9f2) 10분 이상의 모든 기록과 평균 기록은 초 단위까지 반올림하여 측정한다. (예: x.4는 x가 되고, x.5는 x+1이 된다.)
+    - 9f4) DNF (Did Not Finish)는 실격처리 되었거나 시도가 끝내지 않은/맞춰지지 않은 상태로 끝났을 때의 기록이다.
+    - 9f5) DNS (Did Not Start)는 선수가 시도하기에 적합하지만 시도하기를 거부하는 상황의 기록이다.
+    - 9f6) 'X회 최고 기록' 라운드에서 선수는 X회의 시도 기회를 얻는다. 이 시도들 중 가장 잘 나온 기록이 라운드의 랭킹으로 들어간다.
+    - 9f7) 'X회 최고 기록' 종목에서 DNF, 혹은 DNS는 선수의 최저 기록이다.
+    - 9f8) '5회 평균 기록' 라운드의 선수들은 5회의 시도 기회를 얻는다. 5회의 기회 중에 최고와 최저의 기록은 제외하고 남은 3개의 기록의 산술 평균이 랭킹에 들어갈 기록으로 인정된다.
+    - 9f9) '5회 평균 기록' 라운드에서 한 개의 DNF 또는 DNS는 최저의 기록으로 간주된다. 만일 두 개 이상의 DNF 그리고/또는 DNS가 있다면, 그 선수의 평균 기록은 DNF가 된다.
+    - 9f10) '3회 평균 기록' 라운드에서 선수들은 3회의 기회를 얻고, 그 3개의 기록의 산술평균이 라운드의 랭킹에 쓰일 기록이 된다.
+    - 9f11) '3회 평균 기록' 라운드에서 적어도 하나의 DNF 또는 DNS가 있으면 평균 기록은 DNF가 된다.
+    - 9f12) 'x회 최고 기록' 라운드에서 순위는 선수 당 가장 좋은 기록에 근거한다. 기록을 비교하기 위해서는 다음과 같이 쓰인다:
+        - 9f12a) 시간 기록들에 대해서는, “더 좋은 기록”은 더 짧은 시간을 뜻한다.
+        - 9f12b) 최소회전 종목에 대해서는, “더 좋은 기록”은 더 짧은 회전 수를 뜻한다.
+        - 9f12c) 복수 눈 가리기 종목에 대해서는, 맞춰진 퍼즐에서 맞춰지지 않은 퍼즐의 수를 뺀 숫자가 클수록 더 좋은 기록으로 간주되어 랭킹이 작성된다. 이 숫자가 0 미만일 경우, 이 시도는 맞춰지지 않은 것으로 간주된다(DNF). 만약 여러 선수가 위의 기록에서 같은 기록이 나왔다면, 랭킹은 총 걸린 시간에 의해 작성되며, 이때 더 짧은 시간이 더 좋은 기록이 된다. 만약 여러 선수들이 같은 기록을 같은 시간에 맞췄다면, 랭킹은 선수가 맞추는 데 실패한 큐브의 수에 따라 작성되며, 이때 맞추지 못 한 큐브의 수가 적을수록 더 좋은 기록으로 간주된다.
+    - 9f13) '3회 평균 기록'과 ‘5회 평균 기록’ 라운드에서 랭킹은 선수의 평균 기록의 순서에 따라 작성되며, “더 좋은” 기록은 더 짧은 시간을 뜻한다.
+    - 9f14) '3회 평균 기록'과 ‘5회 평균 기록’ 라운드에서 두 선수 이상의 평균 기록이 같으면 랭킹은 선수의 최고기록에 따라 작성되며, 이 때 “더 좋은” 기록은 더 짧은 시간을 뜻한다.
+    - 9f15) 라운드 당 같은 기록의 선수들은 동 순위 처리 한다.
+- 9g) 통합 라운드는 시도가 두 부분으로 나뉘며, 선수들이 첫 단계에서 컷 오프를 통과했을 때 두 번째 단계로 넘어갈 수 있다.
+    - 9g2) 선수가 통합 라운드에서 다음 단계로 진출할 지는 첫 단계에서의 선수들의 순위 (상위 x명), 혹은 기록 (최고기록이 x미만인 선수들)에 따라 결정된다.
+- 9i) WCA 공인 대회의 결과는 반드시 WCA 세계 랭킹에 등록되어야 한다.
+    - 9i1) WCA는 다음과 같은 지역별 신기록을 인정한다: 국가 신기록, 대륙 신기록, 세계 신기록
+    - 9i2) 각 라운드의 모든 신기록들은 그 라운드의 마지막 날에 인정되는 것으로 간주된다. 만약 한 라운드에서 신기록이 여러 번 경신되면, 그 중 최고 기록만이 신기록을 경신한 것으로 인정된다.
+    - 9i3) 만일 어떤 종목의 WCA 규정이 바뀌면, 이전 기록들은 새로운 WCA 규정에 의한 기록이 그 기록을 경신하지 않는 한 인정된다.
+- 9j) 각 종목은 한 대회에서 최대 한 번만 열린다.
+- 9k) 어떤 종목이 개최될 때 그 대회의 모든 선수들은 WCA 위원회에 의해 제한되지 않는 한 모든 종목에 참가할 수 있다.
+- 9l) 각 라운드는 같은 종목의 다음 라운드가 진행되기 전 끝나야 한다.
+- 9m) 모든 종목은 최대 4개의 라운드를 가질 수 있다.
+    - 9m1) 99명 이하의 선수가 참가하는 종목은 최대 3개의 라운드를 가질 수 있다.
+    - 9m2) 15명 이하의 선수가 참가하는 종목은 최대 2개의 라운드를 가질 수 있다.
+    - 9m3) 7명 이하의 선수가 참가하는 종목은 최대 1개의 라운드를 가질 수 있다.
+- 9o) 통합 라운드와 퀄리피케이션 라운드는 종목의 라운드 수를 셀 때 한 라운드로 계산된다.
+- 9p) 여러 라운드가 있는 종목의 경우:
+    - 9p1) 각 라운드에서 적어도 25%의 선수는 다음 라운드로 진출 할 수 없다.
+    - 9p2) 다음 라운드로 진출하는 선수들은 이전 예선 라운드에서 어떤 순위 이내에 들거나 어떤 기록 안에 드는 방식으로 결정되어야 한다.
+    - 9p3) 만약 다음 라운드로 진출할 자격이 있는 선수가 물러난다면, 진출하지 못한 선수들 중 전 라운드에서 순위가 가장 높은 선수가 대신 진출할 수 있다.
+- 9r) 퀄리피케이션 라운드는 종목의 첫 라운드 전에 열려야 한다.
+    - 9r1) 종목을 발표할 때 운영진은 다음 사항을 발표하여야 한다:
+        - 9r1a) 종목의 첫 라운드에 참가할 수 있는 선수의 수에 대한 제한
+        - 9r1b) 퀄리피케이션 라운드에 참가할 수 있는 선수의 수에 대한 제한과 이 중에서 첫 라운드에 진출할 수 있는 선수의 수에 대한 제한
+        - 9r1c) 종목의 첫 라운드에 참가 여부를 결정하는데 직접적으로 쓰일 이전 대회의 평균/싱글 기록
+        - 9r1d) 참가 여부를 결정하는데 사용될, 당시의 WCA 랭킹에서의 평균/싱글 기록이 쓰일 마지막 날짜
+    - 9r2) 첫 라운드에 참가할 자격을 얻을 수 없는 선수는 첫 라운드에 참가하기 위해서는 퀄리피케이션 라운드를 치러야 한다.
+    - 9r3) 이전에 대회에 참가하지 않은 참가자들의 수용을 위해 퀄리피케이션 라운드는 추가될 수 있으며, 그리고/또는 퀄리피케이션 라운드 또는 첫 라운드의 최대 참가자 수가 늘어날 수 있다. 변경이 있을 경우 적어도 대회 2주 전까지 결정이 되어야 한다.
+- 9s) 각 종목의 각 라운드는 시간제한이 있어야만 한다.([규정 A1a항](regulations:regulation:A1a) 참고).
+
+
+## <article-10><solved-state><solvedstate> 제 10 조: 맞추어진 상태
+
+- 10b) 타이머가 멈추었을 때 놓여있는 상태의 퍼즐만 고려한다.
+- 10c) 시도가 끝났을 때의 퍼즐은 어떠한 방향으로도 있을 수 있다.
+- 10d) 퍼즐의 모든 조각은 제 위치에 퍼즐에 붙어있는 상태여야 한다. 예외: [규정 5b5항](regulations:regulation:5b5) 참고.
+- 10e) 큐브 퍼즐은 모든 면이 동일한 색을 가지고 모든 조각들이 아래의 제한 이내로 어긋나 있는 경우 맞추어졌다고 한다:
+    - 10e1) 퍼즐의 인접한 두 부분이(예를 들어: 큐브의 평행한 인접하는 두 층) [규정 10f항](regulations:regulation:10f)에 나와 있는 어긋남의 기준을 넘어가면 완성에 1회전 부족한 것으로 본다.([제 12 조](regulations:article:12)의 “외부 블록 턴 방식” 참조).
+    - 10e2) 완성을 위한 추가적인 회전이 필요 없으면 퍼즐이 맞추어진 상태로 인정되고 페널티는 주어지지 않는다.
+    - 10e3) 1회전이 필요하면 퍼즐은 맞추어진 상태로 인정하고 2초 페널티를 부가한다.
+    - 10e4) 1회전 초과의 회전이 필요하면 DNF로 처리 된다.
+- 10f) 어긋남의 기준:
+    - 10f1) 정육면체 모양의 퍼즐: 최대 45°
+    - 10f2) 메가밍크스: 최대 36°
+    - 10f3) 피라밍크스: 최대 60°
+    - 10f4) 스퀘어-1: 최대 45° (윗면(U) 또는 아랫면(D)) 또는 90° ( / 회전 )
+- 10h) 다른 퍼즐들의 완성상태는 해당 퍼즐의 일반적인 맞춰진 상태로 규정하며 가능하면 대응하는 3x3x3 큐브의 규정을 적용한다.
+
+
+## <article-11><incidents><incidents> 제 11 조: 특별 상황
+
+- 11a) 특별 상황은:
+    - 11a1) 운영진이나 선수에 의한 잘못된 종목의 진행.
+    - 11a2) 방해 혹은 시설 문제(예: 정전, 비상 경보기의 울림 등).
+    - 11a3) 장비의 오작동.
+- 11b) 종목 진행 중에 특별 상황이 발생한다면, WCA 파견위원은 공정하고 적합한 조치를 내린다.
+- 11d) 만약 국제큐브협회 경기 규정이 충분히 명확하지 않거나 특별 상황이 규정에서 다루지 않은 상황이면, WCA 파견위원은 자신의 스포츠맨십에 따라 공정한 판정을 내려야만 한다.
+- 11e) 시도 중 특별 상황이 일어난 경우, WCA 파견위원은 선수에게 특별상황이 일어난 때의 시도를 대신하여 추가적인 시도 기회를 줄 수 있다. 추가적인 시도를 위해서 선수는 특별 상황이 일어났을 때 당시의 시도를 끝내기 전 WCA 파견위원과 심판에게 말이나 글로써 어필해야 한다. 이 어필은 선수에게 추가적인 시도를 보장할 수 없다.
+    - 11e1) 선수가 추가적인 시도 기회를 얻었다면, 그 시도는 다른 스크램블 공식을 이용하여 섞여야 한다. 이 스크램블 공식은 현재의 공인된 버전의 공인 WCA 스크램블 프로그램을 이용하여 생성되어야만 한다.([규정 4f항](regulations:regulation:4f) 참조).
+- 11f) 특별 상황에 대한 판단에 대한 근거로 WCA 파견위원의 결정에 따라 영상이나 사진 분석을 이용할 수 있다.
+
+
+## <article-12><notation><notation> 제 12 조: 표기법
+
+- 12a) 3x3x3 큐브 퍼즐이나 그와 유사한 큐브 퍼즐을 위한 표기법:
+    - 12a1) 면의 움직임:
+        - 12a1a) 시계방향, 90도: F (앞면), B (뒷면), R (오른쪽 면), L (왼쪽 면), U (윗면), D (아랫면).
+        - 12a1b) 반 시계방향, 90도: F', B', R', L', U', D'.
+        - 12a1c) 180도: F2, B2, R2, L2, U2, D2.
+    - 12a2) 여러 층의 바깥쪽 부분 움직임 (가장 바깥쪽 층과 인접한 안쪽 층들; n은 움직일 층의 수를 뜻한다; n은 2일 경우 생략될 수 있다):
+        - 12a2a) 시계방향, 90도: nFw, nBw, nRw, nLw, nUw, nDw.
+        - 12a2b) 반 시계방향, 90도: nFw', nBw', nRw', nLw', nUw', nDw'.
+        - 12a2c) 180도: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
+    - 12a3) 외부 블록 턴 방식 (OBTM)은 다음과 같이 정의된다:
+        - 12a3a) ‘면의 움직임’과 ‘여러 층의 바깥쪽 부분 움직임’에 해당하는 회전은 1회전으로 센다.
+        - 12a3b) 퍼즐 전체의 회전은 0회전으로 센다.
+- 12b) 모든 정육면체 모양을 한 퍼즐 전체의 회전:
+    - 12b1) 시계 방향, 90도: [f] 또는 z, [b] 또는 z', [r] 또는 x, [l] 또는 x', [u] 또는 y, [d] 또는 y'
+    - 12b2) 반시계 방향, 90도: [f'] 또는 z', [b'] 또는 z, [r'] 또는 x', [l'] 또는 x, [u'] 또는 y', [d'] 또는 y
+    - 12b3) 시계 방향, 180도: [f2] 또는 z2, [b2] 또는 z2, [r2] 또는 x2, [l2] 또는 x2, [u2] 또는 y2, [d2] 또는 y2
+- 12c) 스퀘어-1을 위한 표기법:
+    - 12c1) 중간층의 가장 작은 부분을 앞면의 왼쪽에 둔 후 회전을 적용시킨다.
+    - 12c2) (x, y)의 의미: 위층을 x 곱하기 30도만큼 시계방향으로, 밑층을 y 곱하기 30도 만큼 시계방향으로 회전하라.
+    - 12c3) "/"의 의미: 퍼즐의 오른쪽 절반을 180도 회전하라.
+- 12d) 메가밍크스를 위한 표기법 (스크램블 기호만 표시):
+    - 12d1) 윗면에 적용된 움직임:
+        - 12d1a) 시계 방향, 72도: U (윗면).
+        - 12d1b) 반시계 방향, 72도: U' (윗면).
+    - 12d2) 다른 움직임들은 3 조각을 퍼즐의 왼쪽 위에 고정시키고 움직인다.
+        - 12d2c) 왼쪽 위의 3 조각을 제외하고 시계 방향 144도: R++ (수직층), D++ (수평층).
+        - 12d2d) 왼쪽 위의 3 조각을 제외하고 반시계 방향 144도: R-- (수직층), D-- (수평층).
+- 12e) 피라밍크스를 위한 표기법:
+    - 12e1) 밑층을 완전히 수평하게 하고 앞면을 퍼즐을 들고 있는 사람을 향하도록 한 뒤 움직인다.
+    - 12e2) 시계 방향, 120도: U (위쪽 2개 층), L (왼쪽 2개 층), R (오른쪽 2개 층), B (뒤쪽 2개 층), u (위 꼭지), l (왼쪽 꼭지), r (오른쪽 꼭지), b (뒤쪽 꼭지).
+    - 12e3) 반시계 방향, 120도: U' (위쪽 2개 층), L' (왼쪽 2개 층), R' (오른쪽 2개 층), B' (뒤쪽 2개 층), u' (위 꼭지), l' (왼쪽 꼭지), r' (오른쪽 꼭지), b' (뒤쪽 꼭지).
+- 12g) 클락을 위한 표기법:
+    - 12g1) “12”가 위로 오게 하고 어느 쪽이 앞으로 오는 지는 상관없다.
+    - 12g2) 핀을 위로 올려라: UR (오른쪽 위), DR (오른쪽 아래), DL (왼쪽 아래), UL (왼쪽 위), U (위의 두 핀), R(오른쪽의 두 핀), D(아래의 두 핀), L(왼쪽의 두 핀), ALL(모든 핀).
+    - 12g3) 위로 올라와 있는 핀 옆의 시계를 돌리고 모든 핀을 아래로 내려라: x+ (시계방향으로 x번), x- (반시계 방향으로 x번).
+    - 12g4) 퍼즐을 “12”가 여전히 위에 있게 하고 퍼즐을 뒤집은 다음 핀을 모두 내려라: y2.
+
+
+## <article-A><speedsolving><speedsolving> 제 A 조: 스피드 솔빙
 
 - A1) Speed Solving attempts must abide by the following procedure.
     - A1a) The organisation team may enforce time limits for attempts and/or rounds.
