@@ -156,7 +156,7 @@ WCA 지침은 [WCA 규정](regulations:top)을 보충한다. WCA에 대한 더 �
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> 제 H 조: 복수 눈 가리기
 
-- H1b1+) [주의] 복수 눈 가리기의 예외사항([규정 A1a4항](regulations:regulation:A1a4) 과 [규정 A1a5항](regulations:regulation:A1a5)을 보시오.)에 따라, 시간제한이 되어도 시도는 실격 처리되지 않는다.
+- H1b1+) [주의] 복수 눈 가리기의 예외사항([규정 A1a4항](regulations:regulation:A1a4)과 [규정 A1a5항](regulations:regulation:A1a5)을 보시오.)에 따라, 시간제한이 되어도 시도는 실격 처리되지 않는다.
 - H1b1++) [추가] 심판은 공식 기록으로 포함되진 않지만 선수가 시도를 계속 하도록 해도 되지만, 시도는 규정에 따라 먼저 멈추어지고 판정이 내려져야 한다.
 - H1d+) [예시] 예시: 선수가 10개의 큐브를 시도하고, 59분 57초에 멈추고, 두 개의 시간 페널티가 있다면, 기록은 59:57 + 2*2 = 60:01 이다.([규정 A1a5항](regulations:regulation:A1a5)을 보시오.)
 - H1d++) [예시] 예시: 선수가 10개의 큐브를 시도하고, 심판이 60분이 되었을 때 멈추게 했으며, 두 개의 시간 페널티들이 있으면, 기록은 60:00 + 2*2 = 60:04 이다.
