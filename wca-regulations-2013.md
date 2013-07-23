@@ -118,7 +118,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3d3) Stickers/tiles/textures/paint must not be thicker than 1.5 mm, or the generally available thickness for non-cube puzzles.
 - 3h) Modifications that enhance the basic concept of a puzzle are not permitted. Modified versions of puzzles are permitted only if the modification does not make any additional information available to the competitor (e.g. identity of pieces), compared to an unmodified version of the same puzzle.
     - 3h1) "Pillowed" puzzles are not permitted. Exception: Pillowed 7x7x7 cubes are permitted.
-    - 3h2) "Stickerless" cubes, and other cubes whose face colours are visible inside the cube, are not permitted.
+    - 3h2) "Stickerless" puzzles, and other puzzles whose face colours are visible inside the cube, are not permitted.
     - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
 - 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that distinguish any piece from a similar piece.
     - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
