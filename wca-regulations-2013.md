@@ -138,7 +138,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 4d1) Cube puzzles and Megaminx are scrambled with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.
     - 4d2) Pyraminx is scrambled with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
     - 4d3) Square-1 is scrambled with the darker colour on front (out of the 2 possible scrambling orientations).
-- 4f) Competition scramble sequences must be generated using the current official version of the official WCA scramble program (available via the WCA website).
+- 4f) Competition scramble sequences must be generated using the current official version of the official WCA scramble program (available [via the WCA website](http://worldcubeassociation.org/regulations/scrambles/)).
 - 4g) After scrambling a puzzle, the scrambler must verify that he has scrambled the puzzle correctly. If the puzzle state is wrong, he must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
     - 4g1) Exception: For the 6x6x6 Cube and the 7x7x7 Cube, it is not necessary to correct the scramble, at the discretion of the WCA Delegate.
 
