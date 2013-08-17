@@ -120,8 +120,10 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3h1) "Pillowed" puzzles are not permitted. Exception: Pillowed 7x7x7 cubes are permitted.
     - 3h2) "Stickerless" cubes, and other cubes whose face colours are visible inside the cube, are not permitted.
     - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
+    - 3h4) Custom inserts that are approximately the same shape and size as the traditional paper inserts are permitted on Clock, at the discretion of the WCA Delegate. The inserts must have a clear indication of 12 o'clock that matches the original inserts.
 - 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that distinguish any piece from a similar piece.
     - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
+    - 3j2) Definition: Two pieces are similar to each other if they are identical in shape and size, or mirrored in shape and identical in size.
 - 3k) Puzzles must be approved by the WCA Delegate before use in the competition.
 - 3l) A cube puzzle may have a logo, but it must have at most one logo. For the Rubik's Cube or bigger cube puzzles the logo must be placed on one of the centre pieces.
     - 3l1) Colourless engravings (max. 1 per face) are not considered logos.
@@ -138,6 +140,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 4d1) Cube puzzles and Megaminx are scrambled with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.
     - 4d2) Pyraminx is scrambled with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
     - 4d3) Square-1 is scrambled with the darker colour on front (out of the 2 possible scrambling orientations).
+    - 4d4) Clock is scrambled with the darker colour "insert" in front (out of the 2 possible scrambling orientations) and 12 o'clock pointing up.
 - 4f) Competition scramble sequences must be generated using the current official version of the official WCA scramble program (available via the WCA website).
 - 4g) After scrambling a puzzle, the scrambler must verify that he has scrambled the puzzle correctly. If the puzzle state is wrong, he must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
     - 4g1) Exception: For the 6x6x6 Cube and the 7x7x7 Cube, it is not necessary to correct the scramble, at the discretion of the WCA Delegate.
@@ -268,6 +271,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 10f3) Pyraminx: at most 60 degrees.
     - 10f4) Square-1: at most 45 degrees (U/D) or 90 degrees (/).
 - 10h) Puzzles not specified in this article are judged according to the solved state as defined by the generally accepted goal of the puzzle, applying the relevant regulations for the Rubik's Cube.
+    - 10h1) The solved state of Clock is when all eighteen inner clock faces point to 12 o'clock.
 
 
 ## <article-11><incidents><incidents> Article 11: Incidents
@@ -317,10 +321,10 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 12e2) Clockwise, 120 degrees: U (upper 2 layers), L (left 2 layers), R (right 2 layers), B (back 2 layers), u (upper vertex), l (left vertex), r (right vertex), b (back vertex).
     - 12e3) Anti-clockwise, 120 degrees: U' (upper 2 layers), L' (left 2 layers), R' (right 2 layers), B' (back 2 layers), u' (upper vertex), l' (left vertex), r' (right vertex), b' (back vertex).
 - 12g) Notation for Clock:
-    - 12g1) The puzzle is oriented with twelve on top, and either side in front.
+    - 12g1) The puzzle is oriented with 12 o'clock on top, and either side in front.
     - 12g2) Move pins up: UR (top-right), DR (bottom-right), DL (bottom-left), UL (top-left), U (both top), R (both right), D (both bottom), L (both left), ALL (all).
     - 12g3) Turn a wheel next to an up-position pin and move all pins down afterwards: x+ (x clockwise turns), x- (x anti-clockwise turns).
-    - 12g4) Turn around the puzzle so that twelve is still on top, and then move all pins down: y2.
+    - 12g4) Turn around the puzzle so that 12 o'clock stays on top, and then move all pins down: y2.
 
 
 ## <article-A><speedsolving><speedsolving> Article A: Speed Solving
@@ -378,7 +382,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - A6d) The competitor must stop the timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
     - A6e) The competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been applied, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
     - A6f) The competitor must not reset the timer until the judge has recorded the result on the score sheet. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
-    - A6g) The judge determines whether the puzzle is solved. He must not make moves or align faces when examining the puzzle. Exception: The judge is permitted to make moves when examining a Clock.
+    - A6g) The judge determines whether the puzzle is solved. He must not make moves or align faces when examining the puzzle.
     - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle before the dispute is resolved.
     - A6i) Time penalties for stopping the solve are cumulative.
 - A7) Recording results:

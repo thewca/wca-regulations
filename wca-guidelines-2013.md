@@ -59,6 +59,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 3a1+) [CLARIFICATION] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit their puzzle at the moment).
 - 3h+) [CLARIFICATION] Puzzles may be refined internally by sanding or lubricating.
 - 3h++) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, or the puzzles has more/different solved states.
+- 3j2+) [CLARIFICATION] On Clock, all eighteen inner clock faces are considered similar pieces.
 
 
 ## <article-4><scrambling><scrambling> Article 4: Scrambling
@@ -127,7 +128,7 @@ To be more informative, each Guideline is classified using one of the following 
 - A2c1+) [CLARIFICATION] In the past, score cards have been used to cover puzzles while leaving some sides exposed. This is no longer permitted.
 - A3c3+) [CLARIFICATION] Although the judge is required to reset the timer for the competitor (see [Regulation A3b](regulations:regulation:A3b)), the competitor may reset it before/during the inspection phase if the judge accidentally neglected to do so.
 - A6b+) [EXPLANATION] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timer malfunctions.
-- A6g+) [ADDITION] While he is determining whether to assign a penalty for misalignment, the judge should not touch the puzzle.
+- A6g+) [ADDITION] While he is determining whether to assign a penalty for misalignment, the judge should not touch the puzzle. Exception: For Clock, the judge will usually need to pick up the puzzle to verify both faces.
 
 
 ## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
