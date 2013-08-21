@@ -138,6 +138,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 4d1) Cube puzzles and Megaminx are scrambled with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.
     - 4d2) Pyraminx is scrambled with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
     - 4d3) Square-1 is scrambled with the darker colour on front (out of the 2 possible scrambling orientations).
+    - 4d4) Skewb is scrambled with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front-left.
 - 4f) Competition scramble sequences must be generated using the current official version of the official WCA scramble program (available via the WCA website).
 - 4g) After scrambling a puzzle, the scrambler must verify that he has scrambled the puzzle correctly. If the puzzle state is wrong, he must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
     - 4g1) Exception: For the 6x6x6 Cube and the 7x7x7 Cube, it is not necessary to correct the scramble, at the discretion of the WCA Delegate.
@@ -199,7 +200,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9a1) Puzzles known as Rubik's puzzles.
     - 9a2) Other puzzles that are manipulated by twisting the sides, commonly known as "twisty puzzles".
 - 9b) The official puzzles and event formats of the WCA are:
-    - 9b1) Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Megaminx, Pyraminx, Square-1, and Rubik's Cube: One-Handed.
+    - 9b1) Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Megaminx, Pyraminx, Square-1, Skewb, and Rubik's Cube: One-Handed.
         - 9b1a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3), and "Average of 5".
     - 9b2) Rubik's Cube: With Feet, 6x6x6 Cube, and 7x7x7 Cube.
         - 9b2a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3) and "Mean of 3".
@@ -265,7 +266,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 10f) Limits of acceptable misalignment for puzzles:
     - 10f1) Cube-shaped puzzles: at most 45 degrees.
     - 10f2) Megaminx: at most 36 degrees.
-    - 10f3) Pyraminx: at most 60 degrees.
+    - 10f3) Pyraminx and Skewb: at most 60 degrees.
     - 10f4) Square-1: at most 45 degrees (U/D) or 90 degrees (/).
 - 10h) Puzzles not specified in this article are judged according to the solved state as defined by the generally accepted goal of the puzzle, applying the relevant regulations for the Rubik's Cube.
 
@@ -297,7 +298,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 12a3) Outer Block Turn Metric (OBTM) is defined as:
         - 12a3a) Each move of the categories Face Moves and Multiple Outer Slice Moves is counted as 1 move.
         - 12a3b) Each rotation is counted as 0 moves.
-- 12b) Rotations for all cube shaped puzzles:
+- 12b) Rotations for all cube shaped NxNxN puzzles:
     - 12b1) Clockwise, 90 degrees: [f] or z, [b] or z', [r] or x, [l] or x', [u] or y, [d] or y'.
     - 12b2) Anti-clockwise, 90 degrees: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y.
     - 12b3) 180 degrees: [f2] or z2, [b2] or z2, [r2] or x2, [l2] or x2, [u2] or y2, [d2] or y2.
@@ -321,7 +322,10 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 12g2) Move pins up: UR (top-right), DR (bottom-right), DL (bottom-left), UL (top-left), U (both top), R (both right), D (both bottom), L (both left), ALL (all).
     - 12g3) Turn a wheel next to an up-position pin and move all pins down afterwards: x+ (x clockwise turns), x- (x anti-clockwise turns).
     - 12g4) Turn around the puzzle so that twelve is still on top, and then move all pins down: y2.
-
+- 12h) Notation for Skewb:
+    - 12h1) The puzzle is oriented with three faces fully visible, where the upper face is on top.
+    - 12h2) Clockwise, 120 degrees: R (the layer around the farthest visible bottom-right vertex), U (the layer around the farthest visible upper vertex), L (the layer around the farthest visible bottom-left vertex), B (the layer around the farthest non-visible back vertex).
+    - 12h3) Anti-clockwise, 120 degrees: R' (the layer around the farthest visible bottom-right vertex), U' (the layer around the farthest visible upper vertex), L' (the layer around the farthest visible bottom-left vertex), B' (the layer around the farthest non-visible back vertex).
 
 ## <article-A><speedsolving><speedsolving> Article A: Speed Solving
 
