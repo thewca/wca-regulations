@@ -1,6 +1,6 @@
 # <wca-title>WCA Guidelines 2013
 
-<version>Version: 1. Januar 2013
+<version>Version: 21. Mai 2013
 
 
 ## Hinweise
@@ -72,11 +72,10 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 
 ## <article-5><puzzle-defects><puzzledefects> Abschnitt 5: Puzzle-Defekte
 
-- 5b5+) [Beispiel] Ein Beispiel für ein Teil, das nicht vollständig positioniert wurde: Ein 5x5x5-Centerpiece, das in seiner richtigen Position verdreht ist.
-- 5b5++) [Beispiel] Ein Beispiel für das Schiedsen eines Versuchs, der mit einem fehlerhaften Puzzle abgeschlossen wurde: ein Pyraminx mit einer verlorenen Spitze kann beim neu Zusammensetzen in 3 Zustände versetzt werden, einer davon ist gelöst, die anderen beiden sind "+2"-Zustände. Ein Versuch, der derartig endet, würde mit einer "+2"-Zeitstrafe versehen werden.
-- 5b5+++) [Beispiel] Ein Beispiel für das Schiedsen eines Versuchs, der mit einem fehlerhaften Puzzle abgeschlossen wurde: ein Rubik's Cube mit einer verlorenen Kante kann beim erneuten Zusammensetzen in 2 Zustände versetzt werden, einer davon ist gelöst, der andere ist ein "DNF"-Zustand. Solch ein Versuch würde als "DNF" aufgenommen werden.
-- 5b5++++) [Beispiel] Ein Beispiel für das Schiedsen eines Versuchs, der mit einem fehlerhaften Puzzle abgeschlossen wurde: Ein Rubik's Cube mit einer verdrehten Ecke, der ansonsten gelöst ist, kann beim Reparieren in verschiedene Zustände versetzt werden, wobei Regel 5b3b zur Anwendung kommt, wobei manche von diese Zuständen "DNF"-Zustände sind. Solch ein Versuch würde als "DNF" gewertet werden.
-- 5b5+++++) [Erinnerung] In der Vergangenheit wurde ein Rubik's Cube, der zum Schluss des Versuchs 2 oder mehr Center Caps von verschiedenen Farben verloren hatte, als gelöst betrachtet. Das ist nun nicht mehr der Fall, weil das Puzzle beim erneuten Zusammensetzen in zwei (oder mehrere) Zustände zusammengesetzt werden könnte, wobei mindestens einer ein "DNF"-Zuständ ist. Solch ein Versuch würde als "DNF" gewertet werden.
+- 5b5+) [Beispiel] Ein Beispiel für ein defektes Teil, dass zu einem gelösten Zustand führt: ein 3x3x3-Centercap, ein Big Cube Centerstein, ein oder mehrere innere Teile eines Big Cube.
+- 5b5++) [Beispiel] Ein Beispiel für ein defektes Teil, dass zu einem nicht gelösten Zustand (DNF) führt: zwei 3x3x3-Centercaps, zwei Big Cube Centersteine, ein 4x4x4-Kantenstein, jede Kombination zweier Steine mit jeweils bunten Flächen.
+- 5b5+++) [Beispiel] Ein Beispiel für ein nicht vollständig positioniertes Teil, dass zu einem gelösten Zustand führt: Ein 5x5x5-Centerstein, das in seiner richtigen Position verdreht ist.
+- 5b5++++) [Beispiel] Ein Beispiel für ein nicht vollständig positioniertes Teil, dass zu einem nicht gelösten Zustand (DNF) führt: Ein 3x3x3-Kantenstein, der "halb herausgepoppt" ist.
 
 
 ## <article-6><awards><awards> Abschnitt 6: Preise/Ehrungen
