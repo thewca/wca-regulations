@@ -1,6 +1,6 @@
 # <wca-title>WCA Regeln 2013
 
-<version>Version: 1. Januar 2013
+<version>Version: 21. Mai 2013
 
 ## Anmerkungen
 
@@ -153,7 +153,12 @@ Anmerkung: Da die Nummerierung der Abschnitte und Regeln beim Löschen von Regel
 		- 5b3b) Bemerkt der Teilnehmer nach einer Reparatur, aber noch vor Ende eines Versuchs, dass das Puzzle unlösbar ist, so kann er bis zu 4 Teile herausnehmen und wieder einbauen um das Puzzle wieder lösbar zu machen.
 		- 5b3c) Ist das Puzzle unlösbar, kann jedoch durch die Drehung eines Ecksteins lösbar gemacht werden, so darf der Teilnehmer einen Eckstein an Ort und Stelle drehen ohne Teile aus dem Puzzle herauszunehmen.
 	- 5b4) Beim Blindlösen darf ein Puzzledefekt nur blind repariert werden. Strafe: Disqualifikation des Versuchs.
-	- 5b5) Falls nach dem Versuch Teile des Puzzles immer noch defekt oder nicht richtig positioniert sind, so ergibt sich das Ergebnis des Versuchs aus dem schlechtestmöglichen Zustand, welcher durch Reparatur des Puzzles (siehe Regel 5b3) erhalten werden kann. (siehe WCA Richtlinien, im Zweifelsfall liegt die Entscheidung beim WCA-Delegierten)
+	- 5b5) Falls nach dem Versuch Teile des Puzzles immer noch defekt oder nicht richtig positioniert sind, so gelten folgende Regeln:
+		- 5b5a) Sind ein oder mehrere Teile ohne farbige Flächen betroffen, so gilt das Puzzle als gelöst.
+		- 5b5b) Ist ein Teil mit genau einer farbigen Fläche betroffen, so gilt das Puzzle als gelöst.
+		- 5b5c) Sind mehrere Teile mit genau einer farbigen Fläche betroffen, so gilt das Puzzle als nicht gelöst (DNF).
+		- 5b5d) Sind ein oder mehrere Teile mit mehr als einer farbigen Fläche betroffen, so gilt das Puzzle als nicht gelöst (DNF).
+		- 5b5e) Die Regeln 5b5c und 5b5d haben mehr Gewicht als die Regeln 5b5a und 5b5b, sollten mehrere Regeln anwendbar sein.
 - 5c) Der Defekt eines Puzzles gibt dem Teilnehmer nicht das Recht auf einen Wiederholungsversuch.
 
 ## <article-7><environment><environment> Abschnitt 7: Umgebung
