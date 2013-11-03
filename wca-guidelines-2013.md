@@ -1,162 +1,160 @@
-# <wca-title>WCA Guidelines 2013
+# <wca-title>Дапаўненні да Палажэнняў WCA 2013
 
-<version>Version: May 21, 2013
+<version>Версія: 21 Мая, 2013
+
+## Заўвагі
+
+### Палажэнні WCA
+
+Дапаўненні да Палажэнняў WCA прыкладаюцца да [Палажэнняў WCA](Палажэнні:top). Для больш падрабязнай інфармацыі аб WCA гл. Палажэнні WCA.
+
+### Нумарацыя
+
+Дапаўненні пранумараваны ў адпаведнасці з адпаведнымі палажэннямі. Звярніце ўвагу, што некалькі дапаўненняў могуць адпавядаць некаторым палажэнням, а некаторыя дапаўненні адпаведныя палажэнням, якія больш не існуюць.
+
+### Меткі
+
+Для большай інфарматыўнасці кожнае Дапаўненне класіфікуецца з выкарыстаннем адной з наступных метак. Звярніце ўвагу, што да гэтага трэба адносіцца як да метададзеных, а не як да апісання значнасці Дапаўнення.
+
+- <label>[ДАПАЎНЕННЕ] Дадатковая да Палажэння інфармацыя.
+- <label>[УДАКЛАДНЕННЕ] Інфармацыя для вырашэння любых пытанняў, што ўзніклі аб тлумачэнні Палажэнняў.
+- <label>[ТЛУМАЧЭННЕ] Інфармацыя, якая тлумачыць мэту Палажэння.
+- <label>[РЭКАМЕНДАЦЫЯ] Нешта, што не з'яўляецца строга абавязковым, але гэта павінна быць зроблена, калі гэта магчыма.
+- <label>[НАГАДВАННЕ] Інфармацыя, якая можа адносіцца да іншых Палажэнняў/Дапаўненняў, але актуальнасць якой варта таго, каб паўтарыць яе.
 
 
-## Notes
-
-### WCA Regulations 
-
-The WCA Guidelines supplement the [WCA Regulations](regulations:top). Please see the Regulations for more information about the WCA.  
-
-### Numbering
-
-Guidelines are numbered in correspondence with related regulations. Note that mutiple Guidelines may correspond to the same Regulation, and some Guidelines correspond to Regulations that do not exist anymore.
-
-### Labels 
-
-To be more informative, each Guideline is classified using one of the following labels. Note that this should be treated as metadata, not as a description of importance.
-
-- <label>[ADDITION] Additional information to supplement the Regulations.
-- <label>[CLARIFICATION] Information to address any possible questions about interpretation of the Regulations.
-- <label>[EXPLANATION] Information that clarifies the intent of Regulations.
-- <label>[RECOMMENDATION] Something that is not strictly mandatory, but that should be done if possible.
-- <label>[REMINDER] Information that may be addressed other Regulations/Guideline, but whose relevance is worth reiterating.
-
-
-## <contents> [Contents](guidelines:contents)
+## <contents> [Змест](Дапаўненні:змест)
 
 <table-of-contents>
 
 
-## <article-1><officials><officials> Article 1: Officials
+## <Артыкул 1><Афіцыйныя асобы><Афіцыйныя асобы> Артыкул 1: Афіцыйныя асобы
 
-- 1c3+) [RECOMMENDATION] Results should be ready at the end of the last day of competition.
-- 1c3b+) [CLARIFICATION] If there are multiple groups, it is not necessary to identify which competitor was in which groups.
-- 1c4+) [RECOMMENDATION] Corrections to the results should be available within one week of the competition date.
-- 1c10+) [CLARIFICATION] It is sufficient to ensure access to a digital copy of the Regulations.
-- 1h+) [RECOMMENDATION] Competitors in the same group should use the same scramble sequences. Different groups should use different scramble sequences.
-- 1h+) [RECOMMENDATION] All final rounds of all events, as well as all Fewest Moves Solving rounds, should have the same scrambles for all competitors (i.e. only 1 group).
-- 1h1+) [CLARIFICATION] Scramblers/judges should only scramble for/judge other competitors in the same group only if it is important for competition logistics.
-
-
-## <article-2><competitors><competitors> Article 2: Competitors
-
-- 2c+) [ADDITION] First-time competitors should register using their legal name. They may register using a reasonable nickname, at the discretion of the WCA Delegate.
-- 2c++) [ADDITION] Competitors must not provide intentionally misleading information, and returning competitors should provide information consistent with past information (e.g. exact name and WCA ID).
-- 2d+) [ADDITION] Date of birth and contact information should be especially secured.
-- 2d++) [RECOMMENDATION] If a third party (e.g. journalist) asks the organisation team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
-- 2h+) [CLARIFICATION] Competitors may be barefoot for Solving With Feet.
-- 2j2+) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, his results from earlier rounds remain valid.
-- 2s+) [REMINDER] Special accommodations must be noted in the Delegate Report.
+- 1c3+) [РЭКАМЕНДАЦЫЯ] Вынікі павінны быць гатовыя ў канцы апошняга дня спаборніцтваў.
+- 1c3b+) [УДАКЛАДНЕННЕ] Калі маецца некалькі груп, не абавязкова ўказваць, які ўдзельнік быў у якіх групах.
+- 1c4+) [РЭКАМЕНДАЦЫЯ] Папраўкі да вынікаў павінны быць адпраўленыя на працягу аднаго тыдня пасля апошняга дня спаборніцтваў.
+- 1c10+) [УДАКЛАДНЕННЕ] Дастаткова забяспечыць доступ да лічбавай копіі Правілаў.
+- 1h+) [РЭКАМЕНДАЦЫЯ] Пажадана, каб удзельнікі у той жа самай групе выкарыстоўвалі тыя ж скрамблы. Розным групам пажадана выкарыстоўваць розныя скрамблы.
+- 1h1+) [УДАКЛАДНЕННЕ] Скрамблеры/суддзі павінны перамешваць/судзіць сваю групу толькі тады, калі гэта неабходна для правядзення спаборніцтваў.
 
 
-## <article-3><puzzles><puzzles> Article 3: Puzzles
+## <Артыкул 2><Удзельнікі><Удзельнікі> Артыкул 2: Удзельнікі
 
-- 3a+) [CLARIFICATION] Competitors may use puzzles of any reasonable size, at the discretion of the WCA Delegate.
-- 3a++) [ADDITION] By default, a competitor should use the same puzzle for consecutive attempts in a speed solving round. A competitor may switch puzzles between attempts, at the discretion of the judge or WCA Delegate.
-- 3a++) [CLARIFICATION] Competitors may borrow puzzles from other competitors privately, to use in competition.
-- 3a1+) [CLARIFICATION] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit their puzzle at the moment).
-- 3h+) [CLARIFICATION] Puzzles may be refined internally by sanding or lubricating.
-- 3h++) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, or the puzzles has more/different solved states.
-
-
-## <article-4><scrambling><scrambling> Article 4: Scrambling
-
-- 4b1+) [REMINDER] The WCA Delegate must never re-generate any scrambles to replace other ones for the purpose of filtering. For example, it is not be permitted to glance at the scrambles for a competition and generate the entire set again in order to generate "fairer" scrambles.
-- 4b2+) [CLARIFICATION] In general, all official scramble sequences should be kept secret during the competition and published together after the end of the competition (see [Regulation 1c3a](regulations:regulation:1c3a)). In some cases (e.g. world records), the organisation team may wish to release specific scrambles sooner after the end of a round.
-- 4d+) [CLARIFICATION] Some puzzles use standard colour schemes, except that black is replaced with white. In this case, black is the darkest colour and must not be treated as white.
-- 4f+) [RECOMMENDATION] The WCA Delegate should generate sufficient scrambles for the entire competition ahead of time, including spare scrambles for extra attempts.
-- 4f++) [REMINDER] If the WCA Delegate generates any additional scrambles during the competition, he must save them (see [Regulation 1c3a](regulations:regulation:1c3a)).
+- 2c+) [ДАПАЎНЕННЕ] Удзельнікі, якія ўдзельнічаюць упершыню, павінны прайсці рэгістрацыю, выкарыстоўваючы сапраўднае імя. Яны могуць зарэгістравацца з выкарыстаннем разумнай мянушкі па меркаванні Дэлегата WCA.
+- 2c++) [ДАПАЎНЕННЕ] Удзельнікі разам з тым не павінны наўмысна ўводзіць у зман. Удзельнікі, якія ўжо раней удзельнічалі, павінны даваць інфармацыю ў адпаведнасці з мінулай інфармацыяй (напрыклад, сапраўднае імя і WCA ID).
+- 2d+) [ДАПАЎНЕННЕ] Дата нараджэння і кантактная інфармацыя павінна быць асабліва забяспечана.
+- 2d++) [РЭКАМЕНДАЦЫЯ] Калі трэці бок (напрыклад, журналіст) просіць каманду арганізатараў даць кантакты любога ўдзельніка(ў), яна павінна спачатку папрасіць яго (іх) згоды.
+- 2h+) [УДАКЛАДНЕННЕ] Удзельнікі могуць быць басанож для рашэння нагамі.
+- 2j2+) [ПРЫКЛАД] Напрыклад, калі ўдзельнік будзе дыскваліфікаваны на ўдзел у дысцыпліне за тое, што ён адсутнічаў падчас фінальнага раўнда, яго вынікі ў больш ранніх раўндах застаюцца ў сіле.
+- 2s+) [НАГАДВАННЕ] Спецыяльныя ўмовы павінны быць паказаны ў справаздачы Дэлегата.
 
 
-## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
+## <Артыкул 3><Галаваломкі><Галаваломкі> Артыкул 3: Галаваломкі
 
-- 5b5+) [EXAMPLE] Examples of pieces physically detached, resulting in a solved state: one 3x3x3 center cap, one big cube center piece, an inner piece of a big cube.
-- 5b5++) [EXAMPLE] Examples of pieces physically detached, resulting in a "DNF": two 3x3x3 center caps, two big cube center pieces, a 3x3x3 edge piece, a 4x4x4 edge piece ("wing"), any combination of two pieces that both have coloured faces.
-- 5b5+++) [EXAMPLE] Example of pieces not fully attached, resulting in a solved state: a 5x5x5 centre piece twisted in its spot.
-- 5b5++++) [EXAMPLE] Example of pieces physically attached but not fully placed, resulting in a "DNF": a 3x3x3 edge piece slightly popped out.
-
-## <article-6><awards><awards> Article 6: Awards/prizes/honours
-
-- 6a+) [SEPARATE][ADDITION] Awards, prizes or honours may be given to competitors according to the announcement of the competition.
-- 6b+) [SEPARATE][RECOMMENDATION] Competitors should attend the winner's ceremony to receive awards/prizes/honours.
-- 6b1+) [SEPARATE][RECOMMENDATION] The winner's ceremony should be held in the competition venue, within one hour after the end of the last event.
-- 6c+) [SEPARATE][RECOMMENDATION] Winners of awards, prizes or honours should be prepared to talk to journalists or any media covering the competition.
-- 6d+) [SEPARATE][RECOMMENDATION] Organisation teams of competitions should have certificates for all category winners, signed by the leader of the organisation team and by the WCA delegate.
+- 3a+) [УДАКЛАДНЕННЕ] Удзельнікі могуць выкарыстоўваць галаваломкі любога разумнага памеру па меркаванні Дэлегата WCA.
+- 3a++) [ДАПАЎНЕННЕ] Па змаўчанні ўдзельніку варта выкарыстоўваць тую жа галаваломку для паслядоўных спробаў у раўндзе. Удзельнік можа мяняць галаваломку паміж спробамі па меркаванні суддзі або Дэлегата WCA.
+- 3a++) [УДАКЛАДНЕННЕ] Удзельнікі могуць пазычаць галаваломкі ў іншых удзельнікаў у прыватным парадку, каб выкарыстоўваць у спаборніцтве.
+- 3a1+) [УДАКЛАДНЕННЕ] Удзельнікі могуць быць дыскваліфікаваныя, калі яны не прыходзяць, калі іх называюць, або калі яны не маюць галаваломкі, які яны гатовыя прадставіць (напрыклад, калі яны плануюць выкарыстоўваць галаваломку, якая выкарыстоўваецца яшчэ адным удзельнікам ў цяперашні час, і таму не могуць прадставіць свае галаваломкі на дадзены момант).
+- 3h+) [УДАКЛАДНЕННЕ] Галаваломкі могуць быць палепшаны унутраным шліфаваннем або змазкай.
+- 3h++) [ПРЫКЛАД] Прыклады ўдасканалення: новыя магчымыя рухі, нармальныя хады немагчымыя, больш элементаў або граней бачныя, бачныя колеры на заднім боку галаваломкі, перасоўванні выконваюцца аўтаматычна, больш/розныя вырашаныя станы.
 
 
-## <article-7><environment><environment> Article 7: Environment
+## <Артыкул 4><Перамешванне галаваломак><Перамешванне галаваломак> Артыкул 4: Перамешванне галаваломак
 
-- 7d+) [SEPARATE][ADDITION] The temperature of the competition area should be 21 to 25 degrees Celsius.
-- 7h2+) [SEPARATE][ADDITION] The competitors in the competitors area should not be able to see the puzzles of the competitors on stage.
-
-
-## <article-8><competitions><competitions> Article 8: Competitions
-
-- 8a4+) [RECOMMENDATION] Changes to increase the maximum number of competitors in qualification round or first round, or to add a qualification round for newly registered competitors should be made at least one month before the competition (see [Regulation 9r3](regulations:regulation:9r3)).
-- 8a4++) [RECOMMENDATION] The competition should be announced at least one month before the beginning of the competition.
-- 8a5+) [SEPARATE][RECOMMENDATION] The competition should have at least 12 competitors.
+- 4b1+) [НАГАДВАННЕ] Дэлегат WCA не павінен паўторна генераваць любы скрамблы з мэтай фільтрацыі. Напрыклад, не дапускаецца генерыраваць ўвесь набор зноў у мэтах атрымання больш «справядлівых» зборак.
+- 4b2+) [УДАКЛАДНЕННЕ] Увогуле усе афіцыйныя паслядоўнасці павінны трымацца ў сакрэце падчас спаборніцтваў і публікуюцца разам пасля заканчэння спаборніцтваў (гл. [Палажэнне 1c3a](Палажэнні:палажэнне:1c3a)). У некаторых выпадках (напрыклад, сусветны рэкорд), каманда арганізатараў, магчыма, пажадае выкласці канкрэтныя скрамблы раней пасля заканчэння раўнда.
+- 4d+) [УДАКЛАДНЕННЕ] Некаторыя галаваломкі выкарыстоўваюць стандартныя каляровыя схемы, за выключэннем таго, што чорны замяняецца белым. У гэтым выпадку, чорны з'яўляецца самым цёмным колерам і не павінен разглядацца як белы.
+- 4f+) [РЭКАМЕНДАЦЫЯ] Дэлегат WCA павінны генераваць дастатковую колькасць скрамблаў для правядзення спаборніцтва, у тым ліку запасных для дадатковых спробаў.
+- 4f++) [НАГАДВАННЕ] If the WCA Delegate generates any additional scrambles during the competition, he must save them (see [Regulation 1c3a](regulations:regulation:1c3a)).
 
 
-## <article-9><events><events> Article 9: Events
+## <Артыкул 5><Дэфекты галаваломак><Дэфекты галаваломак> Артыкул 5: Дэфекты галаваломак
 
-- 9b+) [ADDITION] The preferred format for the final of an event is "Average of 5" or "Mean of 3", if possible.
-- 9b++) [ADDITION] Events other than those specified in [Regulation 9b](regulations:regulation:9b) may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
-- 9f5+) [CLARIFICATION] The result for an attempt is DNS if the competitor was eligible for the attempt and did not attempt it. If the competitor did not qualify for an attempt (e.g. in a combined round), he does not have any result for the attempt.
-- 9q+) [SEPARATE][RECOMMENDATION] Events and rounds should have at least 2 competitors.
-- 9r+) [EXPLANATION] The goal of a qualification round is to let unranked or low ranked competitors qualify for the first round of an event with many registered competitors.
+- 5b5+) [ПРЫКЛАД] Прыклады элементаў, якія фізічна аддзелены, у выніку чаго галаваломка ў вырашаным стане: адзін цэнтральны каўпачок ў 3х3х3, адзін цэнтр ў вялікіх кубах, унутраная частка вялікага куба., любая камбінацыя элементаў, якія ў суме маюць не болей аднаго каляровага боку.
+- 5b5++) [EXAMPLE] Прыклады элементаў, якія фізічна аддзелены, у выніку чаго "DNF": дзве крышкі на цэнтрах 3х3х3, два цэнтра ў вялікіх кубах, рабро ў 3х3х3, рабро ў 4х4х4; любое спалучэнне з двух элементаў, якія сумарна маюць дзве або больш каляровых бакоў.
+- 5b5+++) [ПРЫКЛАД] Прыклад элемента, які не цалкам на сваім месцы, ў выніку чаго галаваломка лічыцца вырашанай: цэнтральны элемент у 5x5x5 павернуты на месцы.
+- 5b5++++) [ПРЫКЛАД] Прыклад элемента, які не цалкам на сваім месцы, ў выніку чаго галаваломка лічыцца нявырашанай "DNF": рабро ў 3x3x3 трохі выскачыла.
 
+## <Артыкул 6><Узнагароды/прызы/адзнакі><Узнагароды/прызы/адзнакі> Артыкул 6: Узнагароды/прызы/адзнакі
 
-## <article-0><solved-state><solvedstate> Article 10: Solved State
-
-- 10f+) [EXPLANATION] The misalignment limits are selected so that they provide a natural cutoff between one state of a puzzle (without penalty) and a state one move away.
-
-
-## <article-1><incidents><incidents> Article 11: Incidents
-
-- 11e+) [CLARIFICATION] Since an appeal is not guaranteed to be successful, the competitor may choose to keep the timer running while appealing it, and resume the attempt when appropriate.
-- 11e1+) [REMINDER] The extra attempt must be scrambled using an unmodified scramble sequence generated by an official scrambler (see [Regulation 4f](regulations:regulation:4f), [Guideline 4f+](guidelines:guideline:4f+)).
+- 6a+) [ВЫЛУЧАНА][ДАПАЎНЕННЕ] Узнагароды, прызы, адзнакі могуць быць прадстаўлены ўдзельнікам у адпаведнасці з аб'явай спаборніцтва.
+- 6b+) [ВЫЛУЧАНА][РЭКАМЕНДАЦЫЯ] Удзельнікам варта наведваць цырымонію пераможцы, каб атрымаць узнагароды/прызы/адзнакі.
+- 6b1+) [ВЫЛУЧАНА][РЭКАМЕНДАЦЫЯ] Цырымонію пераможцы варта праводзіць ў месцы правядзення спаборніцтваў на працягу адной гадзіны пасля заканчэння апошняй дысцыпліны.
+- 6c+) [ВЫЛУЧАНА][РЭКАМЕНДАЦЫЯ] Пераможцы і прызёры павінны быць гатовыя мець зносіны з журналістамі ці любымі СМІ, якія асвятляюць спаборніцтвы.
+- 6d+) [ВЫЛУЧАНА][РЭКАМЕНДАЦЫЯ] Камандзе арганізатараў спаборніцтваў варта мець сертыфікаты на ўсех пераможцаў, падпісаныя кіраўніком каманды арганізатараў і Дэлегатам WCA.
 
 
-## <article-A><speedsolving><speedsolving> Article A: Speed Solving
+## <Артыкул 7><Навакольнае асяроддзе><Навакольнае асяроддзе> Артыкул 7: Навакольнае асяроддзе
 
-- A1a2+) [ADDITION] In case of a cumulative time limit, the judge records the original recorded time for a DNF on the score sheet in parentheses, e.g. "DNF (1:02.27)".
-- A1a3+) [REMINDER] The organisation team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the beginning of the round can disadvantage some competitors unfairly.
-- A1a4+) [REMINDER] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and WCA Delegate should be informed (see [Regulation 1g2](regulations:regulation:1g2)). Judges must always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
-- A2c1+) [CLARIFICATION] In the past, score cards have been used to cover puzzles while leaving some sides exposed. This is no longer permitted.
-- A3c3+) [CLARIFICATION] Although the judge is required to reset the timer for the competitor (see [Regulation A3b](regulations:regulation:A3b)), the competitor may reset it before/during the inspection phase if the judge accidentally neglected to do so.
-- A6b+) [EXPLANATION] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timer malfunctions.
-- A6g+) [ADDITION] While he is determining whether to assign a penalty for misalignment, the judge should not touch the puzzle.
+- 7d+) [ВЫЛУЧАНА][ДАПАЎНЕННЕ] Тэмпература зоны спаборніцтваў павінна быць ад 21 да 25 градусаў па Цэльсію.
+- 7h2+) [ВЫЛУЧАНА][ДАПАЎНЕННЕ] Акрамя таго, ўдзельнікі на пляцоўцы для ўдзельнікаў не павінны бачыць галаваломкі удзельнікаў на сцэне.
 
 
-## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
+## <Артыкул 8><Спаборніцтвы><Спаборніцтвы> Артыкул 8: Спаборніцтвы
 
-- B1+) [REMINDER] The competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces (see [Regulation 3k](regulations:regulation:3k)). This should be given special attention for Blindfolded Solving
-- B1b+) [RECOMMENDATION] Blindfolds should be checked by the WCA Delegate before use in the competition.
-
-
-## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
-
-- C1b+) [CLARIFICATION] The competitor may use both hands during inspection.
-- C1b++) [CLARIFICATION] The competitor is not required to use the same solving hand for different attempts of the same round.
-- C1b2+) [REMINDER] Use of the surface is permitted while repairing the puzzle.
+- 8a4+) [РЭКАМЕНДАЦЫЯ] Змяненні, закліканыя павысіць максімальную колькасць удзельнікаў у кваліфікацыйным раўндзе або першым раўндзе або дадаць кваліфікацыйны раўнд для ўдзельнікаў, якія зноў рэгіструюцца, павінны быць зробленыя не пазней за адзін месяц да пачатку спаборніцтваў (гл. [Палажэнне 9r3](Палажэнні:палажэнне:9r3)).
+- 8a4++) [РЭКАМЕНДАЦЫЯ] Спаборніцтвы павінны быць аб'яўлены не пазней за адзін месяц да іх пачатку.
+- 8a5+) [ВЫЛУЧАНА][РЭКАМЕНДАЦЫЯ] Пажадана, каб у спаборніцтве бралі ўдзел не менш за 12 удзельнікаў.
 
 
-## <article-D><feet><solvingwithfeet> Article D: Solving With Feet
+## <Артыкул 9><Дысцыпліны><Дысцыпліны> Артыкул 9: Дысцыпліны
 
-- D1b+) [CLARIFICATION] The competitor may wear socks while solving.
-- D1c+) [REMINDER] While repairing puzzle defects, other body parts must not touch the puzzle.
-
-
-## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
-
-- E2b+) [CLARIFICATION] A competitor may choose to stop his attempt early by handing in a solution before the time limit.
+- 9b+) [ДАПАЎНЕННЕ] Пераважным фарматам для фіналу дысцыплін "Сярэдняе WCA з 5" або "сярэдняе значэнне з 3", калі гэта магчыма.
+- 9b++) [ДАПАЎНЕННЕ] Акрамя дысцыплін, названых у [Палажэнні 9b](Палажэнні:палажэнне:9b), можна праводзіць падчас спаборніцтваў і іншыя дысцыпліны, але гэта будзе лічыцца неафіцыйным і таму іх вынікі не будуць уключаны ў афіцыйныя вынікі спаборніцтваў.
+- 9f5+) [УДАКЛАДНЕННЕ] Вынік спробы DNS, калі ўдзельнік меў права на спробу і не скарыстаўся ім. Калі ўдзельнік не меў права на спробы (напрыклад, у камбінаваным раўндзе), ён не мае ніякага выніку за спробу.
+- 9q+) [ВЫЛУЧАНА][РЭКАМЕНДАЦЫЯ] Пажадана, каб дысцыпліны і раўнды мелі як мінімум 2 удзельнікаў.
+- 9r+) [ТЛУМАЧЭННЕ] Мэта кваліфікацыйнага раўнда: даць удзельнікам з нізкім рэйтынгам або тым, у каго няма статыстыкі WCA права на ўдзел у першым раўндзе дысцыпліны з вялікай колькасцю зарэгістраваных удзельнікаў.
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
+## <Артыкул 10><Сабраны стан><Сабраны стан> Артыкул 10: Сабраны стан
 
-- H1b1+) [REMINDER] The attempt is not disqualified for reaching the time limit, due to exceptions for Multiple Blindfolded Solving (see [Regulation A1a4](regulations:regulation:A1a4) and [Regulation A1a5](regulations:regulation:A1a5)).
-- H1b1++) [ADDITION] The judge may permit the competitor to continue the attempt unofficially, but the attempt must be stopped and judged first, in full accordance with the Regulations.
-- H1d+) [EXAMPLE] Example: If a competitor attempts 10 cubes, stops with a time of 59:57, and has two time penalties, the time for the result is 59:57 + 2*2 = 60:01 (also see [Regulation A1a5](regulations:regulation:A1a5)).
-- H1d++) [EXAMPLE] Example: If a competitor attempts 10 cubes, and the judge stops him at one 60 minutes, and has two time penalties, the time for the result is 60:00 + 2*2 = 60:04.
+- 10f+) [ТЛУМАЧЭННЕ] Дапушчальныя межы паваротаў выбіраюцца такім чынам, што яны забяспечваюць натуральнае адрозненне паміж сабраным станам і станам, якому патрэбны адзін ход для таго, каб ён стаў сабраным.
+
+
+## <Артыкул 11><Здарэнні><Здарэнні> Артыкул 11: Здарэнні
+
+- 11e+) [УДАКЛАДНЕННЕ] Паколькі апеляцыя не гарантуе поспех у атрыманні дадатковай спробы, ўдзельнік можа не прыпыняць таймер і аднавіць спробу па меры неабходнасці.
+- 11e1+) [НАГАДВАННЕ] Дадатковая спроба павінна выкарыстоўваць нязменны скрамбл, згенераваны афіцыйнай праграмай (гл. [Палажэнне 4f](Палажэнні:палажэнне:4f), [Дапаўненне да Палажэнняў 4f+](Дапаўненні:дапаўненне:4f+)).
+
+
+## <Артыкул А><Рашэнне на хуткасць><Рашэнне на хуткасць> Артыкул А: Рашэнне на хуткасць
+
+- A1a2+) [ДАПАЎНЕННЕ] У выпадку сукупнага ліміту часу і рэзультаты ўдзельніка DNF, суддзя запісвае арыгінальны час ў ацэначным лісце ў дужках, напрыклад, "DNF (1:02.27)".
+- A1a3+) [НАГАДВАННЕ] Каманда арганізатараў і Дэлегат WCA павінны памятаць, што ліміт ўплываюць на стратэгію ўдзельнікаў (напрыклад, удзельнік  можа спяшацца ў першыя двух спробах ў надзеі прайсці ў другую частку камбінаванага раўнда), і, што змена лімітаў пасля пачатку раўнда можа быць нязручным для некаторых удзельнікаў.
+- A1a4+) [НАГАДВАННЕ] Калі ўдзельніку выпадкова было дазволена перавышаць ліміт, спроба павінна выконвацца заднім лікам, а суддзя, ўдзельнік і Дэлегат WCA павінны быць інфармаваны. Гэта спроба ўсё роўна павінна быць дыскваліфікаваная (гл. [Палажэнне 1g2](Палажэнні:палажэнне:1g2)). Суддзі павінны заўсёды быць у курсе лімітаў цяперашняй спробы (які можа залежаць ад папярэдніх спробаў, у выпадку сукупнага ліміту часу).
+- A2c1+) [УДАКЛАДНЕННЕ] У мінулым, ацэначныя лісты былі выкарыстаны для пакрыцця галаваломкі, пакідаючы некаторыя бакі для назірання. Гэта больш не дазваляецца.
+- A3c3+) [УДАКЛАДНЕННЕ] Хоць суддзя абавязаны скінуць таймер для ўдзельніка (гл. [Палажэнне A3b](Палажэнні:палажэнне:A3b)), удзельнік можа скінуць яго да/падчас фазы праверкі, калі суддзя выпадкова забыў гэта зрабіць.
+- A6b+) [EXPLANATION] Значэнне 0,06 секунды было абрана з-за асаблівасцей Stackmat і іх магчымых няспраўнасцей.
+- A6g+) [ДАПАЎНЕННЕ] Суддзі не варта дакранацца галаваломкі, пакуль ён вызначае, ці ставіць штраф.
+
+
+## <Артыкул B><Рашэнне з завязанымі вачыма><Рашэнне з завязанымі вачыма> Артыкул B: Рашэнне з завязанымі вачыма
+
+- B1+) [НАГАДВАННЕ] Удзельнік павінен выкарыстоўваць галаваломкі без тэкстур, маркіроўкі або іншыя асаблівасцей, якія адрозніваюць аднолькавыя элементы (гл. [Палажэнне 3k](Палажэнні:палажэнне:3k)). Гэтаму павінна быць нададзена асаблівая ўвага для рашэння з завязанымі вачыма.
+- B1b+) [РЭКАМЕНДАЦЫЯ] Дэлегату WCA варта праверыць павязкі для вачэй перад іх выкарыстаннем у спаборніцтве.
+
+
+## <Артыкул C><Рашэнне адной рукой><Рашэнне адной рукой> Артыкул C: Рашэнне адной рукой
+
+- C1b+) [УДАКЛАДНЕННЕ] Удзельнік можа выкарыстоўваць абедзве рукі ў ходзе праверкі.
+- C1b++) [УДАКЛАДНЕННЕ] Удзельніку не патрабуецца выкарыстоўваць тую ж руку для розных спробаў.
+- C1b2+) [НАГАДВАННЕ] Пры рамонце галаваломкі выкарыстання паверхні стала дапускаецца.
+
+
+## <Артыкул D><Рашэнне нагамі><Рашэнне нагамі> Артыкул D: Рашэнне нагамі
+
+- D1b+) [УДАКЛАДНЕННЕ] Удзельнік можа насіць шкарпэткі пры рашэнні.
+- D1c+) [НАГАДВАННЕ] Пры рамонце дэфектаў галаваломкі іншыя часткі цела не павінны дакранацца галаваломкі.
+
+
+## <Артыкул E><Рашэнне на найменшую колькасць хадоў><Рашэнне на найменшую колькасць хадоў> Артыкул E: Рашэнне на найменшую колькасць хадоў
+
+- E2b+) [УДАКЛАДНЕННЕ] Удзельнік можа спыніць яго спробу і здаць рашэнне раней.
+
+
+## <Артыкул Н><Мульты-блайнд (рашэнне некалькіх кубоў усляпую)><Мульты-блайнд (рашэнне некалькіх кубоў усляпую)> Артыкул Н: Мульты-блайнд (рашэнне некалькіх кубоў усляпую)
+
+- H1b1+) [НАГАДВАННЕ] Спроба не дыскваліфікуецца на дасягненні ліміту ў сувязі з выключэннямі для мульты-блайнда (гл. [Палажэнне A1a4](Палажэнні:палажэнне:A1a4) і [Палажэнне A1a5](Палажэнні:палажэнне:A1a5)).
+- H1b1++) [ДАПАЎНЕННЕ] Акрамя таго, суддзя можа дазволіць удзельніку працягваць спробы неафіцыйна, але спроба павінна быць спыненая і ацэньвацца ў поўнай адпаведнасці з Палажэннямі.
+- H1d+) [ПРЫКЛАД] Прыклад: Калі ўдзельнік спрабуе 10 кубоў і спыняецца з вынікам 59:57, а таксама мае два часовых штрафы, вынік роўны 59:57 + 2*2 = 60:01 (таксама гл. [Палажэнне A1a5](regulations:regulation:A1a5)).
+- H1d++) [ПРЫКЛАД] Прыклад: Калі ўдзельнік спрабуе 10 кубоў, суддзя спыняе яго пасля 60 хвілін, і ўдзельнік мае два часовых штрафаў, вынік роўны 60:00 + 2 * 2 = 60:04.
