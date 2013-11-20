@@ -1,494 +1,495 @@
-# <wca-title>WCA Regulations 2013
+# <wca-title>Regulamento da WCA 2013
 
-<version>Version: May 21, 2013
+<version>Versão: 21 de Maio de 2013
 
+## Notas
 
-## Notes
+### Tradução
 
-### WCA Regulations and Guidelines
+Por favor atente-se para o fato de que essa tradução não é uma versão oficial (embora seja disponilizada no site da WCA): ela pode ser útil, mas não vem com nenhuma garantia. Se houver diferenças entre uma tradução e a versão (atualmente oficial) em inglês, esta última deve ser usada.
 
-The WCA Regulations contains the full set of Regulations that apply to all official competitions sanctioned by the World Cube Association.    
-The WCA Regulations are also supplemented by the [WCA Guidelines](guidelines:top). The Regulations should be considered a complete document, but the Guidelines contain additional clarifications and explanations.
+### Regulamento e Orientações da WCA
 
-### Wording
-To make the Regulations and Guidelines easier to read we use "he" where the reader should read "she or he".    
-Uses of the words "must", "must not", "should", "should not" and "may" match [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
+O Regulamento da WCA contém todo o conjunto de regras que se aplicam a todas as competições oficias sancionadas pela World Cube Association.
+O Regulamento da WCA é também complementado pelas [Orientações Adicionais](guidelines:top). O Regulamento deve ser considerado um documento completo, mas as Orientações contêm esclarecimentos e explicações adicionais.
 
-### Information on the Internet
-Website of World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)    
-Original source of the WCA regulations: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)    
-WCA Regulations in [PDF format](wca-regulations-and-guidelines-2013.pdf)
+### Vocabulário
+Para tornar o Regulamento e as Orientações mais fáceis de ler, nós usamos "ele" onde o leitor deve interpretar "ela" ou "ele".
+O uso das palavras "deve", "não deve", "", "" e "pode" está de acordo com [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
-### Source
-Development of the WCA Regulations and Guidelines is public [on GitHub](https://github.com/cubing/wca-documents).
+### Informação na Internet
+Website da World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)
+Fonte original do Regulamento da WCA: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)
+Regulamento da WCA em [Formato PDF]()
 
-### Contact
-For questions and feedback, please contact the [WCA Regulations Committee (WRC)](http://www.worldcubeassociation.org/contact-information).
+### Código Fonte
+O desenvolvimento do Regulamento e Orientações da WCA é público no [GitHub](https://github.com/cubing/wca-documents).
 
+### Contato
+Para questões e sugestões, por favor contate o [Comitê Regulador da WCA (WRC)](http://www.worldcubeassociation.org/contact-information).
 
-## <contents> [Contents](regulations:contents)
+## <contents> [Conteúdo](regulations:contents)
 
-Note: Because Article and Regulation numbers are not reassigned when Regulations are deleted, there may be gaps in numbering.
+Nota: Os números dos artigos não são atualizados quando algum deles é apagado. Dessa forma, podem haver lacunas na numeração.
 
 <table-of-contents>
 
 
-## <article-1><officials><officials> Article 1: Officials
+## <article-1><officials><officials> Artigo 1: Oficiais
 
-- 1a) A competition must include a WCA Delegate and an organisation team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
-- 1b) The organisation team of a competition is responsible for logistics before, during, and after the competition.
-- 1c) The WCA Delegate may delegate responsibilities to other members of the organisation team, but is ultimately accountable for how these responsibilities are carried out. The WCA Delegate for a competition is responsible for:
-    - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the competition date.
-    - 1c3) Sending the competition results to the WCA Results Team.
-        - 1c3a) All scramble sequences used during a competition must be sent with the results of the competition.
-        - 1c3b) Scramble sequences must be labelled with the events, rounds, and groups for which they were used.
-    - 1c4) Sending corrections to the competition results to the WCA Board.
-    - 1c5) Advising the other officials where necessary.
-    - 1c6) Approving all events and round formats of a competition, before the competition starts, and if changes are required during the competition.
-    - 1c7) Decisions about disqualifying competitors during the competition.
-    - 1c8) Providing the scramble sequences.
-    - 1c9) Decisions about changes to the scheduled times of rounds. In cases of such changes, a clear announcement must be made to all competitors.
-    - 1c10) Making a copy of the WCA Regulations available at the competition.
-- 1e) Each event must have one or more judges.
-    - 1e1) A judge is responsible for executing the procedures of the event.
-        - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the Delegate, as long as the judge is able to ensure that all WCA Regulations are followed at all times.
-    - 1e2) Capable competitors must be available for judging, if needed by organisation team. Penalty: disqualification from the competition.
-- 1f) Each event must have one or more scramblers. Exception: Fewest Moves Solving.
-    - 1f1) A scrambler applies scramble sequences to prepare puzzles for attempts.
-    - 1f2) Capable competitors must be available for scrambling, if needed by organisation team. Penalty: disqualification from the competition.
-- 1g) Each event must have one or more score takers.
-    - 1g1) A score taker is responsible for compiling results.
-    - 1g2) Any change to the result on a score sheet must be made at the discretion of the WCA Delegate.
-- 1h) Competitors in the same round of an event may be divided into groups.
-    - 1h1) Scramblers and judges for a round should not scramble for/judge competitors in their own group before they have finished all of their attempts for the round. They may scramble for/judge competitors in their own group at the discretion of the WCA Delegate, but the organisation team must ensure that scramblers and judges cannot see any scrambles for their attempts that they have not attempted yet.
-- 1j) All officials may compete in the competition.
-- 1k) Officials may serve multiple roles (e.g. organisation team, WCA Delegate, judge, score taker, scrambler).
-
-
-## <article-2><competitors><competitors> Article 2: Competitors
-
-- 2a) Any person may compete in a WCA competition if he:
-    - 2a1) Complies with WCA Regulations.
-    - 2a2) Meets the competition requirements, which must be clearly announced before the competition.
-    - 2a3) Is not suspended by WCA Board.
-- 2b) Competitors below the age of 18 must obtain consent from their parent(s)/guardian(s) to register and compete.
-- 2c) Competitors register by providing all information required by the organisation team (including: name, country, date of birth, gender, contact information, selected events).
-    - 2c1) A competitor is not be eligible to compete without a completed registration, as determined by the organisation team.
-- 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and must not be disclosed to outside organisations/persons without the consent of the competitor.
-- 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship standing by means of documents (e.g. a passport). If a competitor is found ineligible to represent the country under which they have registered, the competitor may be disqualified retroactively and/or suspended, at the discretion of the WCA Board.
-    - 2e1) The eligible countries are defined by the Wikipedia article "List of sovereign states" ("UN member states and observer states" and "Other states").
-    - 2e2) Competitors with updates to their citizenship status may change their country of representation in their first competition of a calendar year.
-- 2f) Competitors must obey venue rules and conduct themselves in a considerate manner.
-- 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
-    - 2g3) Competitors in the Competitors Area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor from the event, at the discretion of the WCA Delegate.
-- 2h) Competitors must be fully dressed while in the competition venue. At the discretion of the Delegate, competitors may be disqualified from the competition for inappropriate clothing.
-- 2i) While competing, competitors must not use electronics or audio equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting).
-    - 2i1) Competitors may use certain non-electronic aids that do not give the competitor an unfair advantage, at the discretion of the WCA Delegate. This includes:
-        - 2i1a) Medical/physical aids worn by the competitor (etc. glasses, wrist brace, hearing aids).
-        - 2i1b) Earplugs and earmuffs (but not electronic noise-cancelling headphones).
-- 2j) The WCA Delegate may disqualify a competitor from a specific event.
-    - 2j1) If a competitor is disqualified from an event for any reason, he is not eligible for any more attempts in the event.
-    - 2j2) If a competitor is disqualified during the course of an event, his earlier results remains valid. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
-- 2k) The WCA Delegate may disqualify a competitor from the competition (i.e. from all events of the competition) if the competitor:
-    - 2k1) Fails to check in or register in time for the competition.
-    - 2k2) Is suspected of cheating or defrauding the officials during the competition.
-        - 2k2a) The WCA Delegate may disqualify any suspected results.
-    - 2k3) Behaves in a way that is unlawful, violent or indecent; or intentionally damages venue facilities or personal property within the venue.
-    - 2k4) Interferes with, or distracts others during, the competition.
-    - 2k5) Fails to abide by WCA Regulations during the competition.
-- 2l) A competitor may be disqualified immediately, or after a warning, depending on the nature and severity of the infraction.
-    - 2l1) A disqualified competitor is not eligible for the refund of any expenses due to participating in the competition.
-- 2n) Competitors may verbally dispute a ruling to the WCA Delegate.
-    - 2n1) Disputes are only permitted during the competition, within 30 minutes after the disputed incident happened and before the beginning of any following rounds of the relevant event.
-    - 2n2) The WCA Delegate must resolve the dispute before the beginning of the next round of the event.
-    - 2n3) The competitor must accept all final rulings of the WCA Delegate. Penalty: disqualification from the competition.
-- 2s) Competitors with other disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations from the WCA Delegate. Competitors requesting such accommodations should contact the organisation team and WCA Delegate at least two weeks before the competition.
-- 2t) Each competitor must be familiar with and understand the WCA Regulations before the competition.
+- 1a) Uma competição precisa ter um Delegado da WCA e uma equipe de organização (composta por um ou mais membros) com os seguintes oficiais: juízes, embaralhadores e anotadores de resultados.
+- 1b) A equipe de organização de uma competição é responsável pela logística antes, durante e depois da competição.
+- 1c) O Delegado da WCA pode delegar responsabilidades para outros membros da equipe de organização, mas é responsável em última instância pela forma como elas são conduzida. O Delegado da WCA em um campeonato é responsável por:
+	- 1c1) Relatar para o Conselho da WCA a respeito da fidelidade ao Regulamento da WCA durante o campeonato, o andamento geral do campeonato e quaisquer incidentes. O relatório deve ser enviado ao Conselho da WCA dentro de uma semana após o campeonato.
+	- 1c3) Enviar os resultados do campeonato para a Equipe de Resultados da WCA.
+		- 1c3a) Todas as sequências de embaralhamento usadas durante o campeonato devem ser enviadas junto com os resultados.
+		- 1c3b) As sequências de embaralhamento devem ser marcadas com os eventos, rodadas e grupos para os quais foram usadas.
+	- 1c4) Enviar correções aos resultados do campeoanto para o Conselho da WCA.
+	- 1c5) Orientar os outros oficiais quando necessário.
+	- 1c6) Aprovar todos os formatos de eventos e rodadas de um campeonato, antes que ele comece, e caso mudanças sejam necessárias durante o campeonato.
+	- 1c7) Decisões a respeito de desqualificações de competidores durante o campeonato.
+    - 1c8) Providenciar as sequências de embaralhamentos.
+    - 1c9) Decisões a respeito de mudanças nos horários das rodadas. Nesses casos, um anúncio claro tem que ser feito a todos os competidores.
+    - 1c10) Disponibilizar uma cópia do Regulamento da WCA no campeonato.
+- 1e) Cada evento precisa ter um ou mais juízes.
+    - 1e1) O juiz é responsável por executar os procedimentos do evento.
+        - 1e1a) Um juiz pode fiscalizar vários competidores simultaneamente a critério do Delegado, contanto que o juiz seja capaz de assegurar que todo o Regulamento da WCA seja seguido em todos os momentos.
+    - 1e2) Os competidores aptos devem estar disponíveis para ser juízes, em caso de necessidade da equipe de organização. Punição: desqualificação do campeonato.
+- 1f) Cada evento precisa ter um ou mais embaralhadores. Exceção: Resolução em Menos Movimentos
+	- 1f1) O embaralhador aplica as sequências de embaralhamento para preparar os quebra-cabeças para as resoluções.
+	- 1f2) Os competidores aptos devem estar disponíveis para embaralhar, em caso de necessidade da equipe de organização. Punição: desqualificação do campeonato.
+- 1g) Cada evento precisa ter um ou mais anotadores de resultados.
+	- 1g1) O anotador de resultados é responsável por compilar os resultados.
+	- 1g2) Qualquer alteração no resultado em uma súmula deve ser feita a critério do Delegado da WCA.
+- 1h) Os competidores em uma mesma rodada de um evento podem ser dividiso em grupos.
+	- 1h1) Embaralhadores e juízes em uma rodada não devem embaralhar ou fiscalizar competidores em seu próprio grupo antes de terem terminado todas as suas tentativas naquela rodada. Eles podem embaralhar ou fiscalizar competidores em seu próprio grupo a critério do Delegado da WCA, mas a equipe de organização deve assegurar que embaralhadores e juízes não vejam nenhum embaralhamento de tentativas que ainda não tenham feito.
+- 1j) Todos os oficiais podem participar do campeonato.
+- 1k) Os oficiais podem exercer várias funções (por exemplo: equipe de organização, Delegado da WCA, juiz, anotador de resultado, embaralhador).
 
 
-## <article-3><puzzles><puzzles> Article 3: Puzzles
+## <article-2><competitors><competitors> Artigo 2: Competidores
 
-- 3a) Competitors must provide their own puzzles for the competition.
-    - 3a1) Competitors must be present and ready to compete when they are called to compete for a round. Penalty: disqualification from the event.
-    - 3a2) Puzzles must be fully operational, such that normal scrambling is possible.
-    - 3a3) Polyhedral puzzles must use a colour scheme with one unique colour per face in the solved state. Each puzzle variation must have moves, states, and solutions functionally identical to the original puzzle.
-- 3d) Puzzles must have coloured stickers, coloured tiles, or painted/printed colours.
-    - 3d1) Exception: Competitors with a medically documented visual disability may use textured puzzles with different textures on different faces. Textures/patterns must be uniform per face. Each face should have a distinct colour, to aid in scrambling and judging.
-    - 3d2) The colours of puzzles must be solid, with one uniform colour per face. Each colour on the puzzle must be clearly distinct from the other colours.
-    - 3d3) Stickers/tiles/textures/paint must not be thicker than 1.5 mm, or the generally available thickness for non-cube puzzles.
-- 3h) Modifications that enhance the basic concept of a puzzle are not permitted. Modified versions of puzzles are permitted only if the modification does not make any additional information available to the competitor (e.g. identity of pieces), compared to an unmodified version of the same puzzle.
-    - 3h1) "Pillowed" puzzles are not permitted. Exception: Pillowed 7x7x7 cubes are permitted.
-    - 3h2) "Stickerless" cubes, and other cubes whose face colours are visible inside the cube, are not permitted.
-    - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
-- 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that distinguish any piece from a similar piece.
-    - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
-- 3k) Puzzles must be approved by the WCA Delegate before use in the competition.
-- 3l) A cube puzzle may have a logo, but it must have at most one logo. For the Rubik's Cube or bigger cube puzzles the logo must be placed on one of the centre pieces.
-    - 3l1) Colourless engravings (max. 1 per face) are not considered logos.
-- 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
-
-
-## <article-4><scrambling><scrambling> Article 4: Scrambling
-
-- 4a) A scrambler applies scramble sequences to the puzzles.
-- 4b) Puzzles must be scrambled using computer-generated random scramble sequences.
-    - 4b1) Generated scramble sequences must not be inspected before the competition, and must not be filtered or selected in any way by the WCA Delegate.
-    - 4b2) Scramble sequences for a round must be available only to the WCA Delegate and the scramblers for the event, until the end of the round. Exception: For Fewest Moves Solving, competitors receive scrambling sequences during the round (see [Article E](regulations:article:E)).
-- 4d) Scrambling orientation:
-    - 4d1) Cube puzzles and Megaminx are scrambled with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.
-    - 4d2) Pyraminx is scrambled with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
-    - 4d3) Square-1 is scrambled with the darker colour on front (out of the 2 possible scrambling orientations).
-- 4f) Competition scramble sequences must be generated using the current official version of the official WCA scramble program (available via the WCA website).
-- 4g) After scrambling a puzzle, the scrambler must verify that he has scrambled the puzzle correctly. If the puzzle state is wrong, he must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
-    - 4g1) Exception: For the 6x6x6 Cube and the 7x7x7 Cube, it is not necessary to correct the scramble, at the discretion of the WCA Delegate.
-
-
-## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
-
-- 5a) Examples of puzzle defects include: popped pieces, pieces twisted in place, and detached screws/caps/stickers.
-- 5b) If a puzzle defect occurs during an attempt, the competitor may choose to either repair the defect and continue the attempt, or to stop the attempt.
-    - 5b1) If a competitor chooses to repair the puzzle, he must repair only the defective pieces. Tools and/or pieces of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the attempt (DNF).
-    - 5b2) Any repair to a puzzle must not give the competitor any advantage in solving the puzzle. Penalty: disqualification of the attempt (DNF).
-    - 5b3) Permitted repairs:
-        - 5b3a) If any pieces have fallen out or moved out of place, the competitor may place them back.
-        - 5b3b) If, after repairing the puzzle but before the end of the attempt, the competitor finds that the puzzle is unsolvable, he may disassemble and reassemble a maximum of 4 pieces to make the puzzle solvable.
-        - 5b3c) If the puzzle is unsolvable, and can be made solvable by rotating a single corner piece, the competitor may correct the corner piece by twisting it in place without disassembling the puzzle.
-    - 5b4) During blindfolded events, a puzzle defect must be repaired during the attempt, and all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
-    - 5b5) If at the end of the attempt some parts of the puzzle are physically detached or not fully placed, the following regulations apply:
-        - 5b5a) If one or more parts without coloured faces is affected, the puzzle is considered solved.
-        - 5b5b) If one part with one coloured face is affected, the puzzle is considered solved.
-        - 5b5c) If more than one part with one coloured face is affected, the puzzle is considered unsolved (DNF).
-        - 5b5d) If one or more parts with more than one coloured face is affected, the puzzle is considered unsolved (DNF).
-        - 5b5e) Regulations [5b5c](regulations:regulation:5b5c) and [5b5d](regulations:regulation:5b5d) supercede [5b5a](regulations:regulation:5b5a) and [5b5b](regulations:regulation:5b5b).
-- 5c) If a competitor has a puzzle defect, this does not give him the right to an extra attempt.
+- 2a) Qualquer pessoa pode participar de um campeonato da WCA se ele:
+	- 2a1) Se enquadra no Regulamento da WCA.
+	- 2a2) Atender aos requisitos do campeonato, que devem ser claramente anunciados antes do campeonato.
+	- 2a3) Não esteja suspenso pelo conselho da WCA.
+- 2b) Competidores com menos de 18 anos devem ter permissão dos pais ou responsáveis para se inscrever e competir.
+- 2c) Os competidores se inscrevem fornecendo todas as informações exigidas pela equipe de organização (incluindo: nome, país, data de nascimento, sexo, informações de contato, eventos escolhidos).
+	- 2c1) Um competidor não está apto a participar sem ter feito a inscrição completa, conforme determinado pela equipe de organização.
+- 2d) O nome, país, sexo e resultados no campeonato são considerados informações públicas do competidor. Todas as outras informações pessoais são consideradas confidenciais, e não podem ser fornecidas a organizações ou pessoas externas sem o consentimento do competidor.
+- 2e) Os competidores devem representar um país do qual tenha cidadania. O Delegado da WCA deve verificar essa cidadania por meio de documentos (por exemplo um passaporte). Se um competidor for inelegível(?) para representar o país pelo qual se inscreveu, ele pode ser desqualificado retroativamente e/ou suspenso, a critério do Conselho da WCA.
+    - 2e1) Os países elegívies são definidos pelo artigo da Wikipedia "Anexo:Lista de estados soberanos" ("Estados-membro das Nações Unidas e observadores" e "onze outros Estados").
+    - 2e2) Competidores com alterações em sua cidadania podem mudar seu país de representação em seu primeiro campeonato em um ano civil.
+- 2f) Os competidores devem obedecer às regras do local e se portar de maneira apropriada.
+- 2g) Os competidores devem permanecer quietos quando estejam dentro da árega designada de competição. É permitido conversar, mas [o barulho] deve ser mantido em um nível razoável, e distante dos participantes que estejam competindo ativamente.
+    - 2g3) Os competidores na Área de Competidores não podem se comunicar uns com os outros sobre os embaralhamentos dos quebra-cabeças da rodada em progresso. Punição: desqualificação do competidor daquele evento, a critério do Delegado da WCA.
+- 2h) Os competidores devem estar totalemnte vestidos dentro do local de competição. A critério do Delegado, competidores podem ser desqualificados do campeonato por se vestir de maneira inadequada.
+- 2i) Enquanto estiverem competindo, os participantes não podem usar equipamentos eletrônicos ou de áudio (por exemplo celulares, tocadores de mp3, [dictafones], iluminação adicional).
+    - 2i1) Os competidores podem usar certas ajudas não-eletrônicas que não dêem a eles uma vantagem injusta, a critério do Delegado da WCA. Essas [ajudas] incluem:
+        - 2i1a) Assistência/ajuda médica ou física usada pelo competidor (por exemplo óculos, munhequeira, aparelho auditivo).
+        - 2i1b) Tampões e protetores de ouvido (mas não fones de ouvido com cancelamento eletrônico de ruído).
+- 2j) O Delegado da WCA pode desqualificar um competidor de um evento específico.
+	- 2j1) Se um competidor for desqualificado de um evento por alguma razão, ele não tem direito a mais nenhuma tentativa naquele evento.
+	- 2j2) Se um competidor for desqualificado durante o curso de um evento, seus resultados anteriores permanecem válidos. Exceção: trapaças ou fraudes (veja [Regra 2k2a](regulations:regulation:2k2a)).
+- 2k) O Delegado da WCA pode desqualificar um competidor do campeonato (ou seja, de todos os eventos do campeonato) se o competidor:
+	- 2k1) Não se apresentar ou se inscrever a tempo para o campeonato.
+	- 2k2) For suspeito de trapacear ou fraudar os oficiais durante o campeonato.
+		- 2k2a) O Delegado da WCA pode desqualificar resultados suspeitos.
+	- 2k3) Se comportar de maneira que seja ilegal, violenta ou indecente; ou danificar intencionalmente as instalações ou propriedades pessoais no local do campeonato.
+	- 2k4) Interferir ou distrair outros competidores durante o campeonato.
+	- 2k5) Não cumprir o Regulamento da WCA durante o campeonato.
+- 2l) Um competidor pode ser desqualificado imediatamente, ou depois de uma advertência, dependendo da natureza e severidade da infração.
+	- 2l1) Um competidor desqualificado não tem direito a reembolso de nenhuma despesa decorrente da participação no campeonato.
+- 2n) Os competidores podem disputar verbalmente uma decisão com o Delegado da WCA.
+	- 2n1) Disputas somente são permitidas durante o campeonato, num prazo de 30 minutos após o incidente e antes do início de rodadas seguintes do evento em questão.
+    - 2n2) O Delegado da WCA deve resolver a disputa antes do início da próxima rodada do evento.
+    - 2n3) O competidor deve aceitar as decisões finais do Delegado da WCA. Punição: desqualificação do campeonato.
+- 2s) Competidores com outras deficiências que os impeçam de cumprir uma ou mais regras da WCA podem solicitar acomodações especiais ao Delegado da WCA. Esses competidores devem contatar a equipe de organização e o Delegado da WCA no mínimo duas semanas antes do campeonato.
+- 2t) Todos os competidores devem estar familirizados e entender o Regulamento da WCA antes do campeonato.
 
 
-## <article-7><environment><environment> Article 7: Environment
+## <article-3><puzzles><puzzles> Artigo 3: Quebra-cabeças
 
-- 7b) Spectators must remain at least 1.5 metres away from the solving stations when they are in use.
-- 7c) Lighting of the competition area must be given special attention. Lighting should be neutral, such that competitors can easily differentiate among the colours on the puzzles.
-- 7e) The competition area must be smoke-free.
-- 7f) Solving station:
-    - 7f1) Definitions:
-        - 7f1a) Stackmat: The Speedstacks Stackmat timer and a full-size compatible mat.
-        - 7f1b) Mat: The mat of the Stackmat.
-        - 7f1c) Timer: The timer of the Stackmat.
-        - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
-    - 7f2) The timer must be attached to the mat and placed on the surface, with the timer on the side of the mat nearest to the competitor.
-        - 7f2a) Exception: For Solving With Feet, the Stackmat must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
-- 7h) The competition area must have a Competitors Area.
-    - 7h1) The organisation team may require that a competitor who has been called to compete must remain within the Competitors Area until he has finished all of his attempts for the round.
-
-
-## <article-8><competitions><competitions> Article 8: Competitions
-
-- 8a) An official WCA competition must:
-    - 8a1) Be approved by the WCA Board.
-    - 8a2) Follow the WCA Regulations.
-    - 8a3) Have a designated WCA Delegate in attendance.
-    - 8a4) Be announced on the WCA website at least two weeks before the beginning of the competition.
-    - 8a6) Be publicly accessible.
-    - 8a7) Use the authentic Speed Stacks Stackmat timer (Generation 2 or Pro) for time measurement.
-    - 8a8) Be open to all who wish to compete. Restrictions must be approved by the WCA Board and clearly stated when the competition is announced.
-- 8f) If WCA Regulations are not correctly observed during a competition, the WCA Board may disqualify affected attempts.
+- 3a) Os competidores devem fornecer seus próprios quebra-cabeças para o campeonato.
+	- 3a1) O competidor deve estar presente e pronto para competir quando for chamado para uma rodada. Punição: desqualificação do evento.
+	- 3a2) Os quebra-cabeças devem funcionar normalmente, de forma que o embaralhamento seja possível
+	- 3a3) Quebra-cabeças poliédricos (haha) devem usar um esquema de cores com uma única cor por face no estado resolvido. As variações de quebra-cabeças devem ter movimentos, estados e soluções funcionalmente idênticas ao quebra-cabeça original.
+- 3d) Quebra-cabeças devem ter adesivos ou placas coloridas, ou [ainda] cores pintadas ou impressas.
+	- 3d1) Exceção: Competidores com deficiência visual documentada medicamente podem usar quebra-cabeças com diferentes texturas em cada face. As texturas ou padrões devem ser uniformes por face. Cada face deve ter uma cor diferente, para facilitar o embaralhamento e fiscalização.
+    - 3d2) As cores dos quebra-cabeças devem ser sólidas, com uma cor uniforme por face. Cada cor no quebra-cabeça deve ser claramente distinta das outras cores.
+    - 3d3) Os adesivos/placas/pintura não podem ser mais espessos que 1.5 mm, ou a espessura geralmente encontrada em quebra-cabeças não-cúbicos.
+- 3h) Modificações que alterem o conceito básico do quebra-cabeça não são permitidas. Versões modificadas de quebra-cabeças somente são permitidas se a modificação não torna nenhuma informações adicional disponível ao competidor (por exemplo identidade das peças), comparando-se com uma versão não-modificada do mesmo quebra-cabeça.
+    - 3h1) Quebra-cabeças "arredondados" não são permitidos. Exceção: 7x7x7 arredondados são permitidos.
+    - 3h2) Cubos "stickerless", e outros cubos cujas cores das faces sejam visíveis na parte interna do cubo, não são permitidos.
+    - 3h3) Quaisquer modificações feitas pelo competidor em um quebra-cabeça, e que resultem em desempeonho ruim, não são razão para tentativas adicionais.
+- 3j) Os quebra-cabeças devem estar limpos, e não podem ter nenhuma marca, peça elevada, danos ou outras diferenças que diferenciem uma peça de outra peça similar.
+    - 3j1) Os quebra-cabeças podem ter desgaste razoável, a critério do Delegado da WCA.
+- 3k) Os quebra-cabeças devem ser aprovados pelo Delegado da WCA antes de serem usados no campeonato.
+- 3l) Um quebra-cabeça cúbico pode ter um logotipo, mas não pode ter mais que um. Para o Rubik's Cube (3x3x3) ou cubos maiores, o logotipo deve estar posicionado em uma das peças de centro.
+    - 3l1) Estampas incolores (máximo de 1 por face) não são consideradas logotipos.
+- 3m) Todas as marcas de quebra-cabeça são permitidas, desde que o quebra-cabeça esteja em conformidade com todo o Regulamento da WCA.
 
 
-## <article-9><events><events> Article 9: Events
+## <article-4><scrambling><scrambling> Artigo 4: Embaralhamento
 
-- 9a) The WCA governs competitions for:
-    - 9a1) Puzzles known as Rubik's puzzles.
-    - 9a2) Other puzzles that are manipulated by twisting the sides, commonly known as "twisty puzzles".
-- 9b) The official puzzles and event formats of the WCA are:
-    - 9b1) Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Megaminx, Pyraminx, Square-1, and Rubik's Cube: One-Handed.
-        - 9b1a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3), and "Average of 5".
-    - 9b2) Rubik's Cube: With Feet, 6x6x6 Cube, and 7x7x7 Cube.
-        - 9b2a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3) and "Mean of 3".
-    - 9b3) Rubik's Cube: Fewest Moves, Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded, and Rubik's Cube: Multiple Blindfolded.
-        - 9b3a) Competition formats for these events are: "Best of X" (where X is 1, 2, or 3).
-- 9f) The results of a round are measured as follows:
-    - 9f1) All timed results under 10 minutes are measured and rounded down to the nearest hundredth of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second. 
-    - 9f2) All timed results, averages, and means over 10 minutes are measured and rounded to the nearest second (e.g. x.4 becomes x, x.5 becomes x+1).
-    - 9f4) The result of an attempt is recorded as DNF (Did Not Finish) if the attempt is disqualified or unsolved/unfinished.
-    - 9f5) The result of an attempt is recorded as DNS (Did Not Start) if the competitor is eligible for an attempt but declines it.
-    - 9f6) For "Best of X" rounds, each competitor is allotted X attempts. The best result of these attempts counts for the competitor's ranking in the round.
-    - 9f7) For "Best of X" rounds, a DNF or DNS is the worst possible result.
-    - 9f8) For "Average of 5" rounds, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts is removed, and the arithmetic mean of the remaining 3 attempts counts for the competitor's ranking in the round.
-    - 9f9) For "Average of 5" rounds, one DNF or DNS is permitted to count as the competitor's worst result of the round. If a competitor has more than one DNF and/or DNS result in the round, his average score for the round is DNF.
-    - 9f10) For "Mean of 3" rounds competitors are allotted 3 attempts. The arithmetic mean of the 3 attempts counts for the competitor's ranking in the round.
-    - 9f11) For "Mean of 3" rounds, if the competitor has at least one DNF or DNS result, his average score for the round is DNF.
-    - 9f12) For "Best of X" rounds, rankings are assessed based on the best result per competitor. The following are used to compare results:
-        - 9f12a) For timed results, "better" is defined as the shorter time.
-        - 9f12b) For Fewest Moves Solving, "better" is defined as the shorter solution length.
-        - 9f12c) For Multiple Blindfolded Solving, rankings are assessed based on number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, the attempt is considered unsolved (DNF). If competitors achieve the same result, rankings are assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings are assessed based on the number of puzzles the competitors failed to solve, where fewer unsolved puzzles is better.
-    - 9f13) For "Mean of 3" and "Average of 5" rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the shorter recorded time.
-    - 9f14) For "Mean of 3" and "Average of 5" rounds, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where "better" is defined as the shorter time.
-    - 9f15) Competitors who achieve the same result in a round receive an identical ranking for the round.
-- 9g) A Combined Round consists of two phases of attempts, where competitors advance to the second phase if they meet a designated cutoff during the first phase.
-    - 9g2) Whether a competitor proceeds to next phase of a Combined round, must be decided by ranking (best x competitors) or by result (all competitors with a best result under x) of the first phase.
-- 9i) Results of official WCA competitions must be listed on the WCA world rankings.
-    - 9i1) The WCA recognises the following types of regional records: national records, continental records, and world records.
-    - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognised as breaking that regional record.
-    - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
-- 9j) Each event must be held at most once per competition.
-- 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the Board.
-- 9l) Each round must be completed before any following round of the same event starts.
-- 9m) Events must have at most four rounds.
-    - 9m1) Events with 99 or fewer competitors must have at most three rounds.
-    - 9m2) Events with 15 or fewer competitors must have at most two rounds.
-    - 9m3) Events with 7 or fewer competitors must have at most one round.
-- 9o) Combined rounds and Qualification rounds each count as one round when counting the number of rounds per event.
-- 9p) If an event has multiple rounds, then:
-    - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
-    - 9p2) The competitors who advance to the next round must be determined by either a cutoff ranking or a cutoff time in the preceding elimination round.
-    - 9p3) If a qualifying competitor withdraws from a round, he may be replaced by the best-ranked competitor below the cutoff from the preceding round.
-- 9r) A qualification round must be held before the first round of the event.
-    - 9r1) When announcing an event, the organisation team must include:
-        - 9r1a) Any limit to the number of competitors permitted in the first round of the event.
-        - 9r1b) Any limit to the number of competitors permitted in the qualification round of the event, and any limit to the maximum number of those competitors who will proceed to the first round.
-        - 9r1c) The average/mean result or single solve result, achieved in a previous competition, required to qualify directly for the first round of the event.
-        - 9r1d) The latest permitted date used to determine the qualifying average/mean result or single solve result in the WCA rankings.
-    - 9r2) Each competitor of an event who has not directly qualified for the first round of the event must compete in the qualification round in order to participate in the first round.
-    - 9r3) A qualification round may be added to specifically accommodate newly registered competitors, and/or the maximum number of competitors in the qualification round or first round of an event may be increased. These changes must be made at least two weeks before the competition.
-- 9s) Each round of each event must have a time limit (see [Regulation A1a](regulations:regulation:A1a)).
+- 4a) Um embaralhador aplica as sequências de embaralhamento aos quebra-cabeças.
+- 4b) Os quebra-cabeças devem ser embaralhados usando sequências de embaralhamento aleatórios, geradas por computador.
+	- 4b1) As sequências de embaralhamento geradas não podem ser inspecionadas antes do campeonato, e não podem ser filtradas ou selecionadas de nenhuma maneira pelo Delegado da WCA.
+    - 4b2) As sequências de embaralhamento de uma rodada somente podem estar disponíveis para o Delegado da WCA e para os embaralhadores, até o fim da rodada. Exceção: Para a Resolução em Menos Movimentos, os competidores recebem as sequências de embaralhamento durante a rodada (veja [Artigo E](regulations:article:E)).
+- 4d) Orientações de embaralhamento:
+    - 4d1) Os quebra-cabeças cúbicos e o Megaminx são embaralhados com a face branca (se não for possível, usa-se a face mais clara) no topo e face verde (se não for possível, usa-se a face adjacente mais escura) na frente.
+    - 4d2) O Pyraminx é embaralhado com a face amarela (se não for possível, usa-se a face mais clara) embaixo e a face verde (se não for possível, usa-se a face adjacente mais escura) na frente.
+    - 4d3) O Square-1 é embaralhado com a face mais escura na frente (dentre as 2 orientações possíveis para embaralhamento).
+- 4f) As sequências de embaralhamento do campeonato devem ser geradas usando a versão oficial atual do programa de embaralhamento da WCA (disponível no site da WCA).
+- 4g) Depois de embaralhar o quebra-cabeça, o embaralhador deve verificar se ele foi embaralhado corretamente. Se o estado do quebra-cabeça estiver errado, o embaralhador deve corrigi-lo (ou seja, resolvendo o quebra-cabeça e aplicando o embaralhamento novamente).
+    - 4g1) Exceção: Para os cubos 6x6x6 e 7x7x7, não é necessário corrigir o embaralhamento, a critério do Delegado da WCA.
 
 
-## <article-10><solved-state><solvedstate> Article 10: Solved State
+## <article-5><puzzle-defects><puzzledefects> Artigo 5: Defeitos nos quebra-cabeças
 
-- 10b) Only the resting state of the puzzle, after the timer has been stopped, is considered.
-- 10c) The puzzle may be in any orientation at the end of the attempt.
-- 10d) All pieces of a puzzle must be fully attached to the puzzle in their required positions. Exception: see [Regulation 5b5](regulations:regulation:5b5).
-- 10e) A puzzle is solved when all face colours are reassembled and all parts are aligned within the limits specified below:
-    - 10e1) For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in [Regulation 10f](regulations:regulation:10f), the puzzle is considered to require one additional move to solve (see "Outer Block Turn Metric" in [Article 12](regulations:article:12)).
-    - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle is considered solved without penalty.
-    - 10e3) If one move is required, the puzzle is be considered solved with a time penalty (+2 seconds).
-    - 10e4) If more than one move is required, the puzzle is considered unsolved (DNF).
-- 10f) Limits of acceptable misalignment for puzzles:
-    - 10f1) Cube-shaped puzzles: at most 45 degrees.
-    - 10f2) Megaminx: at most 36 degrees.
-    - 10f3) Pyraminx: at most 60 degrees.
-    - 10f4) Square-1: at most 45 degrees (U/D) or 90 degrees (/).
-- 10h) Puzzles not specified in this article are judged according to the solved state as defined by the generally accepted goal of the puzzle, applying the relevant regulations for the Rubik's Cube.
-
-
-## <article-11><incidents><incidents> Article 11: Incidents
-
-- 11a) Incidents include:
-    - 11a1) Incorrect execution of event procedures, by officials or competitors.
-    - 11a2) Interference or facility interruptions (e.g. power failure, emergency alarm activation).
-    - 11a3) Equipment malfunction.
-- 11b) If an incident occurs, the WCA Delegate determines an impartial and appropriate course of action.
-- 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make his decision based on fair sportsmanship.
-- 11e) If an incident occurs during an attempt, the WCA Delegate may award a competitor an extra attempt, replacing the attempt during which the incident occurred. The competitor must appeal verbally or in writing to the judge and WCA Delegate at the time of the incident, before finishing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.
-    - 11e1) If a competitor is awarded an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble sequence must be generated using the current official version of the official WCA scramble program (see [Regulation 4f](regulations:regulation:4f)).
-- 11f) Decisions about an incident may be supported with video or photographic analysis, at the discretion of the WCA Delegate.
+- 5a) Exemplos de defeitos nos quebra-cabeças incluem: peças soltas, peças giradas no lugar e parafusos, tampas ou adesivos destacados.
+- 5b) Se um defeito no quebra-cabeça ocorrer durante uma tentativa, o competidor pode escolher entre reparar o defeito e continuar a tentativa ou pará-la.
+	- 5b1) Se o competidor escolhe reparar o quebra-cabeça, ele deve reparar somente as peças afetadas. Ferramentas e/ou peças de outros quebra-cabeças não podem ser usadas para reparar o original. Punição: desqualificação da tentativa (DNF).
+    - 5b2) Qualquer reparo ao quebra-cabeça não pode dar ao competidor nenhuma vantagem na resolução. Punição: desqualificação da tentativa (DNF).
+    - 5b3) Reparos permitidos:
+        - 5b3a) Se alguma peça se soltou ou saiu do lugar, o competidor pode colocá-la de volta.
+        - 5b3b) Se, depois de reparar o quebra-cabeça mas antes to fim da tentativa, o competidor perceber que o quebra-cabeça está insolúvel, ele pode desmontar e remontar um máximo de 4 peças para tornar o quebra-cabeça solúvel.
+        - 5b3c) Se o quebra-cabeça está insolúvel, e pose ser tornado solúvel rotacionando-se uma peça de canto, o competidor pode corrigir essa peça girando-a no lugar, sem desmontar o quebra-cabeça.
+    - 5b4) Durante tentativas vendadas, o defeito no quebra-cabeça deve ser reparado durante a tentativa, e todos os reparos devem ser feitos pelo competidor vendado. Punição: desqualificação da tentativa (DNF).
+    - 5b5) Se ao final da tentativa alguma parte do quebra-cabeça estiver fisicamente desligada ou não posicionada totalmente, as seguintes regras se aplicam:
+        - 5b5a) Se uma ou mais partes sem faces coloridas forem afetadas, o quebra-cabeça é considerado resolvido.
+        - 5b5b) Se uma parte com uma face colorida for afetada, o quebra-cabeça é considerado resolvido.
+        - 5b5c) Se mais de uma parte com uma face colorida for afetada, o quebra-cabeça é considerado não resolvido (DNF).
+        - 5b5d) Se uma ou mais partes com mais de uma face colorida forem afetadas, o quebra-cabeça é considerado não resolvido (DNF).
+        - 5b5e) As regras [5b5c](regulations:regulation:5b5c) e [5b5d](regulations:regulation:5b5d) sobrepõe-se às [5b5a](regulations:regulation:5b5a) and [5b5b](regulations:regulation:5b5b).
+- 5c) Se um competidor tem um defeito no quebra-cabeça, isso não lhe dá o direito a uma tentativa adicional.
 
 
-## <article-12><notation><notation> Article 12: Notation
+## <article-7><environment><environment> Artigo 7: Ambiente
 
-- 12a) Notation for Rubik's Cube and similar puzzles:
-    - 12a1) Face Moves:
-        - 12a1a) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
-        - 12a1b) Anti-clockwise, 90 degrees: F', B', R', L', U', D'.
-        - 12a1c) 180 degrees: F2, B2, R2, L2, U2, D2.
-    - 12a2) Multiple Outer Slice Moves (outer slice plus adjacent inner slices; n is defined as total number of slices to move; n may be omitted for two slices):
-        - 12a2a) Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw.
-        - 12a2b) Anti-clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw'.
-        - 12a2c) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
-    - 12a3) Outer Block Turn Metric (OBTM) is defined as:
-        - 12a3a) Each move of the categories Face Moves and Multiple Outer Slice Moves is counted as 1 move.
-        - 12a3b) Each rotation is counted as 0 moves.
-- 12b) Rotations for all cube shaped puzzles:
-    - 12b1) Clockwise, 90 degrees: [f] or z, [b] or z', [r] or x, [l] or x', [u] or y, [d] or y'.
-    - 12b2) Anti-clockwise, 90 degrees: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y.
-    - 12b3) 180 degrees: [f2] or z2, [b2] or z2, [r2] or x2, [l2] or x2, [u2] or y2, [d2] or y2.
-- 12c) Notation for Square-1:
-    - 12c1) Moves are applied with the smallest slice of the middle layer on left side of front face.
-    - 12c2) (x,y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise.
-    - 12c3) "/" means: turn the right half of the puzzle 180 degrees.
-- 12d) Notation for Megaminx (scrambling notation only):
-    - 12d1) Moves applied to the upper face:
-        - 12d1a) Clockwise, 72 degrees: U (upper face).
-        - 12d1b) Anti-clockwise, 72 degrees: U' (upper face).
-    - 12d2) Other moves are applied while keeping 3 pieces fixed at top left of the puzzle:
-        - 12d2c) Clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R++ (vertical slices), D++ (horizontal slices).
-        - 12d2d) Anti-clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R-- (vertical slices), D-- (horizontal slices).
-- 12e) Notation for Pyraminx:
-    - 12e1) The puzzle is oriented with the bottom face completely horizontal and the front face facing the person who holds the Pyraminx.
-    - 12e2) Clockwise, 120 degrees: U (upper 2 layers), L (left 2 layers), R (right 2 layers), B (back 2 layers), u (upper vertex), l (left vertex), r (right vertex), b (back vertex).
-    - 12e3) Anti-clockwise, 120 degrees: U' (upper 2 layers), L' (left 2 layers), R' (right 2 layers), B' (back 2 layers), u' (upper vertex), l' (left vertex), r' (right vertex), b' (back vertex).
-- 12g) Notation for Clock:
-    - 12g1) The puzzle is oriented with twelve on top, and either side in front.
-    - 12g2) Move pins up: UR (top-right), DR (bottom-right), DL (bottom-left), UL (top-left), U (both top), R (both right), D (both bottom), L (both left), ALL (all).
-    - 12g3) Turn a wheel next to an up-position pin and move all pins down afterwards: x+ (x clockwise turns), x- (x anti-clockwise turns).
-    - 12g4) Turn around the puzzle so that twelve is still on top, and then move all pins down: y2.
+- 7b) Os espectadores devem permanecer no mínimo 1,5 metros distante das estações de resolução quando elas estiverem em uso.
+- 7c) A iluminação da área de competição deve receber atenção especial. A luz deve ser neutra, de forma que os competidores consigam facilmente diferencias as cores nos quebra-cabeças.
+- 7e) A área de competição deve ser "não-fumante".
+- 7f) Estação de resolução:
+    - 7f1) Definições:
+        - 7f1a) Stackmat: O "Speedstacks Stackmat timer" e um tapete de tamanho compatível.
+        - 7f1b) Mat: O tapete do Stackmat.
+        - 7f1c) Timer: O timer do Stackmat.
+        - 7f1d) Superfície: A superfície plana na qual o Stackmat foi posicionado. O Mat é considerado parte da superfície. O Timer não é considerado parte da superfície.
+    - 7f2) O Timer deve ser anexado ao Mat e posicionado na superfície, com o Timer na parte do Mat mais próxima ao competidor.
+        - 7f2a) Exceção: Para a Resolução com os Pés, o Stackmat deve ser posicionado diretamente no chão. O Timer deve ser posicionado na parte do Mat mais distante do competidor.
+- 7h) O local de competição deve ter uma Área de Competidores.
+    - 7h1) A equipe de organização pode exigir que um competidor que foi chamado para competir permaneça dentro da Área de Competidores até que tenha terminado todas as suas tentativas daquela rodada.
 
 
-## <article-A><speedsolving><speedsolving> Article A: Speed Solving
-
-- A1) Speed Solving attempts must abide by the following procedure.
-    - A1a) The organisation team may enforce time limits for attempts and/or rounds.
-        - A1a1) The default time limit per attempt is 10 minutes, though the organisation team may announce a higher or lower time limit.
-        - A1a2) Cumulative time limits may be enforced (e.g. 3 attempts with a cumulative time limit of 20 minutes). The time elapsed in a DNF result counts towards the cumulative time limit.
-        - A1a3) For each round, any time limits must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
-        - A1a4) The competitor must end each attempt within the time limit. If a competitor reaches the time limit for an attempt/round, the judge stops the attempt immediately and record the result as DNF. Exception: Multiple Blindfolded Solving (see [Regulation H1b1](regulations:regulation:H1b1)).
-        - A1a5) An attempt is considered to meet the time limit if and only if the final result, after any time penalties are applied, is less than the time limit. Exception: Multiple Blindfolded Solving (see [Regulation H1b1](regulations:regulation:H1b1)).
-    - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
-        - A1b1) Simultaneous use of a Stackmat timer is optional.
-        - A1b2) If a time from the Stackmat timer is available, it is the original recorded time. Otherwise, the stopwatch time is the original recorded time. 
-    - A1c) A competitor participating in an event must be able to fulfill the event's requirements (e.g. know how to solve the puzzle). A competitor competing with expectation of a DNF result may be disqualified from the event, at the discretion of the WCA Delegate.
-- A2) Scrambling:
-    - A2a) When called for a round, the competitor submits his puzzle, in its solved state, to the scrambler and waits in the Competitors Area until he is called to compete.
-    - A2b) A scrambler scrambles the puzzle according to the regulations in [Article 4](regulations:article:4).
-    - A2c) After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.
-        - A2c1) The scrambler places a cover over the scrambled puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover remains over the puzzle until the beginning of the attempt.
-    - A2d) When taking a puzzle from the scrambler, the judge briefly inspects the puzzle to ensure thorough scrambling of the puzzle. The judge raises any concerns with the scrambler, who then conducts a detailed check.
-    - A2e) The judge places the puzzle onto the mat in an arbitrary orientation and ensures that it is covered completely. The competitor is not permitted to request a specific orientation.
-- A3) Inspection:
-    - A3a) The competitor may inspect the puzzle at the beginning of each attempt.
-        - A3a1) The competitor is allotted a maximum of 15 seconds to inspect the puzzle and start the solve.
-    - A3b) Before the competitor starts the attempt, the judge resets the timer and, where applicable, the stopwatch.
-        - A3b1) When the judge believes the competitor is ready, he asks "READY?". The competitor must be ready to start the attempt within one minute of being called. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
-        - A3b2) When the competitor confirms his readiness, the judge uncovers the puzzle. If the attempt requires a stopwatch, the judge starts it at the same time.
-    - A3c) The competitor may pick up the puzzle during inspection.
-        - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the attempt (DNF).
-        - A3c2) If the pieces of the puzzle are not fully aligned, then the competitor may align the faces, as long as misalignments stay within the limits of [Regulation 10f](regulations:regulation:10f).
-        - A3c3) The competitor may reset the timer before he starts the solve.
-    - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation and position.
-        - A3d1) The puzzle must not rest on the timer. Penalty: time penalty (+2 seconds).
-        - A3d2) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
-        - A3d3) When 12 seconds of inspection have elapsed, the judge calls "12 SECONDS".
-- A4) Starting the solve:
-    - A4b) The competitor places his hands on the elevated sensor unit of the timer, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
-        - A4b1) The competitor must have no physical contact with the puzzle between the inspection period and the beginning of the solve. Penalty: time penalty (+2 seconds).
-    - A4d) The competitor starts the solve by confirming that the timer light is green and then removing his hands from the timer, thus starting the timer.
-        - A4d1) The competitor must start the solve within 15 seconds of the beginning of the inspection. Penalty: time penalty (+2 seconds).
-        - A4d2) The competitor must start the solve within 17 seconds of the beginning of the inspection. Penalty: disqualification of the attempt (DNF).
-    - A4e) Time penalties for starting the solve are cumulative.
-- A5) During the solve:
-    - A5a) While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge. Penalty: disqualification of the attempt (DNF).
-    - A5b) While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface (also see [Regulation 2i](regulations:regulation:2i)). Penalty: disqualification of the attempt (DNF).
-- A6) Stopping the solve:
-    - A6a) The competitor stops the solve by releasing the puzzle and then stopping the timer.
-        - A6a1) If a stopwatch is in use as the timing device, the competitor ends the solve by releasing the puzzle and notifying the judge that he has stopped the solve.
-        - A6a2) When using a stopwatch without a Stackmat, the competitor's default notification signal consists of releasing the puzzle(s) in his hand and placing his hands on the surface, with palms down. The competitor and the judge may agree on another appropriate notification before the beginning of the solve.
-    - A6b) The competitor is responsible for stopping the timer correctly.
-        - A6b1) If the timer stops before the end of the solve and the timer shows a time strictly below 0.06 seconds, then the attempt is replaced by an extra attempt. A competitor forfeits his right to the additional attempt if the WCA Delegate determines that the timer was stopped deliberately.
-        - A6b2) If the timer stops before the end of the solve and displays a time of 0.06 seconds or higher, then the attempt is disqualified (DNF). Exception: if the competitor can demonstrate that the timer malfunctioned, he may receive an extra attempt, at the WCA Delegate's discretion.
-    - A6c) The competitor must fully release the puzzle before stopping the timer. Penalty: time penalty (+2 seconds).
-    - A6d) The competitor must stop the timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
-    - A6e) The competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been applied, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
-    - A6f) The competitor must not reset the timer until the judge has recorded the result on the score sheet. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
-    - A6g) The judge determines whether the puzzle is solved. He must not make moves or align faces when examining the puzzle. Exception: The judge is permitted to make moves when examining a Clock.
-    - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle before the dispute is resolved.
-    - A6i) Time penalties for stopping the solve are cumulative.
-- A7) Recording results:
-    - A7a) The judge tells the competitor the result.
-        - A7a1) If the judge finds that the puzzle is solved, he calls "OKAY".
-        - A7a2) If the judge assigns any penalties, the judge calls "PENALTY".
-        - A7a3) If the result is DNF, the judge calls "DNF".
-    - A7b) The judge records the result on a score sheet.
-        - A7b1) If penalties are assigned, the judge records the original recorded result displayed on the timer, along with any penalties. The format should be "X + T + Y = F", where X represents the sum of time penalties before/starting the solve, T represents the time displayed on the timer, Y represents a sum of time penalties during/after the solve, and F represents the final result. If X and/or Y is 0, the 0 terms are omitted (e.g. 2 + 17.65 + 2 = 21.65, or 17.65 + 2 = 19.65).
-    - A7c) The judge and competitor must both sign (or initial) the score sheet to acknowledge the result.
-        - A7c1) If the competitor or the judge refuses to accept and sign the score sheet, the WCA Delegate must resolve the dispute.
-    - A7f) When a competitor's score sheet for a round is complete, the judge delivers the score sheet to the score taker.
+## <article-8><competitions><competitions> Artigo 8: Campeonatos //ou competições?
+- 8a) Um campeonato oficial da WCA precisa:
+	- 8a1) Ser aprovado pelo Conselho da WCA.
+	- 8a2) Seguir o Regulamento da WCA.
+	- 8a3) Ter um Delegado da WCA designado presente.
+	- 8a4) Ser anunciado no site da WCA no mínimo duas semanas antes do seu início.
+	- 8a6) Ser publicamente acessível.
+	- 8a7) Usar o Speedstacks Stackmat timer autêntico (Geração 2 ou Pro) para medições dos tempos.
+	- 8a8) Ser aberto a todos que desejarem competir. Restrições devem ser aprovadas pelo Conselho da WCA e claramente indicadas quando o campeonato for anunciado.
+- 8f) Se o Regulamento da WCA não for seguido corretamente durante um campeonato, o Conselho da WCA pode desqualificar as tentativas afetadas.
 
 
-## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
+## <article-9><events><events> Artigo 9: Eventos
 
-- B1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-    - B1a) There is no inspection period.
-    - B1b) The competitor supplies his own blindfold.
-- B2) Starting the attempt:
-    - B2a) The judge resets the timer and stopwatch.
-    - B2b) The competitor places his hands on the elevated sensor unit of the Stackmat, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
-    - B2c) The competitor must have no physical contact with the puzzle before the beginning of the attempt. Penalty: time penalty (+2 seconds).
-    - B2d) The competitor starts the attempt by removing his hands from the timer, thus starting the timer.
-        - B2d1) The competitor removes the cover from the puzzle after starting the timer.
-    - B2e) If a stopwatch is in use, the judge starts the stopwatch as soon as the competitor starts the solve.
-- B3) Memorisation phase:
-    - B3a) The competitor may pick up the puzzle during the memorisation phase.
-    - B3b) The competitor must not make physical notes. Penalty: disqualification of the attempt (DNF).
-    - B3c) The competitor must not apply moves to the puzzle during the memorisation phase.
-- B4) Blindfolded phase:
-    - B4a) The competitor dons the blindfold to start the blindfolded phase.
-    - B4b) The competitor must not apply moves to the puzzle before he has fully donned the blindfold.
-    - B4c) The judge must ensure that there is an opaque object between the competitor's face and the puzzle while the competitor is solving.
-        - B4c1) In all cases, the competitor must wear the blindfold such that his view of the puzzle would still be clearly blocked if the opaque object were not in the way.
-        - B4c2) By default, the judge should place the object (e.g. a sheet of paper or cardboard) between the competitor and the puzzle while the competitor is wearing the blindfold.
-        - B4c3) If the judge and competitor agree beforehand, the competitor may choose to place the puzzle behind a suitable object (e.g. a music stand, the surface of the table) by himself during the blindfolded phase.
-    - B4d) The competitor must not look at the puzzle at any point during the blindfolded phase. Penalty: disqualification of the attempt (DNF).
-    - B4e) Until he applies the first move to the puzzle, the competitor may remove the blindfold to return to the memorisation phase.
-- B5) Stopping the solve:
-    - B5a) When using the Stackmat, the competitor stops the attempt by releasing the puzzle and then stopping the timer.
-    - B5b) When using a stopwatch, the competitor ends the attempt by placing the puzzle back onto the surface and notifying the judge that he is stopping the attempt. At that moment, the judge stops the timer.
-    - B5c) If he is not touching the puzzle, the competitor may remove the blindfold before he stops the timer. He must not touch the puzzle until the end of the attempt. Penalty: disqualification of the attempt (DNF).
-
-
-## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
-
-- C1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-    - C1b) During the solve, the competitor must use only one hand to touch the puzzle. Penalty: disqualification of the attempt (DNF).
-        - C1b2) If a puzzle defect occurs, and the competitor chooses to repair it, he must repair it using only the solving hand. Penalty: disqualification of the attempt (DNF).
-        - C1b3) If a puzzle defect occurs, and pieces of the puzzle briefly come in contact with other body parts without the competitor's intention, this is not considered touching the puzzle, at the discretion of the judge.
-    - C1c) During the solve, once a competitor touches the puzzle with one hand, he must not touch the puzzle with the other hand. Penalty: disqualification of the attempt (DNF).
-
-
-## <article-D><feet><solvingwithfeet> Article D: Solving With Feet
-
-- D1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-    - D1a) During the attempt, the competitor must sit in a chair, sit on the surface, or stand.
-    - D1b) During the attempt, the competitor must only use his feet and the surface. Penalty: disqualification of the attempt (DNF).
-    - D1c) During the solve, the competitor must use only his feet to touch the puzzle. Penalty: disqualification of the attempt (DNF).
-- D3) Starting the solve:
-    - D3a) The competitor places his feet onto the timer sensors.
-    - D3b) The competitor removes his feet from the timer sensors to start the solve.
-- D4) Stopping the solve:
-    - D4a) The competitor stops the timer by placing his feet onto the timer sensors.
-
-
-## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
-
-- E2) Procedure for Fewest Moves Solving:
-    - E2a) The judge distributes a scramble sequence to all competitors. The judge then starts the stopwatch and calls "GO".
-    - E2b) All competitors have a total time limit of 60 minutes to devise a solution.
-        - E2b1) The judge should call "5 MINUTES REMAINING" at 55 minutes, and must call "STOP" at 60 minutes.
-    - E2c) At 60 minutes, each competitor must give the judge a legibly written solution with the competitor's name, using the notation defined for Outer Block Turn Metric (described in [Regulation 12a](regulations:regulation:12a)). Penalty: disqualification of the attempt (DNF).
-    - E2d) The length of the solution is calculated in Outer Block Turn Metric (see [Regulation 12a](regulations:regulation:12a)).
-        - E2d1) The competitor is permitted a maximum solution length of 80 (moves and rotations).
-    - E2e) The competitor's solution must not be directly derived from any part of the scrambling algorithm. Penalty: disqualification of the attempt (DNF).
-        - E2e1) The WCA Delegate may ask the competitor to explain the purpose of each move in his solution, irrespective of scrambling algorithm. If the competitor cannot give a valid explanation, the attempt is disqualified.
-- E3) The competitor may use the following objects during the attempt. Penalty for using unauthorised objects: disqualification of the attempt (DNF).
-    - E3a) Paper and pens (both supplied by judge).
-    - E3b) 1-3 puzzles corresponding to the event (self-supplied).
-    - E3c) Coloured stickers (self-supplied).
+- 9a) A WCA rege campeonatos de:
+	- 9a1) Quebra-cabeças conhecidos como "Rubik's".
+	- 9a2) Outros quebra-cabeças que são manipulados pelo giro dos lados, comumente conhecidos como "twisty puzzles".
+- 9b) Os quebra-cabeças e formatos de eventos oficiais da WCA são:
+    - 9b1) Rubik's Cube (Cubo 3x3x3), Cubo 2x2x2, Cubo 4x4x4, Cubo 5x5x5, Clock, Megaminx, Pyraminx, Square-1 e Cubo 3x3x3 Com Uma Mão.
+        - 9b1a) Os formatos de competições para esses eventos são: "Melhor de X" (no qual X é 1, 2 ou 3), e "Média de 5".
+    - 9b2) Cubo 3x3x3 Com os Pés, Cubo 6x6x6 e Cubo 7x7x7.
+        - 9b2a) Os formatos de competições para esses eventos são: "Melhor de X" (no qual X é 1, 2 ou 3), e "Média de 3".
+    - 9b3) Cubo 3x3x3 Menos Movimentos, Cubo 3x3x3 Vendado, Cubo 4x4x4 Vendado, Cubo 5x5x5 Vendado e Cubo 3x3x3 Múltiplos Cubos Vendado.
+        - 9b3a) Os formatos de competições para esses eventos são: "Melhor de X" (no qual X é 1, 2 ou 3).
+- 9f) Os resultados de uma rodada são medidos da seguinte forma:
+    - 9f1) Todos os resultados cronometrados abaixo de 10 minutos são arredondados para o centésimo de segundo mais próximo. Todas as médias cronometradas abaixo de 10 segundos são arredondas para o centésimo de segundo mais próximo.
+    - 9f2) Todos os resultados e médias cronometrados acima de 10 minutos são arredondados para o segundo mais próximo (por exemplo x.4 se torna x, x.5 se torna x+1).
+    - 9f4) O resultado de uma tentativa é registrado como DNF (Did Not Finish) se a tentativa foi desqualificada ou não foi completada.
+    - 9f5) O resultado de uma tentativa é registrado como DNS (Did Not Start) se o competidor tem direito a uma tentativa mas desiste dela.
+    - 9f6) Nas rodadas "Melhor de X", cada competidor tem X tentativas. O melhor resultados dessas tentativas conta para a posição do competidor na rodada.
+    - 9f7) Nas rodadas "Melhor de X", um DNF ou DNS é o pior resultado.
+    - 9f7) Nas rodadas "Média de 5", os competidores tem 5 tentativas. Dessas 5, a melhor e a pior são removidas, e a média aritmética das 3 tentativas restantes conta para a posição do competidor na rodada.
+    - 9f9) Nas rodadas "Média de 5", um DNF ou DNS é permitido como o pior resultado do competidor na rodada. Se o competidor tem mais de um DNF e/ou DNS na rodada, sua média naquela rodada será DNF.
+    - 9f10) Nas rodadas "Média de 3", os competidores tem 3 tentativas. A média aritmética das 3 conta para a posição do competidor na rodada.
+    - 9f11) Nas rodadas "Média de 3", se o competidor tiver um resultado DNF ou DNS, sua média na rodada será DNF.
+    - 9f12) Nas rodadas "Melhor de X", a ordem dos resultados é baseada no melhor resultado por competidor. Os seguintes critérios são usados para comparar resultados:
+        - 9f12a) Para resultados cronometrados, "melhor" é definido como o menor tempo.
+        - 9f12b) Para a Resolução em Menos Movimentos, "melhor" é definido como a solução de menor comprimento.
+        - 9f12c) Para Múltiplos Cubos Vendado, a ordem dos resultados é baseada no número de *cubos* resolvidos menos o número de *cubos* não resolvidos, em que uma diferença maior é melhor. Se a diferença for menor que 0, a tentativa é considerada não resolvida (DNF). Se dois ou mais competidores obtiverem o mesmo resultado, a ordem dos resultados é baseada no tempo total, em que o menor tempo é melhor. Se dois ou mais competidores obtiverem os mesmo resultado e o mesmo tempo, os resultados são ordenadas com base no número de *cubos* que o competidor não conseguiu resolver, em que menos *cubos* não resolvidos é melhor. //rankings are assessed...pus duas opções.
+    - 9f13) Nas rodadas "Média de 3" e "Média de 5", os resultados são ordenados com base na ordem das médias dos competidores, em que "melhor" é o menor tempo registrado.
+    - 9f14) Nas rodadas "Média de 3" e "Média de 5", se dois ou mais competidores obtiverem médias idênticas, os resultados são ordenados com base na melhor tentativa por competidor, em que "melhor" é definido como o menor tempo.
+    - 9f15) Competidores que obtiverem o mesmo resultado em uma rodada ficam na mesma posição naquela rodada.
+- 9g) Uma Rodada Combinada consiste em duas fases de tentativas, em que os competidores avançam para a segunda fase se satisfizerem um corte designado para a primeira fase.
+    - 9g2) O avanço de um competidor para a próxima fase de uma Rodada Combinada é decidido pela posição (os melhores x competidores) ou por resultado (todos os competidores com o melhor resultado abaixo de X) na primeira fase.
+- 9i) Os resultados de competições oficiais da WCA serão listados nos *rankings* mundias da WCA.
+    - 9i1) A WCA reconhece os seguintes tipos de recordes regionais: recordes nacionais, continentais e mundiais. //acho que não precisa repetir sempre recordes
+    - 9i2) Todos os resultados de uma rodada são considerados como tendo acontecido na última data do calendário daquela rodada. Se um recorde regional é quebrado várias vezes na mesma data do calendário, somente o melhor resultado é reconhecido como tendo quebrado aquele recorde regional.
+    - 9i3) Se as regras da WCA para um evento forem alteradas, os recordes regionais existentes permanecem até que sejam quebrados sob as novas regras.
+- 9j) Cada evento só pode acontecer uma vez por campeonato.
+- 9k) Todos os competidores podem participar em todos os eventos de um campeonato, exceto em casos especificamente aprovados pelo Conselho.
+- 9l) Cada rodada deve ser completada antes que qualquer rodada seguinte do mesmo evento comece.
+- 9m) Os eventos podem ter no máximo quatro rodadas.
+    - 9m1) Eventos com 99 competidores ou menos podem ter no máximo três rodadas.
+    - 9m2) Eventos com 15 competidores ou menos podem ter no máximo duas rodadas.
+    - 9m3) Eentos com 7 competidores ou menos podem ter no máximo uma rodada.
+- 9o) Rodadas Combinadas e Rodadas Qualificatórias contam como uma rodada no evento.
+- 9p) Se um evento tem múltiplas rodadas, então:
+	- 9p1) No mínimo 25% dos competidores têm que ser eliminados entre rodadas consecutivas do mesmo evento.
+	- 9p2) Os competidores que avançam para a próxima rodada devem ser determinados por uma posição de corte ou um tempo de corte na rodada eliminatória anterior.
+	- 9p3) Se um competidor classificado se retira de uma rodada, ele pode ser substituído pelo competidor melhor classificado abaixo do corte na rodada anterior.
+- 9r) Uma rodada qualificatória	deve acontecer antes da primeira rodada do evento.
+	- 9r1) Ao anunciar um evento, a equipe de organização deve incluir:
+		- 9r1a) Qualquer limite para o número de competidores permitidos na primeira rodada do evento.
+		- 9r1b) Qualquer limite para o número de competidores permitidos na rodada qualificatória do evento, e qualquer limite para o número máximo de competidores que avançarão para a primeira rodada.
+        - 9r1c) O resultado de tempo único ou média, obtido em um campeonato anterior, necessário para se classificar diretamente para a primeira rodada do evento.
+		- 9r1d) A última data permitida para determinar o resultado de tempo único ou média no ranking da WCA, necessário para a classificação
+    - 9r2) Cada competidor de um evento que não se classificou diretamente para a primeira rodada daquele evento deve competir na rodada qualificatória para poder participar da primeira rodada.
+    - 9r3) Uma rodada qualificatória pode ser acrescentada especificamente para acomodar competidores recém-registrados, e/ou o número máximo de competidores na rodada qualificatória ou primeira rodada pode ser aumentado. Essas mudanças devem ser feitas no mínimo duas semanas antes do campeonato.
+- 9s) Cada rodada de um evento deve ter um limite de tempo (veja [Regra A1a](regulations:regulation:A1a)).
 
 
-## <article-F><clock><clocksolving> Article F: Clock Solving
+## <article-10><solved-state><solvedstate> Artigo 10: Estado Resolvido
 
-- F1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-- F2) The judge places the scrambled puzzle onto the mat in a standing position.
-- F3) At the end of the inspection period, the competitor places the puzzle onto the mat in a standing position. He must not change the positions of any pins from their scrambled positions before the beginning of the solve. Penalty: disqualification (DNF).
+- 10b) Somente o estado *parado/de repouso* do quebra-cabeça, depos que o cronomêtro foi parado, é considerado.
+- 10c) O quebra-cabeça pode estar em qualquer orientação ao final da tentativa.
+- 10d) Todas as peças do quebra-cabeça devem estar totalmente presas a ele, na posição devida. Exceção: veja [Regra 5b5](regulations:regulation:5b5).
+- 10e) Um quebra-cabeça está resolvido quando todas as cores das faces estão remontadas e todas as partes estão alinhadas, dentro dos limites especificados abaixo:
+	- 10e1) Para cada duas partes adjacentes (por exemplo, duas camadas paralelas e adjacentes de um cubo) do quebra-cabeça que estejam desalinhas além do limite descrito em [Regra 10f](regulations:regulation:10f), o quebra-cabeça é considerado como faltando um movimento para ser resolvido (veja "Outer Block Turn Metric" no [Artigo 12](regulations:article:12)).
+    - 10e2) Se nenhum movimento adicional é necessário para levar o quebra-cabeça ao seu estado resolvido, ele é considerado resolvido sem punição.
+    - 10e3) Se um movimento for necessário, o quebra-cabeça é considerado resolvido, com uma punição de tempo (+2 segundos).
+    - 10e4) Se mais de um movimento é ncessário, o quebra-cabeça é considerado não resolvido (DNF).
+- 10f) Limites de desalinhamentos aceitos para os quebra-cabeças:
+	- 10f1) Quebra-cabeças em format de cubo: no máximo 45 graus.
+	- 10f2) Megaminx: no máximo 36 graus.
+	- 10f3) Pyraminx: no máximo 60 graus.
+	- 10f4) Square-1: no máximo 45 graus (U/D) ou 90 graus (/).
+- 10h) Quebra-cabeças não especificados nesse artigo são julgados de acordo com o estado resolvido geralmente aceito como objetivo do quebra-cabeça, aplicando-se as regras relevantes relativas ao Cubo 3x3x3.
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
+## <article-11><incidents><incidents> Artigo 11: Incidentes
 
-- H1) Standard speed solving procedures is followed, as described in [Article B](regulations:article:B) (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in [Article B](regulations:article:B) are described below.
-    - H1a) Before an attempt, the competitor must notify the judge of the number of puzzles he wishes to attempt blindfolded. The number of puzzles must be at least 2.
-        - H1a1) A competitor is not permitted to change the number of puzzles after the beginning of the attempt.
-        - H1a2) The organisation team must not disclose the competitor's requested number of puzzles until the beginning of the attempt.
-    - H1b) If he is attempting fewer than 6 puzzles, the competitor is allotted a time limit of 10 minutes times the number of puzzles in the attempt, else the time limit is 60 minutes.
-        - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge stops the attempt and the attempt is then scored; the time limit for the attempt counts as the original recorded time.
-    - H1d) Time penalties for the puzzles of the attempt are cumulative.
+- 11a) Incidentes incluem:
+    - 11a1) Execução incorreta dos procedimentos do evento, seja pelos oficiais ou competidores.
+    - 11a2) Interferência ou interrupções das instalações (por exemplo, falta de energia, ativação de alarmes).
+    - 11a3) Mau funcionamento do equipamento.
+- 11b) Se um incidente ocorrer, o Delegado da WCA deve determinar um procedimento imparcial e apropriado.
+- 11d) Se o Regulamento da WCA não for totalmente claro ou se o incidente não estiver previsto no Regulamento, o Delegado da WCA deve tomar sua decisão baseado no espírito esportivo.
+- 11e) Se um incidente ocorrer durante uma tentativa, o Delegado da WCA pode conceder a um competidor uma tentativa adicional, substituindo a tentativa durante a qual o incidente ocorreu. O competidor deve solicitar verbalmente ou por escrito ao juiz e ao Delegado da WCA no momento do incidente, antes de terminar a tentativa original, para *ser elegível* para uma tentativa adiciona. Essa solicitação não garante ao competidor uma tentativa adicional.
+    - 11e1) Se um competidor recebe uma tentativa adicional, esta deve ser embaralhada usando-se um embaralhamento diferente. Esse embaralhamento deve ser gerado usando-se a versão oficial atual do programa de embaralhamento da WCA (ver* [Regra 4f](regulations:regulation:4f)).
+- 11f) Decisões sobre um incidente podem ser *auxiliadas* por evidência de vídeo ou fotografia, a critério do Delegado da WCA.
 
 
-## <article-Z><optional><optional> Article Z: Optional Regulations
+## <article-12><notation><notation> Artigo 12: Notação
 
-Organisation teams may adopt optional regulations to facilitate the administration of the competition.
-The WCA Board must approve any optional regulations for a competition.
+- 12a) Notação para o Cubo 3x3x3 e quebra-cabeças similares:
+	- 12a1) Movimentos de face:
+		- 12a1a) Sentido horário, 90 graus: F (face da frente), B (face de trás), R (face da direita), L (face da esquerda), U (face de cima), D (face de baixo).
+		- 12a1b) Sentido anti-horário, 90 graus: F', B', R', L', U', D'.
+		- 12a1c) 180 graus: F2, B2, R2, L2, U2, D2.
+	- 12a2) Movimentos de camadas múltiplas externas (camada externa mais as camadas internas adjacentes; n é definido como o número total de camadas a se mover; n pode ser omitido para duas camadas):
+		- 12a2a) Sentido horário, 90 graus: nFW, nBw, nRw, nLw, nUw, nDw.
+		- 12a2b) Sentido anti-horário, 90 graus: nFw', nBw', nRw', nLw', nUw', nDw'.
+		- 12a2c) 180 graus: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
+	- 12a3) "Outer Block Turn Metric (OBTM)" é definida como:
+		- 12a3a) Cada movimento das categorias Movimentos de face e Movimentos de camadas múltiplas externas conta como 1 movimento.
+		- 12a3b) Cada rotação conta como 0 movimentos.
+- 12b) Rotações para os quebra-cabeças cúbicos:
+	- 12b1) Sentido horário, 90 graus: [f] ou z, [b] ou z', [r] ou x, [l] ou x', [u] ou y, [d] ou y'.
+	- 12b2) Sentido anti-horário, 90 graus: [f'] ou z', [b'] ou z, [r'] ou x', [l'] ou x, [u'] ou y', [d'] ou y.
+	- 12b3) 180 graus: [f2] ou z2, [b2] ou z2, [r2] ou x2, [l2] ou x2, [u2] ou y2, [d2] ou y2.
+- 12c) Notação para o Square-1:
+	- 12c1) Os movimentos são aplicados com a parte menor da camada do meio à esquerda da face da frente.
+	- 12c2) (x,y) significa: gire a camada superior x vezes 30 graus no sentido horário, gire a camada inferior y vezes 30 graus no sentido horário.
+	- 12c3) "/" significa: gire a metade da direita do quebra-cabeça 180 graus.
+- 12d) Notação para o Megaminx (notação somente para embaralhamento):
+	- 12d1) Movimentos aplicados à face superior:
+		- 12d1a) Sentido horário, 72 graus: U (face de cima).
+		- 12d1b) Sentido anti-horário, 72 graus: U' (face de cima)
+	- 12d2) Os outros movimentos são aplicados mantendo-se 3 peças fixas na parte superior-esquerda do quebra-cabeça:
+		- 12d2c) Movimento de 144 graus no sentido horário de todo o quebra-cabeça, exceto pela camada das três peças na parte superior-esquerda: R++ (camadas verticais), D++ (camadas horizontais).
+		- 12d2d) Movimento de 144 no sentido anti-horário de todo o quebra-cabeça, exceto pela camada das três peças na parte superior-esquerda: R-- (camadas verticais), D-- (camadas horizontais).
+- 12e) Notação para o Pyraminx:
+	- 12e1) O quebra-cabeça é orientado com a face de baixo totalmente horizontal e a face da frente virad apara a pessoa que segura o Pyraminx.
+    - 12e2) Sentido horário, 120 graus: U (2 camadas de cima), L (2 camadas da esquerda), R (2 camadas da direita), B (duas camadas de trás), u (vértice de cima), l (vértice da esquerda), r (vértice da direita), b (vértice de trás).
+    - 12e3) Sentido anti-horário, 120 graus: U' (2 camadas de cima), L' (2 camadas da esquerda), R' (2 camadas da direita), B' (duas camadas de trás), u' (vértice de cima), l' (vértice da esquerda), r' (vértice da direita), b' (vértice de trás).
+- 12g) Notação para o Clock:
+	- 12g1) O quebra-cabeça é orientado com a marca de 12 horas em cima, e qualquer um dos lados na frente.
+	- 12g2) Mover os pinos para cima: UR (superior-direito), DR (inferior-direito), DL (inferior-esquerdo), UL (superior esquerdo), U (os dois de cima), R (os dois da direita), D (os dois de baixo), L (os dois da esquerda), ALL (todos).
+    - 12g3) Girar uma roda próxima a pino levantado e mover todos os pinos para baixo depois: x+ (x giros no sentido horário), x- (x giros no sentido anti-horário).
+    - 12g4) Girar o quebra-cabeça em torno de si mesmo, de forma que a marca de 12 horas continue em cima, e então mover todos os pinos para baixo: y2.
 
-- Z1) The organisation team may require competitors to submit puzzles during registration.
-- Z2) The organisation team may limit the number of events per competitor.
-- Z3) The organisation team may select competitors who directly qualify for certain rounds of certain events based on the results of specific previous competitions.
-- Z4) The organisation team may limit the number of competitors per event, on either a "first come first serve" basis or based upon qualification times or rankings in the WCA world rankings of a previously announced calendar date.
-- Z5) The organisation team may prohibit competitors from participating in specific combinations of events.
+
+## <article-A><speedsolving><speedsolving> Artigo A: Resolvendo Rápido ("Speed Solving")
+
+- A1) Tentativas de "Speed Solving" devem seguir o seguinte procedimento.
+	- A1a) A equipe de organização pode estabelecer limites de tempo para tentativas e/ou rodadas.
+		- A1a1) O tempo limite padrão por tentativa é de 10 minutos, mas a equipe de organização pode anunciar um limite maior ou menor.
+		- A1a2) Limites de tempo cumulativos podem ser aplicados (por exemplo, 3 tentativas com um tempo limite cumulativo de 20 minutos). O tempo passado em um resultado DNF conta para o tempo limite cumulativo.
+        - A1a3) Para cada rodada, qualquer tempo limite deve ser anunciado antes que a rodada comece, e não deve ser mudado depois que a rodada começou. Mudanças tem que ser feitas a critério do Delegado da WCA, que deve analisar cuidadosamente a *justiça* da mudança. //ou alteração?
+        - A1a4) O competidor deve terminar cada tentativa dentro do tempo limite. Se um competidor atingir o tempo limite de uma tentativa/rodada, o juiz para a tentativa imediatamente e registra o resultado como DNF. Exceção: Múltiplos Cubos Vendados (ver [Regra H1b1](regulations:regulation:H1b1)).
+        - A1a5) Uma tentativa é considerada como tendo atendido o tempo limite se e somente se o resultado final, depois da aplicação de quaisquer punições, for menor do que o tempo limite. Exceção: Múltiplos Cubos Vendado (ver [Regra H1b1](regulations:regulation:H1b1)).
+    - A1b) Se o tempo limite para uma tentativa for maior que 10 minutos, um cronômetro é usado para medir o tempo.
+        - A1b1) O uso simultâneo de um "Stackmat timer" é opcional.
+        - A1b2) Se um tempo medido pelo "Stackmat timer" estiver disponível, deverá ser o tempo [original] registrado. Caso contrário, o tempo do cronômetro é o tempo [original] registrado.
+    - A1c) Um competidor participando em um evento deve ser capaz de cumprir as exigências do evento (por exemplo, saber resolver o quebra-cabeça). Um competidor que esteja competindo com um resultado esperado de DNF pode ser desqualificado do evento, a critério do Delegado da WCA.
+- A2) Embaralhamento:
+	- A2a) Quando for chamado para uma rodada, o competidor entrega seu quebra-cabeça, no estado resolvido, para o embaralhador e espera na Área de Competidores até que seja chamado para competir.
+    - A2b) Um embaralhador embaralha o quebra-cabeça de acordo com as regras do [Artigo 4](regulations:article:4).
+    - A2c) O competidor não pode ver o quebra-cabeça, depois que ele começa a ser embaralhado, até que a fase de inspeção comece.
+        - A2c1) O embaralhador posiciona uma *caixa* sobre o quebra-cabeça embaralhado, de forma que seja impossível a qualquer competidor ou espectador ver qualquer parte do quebraç-cabeça. A caixa deve permanecer sobre o quebra-cabeça até o início da tentativa.
+    - A2d) Ao receber um quebra-cabeça do embaralhador, o juiz rapidamente inspeciona-o* para assegurar que foi embaralhado corretamente. Em caso de dúvida, o juiz contata o embaralhador, que faz uma conferência detalhada.
+    - A2e) O juiz posiciona o quebra-cabeça sobre o "Mat" em uma posição aleatória e certifica-se de que ele esteja completamente coberto. O competidor não pode solicitar uma orientação específica.
+- A3) Inspeção:
+    - A3a) O competidor pode inspecionar o quebra-cabeça no início de cada tentativa.
+        - A3a1) O competidor tem um [tempo] máximo de 15 segundos para inspecionar o quebra-cabeça e iniciar a resolução.
+    - A3b) Antes de o competidor iniciar a tentativa, o juiz zera o "Stackmat timer" e, quando aplicável, o cronômetro.
+        - A3b1) Quando o juiz [acredita] que o competidor está pronto, ele pergunta "PRONTO?". O competidor tem que estar pronto para iniciar a tentativa dentro de um minuto após ter sido chamado. Punição: desqualificação da tentativa (DNF), a critério do juiz.
+        - A3b2) Quando o competidor confirma que está pronto, o juiz descobre o quebra-cabeça. Se a tentativa necessita de um cronômetro, o juiz o inicia ao mesmo tempo.
+    - A3c) O competidor pode pegar o quebra-cabeça durante a inspeção.
+        - A3c1) O competidor não pode aplicar movimentos durante a inspeção. Punição: desqualificação da tentativa (DNF).
+        - A3c2) Se as peças do quebra-cabeça não estiverem totalmente alinhadas, o competidor pode alinhar as faces, contanto que os desalinhamentos estejam dentro dos limites da [Regra 10f](regulations:regulation:10f).
+        - A3c3) O competidor pode zerar o "Stackmat timer" antes de começar a resolver.
+    - A3d) No final da inspeção, o competidor coloca o quebra-cabeça sobre o "Mat", em qualquer orientação e posição.
+        - A3d1) O quebra-cabeça não pode ficar no "Stackmat timer". Punição: +2 segundos no tempo. //fica estranho colocar Punição: punição de tempo...talvez deixa só "de tempo" ou "tempo"
+        - A3d2) Quando o tempo de inspeção atingir 8 segundos, o juiz diz "8 SEGUNDOS".
+        - A3d3) Quando o tempo de inspeção atingir 12 segundos, o juiz diz "12 SEGUNDOS".
+- A4) Iniciando a resolução:
+    - A4b) O competidor posiciona suas mãos na parte elevada do "Stackmat timer", com os dedos tocando os sensores e as palmas para baixo. Punição: de tempo (+2 segundos).
+        - A4b1) O competidor não pode ter contato físico com o quebra-cabeça entre o período de inspeção e o início da resolução. Punição: de tempo (+2 segundos).
+    - A4d) O competidor inicia a resolução certificando-se de que a luz do timer está verde e então removendo suas mãos do "Stackmat timer", iniciando-o.
+        - A4d1) O competidor deve iniciar a resolução dentro de 15 segundos após o início da inspeção. Punição: de tempo (+2 segundos).
+        - A4d2) O competidor deve iniciar a resolução dentro de 17 segundos após o início da inspeção. Punição: desqualificação da tentativa (DNF).
+    - A4e) Punição de tempo para o início da resolução são cumulativas.
+- A5) Durante a resolução:
+    - A5a) Enquanto estiver inspecionando ou resolvendo o quebra-cabeça, o competidor não pode se comunicar com ninguém além do juiz. Punição: desqualificação da tentativa (DNF).
+    - A5b) Enquanto estiver inspecionando ou resolvendo o quebra-cabeça, o competidor não pode receber assistência de ninguém ou de nenhum objeto além da superfície (ver também [Regra 2i](regulations:regulation:2i)). Punição: desqualificação da tentativa (DNF).
+- A6) Finalizando a resolução:
+    - A6a) O competidor finaliza a resolução soltando o quebra cabeça e parando o "Stackmat timer".
+        - A6a1) Se um cronômetro está sendo usado como marcador de tempo, o competidor finaliza a resolução soltando o quebra-cabeça e notificando o juiz de que ele terminou a resolução.
+        - A6a2) Quando um cronômetro estiver sendo usado, sem o uso do "Stackmat timer", o sinal padrão do competidor consiste em soltar o(s) quebra-cabeça(s) e colocar suas mãos na superfície, com as palmas para baixo. O competidor e o juiz podem *combinar* outra notificação apropriada antes do início da tentativa.
+    - A6b) É responsabilidade do competiro parar o "Stackmat timer" corretamente.
+        - A6b1) Se o "Stackmat timer" parar antes do fim da resolução e mostrar um tempo abaixo de 0,06 segundos, a tentativa é substituída por uma tentativa adicional. O competidor perde seu direito à tentativa adicional se o Delegado da WCA determinar que o timer foi parado de propósito.
+        - A6b2) Se o "Stackmat timer" parar antes do fim da resolução e mostrar um tempo de 0,06 segundos ou maior, a tentativa é desqualificada (DNF). Exceção: se o competidor conseguir demonstrar que o "Stackmat timer" teve um mau funcionamento, ele pode receber uma tentativa adicional, a critério do Delegado da WCA.
+    - A6c) O competidor deve soltar totalmente o quebra-cabeça antes de parar o "Stackmat timer". Punição: de tempo (+2 segundos).
+    - A6d) O competidor deve parar o "Stackmat timer" usando ambas as mãos, colocadas planas sobre os sensores e com as palmas para baixo. Punição: de tempo (+2 segundos).
+    - A6e) O competidor não pode tocar ou mover o quebra-cabeça até que o juiz o tenha inspecionado. Punição: desqualificação da tentativa (DNF). Exceção: Se nenhum movimento foi aplicado, uma punição de tempo (+2 segundos) pode ser dada ao invés do DNF, a critério do juiz.
+    - A6f) O competidor não pode zerar o "Stackmat timer" até que o juiz tenha anotado o resultado na súmula. Punição: desqualificação da tentativa (DNF), a critério do juiz.
+    - A6g) O juiz determina se o quebra-cabeça está resolvido. Ele não pode fazer movimentos ou alinhar faces ao examinar o quebra-cabeça. Exceção: É permitido ao juiz fazer movimentos ao examinar o Clock.
+    - A6h) Em caso de disputa, nenhum movimento ou alinhamento pode ser aplicado ao quebra-cabeça até que a *disputa* seja resolvida.
+    - a6i) Punições de tempo para a parte de terminar a resolução são cumulativas.
+- A7) Registrando resultados:
+    - A7a) O juiz diz ao competidor o resultado.
+        - A7a1) Se o juiz verifica que o quebra-cabeça está resolvido, ele diz "OK".
+        - A7a2) Se o juiz aplica alguma punição, ele diz "Punição".
+        - A7a3) Se o resultado for DNF, o juiz diz "DNF".
+    - A7b) O juiz anota o resultado em uma súmula.
+        - A7b1) Se alguma punição for aplicada, o juiz anota o resultado original mostrado no "Stackmat timer", juntamente com quaisquer penalidades. O formato deve ser "X + T + Y = F", em que X representa a soma das punições de tempo antes/no início da resolução, T represneta o tempo mostrado no "Stackmat timer", Y representa a soma das punições de tempo durante/depois da resolução, e F representa o resultado final. Se X e/ou Y forem 0, o termo é omitido (por exemplo, 2 + 17,65 + 2 = 21,65, ou 17,65 + 2 = 19,65).
+    - A7c) O juiz e o competidor tem que assinar (ou colocar sua inicial) a súmula para reconhecer o resultado.
+        - A7c1) Se o competidor ou o juiz se recusar a aceitar e assinar a súmula, o Delegado da WCA deve resolver a disputa.
+    - A7f) Quando a súmula de um competidor em uma rodada estiver completa, o juiz a entrega para o anotador de resultados.
+
+
+## <article-B><blindfolded><blindfoldedsolving> Artigo B: Resolução Vendada
+
+- B1) O procedimento padrão do "speed solving" é seguido, como descrito no [Artigo A](regulations:article:A) (Resolvendo Rápido). Regras adicionais que se sobrepõe aos procedimentos correspondentes do [Artigo A](regulations:article:A) estão descritas abaixo.
+    - B1a) Não há período de inspeção.
+    - B1b) O competidor fornece sua própria venda.
+- B2) Iniciando a tentativa:
+	- B2a) O juiz zera o "Stackmat timer" e o cronômetro.
+	- B2b) O competidor posiciona suas mãos na parte elevada do "Stackmat timer", com os dedos tocando os sensores e as palmas para baixo. Punição: +2 segundos no tempo.
+    - B2c) O competidor não pode ter contato físico com o quebra-cabeça entre o período de inspeção e o início da resolução. Punição: de tempo (+2 segundos).
+    - B2d) O competidor inicia a tentativa removendo suas mãos do "Stackmat timer", iniciando-o.
+		- B2d1) O competidor descobre o quebra-cabeça depois de ter iniciado o "Stackmat timer".
+	- B2e) Se um cronômetro for usado, o juiz o inicia no momento em que o competidor inicia a resolução.
+- B3) Fase de memorização:
+	- B3a) O competidor pode pegar o quebra-cabeça durante fase de memorização.
+	- B3b) O competidor não pode fazer anotações. Punição: desqualificação da tentativa (DNF).
+	- B3c) O competidor não pode aplicar movimentos ao quebra-cabeça durante a fase de memorização.
+- B4) Fase vendada:
+	- B4a) O competidor coloca a venda para iniciar a fase vendada.
+	- B4b) O competidor não pode aplicar movimentos ao quebra-cabeça antes de ter colocado totalmente a venda.
+	- B4c) O juiz deve assegurar-se de que há um objeto opaco entre o quebra-cabeça e o rosto do competidor enquanto ele estiver resolvendo.
+        - B4c1) Em todos os casos, o competidor deve usar a venda de forma que sua visão do quebra-cabeça ainda estaria claramente bloqueada se o objeto opaco não estivesse no caminho.
+        - B4c2) Por padrão, o juiz deve posicionar o objeto (por exemplo, uma folha de papel ou cartão) entre o quebra-cabeça e o competidor enquanto ele estiver usando a venda.
+        - B4c3) Se o juiz e o competidor combinarem anteriormente, o competidor pode escolher posicionar ele mesmo o quebra-cabeça atrás de um objeto apropriado (por exemplo, uma estante de partitura, a superfície da mesa) durante a fase vendada.
+    - B4d) O competidor não pode olhar o quebra-cabeça em nenhum momento durante a fase vendada. Punição: desqualificação da tentativa (DNF).
+    - B4e) O competidor pode remover a venda e retornar à fase de memorização antes que aplique o primeiro movimento ao quebra-cabeça.
+- B5) Finalizando a resolução:
+	- B5a) Quando estiver usando o "Stackmat", o competidor finaliza a tentativa soltando o quebra-cabeça e parando o timer.
+    - B5b) Quando estiver usando um cronômetro, o competidor finaliza a tentativa colocando o quebra-cabeça de volta na superfície e avisando ao juiz que ele terminou a tentativa. Nesse momento, o juis para o cronômetro.
+    - B5c) Se ele não estiver tocando o quebra-cabeça, o competidor pode remover a venda antes de parar o timer. Ele não pode tocar o quebra-cabeça até o fim da tentativa. Punição: desqualificação da tentativa (DNF).
+
+
+## <article-C><one-handed><onehandedsolving> Artigo C: Resolvendo com uma mão
+
+- C1) O procedimento padrão do "speed solving" é seguido, como descrito no [Artigo A](regulations:article:A) (Resolvendo Rápido). Regras adicionais que se sobrepõe aos procedimentos correspondentes do [Artigo A](regulations:article:A) estão descritas abaixo.
+    - C1b) Durante a resolução, o competidor só pode usar uma mão para tocar o quebra-cabeça. Punição: desqualificação da tentativa (DNF).
+        - C1b2) Se um defeito no quebra-cabeça ocorrer, e o competidor escolher repará-lo, ele deve fazer o reparo usando apenas a mão usada na resolução. Punição: desqualificação da tentativa (DNF).
+        - C1b3) Se um defeito no quebra-cabeça ocorrer, e peças dele entrarem em contato brevemente com outras partes do corpo do competidor de forma não intencional, isso não é considerado como tocar o quebra-cabeça, a critério do juiz.
+    - C1c) Durante a resolução, uma vez que o competidor tocar o quebra-cabeça com uma mão, ele não pode tocá-lo com a outra mão. Punição: desqualificação da tentativa (DNF).
+
+
+## <article-D><feet><solvingwithfeet> Artigo D: Resolvendo com os pés
+
+- D1) O procedimento padrão do "speed solving" é seguido, como descrito no [Artigo A](regulations:article:A) (Resolvendo Rápido). Regras adicionais que se sobrepõe aos procedimentos correspondentes do [Artigo A](regulations:article:A) estão descritas abaixo.
+    - D1a) Durante a tentativa, o competidor deve se sentar numa cadeira, na superfície ou ficar de pé.
+    - D1b) Durante a tentativa, o competidor só pode usar seu pés e a superfície. Punição: desqualificação da tentativa (DNF).
+    - D1c) Durante a resolução, o competidor só pode usar seus pés para tocar o quebra-cabeça. Punição: desqualificação da tentativa (DNF).
+- D3) Iniciando a resolução:
+	- D3a) O competidor posiciona seus pés nos sensores do "Stackmat timer".
+	- D3b) O competidor remove seus pés dos sensores do "Stackmat timer" para iniciar a resolução.
+- D4) Finalizando a resolução:
+	- D4a) O competidor para o "Stackmat timer" colocando seus pés nos sensores. //não precisa falar que são do timer, eu acho
+
+
+## <article-E><fewest-moves><fewestmovessolving> Artigo E: Resolvendo em Menos Movimentos
+
+- E2) Procedimento para Resolução em Menos Movimentos:
+	- E2a) O juiz distribiu um embaralhamento para todos os competidores. Ele então inicia o cronômetro e diz "VAI".
+	- E2b) Todos os competidores tem um limite total de tempo de 60 minutos para encontrar uma solução.
+		- E2b1) O juiz deve dizer "5 MINUTOS RESTANTES" quanto o tempo atingir 55 minutos, e deve dizer "PAREM" quando o tempo atingir 60 minutos.
+	- E2c) Ao final dos 60 minutos, cada competidor deve entregar ao juiz uma solução escrita de forma legível, com o nome do competidor, usando a notação definida por "Outer Block Turn Metric" (descrita na [Regra 12a](regulations:regulation:12a)). Punição: desqualificação da tentativa (DNF).
+    - E2d) O tamanho* da solução é calculado usando-se a "Outer Block Turn Metric" (ver [Regra 12a](regulations:regulation:12a)).
+        - E2d1) O tamanho máximo permitido para a solução é de 80 (movimentos e rotações).
+    - E2e) A solução do competidor não pode ser diretamente derivada de alguma parte do algoritmo de embaralhamento. Punição: desqualificação da tentativa (DNF).
+        - E2e1) O Delegado da WCA pode pedir ao competidor que explique o propósito de cada movimento em sua solução, independentemente do algoritmo de embaralhamento. Se o competidor não puder dar uma explicação válida, a tentativa é desqualificada.
+- E3) O competidor pode usar os seguintes objetos durante a tentativa. Punição por usar objetos não-autorizado: desqualificação da tentativa (DNF).
+    - E3a) Papel e caneta (ambos fornecidos pelo juiz).
+    - E3b) 1-3 quebra-cabeças correspondentes ao evento (fornecidos pelo competidor).
+    - E3c) Adesivos coloridos (mesma coisa).
+
+
+## <article-F><clock><clocksolving> Artigo F: Resolvendo o Clock
+
+- F1) O procedimento padrão do "speed solving" é seguido, como descrito no [Artigo A](regulations:article:A) (Resolvendo Rápido). Regras adicionais que se sobrepõe aos procedimentos correspondentes do [Artigo A](regulations:article:A) estão descritas abaixo.
+- F2) O juiz posiciona o quebra-cabeça embaralhado sobre o "Mat" na posição "em pé".
+- F3) Ao final do período de inspeção, o competidor posiciona o quebra-cabeça sobre o "Mat" na posição "em pé". Ele não pode mudar a posição de nenhum dos pinos [...] antes do início da resolução. Punição: desqualificação (DNF).
+
+
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Artigo H: Resolvendo Múltiplos Cubos Vendado
+
+- H1) O procedimento padrão do "speed solving" é seguido, como descrito no [Artigo B](regulations:article:B) (Resolvendo Vendado). Regras adicionais que se sobrepões aos procedimentos correspondentes do [Artigo B](regulations:article:B) estão descritas abaixo.
+    - H1a) Antes da tentativa, o competidor deve avisar ao juiz o número de quebra-cabeças que ele deseja tentar resolver vendado. Esse número deve ser no mínimo 2.
+        - H1a1) O competidor não pode mudar o número de quebra-cabeças depois de ter iniciado a tentativa.
+        - H1a2) A equipe de organização não pode divulgar o número solicitado pelo competidor antes do início da tentativa.
+    - H1b) Se o competidor estiver tentando menos de 6 quebra-cabeças, ele tem um limite de tempo igual a 10 minutos vezes o número de quebra-cabeças na tentativa; em outros casos o limite de tempo é de 60 minutos.
+        - H1b1) O competidor pode sinalizar o fim da tentativa a qualquer momento. Se e quando o limite de tempo for atingido, o juiz para a tentativa e ela é pontuada; o limite de tempo conta como o tempo original registrado.
+    - H1d) Punições de tempo para os quebra-cabeças da tentativa são cumulativas.
+
+
+## <article-Z><optional><optional> Artigo Z: Regras Opcionais
+
+Equipes de organização podem adotar regras opcionais para facilitar a administração do campeonato.
+O Consolho da WCA deve aprovar qualquer regra adicional para um campeonato.
+
+- Z1) A equipe de organização pode solicitar que os competidores entreguem seus quebra-cabeças durante a inscrição.
+- Z2) A equipe de organização pode limitar o número de competidores por evento.
+- Z3) A equipe de organização pode selecionar competidores que se classificam diretamente para certas rodadas de certos eventos, baseando-se em resultados de competições anteriores específicas.
+- Z4) A equipe de organização pode limitar o número de competidores por evento, seja na forma de "quem chegar primeiro leva" ou baseado em tempos de qualificação ou rankings na WCA de um ano calendário previamente anunciado.
+- Z5) A equipe de organização pode restringir a participação de competidores em uma combinação de eventos específica.
 
