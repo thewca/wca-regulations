@@ -15,7 +15,7 @@ O Regulamento da WCA é também complementado pelas [Orientações Adicionais](g
 
 ### Vocabulário
 Para tornar o Regulamento e as Orientações mais fáceis de ler, nós usamos "ele" onde o leitor deve interpretar "ela" ou "ele".
-O uso das palavras "deve", "não deve", "", "" e "pode" está de acordo com [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
+O uso das palavras "precisa", "não precisa", "deve", "não deve" e "pode" está de acordo com [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
 ### Informação na Internet
 Website da World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)
