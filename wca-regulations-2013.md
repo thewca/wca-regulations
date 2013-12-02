@@ -326,13 +326,13 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 ## <article-A><speedsolving><speedsolving> Article A: Speed Solving
 
 - A1) Speed Solving attempts must abide by the following procedure.
-    - A1a) The organisation team may enforce time limits for attempts and/or rounds.
-        - A1a1) The default time limit per attempt is 10 minutes, though the organisation team may announce a higher or lower time limit.
-        - A1a2) Cumulative time limits may be enforced (e.g. 3 attempts with a cumulative time limit of 20 minutes). The time elapsed in a DNF result counts towards the cumulative time limit.
+    - A1a) The organisation team may enforce time limits for solves and/or rounds.
+        - A1a1) The default time limit per solve is 10 minutes, though the organisation team may announce a higher or lower time limit.
+        - A1a2) Cumulative time limits may be enforced (e.g. 3 solves with a cumulative time limit of 20 minutes). The time elapsed in a DNF result counts towards the cumulative time limit.
         - A1a3) For each round, any time limits must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
-        - A1a4) The competitor must end each attempt within the time limit. If a competitor reaches the time limit for an attempt/round, the judge stops the attempt immediately and records the result as DNF. Exception: Multiple Blindfolded Solving (see [Regulation H1b1](regulations:regulation:H1b1)).
-        - A1a5) An attempt is considered to meet the time limit if and only if the final result, after any time penalties are applied, is less than the time limit. Exception: Multiple Blindfolded Solving (see [Regulation H1b1](regulations:regulation:H1b1)).
-    - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
+        - A1a4) The competitor must end each solve within the time limit. If a competitor reaches the time limit for a solve/round, the judge stops the attempt immediately and records the result as DNF. Exception: Multiple Blindfolded Solving (see [Regulation H1b1](regulations:regulation:H1b1)).
+        - A1a5) A solve is considered to meet the time limit if and only if the final result, after any time penalties are applied, is less than the time limit. Exception: Multiple Blindfolded Solving (see [Regulation H1b1](regulations:regulation:H1b1)).
+    - A1b) If the time limit for a solve is greater than 10 minutes, a stopwatch must be used for timekeeping.
         - A1b1) Simultaneous use of a Stackmat timer is optional.
         - A1b2) If a time from the Stackmat timer is available, it is the original recorded time. Otherwise, the stopwatch time is the original recorded time. 
     - A1c) A competitor participating in an event must be able to fulfill the event's requirements (e.g. know how to solve the puzzle). A competitor competing with expectation of a DNF result may be disqualified from the event, at the discretion of the WCA Delegate.
