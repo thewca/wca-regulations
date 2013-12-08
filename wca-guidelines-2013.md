@@ -94,7 +94,7 @@ To be more informative, each Guideline is classified using one of the following 
 
 ## <article-8><competitions><competitions> Article 8: Competitions
 
-- 8a4+) [RECOMMENDATION] Changes to increase the maximum number of competitors in qualification round or first round, or to add a qualification round for newly registered competitors should be made at least one month before the competition (see [Regulation 9r3](regulations:regulation:9r3)).
+- 8a4+) [RECOMMENDATION] Changes to increase the maximum number of competitors in the first round  should be made at least one month before the competition (see [Regulation 9r3](regulations:regulation:9r3)).
 - 8a4++) [RECOMMENDATION] The competition should be announced at least one month before the beginning of the competition.
 - 8a5+) [SEPARATE][RECOMMENDATION] The competition should have at least 12 competitors.
 
@@ -105,7 +105,6 @@ To be more informative, each Guideline is classified using one of the following 
 - 9b++) [ADDITION] Events other than those specified in [Regulation 9b](regulations:regulation:9b) may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
 - 9f5+) [CLARIFICATION] The result for an attempt is DNS if the competitor was eligible for the attempt and did not attempt it. If the competitor did not qualify for an attempt (e.g. in a combined round), he does not have any result for the attempt.
 - 9q+) [SEPARATE][RECOMMENDATION] Events and rounds should have at least 2 competitors.
-- 9r+) [EXPLANATION] The goal of a qualification round is to let unranked or low ranked competitors qualify for the first round of an event with many registered competitors.
 
 
 ## <article-0><solved-state><solvedstate> Article 10: Solved State
