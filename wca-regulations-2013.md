@@ -390,6 +390,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A7b1) If penalties are assigned, the judge records the original recorded result displayed on the timer, along with any penalties. The format should be "X + T + Y = F", where X represents the sum of time penalties before/starting the solve, T represents the time displayed on the timer, Y represents a sum of time penalties during/after the solve, and F represents the final result. If X and/or Y is 0, the 0 terms are omitted (e.g. 2 + 17.65 + 2 = 21.65, or 17.65 + 2 = 19.65).
     - A7c) The judge and competitor must both sign (or initial) the score sheet to acknowledge the result.
         - A7c1) If the competitor or the judge refuses to accept and sign the score sheet, the WCA Delegate must resolve the dispute.
+        - A7c2) The competitor must not sign an attempt on the score sheet before the judge has recorded the final result for that attempt. If a competitor signs (or otherwise marks) an attempt before he has begun it, or before the judge has finished recording the result, he forfeits the attempt and the result will be considered DNS.
     - A7f) When a competitor's score sheet for a round is complete, the judge delivers the score sheet to the score taker.
 
 
