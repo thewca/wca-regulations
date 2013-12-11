@@ -152,6 +152,7 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
 
 - E2b+) [CLARIFICATION] A competitor may choose to stop his attempt early by handing in a solution before the time limit.
+- E3b+) [REMINDER] "Rubik's Cube" refers only to the standard 3x3x3 puzzle.
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
