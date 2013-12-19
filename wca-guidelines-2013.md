@@ -76,6 +76,8 @@ To be more informative, each Guideline is classified using one of the following 
 - 5b5++) [EXAMPLE] Examples of pieces physically detached, resulting in a "DNF": two 3x3x3 center caps, two big cube center pieces, a 3x3x3 edge piece, a 4x4x4 edge piece ("wing"), any combination of two pieces that both have coloured faces.
 - 5b5+++) [EXAMPLE] Example of pieces not fully attached, resulting in a solved state: a 5x5x5 centre piece twisted in its spot.
 - 5b5++++) [EXAMPLE] Example of pieces physically attached but not fully placed, resulting in a "DNF": a 3x3x3 edge piece slightly popped out.
+- 5c+) [REMINDER] If a competitor has a puzzle defect, this does not give him the right to an extra attempt.
+
 
 ## <article-6><awards><awards> Article 6: Awards/prizes/honours
 

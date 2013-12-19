@@ -160,7 +160,6 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 5b5c) If more than one part with one coloured face is affected, the puzzle is considered unsolved (DNF).
         - 5b5d) If one or more parts with more than one coloured face is affected, the puzzle is considered unsolved (DNF).
         - 5b5e) Regulations [5b5c](regulations:regulation:5b5c) and [5b5d](regulations:regulation:5b5d) supersede [5b5a](regulations:regulation:5b5a) and [5b5b](regulations:regulation:5b5b).
-- 5c) If a competitor has a puzzle defect, this does not give him the right to an extra attempt.
 
 
 ## <article-7><environment><environment> Article 7: Environment
