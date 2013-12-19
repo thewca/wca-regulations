@@ -105,7 +105,8 @@ To be more informative, each Guideline is classified using one of the following 
 
 - 9b+) [ADDITION] The preferred format for the final of an event is "Average of 5" or "Mean of 3", if possible.
 - 9b++) [ADDITION] Events other than those specified in [Regulation 9b](regulations:regulation:9b) may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
-- 9f5+) [CLARIFICATION] The result for an attempt is DNS if the competitor was eligible for the attempt and did not attempt it. If the competitor did not qualify for an attempt (e.g. in a combined round), he does not have any result for the attempt.
+- 9f4+) [EXPLANATION] The result of an attempt is DNF only if the competitor began the attempt by indicating his readiness (see [Regulation A3b2](regulations:regulation:A3b2)) but the attempt was disqualified.
+- 9f5+) [CLARIFICATION] The result for an attempt is DNS if the competitor was eligible for the attempt and did not begin it (see [Regulation A3b2](regulations:regulation:A3b2)). If the competitor did not qualify for an attempt (e.g. in a combined round), he does not have any result for the attempt.
 - 9q+) [SEPARATE][RECOMMENDATION] Events and rounds should have at least 2 competitors.
 - 9r+) [EXPLANATION] The goal of a qualification round is to let unranked or low ranked competitors qualify for the first round of an event with many registered competitors.
 
