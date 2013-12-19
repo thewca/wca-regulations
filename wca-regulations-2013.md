@@ -306,7 +306,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 12c2) (x,y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise.
     - 12c3) "/" means: turn the right half of the puzzle 180 degrees.
 - 12d) Notation for Megaminx (scrambling notation only):
-    - 12d1) Moves applied to the upper face:
+    - 12d1) Face Moves:
         - 12d1a) Clockwise, 72 degrees: U (upper face).
         - 12d1b) Anti-clockwise, 72 degrees: U' (upper face).
     - 12d2) Other moves are applied while keeping 3 pieces fixed at top left of the puzzle:
