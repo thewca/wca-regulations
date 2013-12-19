@@ -5,15 +5,15 @@
 
 ## Notes
 
-### WCA Regulations 
+### WCA Regulations
 
-The WCA Guidelines supplement the [WCA Regulations](regulations:top). Please see the Regulations for more information about the WCA.  
+The WCA Guidelines supplement the [WCA Regulations](regulations:top). Please see the Regulations for more information about the WCA.
 
 ### Numbering
 
 Guidelines are numbered in correspondence with related regulations. Note that mutiple Guidelines may correspond to the same Regulation, and some Guidelines correspond to Regulations that do not exist anymore.
 
-### Labels 
+### Labels
 
 To be more informative, each Guideline is classified using one of the following labels. Note that this should be treated as metadata, not as a description of importance.
 
