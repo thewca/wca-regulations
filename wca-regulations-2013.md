@@ -325,7 +325,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 ## <article-A><speedsolving><speedsolving> Article A: Speed Solving
 
-- A1) Speed Solving attempts must abide by the following procedure.
+- A1) Speed Solving attempts must abide by the following procedures.
     - A1a) The organisation team may enforce time limits for solves and/or rounds.
         - A1a1) The default time limit per solve is 10 minutes, though the organisation team may announce a higher or lower time limit.
         - A1a2) Cumulative time limits may be enforced (e.g. 3 solves with a cumulative time limit of 20 minutes). The time elapsed in a DNF result counts towards the cumulative time limit.
@@ -395,7 +395,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 ## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
 
-- B1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
+- B1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
     - B1a) There is no inspection period.
     - B1b) The competitor supplies his own blindfold.
 - B2) Starting the attempt:
@@ -426,7 +426,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 ## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
 
-- C1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
+- C1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
     - C1b) During the solve, the competitor must use only one hand to touch the puzzle. Penalty: disqualification of the attempt (DNF).
         - C1b2) If a puzzle defect occurs, and the competitor chooses to repair it, he must repair it using only the solving hand. Penalty: disqualification of the attempt (DNF).
         - C1b3) If a puzzle defect occurs, and pieces of the puzzle briefly come in contact with other body parts without the competitor's intention, this is not considered touching the puzzle, at the discretion of the judge.
@@ -435,7 +435,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 ## <article-D><feet><solvingwithfeet> Article D: Solving With Feet
 
-- D1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
+- D1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
     - D1a) During the attempt, the competitor must sit in a chair, sit on the surface, or stand.
     - D1b) During the attempt, the competitor must only use his feet and the surface. Penalty: disqualification of the attempt (DNF).
 - D3) Starting the solve:
@@ -464,14 +464,14 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 ## <article-F><clock><clocksolving> Article F: Clock Solving
 
-- F1) Standard speed solving procedures is followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
+- F1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
 - F2) The judge places the scrambled puzzle onto the mat in a standing position.
 - F3) At the end of the inspection period, the competitor places the puzzle onto the mat in a standing position. He must not change the positions of any pins from their scrambled positions before the beginning of the solve. Penalty: disqualification of the attempt (DNF).
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
 
-- H1) Standard blindfolded solving procedures is followed, as described in [Article B](regulations:article:B) (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in [Article B](regulations:article:B) are described below.
+- H1) Standard blindfolded solving procedures are followed, as described in [Article B](regulations:article:B) (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in [Article B](regulations:article:B) are described below.
     - H1a) Before an attempt, the competitor must notify the judge of the number of puzzles he wishes to attempt blindfolded. The number of puzzles must be at least 2.
         - H1a1) A competitor is not permitted to change the number of puzzles after the beginning of the attempt.
         - H1a2) The organisation team must not disclose the competitor's requested number of puzzles until the beginning of the attempt.
