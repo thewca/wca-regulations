@@ -32,6 +32,7 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-1><officials><officials> Article 1: Officials
 
 - 1c3+) [RECOMMENDATION] Results should be ready at the end of the last day of competition.
+- 1c3++) [ADDITION] Physical records (e.g. score cards, written solutions from Fewest Moves Solving) must be retained for a minimum of one month. Digital records (e.g. scramble sequences, results) must be retained permanently.
 - 1c3b+) [CLARIFICATION] If there are multiple groups, it is not necessary to identify which competitor was in which groups.
 - 1c4+) [RECOMMENDATION] Corrections to the results should be available within one week of the competition date.
 - 1c10+) [CLARIFICATION] It is sufficient to ensure access to a digital copy of the Regulations.
