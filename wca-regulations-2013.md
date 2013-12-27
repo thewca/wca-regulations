@@ -120,7 +120,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3h1) "Pillowed" puzzles are not permitted. Exception: Pillowed 7x7x7 Cubes are permitted.
     - 3h2) "Stickerless" puzzles, and other puzzles whose face colours are visible inside, are not permitted.
     - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
-    - 3h4) Custom inserts that are approximately the same shape and size as the traditional paper inserts are permitted on Clock, at the discretion of the WCA Delegate. The inserts must have a clear indication of 12 o'clock that matches the original inserts.
+    - 3h4) For Clock, custom "inserts" (the same shape and size as the traditional paper inserts) are permitted, at the discretion of the WCA Delegate. The inserts must have a clear indication of 12 o'clock that matches the original inserts.
 - 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that distinguish any piece from a similar piece.
     - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
     - 3j2) Definition: Two pieces are similar to each other if they are identical in shape and size, or mirrored in shape and identical in size.
