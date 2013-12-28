@@ -486,9 +486,9 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
 
 - H1) Standard blindfolded solving procedures are followed, as described in [Article B](regulations:article:B) (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in [Article B](regulations:article:B) are described below.
-    - H1a) Before the attempt, the competitor must notify the judge of the number of puzzles he wishes to attempt blindfolded. The number of puzzles must be at least 2.
-        - H1a1) A competitor is not permitted to change the number of puzzles after the beginning of the attempt.
-        - H1a2) The organisation team must not disclose the competitor's requested number of puzzles until the beginning of the attempt.
+    - H1a) Before an attempt, the competitor must submit the to the organisation team number of puzzles (at least 2) he wishes to attempt.
+        - H1a1) A competitor is not permitted to change the number of puzzles after submitting his number to the organisation team.
+        - H1a2) A competitor may request to keep his submission private until all competitors have submitted their numbers. Once all competitors have reported their numbers, the information becomes public (e.g. a competitor may ask for the numbers of any other competitors before starting his attempt).
     - H1b) If he is attempting fewer than 6 puzzles, the competitor is allotted a time limit of 10 minutes times the number of puzzles in the attempt, else the time limit is 60 minutes.
         - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge stops the attempt and the attempt is then scored; the time limit for the attempt counts as the original recorded time.
     - H1d) Time penalties for the puzzles of the attempt are cumulative.
