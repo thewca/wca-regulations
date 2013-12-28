@@ -1,6 +1,6 @@
-# <wca-title>WCA Guidelines 2013
+# <wca-title>WCA Guidelines 2014
 
-<version>Version: May 21, 2013
+<version>Version: January 1, 2014
 
 
 ## Notes
