@@ -136,10 +136,11 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 4b) Puzzles must be scrambled using computer-generated random scramble sequences.
     - 4b1) Generated scramble sequences must not be inspected before the competition, and must not be filtered or selected in any way by the WCA Delegate.
     - 4b2) Scramble sequences for a round must be available only to the WCA Delegate and the scramblers for the event, until the end of the round. Exception: For Fewest Moves Solving, competitors receive scrambling sequences during the round (see [Article E](regulations:article:E)).
-    - 4b3) A scramble sequences must produce a random state that requires at least 2 moves to solve. Exceptions:
+    - 4b3) A scramble sequence must produce a random state that requires at least 2 moves to solve. Exceptions:
         - 4b3a) 2x2x2 Cube: The (random) state must require at least 4 moves to solve.
         - 4b3b) Pyraminx and Skewb: The (random) state must require at least 7 moves to solve.
-        - 4b3c) 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, and Megaminx: sufficiently many random moves (instead of random state).
+        - 4b3c) 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, and Megaminx: sufficiently many random moves (instead of random state), at least two moves to solve.
+    - 4b4) For events without inspection, the scramble sequence must also put the puzzle in a random orientation (equal probability for each orientation).
 - 4d) Scrambling orientation:
     - 4d1) NxNxN puzzles and Megaminx are scrambled with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.
     - 4d2) Pyraminx is scrambled with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
@@ -347,7 +348,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - A2c) After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.
         - A2c1) The scrambler places a cover over the scrambled puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover remains over the puzzle until the beginning of the attempt.
     - A2d) When taking a puzzle from the scrambler, the judge briefly inspects the puzzle to ensure thorough scrambling of the puzzle. The judge raises any concerns with the scrambler, who then conducts a detailed check.
-    - A2e) The judge places the puzzle onto the mat in an arbitrary orientation and ensures that it is covered completely. The competitor is not permitted to request a specific orientation.
+    - A2e) The judge places the puzzle onto the mat in an arbitrary orientation while ensuring that it remains completely covered.
+      - A2e1) The competitor is not permitted to request a specific orientation, and the judge must not influence the orientation he places the puzzle on the solving station based on what he knows or expects the puzzle state to be.
 - A3) Inspection:
     - A3a) The competitor may inspect the puzzle at the beginning of each attempt.
         - A3a1) The competitor is allotted a maximum of 15 seconds to inspect the puzzle and start the solve.
