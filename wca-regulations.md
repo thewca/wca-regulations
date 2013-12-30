@@ -150,7 +150,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 4d1) NxNxN puzzles and Megaminx are scrambled with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.
     - 4d2) Pyraminx is scrambled with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
     - 4d3) Square-1 is scrambled with the darker colour on front (out of the 2 possible scrambling orientations).
-    - 4d4) Clock is scrambled with the darker colour "insert" in front (out of the 2 possible scrambling orientations) and 12 o'clock pointing up.
+    - 4d4) Clock is scrambled beginning with the darker colour "insert" in front (out of the 2 possible scrambling orientations) and 12 o'clock pointing up.
     - 4d5) Skewb is scrambled with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front-left.
 - 4f) Competition scramble sequences must be generated using the current official version of the official WCA scramble program (available via the WCA website).
 - 4g) After scrambling a puzzle, the scrambler must verify that he has scrambled the puzzle correctly. If the puzzle state is wrong, he must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
@@ -414,7 +414,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - B1b) The competitor supplies his own blindfold.
 - B2) Starting the attempt:
     - B2a) The judge resets the timer(s) and asks "READY?" as in [Regulation A3b1](regulations:regulation:A3b1).
-    - B2b) The competitor starts the attempt by confirms his readiness and placing his hands on the elevated sensor unit of the Stackmat, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
+    - B2b) The competitor starts the attempt by confirming his readiness and placing his hands on the elevated sensor unit of the Stackmat, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
     - B2c) The competitor must have no physical contact with the puzzle before the beginning of the attempt. Penalty: time penalty (+2 seconds).
     - B2d) The competitor starts the attempt by removing his hands from the timer, thus starting the timer (and also starting the solve).
         - B2d1) The competitor removes the cover from the puzzle after starting the timer.
@@ -487,7 +487,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
 
 - H1) Standard blindfolded solving procedures are followed, as described in [Article B](regulations:article:B) (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in [Article B](regulations:article:B) are described below.
-    - H1a) Before an attempt, the competitor must submit the to the organisation team number of puzzles (at least 2) he wishes to attempt.
+    - H1a) Before an attempt, the competitor must submit to the organisation team number of puzzles (at least 2) he wishes to attempt.
         - H1a1) A competitor is not permitted to change the number of puzzles after submitting his number to the organisation team.
         - H1a2) A competitor may request to keep his submission private until all competitors have submitted their numbers. Once all competitors have reported their numbers, the information becomes public (e.g. a competitor may ask for the numbers of any other competitors before starting his attempt).
     - H1b) If he is attempting fewer than 6 puzzles, the competitor is allotted a time limit of 10 minutes times the number of puzzles in the attempt, else the time limit is 60 minutes.
