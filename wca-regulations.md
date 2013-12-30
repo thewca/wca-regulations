@@ -140,10 +140,12 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 4b) Puzzles must be scrambled using computer-generated random scramble sequences.
     - 4b1) Generated scramble sequences must not be inspected before the competition, and must not be filtered or selected in any way by the WCA Delegate.
     - 4b2) Scramble sequences for a round must be available only to the WCA Delegate and the scramblers for the event, until the end of the round. Exception: For Fewest Moves Solving, competitors receive scrambling sequences during the round (see [Article E](regulations:article:E)).
-    - 4b3) A scramble sequence must produce a random state that requires at least 2 moves to solve. Exceptions:
-        - 4b3a) 2x2x2 Cube: The (random) state must require at least 4 moves to solve.
-        - 4b3b) Pyraminx and Skewb: The (random) state must require at least 7 moves to solve.
-        - 4b3c) 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, and Megaminx: sufficiently many random moves (instead of random state), at least two moves to solve.
+    - 4b3) Specification for the scramble program: An official scramble sequence must produce a random state from those that require at least 2 moves to solve. The following additions/exceptions apply:
+        - 4b3a) For blindfolded events, the scramble sequence must  orient the puzzle randomly (equal probability for each orientation).
+        - 4b3b) 2x2x2 Cube: The (random) state must require at least 4 moves to solve.
+        - 4b3c) Pyraminx and Skewb: The (random) state must require at least 7 moves to solve.
+        - 4b3d) Square-1: The (random) state must require at least 11 moves to solve.
+        - 4b3e) 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, and Megaminx: sufficiently many random moves (instead of random state), at least two moves to solve.
     - 4b4) For events blindfolded events, the scramble sequence must also put the puzzle in a random orientation (equal probability for each orientation).
 - 4d) Scrambling orientation:
     - 4d1) NxNxN puzzles and Megaminx are scrambled with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.
@@ -309,7 +311,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 12b3) 180 degrees: [f2] or z2, [b2] or z2, [r2] or x2, [l2] or x2, [u2] or y2, [d2] or y2.
 - 12c) Notation for Square-1:
     - 12c1) Moves are applied with the smallest slice of the middle layer on left side of front face.
-    - 12c2) (x,y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise.
+    - 12c2) (x, y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise.
     - 12c3) "/" means: turn the right half of the puzzle 180 degrees.
 - 12d) Notation for Megaminx (scrambling notation only):
     - 12d1) Face Moves:
