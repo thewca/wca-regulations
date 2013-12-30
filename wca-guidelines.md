@@ -57,14 +57,10 @@ To be more informative, each Guideline is classified using one of the following 
 - 3a+) [CLARIFICATION] Competitors may use puzzles of any reasonable size, at the discretion of the WCA Delegate.
 - 3a++) [ADDITION] By default, a competitor should use the same puzzle for consecutive attempts in a speed solving round. A competitor may switch puzzles between attempts, at the discretion of the judge or WCA Delegate.
 - 3a+++) [CLARIFICATION] Competitors may borrow puzzles from other competitors privately, to use in competition.
-- 3a4+) [REMINDER] In the past, puzzles pieces were allowed to have multiple/different colors of plastic (as long as this did not help distinguish similar pieces). This is no longer permited.
 - 3a1+) [CLARIFICATION] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit their puzzle at the moment).
-- 3d+) [REMINDER] Painted/printed colors are no longer permitted instead of stickers/tiles.
 - 3h+) [CLARIFICATION] Puzzles may be refined internally by sanding or lubricating.
 - 3h++) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, or the puzzles has more/different solved states.
-- 3j+) [REMINDER] In the past, engraved/embossed parts have been allowed. This is no longer permitted.
 - 3j2+) [CLARIFICATION] On Clock, all eighteen inner clock faces are considered similar pieces.
-- 3l+) [ADDITION] Logos may feature any reasonable design that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat). Unconventional logos are only permitted at the discretion of the Delegate.
 
 
 ## <article-4><scrambling><scrambling> Article 4: Scrambling
