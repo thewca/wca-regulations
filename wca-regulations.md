@@ -418,7 +418,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - B2d) The competitor starts the attempt by removing his hands from the timer, thus starting the timer (and also starting the solve).
         - B2d1) The competitor removes the cover from the puzzle after starting the timer.
     - B2e) If a stopwatch is in use in addition to a Stackmat timer, the judge starts the stopwatch as soon as the competitor starts the solve.
-    - B2f) If a stopwatch is in use as the only timer, the competitor places his hands on the table (instead of a Stackmat timer). After the competitor confirms his readiness, the judge starts the solve by starting the stopwatch and calling "START".
+    - B2f) If a stopwatch is in use as the only timer, the competitor places his hands on the table (instead of a Stackmat timer). After the competitor confirms his readiness, he starts the solve by lifting the cover. The judge starts the stopwatch as soon as the competitor starts the solve.
 - B3) Memorisation phase:
     - B3a) The competitor may pick up the puzzle during the memorisation phase.
     - B3b) The competitor must not make physical notes. Penalty: disqualification of the attempt (DNF).
