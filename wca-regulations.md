@@ -371,7 +371,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A3d2) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
         - A3d3) When 12 seconds of inspection have elapsed, the judge calls "12 SECONDS".
 - A4) Starting the solve:
-    - A4b) The competitor places his hands on the elevated sensor unit of the timer, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
+    - A4b) The competitor places his hands on the elevated sensor unit of the timer.  His fingers must be touching the sensors with palms down. Penalty: time penalty (+2 seconds).
         - A4b1) The competitor must have no physical contact with the puzzle between the inspection period and the beginning of the solve. Penalty: time penalty (+2 seconds).
     - A4d) If a Stackmat timer is in use, the competitor starts the solve by confirming that the timer light is green and then removing his hands from the timer (thus starting the timer).
         - A4d1) The competitor must start the solve within 15 seconds of the beginning of the inspection. Penalty: time penalty (+2 seconds).
@@ -414,8 +414,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - B1a) There is no inspection period.
     - B1b) The competitor supplies his own blindfold.
 - B2) Starting the attempt:
-    - B2a) The judge resets the timer(s) and asks "READY?" as in [Regulation A3b1](regulations:regulation:A3b1).
-    - B2b) The competitor starts the attempt by confirming his readiness and placing his hands on the elevated sensor unit of the Stackmat, with his fingers touching the sensors and palms down. Penalty: time penalty (+2 seconds).
+    - B2a) The judge resets the timer(s) and asks "READY?" as in [Regulation A3b1](regulations:regulation:A3b1). The competitor must be ready to start the attempt within one minute of being called, else he forfeits his attempt (DNS).
+    - B2b) The competitor starts the attempt by confirming his readiness and placing his hands on the elevated sensor unit of the Stackmat.  His fingers must be touching the sensors with palms down. Penalty: time penalty (+2 seconds).
     - B2c) The competitor must have no physical contact with the puzzle before the beginning of the attempt. Penalty: time penalty (+2 seconds).
     - B2d) The competitor starts the attempt by removing his hands from the timer, thus starting the timer (and also starting the solve).
         - B2d1) The competitor removes the cover from the puzzle after starting the timer.
