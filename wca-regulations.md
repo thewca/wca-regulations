@@ -127,10 +127,10 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3j3) Corrugated/textured stickers whose orientation can be distinguished by feel are not permitted for blindfolded events.
 - 3k) Puzzles must be approved by the WCA Delegate before use in the competition.
 - 3l) A puzzle may have a logo on a sticker/tile, but it must have at most one sticker/tile with a logo.
-  - 3l1) The logo must be placed on a center piece. Exceptions for puzzles that do not have center pieces:
-    - 3l1a) For Pyraminx and 2x2x2, the logo may be on any piece.
-    - 3l1b) For Square-1, the logo must be on a piece in the middle slice.
-  - 3l2) The logo may be be embossed, engraved, or consist of an overlay sticker. Exception: The logo must not be distinguishable by feel for blindfolded events (i.e. no embossings, engravings, or overlay stickers).
+    - 3l1) The logo must be placed on a center piece. Exceptions for puzzles that do not have center pieces:
+        - 3l1a) For Pyraminx and 2x2x2, the logo may be on any piece.
+        - 3l1b) For Square-1, the logo must be on a piece in the middle slice.
+    - 3l2) The logo may be be embossed, engraved, or consist of an overlay sticker. Exception: The logo must not be distinguishable by feel for blindfolded events (i.e. no embossings, engravings, or overlay stickers).
 - 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
 
 
@@ -355,7 +355,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A2c1) The scrambler places a cover over the scrambled puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover remains over the puzzle until the beginning of the attempt.
     - A2d) When taking a puzzle from the scrambler, the judge briefly inspects the puzzle to ensure thorough scrambling of the puzzle. The judge raises any concerns with the scrambler, who then conducts a detailed check.
     - A2e) The judge places the puzzle onto the mat in an arbitrary orientation while ensuring that it remains completely covered.
-      - A2e1) The competitor is not permitted to request a specific orientation, and the judge must not influence the orientation he places the puzzle on the solving station based on what he knows or expects the puzzle state to be.
+        - A2e1) The competitor is not permitted to request a specific orientation, and the judge must not influence the orientation he places the puzzle on the solving station based on what he knows or expects the puzzle state to be.
 - A3) Inspection:
     - A3a) The competitor may inspect the puzzle at the beginning of each attempt.
         - A3a1) The competitor is allotted a maximum of 15 seconds to inspect the puzzle and start the solve.
