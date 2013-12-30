@@ -422,10 +422,10 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - B3) Memorisation phase:
     - B3a) The competitor may pick up the puzzle during the memorisation phase.
     - B3b) The competitor must not make physical notes. Penalty: disqualification of the attempt (DNF).
-    - B3c) The competitor must not apply moves to the puzzle during the memorisation phase. Penalty: Penalty: disqualification of the attempt (DNF).
+    - B3c) The competitor must not apply moves to the puzzle during the memorisation phase. Penalty: disqualification of the attempt (DNF).
 - B4) Blindfolded phase:
     - B4a) The competitor dons the blindfold to start the blindfolded phase.
-    - B4b) The competitor must not apply moves to the puzzle before he has fully donned the blindfold. Penalty: Penalty: disqualification of the attempt (DNF).
+    - B4b) The competitor must not apply moves to the puzzle before he has fully donned the blindfold. Penalty: disqualification of the attempt (DNF).
     - B4c) The judge must ensure that there is an opaque object between the competitor's face and the puzzle while the competitor is solving.
         - B4c1) In all cases, the competitor must wear the blindfold such that his view of the puzzle would still be clearly blocked if the opaque object were not in the way.
         - B4c2) By default, the judge should place the object (e.g. a sheet of paper or cardboard) between the competitor and the puzzle while the competitor is wearing the blindfold.
