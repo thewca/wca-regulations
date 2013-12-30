@@ -146,7 +146,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 4b3c) Pyraminx and Skewb: The (random) state must require at least 7 moves to solve.
         - 4b3d) Square-1: The (random) state must require at least 11 moves to solve.
         - 4b3e) 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, and Megaminx: sufficiently many random moves (instead of random state), at least two moves to solve.
-    - 4b4) For events blindfolded events, the scramble sequence must also put the puzzle in a random orientation (equal probability for each orientation).
+    - 4b4) For blindfolded events, the scramble sequence must also put the puzzle in a random orientation (equal probability for each orientation).
 - 4d) Scrambling orientation:
     - 4d1) NxNxN puzzles and Megaminx are scrambled with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.
     - 4d2) Pyraminx is scrambled with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
