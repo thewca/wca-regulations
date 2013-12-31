@@ -58,12 +58,12 @@ To be more informative, each Guideline is classified using one of the following 
 - 3a++) [ADDITION] By default, a competitor should use the same puzzle for consecutive attempts in a speed solving round. A competitor may switch puzzles between attempts, at the discretion of the judge or WCA Delegate.
 - 3a+++) [CLARIFICATION] Competitors may borrow puzzles from other competitors privately, to use in competition.
 - 3a1+) [CLARIFICATION] Competitors may be disqualified if they do not come when they are called, or if they do not have a puzzle ready to submit (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit their puzzle at the moment).
-- 3d+) [REMINDER] Painted/printed colors are no longer permitted instead of stickers/tiles.
+- 3d+) [REMINDER] In the past, painted/printed colours were allowed instead of stickers/tiles. This is no longer permitted.
 - 3h+) [CLARIFICATION] Puzzles may be refined internally by sanding or lubricating.
 - 3h++) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, or the puzzles has more/different solved states.
 - 3j+) [REMINDER] In the past, engraved/embossed parts have been allowed. This is no longer permitted.
 - 3j2+) [CLARIFICATION] On Clock, all eighteen inner clock faces are considered similar pieces.
-- 3l+) [ADDITION] Logos may feature any reasonable design that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat), and leave the color of the sticker/tile clearly recognizable. Unconventional logos are only permitted at the discretion of the Delegate.
+- 3l+) [ADDITION] Logos may feature any reasonable design that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat), and leave the colour of the sticker/tile clearly recognisable. Unconventional logos are only permitted at the discretion of the Delegate.
 
 
 ## <article-4><scrambling><scrambling> Article 4: Scrambling
@@ -102,7 +102,7 @@ To be more informative, each Guideline is classified using one of the following 
 
 ## <article-8><competitions><competitions> Article 8: Competitions
 
-- 8a4+) [RECOMMENDATION] Changes to increase the maximum number of competitors in the first round  should be made at least one month before the competition (see [Regulation 9r3](regulations:regulation:9r3)).
+- 8a4+) [RECOMMENDATION] Changes to increase the maximum number of competitors in the first round should be made at least one month before the competition (see [Regulation 9r3](regulations:regulation:9r3)).
 - 8a4++) [RECOMMENDATION] The competition should be announced at least one month before the beginning of the competition.
 - 8a5+) [SEPARATE][RECOMMENDATION] The competition should have at least 12 competitors.
 
@@ -111,7 +111,7 @@ To be more informative, each Guideline is classified using one of the following 
 
 - 9b+) [ADDITION] The preferred format for the final of an event is "Average of 5" or "Mean of 3", if possible.
 - 9b++) [ADDITION] Events other than those specified in [Regulation 9b](regulations:regulation:9b) may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
-- 9b3b+) [CLARIFICATION] The "Mean of 3" statistic does not affect the competitor's ranking in a "Best of 3" round (based on the best result). The WCA recognises it outside of the competition format.
+- 9b3b+) [CLARIFICATION] The "Mean of 3" statistic does not affect the competitor's ranking in a "Best of 3" round (which is based on the best result). The WCA recognises it outside of the competition format.
 - 9f1+) [EXAMPLE] If the timer displays 12.678 for an attempt, the original recorded time is 12.67 (drop any digit after a hundredth of a second). A judge may write the full-precision time on the score sheet (and keep the precision in the calculation of penalties), as long as the score taker truncates it for the official results.
 - 9f4+) [EXPLANATION] The result of an attempt is DNF only if the competitor began the attempt by indicating his readiness (see [Regulation A3b2](regulations:regulation:A3b2)) but the attempt was disqualified.
 - 9f5+) [CLARIFICATION] The result for an attempt is DNS if the competitor was eligible for the attempt and did not begin it (see [Regulation A3b2](regulations:regulation:A3b2)). If the competitor did not qualify for an attempt (e.g. in a combined round), he does not have any result for the attempt.
