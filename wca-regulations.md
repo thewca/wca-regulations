@@ -176,11 +176,11 @@ WCA规则及指南的修订公开[于GitHub](https://github.com/cubing/wca-docum
 		- 5b3c) 如果魔方的角块方向是不可还原的，选手可以不重新拆下魔方而直接将角块原地转动使得它可还原。
 	- 5b4) 在盲拧阶段（见[规则B4](regulations:regulation:b4)），所有修复必须盲进行。惩罚：取消当前还原成绩（DNF）。
 	- 5b5) 如果在结束还原时魔方的一些块掉出或没有完全复位，则按照参考如下规则判定：
-		- 5b5a) 对于任意数量的无色块受影响的情况，魔方被认为是复原的。
-		- 5b5b) 对于同一部分的单色块受影响的情况，魔方被认为是复原的。
-		- 5b5c) 对于两个或以上部分的单色块受影响的情况，魔方被认为没有复原（DNF）。
-		- 5b5d) 对于有多色块受影响的情况，魔方被认为没有复原（DNF）。
-		- 5b5e) 规则[5b5c](regulations:regulation:5b5c)和规则[5b5d](regulations:regulation:5b5d)比规则[5b5a](regulations:regulation:5b5a)和规则[5b5b](regulations:regulation:5b5b)优先判定.
+		- 5b5a) 一个或多个无色块受影响的情况，则判定为正常还原。
+		- 5b5b) 只有一个单色块（非棱或角）受影响，则判定为正常还原。
+		- 5b5c) 两个以上单色块（非棱或角）受影响，则判定为未还原（DNF）。
+		- 5b5d) 一个以上多色块（棱块或角块）受影响，则判定为未还原（DNF）。
+		- 5b5e) [规则5b5c](regulations:regulation:5b5c)与[规则5b5d](regulations:regulation:5b5d)比[规则5b5a](regulations:regulation:5b5a)与[规则5b5b](regulations:regulation:5b5b)优先判定.
 
 
 ## <article-7><environment><environment> 第七章: 比赛环境
