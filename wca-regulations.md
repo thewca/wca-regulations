@@ -1,4 +1,4 @@
-# <wca-title>WCA Regeln 2013
+# <wca-title>WCA Regeln
 
 <version>Version: 1. Januar 2014
 
@@ -25,7 +25,7 @@ Die [WCA Richtlinien](guidelines:top) erweitern die WCA Regeln um weitere Erläu
 ### Weitere Links
 - Webseite der World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)
 - Original Quelle der WCA-Regeln: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)
-- PDF-Version dieser Übersetzung: [Deutsche PDF-Version der Regeln und Richtlinien](wca-regulations-and-guidelines.pdf)
+- PDF-Version dieser Übersetzung: [Deutsche PDF-Version der Regeln und Richtlinien](wca-regeln-und-richtlinien.pdf)
 - Du möchtest eine eigene Competition organisieren? Dann wirf einen Blick in unser [Competition Orga Tutorial](http://cube.hackvalue.de/tutorials/competition.php).
 
 
