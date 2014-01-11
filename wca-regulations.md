@@ -190,7 +190,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 7f2) The timer must be attached to the mat and placed on the surface, with the timer on the side of the mat nearest to the competitor.
         - 7f2a) Exception: For Solving With Feet, the Stackmat must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
 - 7h) The competition area must have a Competitors Area.
-    - 7h1) The organisation team team require that a competitor who has been called to compete must remain within the Competitors Area until he has finished all of his attempts for the round.
+    - 7h1) The organisation team may require that a competitor who has been called to compete must remain within the Competitors Area until he has finished all of his attempts for the round.
 
 
 ## <article-8><competitions><competitions> Article 8: Competitions
