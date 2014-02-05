@@ -132,7 +132,7 @@ To be more informative, each Guideline is classified using one of the following 
 
 ## <article-12><incidents><incidents> Article 12: Notation
 
-- 12c2+) When counting the moves in case of a misalignment at the end of a solve, x and y are considered separately. Example: (5,1) is considered one misalignment, (5,5) is considered two misalignments.
+- 12c2+) [ADDITION] When counting the moves in case of a misalignment at the end of a solve, x and y are considered separately. Example: (5,1) is considered one misalignment, (5,5) is considered two misalignments.
 
 
 ## <article-A><speedsolving><speedsolving> Article A: Speed Solving
