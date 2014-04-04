@@ -1,6 +1,6 @@
 # <wca-title>WCA Guidelines
 
-<version>Version: 1. Januar 2014
+<version>Version: 3. April 2014
 
 
 ## Hinweise
@@ -58,12 +58,11 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 - 3a++) [Zusatz] Standardmäßig sollte ein Teilnehmer das gleiche Puzzle für aufeinanderfolgende Versuche in einer Speedsolving Runde verwenden. Ein Teilnehmer darf das Puzzle nach Ermessen des WCA-Delegierten zwischen den Versuchen wechseln.
 - 3a+++) [Klarstellung] Teilnehmer dürfen Puzzles von anderen Teilnehmern privat ausborgen und dann im Turnier verwenden.
 - 3a1+) [Klarstellung] Teilnehmer dürfen disqualifiziert werden, wenn sie nicht erscheinen, wenn sie aufgerufen werden, oder wenn sie kein Puzzle bereitstellen können (z.B. wenn sie vorhatten, ein Puzzle zu verwenden, das ein anderer Teilnehmer gerade benötigt und deswegen im Moment kein Puzzle bereitstellen können).
-- 3d+) [Erinnerung] Aufgemalte/Aufgedruckte Farben anstelle von Stickern/Tiles wurden früher erlaubt. Dies ist nun nicht mehr gestattet.
 - 3h+) [Klarstellung] Puzzles dürfen in ihrem Inneren durch Abschleifen oder Schmieren aufbereitet werden.
 - 3h++) [Beispiel] Beispiele für Erweiterungen beinhalten: neue Drehungen sind möglich, normale Drehungen sind unmöglich, mehr Teile oder Seiten sind sichtbar, Farben auf der Rückseite des Puzzles sind sichtbar, Drehungen werden automatisch ausgeführt, oder das Puzzles hat mehrere/verschiedene gelöste Zustände.
 - 3j+) [Erinnerung] Gravierte/Geprägte Teile wurden früher erlaubt. Dies ist nun nicht mehr gestattet.
 - 3j2+) [Klarstellung] Bei der Clock werden alle 18 inneren Uhren als gleichwertige Teile angesehen.
-- 3l+) [Zusatz] Logos dürfen auf jede Art und Weise designt sein, solange das Design keinen auffälligen Vorteil (z.B. das Kodieren von Informationen, die zum Schummeln verwendet werden können) mit sich bringt und die Farbe des Stickers oder Tiles weiterhin klar erkennbar ist. Ungewöhnliche Logos sind nur nach Ermessen des WCA-Delegierten zugelassen.
+- 3l+) [Zusatz] Logos dürfen auf jede Art und Weise designt sein, solange das Design keinen auffälligen Vorteil (z.B. das Kodieren von Informationen, die zum Schummeln verwendet werden können) mit sich bringt und farbige Teil weiterhin klar erkennbar ist. Ungewöhnliche Logos sind nur nach Ermessen des WCA-Delegierten zugelassen.
 
 
 ## <article-4><scrambling><scrambling> Abschnitt 4: Scrambling
@@ -79,7 +78,7 @@ Jede Richtlinie ist als zu einer der folgenden Kategorien zugehörig gekennzeich
 ## <article-5><puzzle-defects><puzzledefects> Abschnitt 5: Puzzle-Defekte
 
 - 5b5+) [Beispiel] Ein Beispiel für ein defektes Teil, dass zu einem gelösten Zustand führt: ein 3x3x3-Centercap, ein Big Cube Centerstein, ein inneres Teil eines Big Cubes.
-- 5b5++) [Beispiel] Ein Beispiel für ein defektes Teil, dass zu einem nicht gelösten Zustand (DNF) führt: zwei 3x3x3-Centercaps, zwei Big Cube Centersteine, ein 4x4x4-Kantenstein, jede Kombination zweier Steine mit jeweils bunten Flächen.
+- 5b5++) [Beispiel] Ein Beispiel für ein defektes Teil, dass zu einem nicht gelösten Zustand (DNF) führt: zwei 3x3x3-Centercaps, zwei Big Cube Centersteine, ein 4x4x4-Kantenstein, jede Kombination zweier Steine mit jeweils farbigen Teilen.
 - 5b5+++) [Beispiel] Ein Beispiel für ein nicht vollständig positioniertes Teil, dass zu einem gelösten Zustand führt: Ein 5x5x5-Centerstein, das in seiner richtigen Position verdreht ist.
 - 5b5++++) [Beispiel] Ein Beispiel für ein nicht vollständig positioniertes Teil, dass zu einem nicht gelösten Zustand (DNF) führt: Ein 3x3x3-Kantenstein, der "halb herausgepoppt" ist.
 - 5c+) [Erinnerung] Der Defekt eines Puzzles gibt dem Teilnehmer kein Recht auf einen zusätzlichen Versuch.
