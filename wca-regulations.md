@@ -86,6 +86,9 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 2i1) Competitors may use certain non-electronic aids that do not give the competitor an unfair advantage, at the discretion of the WCA Delegate. This includes:
         - 2i1a) Medical/physical aids worn by the competitor (etc. glasses, wrist brace, hearing aids).
         - 2i1b) Earplugs and earmuffs (but not electronic noise-cancelling headphones).
+    - 2i2) Competitors can use cameras at the solving station, so long as between the beginning of the attempt and stopping the solve:
+        - 2i2a) Any live monitor or screen attached to the camera is out of sight of the competitor.
+        - 2i2b) The competitior does not make any contact with the camera.
 - 2j) The WCA Delegate may disqualify a competitor from a specific event.
     - 2j1) If a competitor is disqualified from an event for any reason, he is not eligible for any more attempts in the event.
     - 2j2) If a competitor is disqualified during the course of an event, his earlier results remain valid. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
