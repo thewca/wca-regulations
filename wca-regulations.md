@@ -17,7 +17,7 @@ Uses of the words "must", "must not", "should", "should not" and "may" match [RF
 ### Information on the Internet
 Website of World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)    
 Original source of the WCA regulations: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)    
-WCA Regulations in [PDF format](wca-regulations-and-guidelines.pdf)
+WCA Regulations in [PDF format](link:pdf)
 
 ### Source
 Development of the WCA Regulations and Guidelines is public [on GitHub](https://github.com/cubing/wca-documents).
