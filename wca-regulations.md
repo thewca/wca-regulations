@@ -129,7 +129,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 3l) A puzzle may have a logo on a coloured part. If it does, it must have at most one coloured part with a logo.
     - 3l1) The logo must be placed on a center piece. Exceptions for puzzles that do not have center pieces:
         - 3l1a) For Pyraminx and 2x2x2, the logo may be on any piece.
-        - 3l1b) For Square-1, the logo must be on a piece in the middle slice.
+        - 3l1b) For Square-1, the logo must be on a piece in the equatorial slice.
     - 3l2) The logo may be embossed, engraved, or consist of an overlay sticker. Exception: The logo must not be distinguishable by feel for blindfolded events (i.e. no embossings, engravings, or overlay stickers).
 - 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
 
@@ -309,7 +309,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 12b2) Anti-clockwise, 90 degrees: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y.
     - 12b3) 180 degrees: [f2] or z2, [b2] or z2, [r2] or x2, [l2] or x2, [u2] or y2, [d2] or y2.
 - 12c) Notation for Square-1:
-    - 12c1) Moves are applied with the smallest slice of the middle layer on left side of front face.
+    - 12c1) Moves are applied with one of the two smallest surfaces of the equatorial slice on the left side of the front face.
     - 12c2) (x, y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise.
     - 12c3) "/" means: turn the right half of the puzzle 180 degrees.
 - 12d) Notation for Megaminx (scrambling notation only):
