@@ -92,7 +92,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 2j) The WCA Delegate may disqualify a competitor from a specific event.
     - 2j1) If a competitor is disqualified from an event for any reason, he is not eligible for any more attempts in the event.
     - 2j2) If a competitor is disqualified during the course of an event, his earlier results remain valid. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
-- 2k) The WCA Delegate may disqualify a competitor from the competition (i.e. from all events of the competition) if the competitor:
+- 2k) At the discretion of the WCA Delegate, a competitor may be disqualified from some events (a single event, multiple events, or all events) if the competitor:
     - 2k1) Fails to check in or register in time for the competition.
     - 2k2) Is suspected of cheating or defrauding the officials during the competition.
         - 2k2a) The WCA Delegate may disqualify any suspected results.
