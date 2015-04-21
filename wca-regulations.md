@@ -143,7 +143,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 4b) Puzzles must be scrambled using computer-generated random scramble sequences.
     - 4b1) Generated scramble sequences must not be inspected before the competition, and must not be filtered or selected in any way by the WCA Delegate.
     - 4b2) Scramble sequences for a round must be available only to the WCA Delegate and the scramblers for the event, until the end of the round. Exception: For Fewest Moves Solving, competitors receive scrambling sequences during the round (see [Article E](regulations:article:E)).
-    - 4b3) Specification for the scramble program: An official scramble sequence must produce a random state from those that require at least 2 moves to solve. The following additions/exceptions apply:
+    - 4b3) Specification for the scramble program: An official scramble sequence must produce a random state from those that require at least 2 moves to solve (equal probabilty for each state). The following additions/exceptions apply:
         - 4b3a) For blindfolded events, the scramble sequence must orient the puzzle randomly (equal probability for each orientation).
         - 4b3b) 2x2x2 Cube: The (random) state must require at least 4 moves to solve.
         - 4b3c) Pyraminx and Skewb: The (random) state must require at least 7 moves to solve.
