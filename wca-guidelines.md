@@ -168,6 +168,7 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
 
 - E2b+) [CLARIFICATION] A competitor may choose to stop his attempt early by handing in a solution before the time limit.
+- E2c+) [CLARIFICATION] The competitor's solution must only use moves that are exactly defined in [Regulation 12a](regulations:regulation:12a). Examples of notation and moves that are not permitted in competition: [F], [R, U], [R: U], R'2, L'w, f, M, U2'.
 - E3b+) [REMINDER] "Rubik's Cube" refers only to the standard 3x3x3 puzzle.
 
 
