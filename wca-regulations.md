@@ -88,7 +88,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 2i1b) Earplugs and earmuffs (but not electronic noise-cancelling headphones).
     - 2i2) Competitors may use cameras at the solving station at the discretion of the Delegate, but the following restrictions apply from the beginning of the attempt until the competitor stops the solve. Penalty for breaking a restriction: disqualification of the attempt (DNF).
         - 2i2a) Each camera monitor must be blank or out of sight of the competitor (see [Regulation A5b](regulations:regulation:A5b)).
-        - 2i2b) The competitor must not interact with (e.g. operate, hold, wear) any active camera. Exception: the competitor may wear a camera mounted on top of his head, as long as it is is clear that he is not otherwise interacting with it.
+        - 2i2b) The competitor must not interact with (e.g. operate, hold, wear) any active camera. Exception: the competitor may wear a camera mounted on his head, as long as it is out of his sight and it is clear that he is not interacting with it (apart from wearing it).
 - 2j) The WCA Delegate may disqualify a competitor from a specific event.
     - 2j1) If a competitor is disqualified from an event for any reason, he is not eligible for any more attempts in the event.
     - 2j2) If a competitor is disqualified during the course of an event, his earlier results remain valid. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
