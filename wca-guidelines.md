@@ -73,7 +73,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 4b4+) [ADDITION] It is permitted for the puzzle to change its orientation when it is moved from the scrambler to the solving station, as long as no one is attempting to influence the randomness of the orientation (see [Regulation A2e1](regulations:regulation:A2e1)).
 - 4d+) [CLARIFICATION] Some puzzles use standard colour schemes, except that white is replaced with black. In this case, black is the darkest colour and must not be treated as white.
 - 4f+) [RECOMMENDATION] The WCA Delegate should generate sufficient scrambles for the entire competition ahead of time, including spare scrambles for extra attempts.
-- 4f++) [REMINDER] If the WCA Delegate generates any additional scrambles during the competition, they must save them (see [Regulation 1c3a](regulations:regulation:1c3a)).
+- 4f++) [REMINDER] If the WCA Delegate generates any additional scrambles during the competition, the scrambles must be saved (see [Regulation 1c3a](regulations:regulation:1c3a)).
 
 
 ## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
