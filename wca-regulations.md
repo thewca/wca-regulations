@@ -119,10 +119,11 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 3d) Puzzles must have coloured parts, which must be one of the following: coloured stickers, coloured tiles, coloured plastic, or painted/printed colours. All coloured parts of a puzzle must be made of a similar material.
     - 3d1) Exception: Competitors with a medically documented visual disability may use textured puzzles with different textures on different faces. Textures/patterns must be uniform per face. Each face should have a distinct colour, to aid in scrambling and judging.
     - 3d2) The colours of puzzles must be solid, with one uniform colour per face. Each colour on the puzzle must be clearly distinct from the other colours.
-    - 3d3) Coloured parts must not be thicker than 1.5mm. Exception: Megaminx tiles may be slightly thicker than 1.5mm, at the discretion of the WCA Delegate.
+    - 3d3) If the coloured parts are tiles or stickers, they must not be thicker than 1.5mm. Exception: Megaminx tiles may be slightly thicker than 1.5mm, at the discretion of the Delegate.
 - 3h) Modifications that enhance the basic concept of a puzzle are not permitted. Modified versions of puzzles are permitted only if the modification does not make any additional information available to the competitor (e.g. orientation or identity of pieces), compared to an unmodified version of the same puzzle.
     - 3h1) "Pillowed" puzzles are not permitted. Exception: Pillowed 7x7x7 Cubes are permitted.
-    - 3h2) Puzzles whose coloured parts are visible inside the puzzle are not permitted.
+    - 3h2) Puzzles whose coloured plastic is visible inside the puzzle (e.g. "stickerless" puzzles) are permitted. This does not include the following puzzles:
+      - 3h2a) Puzzles with transparent parts are not permitted.
     - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
     - 3h4) For Clock, custom "inserts" (the same shape and size as the traditional paper inserts) are permitted, at the discretion of the WCA Delegate. The inserts must have a clear indication of 12 o'clock that matches the original inserts.
 - 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that significantly distinguish any piece from a similar piece. Exception: a logo (see [Regulation 3l](regulations:regulation:3l)).
