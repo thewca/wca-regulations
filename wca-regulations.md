@@ -147,9 +147,10 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 4b3) Specification for the scramble program: An official scramble sequence must produce a random state from those that require at least 2 moves to solve (equal probabilty for each state). The following additions/exceptions apply:
         - 4b3a) For blindfolded events, the scramble sequence must orient the puzzle randomly (equal probability for each orientation).
         - 4b3b) 2x2x2 Cube: The (random) state must require at least 4 moves to solve.
-        - 4b3c) Pyraminx and Skewb: The (random) state must require at least 7 moves to solve.
+        - 4b3c) Skewb: The (random) state must require at least 7 moves to solve.
         - 4b3d) Square-1: The (random) state must require at least 11 moves to solve.
         - 4b3e) 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, and Megaminx: sufficiently many random moves (instead of random state), at least 2 moves to solve.
+        - 4b3f) Pyraminx: The (random) state must require at least 6 moves to solve.
 - 4d) Scrambling orientation:
     - 4d1) NxNxN puzzles and Megaminx are scrambled beginning with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.
     - 4d2) Pyraminx is scrambled beginning with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
