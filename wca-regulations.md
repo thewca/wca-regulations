@@ -486,6 +486,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - E3a) Paper and pens (both supplied by judge).
     - E3b) Rubik's Cubes (at most 3, self-supplied).
     - E3c) Coloured stickers (self-supplied).
+    - E3d) Stopwatch or watch, if it is approved by the WCA Delegate.
 
 
 ## <article-F><clock><clocksolving> Article F: Clock Solving
