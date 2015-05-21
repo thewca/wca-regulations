@@ -208,7 +208,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 8a6) Be publicly accessible.
     - 8a7) Use the authentic Speed Stacks Stackmat timer (Generation 2 or Pro) for time measurement.
     - 8a8) Be open to all who wish to compete. Restrictions must be approved by the WCA Board and clearly stated when the competition is announced.
-- 8f) If WCA Regulations are not correctly observed during a competition, the WCA Board may disqualify affected attempts.
+- 8f) If WCA Regulations are not correctly observed during a competition, results may be modified at the discretion of the WCA Board.
 
 
 ## <article-9><events><events> Article 9: Events
