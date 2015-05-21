@@ -415,6 +415,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A7c1) If the competitor or the judge refuses to accept and sign the score sheet, the WCA Delegate must resolve the dispute.
         - A7c2) The competitor must not sign an attempt on the score sheet before the judge has recorded the final result for that attempt. If a competitor signs (or otherwise marks) an attempt before they have begun it, or before the judge has finished recording the result, they forfeit the attempt and the result will be considered DNS.
     - A7f) When a competitor's score sheet for a round is complete, the judge delivers the score sheet to the score taker.
+    - A7g) At the discretion of the WCA delegate, an incident or penalty caused by a new competitor's inexperience may be replaced with an extra attempt.
 
 
 ## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
