@@ -38,7 +38,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 1c4+) [RECOMMENDATION] Corrections to the results should be available within one week of the competition date.
 - 1c10+) [CLARIFICATION] It is sufficient to ensure access to a digital copy of the Regulations.
 - 1h+) [RECOMMENDATION] Competitors in the same group should use the same scramble sequences. Different groups should use different scramble sequences.
-- 1h++) [RECOMMENDATION] All attemps in the final round of an event, as well as all Fewest Moves Solving attempts, should have the same scrambles for all competitors (i.e. only 1 group).
+- 1h++) [RECOMMENDATION] All attempts in the final round of an event, as well as all Fewest Moves Solving attempts, should have the same scrambles for all competitors (i.e. only 1 group).
 - 1h1+) [CLARIFICATION] Scramblers/judges should only scramble for/judge other competitors in the same group only if it is important for competition logistics.
 
 
