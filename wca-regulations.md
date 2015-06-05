@@ -484,7 +484,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - E2e1) The WCA Delegate may ask the competitor to explain the purpose of each move in their solution, irrespective of scrambling algorithm. If the competitor cannot give a valid explanation, the attempt is disqualified (DNF).
 - E3) The competitor may use the following objects during the attempt. Penalty for using unauthorised objects: disqualification of the attempt (DNF).
     - E3a) Paper and pens (both supplied by judge).
-    - E3b) Rubik's Cubes (at most 3, self-supplied).
+    - E3b) Rubik's Cubes (at most 3, self-supplied), as described in [Article 3](regulations:article:3).
     - E3c) Coloured stickers (self-supplied).
     - E3d) Stopwatch or watch for keeping track of the elapsed time, if it is approved by the WCA Delegate.
 
