@@ -156,7 +156,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 4d1) NxNxN puzzles and Megaminx are scrambled beginning with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.
     - 4d2) Pyraminx is scrambled beginning with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
     - 4d3) Square-1 is scrambled beginning with the darker colour on front (out of the 2 possible scrambling orientations).
-    - 4d4) Clock is scrambled beginning with 12 o'clock pointing up.
+    - 4d4) Clock is scrambled beginning with the darker colour "insert" in front (out of the 2 possible scrambling orientations) and 12 o'clock pointing up.
     - 4d5) Skewb is scrambled beginning with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front-left.
 - 4f) Competition scramble sequences must be generated using the current official version of the official WCA scramble program (available [via the WCA website](https://www.worldcubeassociation.org/regulations/scrambles/)).
 - 4g) After scrambling a puzzle, the scrambler must verify that the puzzle is scrambled correctly. If the puzzle state is wrong, the scrambler must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
