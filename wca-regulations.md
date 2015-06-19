@@ -8,7 +8,7 @@
 ### WCA Regulations and Guidelines
 
 The WCA Regulations contain the full set of Regulations that apply to all official competitions sanctioned by the World Cube Association.    
-The WCA Regulations are also supplemented by the [WCA Guidelines](guidelines:top). The Regulations should be considered a complete document, but the Guidelines contain additional clarifications and explanations.
+The WCA Regulations are also supplemented by the [WCA Guidelines](guidelines:top). The Regulatioons should be considered a complete document, but the Guidelines contain additional clarifications and explanations.
 
 ### Wording
 Uses of the words "must", "must not", "should", "should not" and "may" match [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
@@ -119,7 +119,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 3d) Puzzles must have coloured parts, which must be one of the following: coloured stickers, coloured tiles, coloured plastic, or painted/printed colours. All coloured parts of a puzzle must be made of a similar material.
     - 3d1) Exception: Competitors with a medically documented visual disability may use textured puzzles with different textures on different faces. Textures/patterns must be uniform per face. Each face should have a distinct colour, to aid in scrambling and judging.
     - 3d2) The colours of puzzles must be solid, with one uniform colour per face. Each colour on the puzzle must be clearly distinct from the other colours.
-    - 3d3) If the coloured parts are tiles or stickers, they must not be thicker than 1.5mm. Exception: Megaminx tiles may be slightly thicker than 1.5mm, at the discretion of the Delegate.
+    - 3d3) If the coloured parts are tiles or stickers, they must not be thicker than 1.5mm. Exception: Megaminx tiles may be slightly thicker than 1.5mm, at the discretion of the WCA Delegate.
 - 3h) Modifications that enhance the basic concept of a puzzle are not permitted. Modified versions of puzzles are permitted only if the modification does not make any additional information available to the competitor (e.g. orientation or identity of pieces), compared to an unmodified version of the same puzzle.
     - 3h1) "Pillowed" puzzles are not permitted. Exception: Pillowed 7x7x7 Cubes are permitted.
     - 3h2) Puzzles whose coloured plastic is visible inside the puzzle (e.g. "stickerless" puzzles) are permitted. This does not include the following puzzles:
