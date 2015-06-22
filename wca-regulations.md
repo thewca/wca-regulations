@@ -358,11 +358,11 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - A2) Scrambling:
     - A2a) When called for a round, the competitor submits a puzzle, in its solved state, to the scrambler. The competitor then waits in the Competitors Area until they are called to compete.
     - A2b) A scrambler scrambles the puzzle according to the regulations in [Article 4](regulations:article:4).
-        - A2b1) For Square-1, the organization team may enforce placing a thin object in the puzzle to prevent accidental moves being applied before the beginning of the attempt. If these objects are used, this must be announced before the round starts.
+        - A2b1) For Square-1, the organisation team may enforce placing a thin object in the puzzle to prevent accidental moves being applied before the beginning of the attempt. If these objects are used, this must be announced before the round starts.
     - A2c) After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.
         - A2c1) The scrambler places a cover over the scrambled puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover remains over the puzzle until the beginning of the attempt.
     - A2d) When taking a puzzle from the scrambler, the judge briefly inspects the puzzle to ensure thorough scrambling of the puzzle. The judge raises any concerns with the scrambler, who then conducts a detailed check.
-      - A2d1) The organization team may require scramblers to take additional measures to make sure that they have performed the correct scramble (e.g. signing the score sheet to affirm that they performed the correctly-numbered scramble and checked that it matches the image, or using an additional person as "scramble checker").
+      - A2d1) The organisation team may require scramblers to take additional measures to make sure that they have performed the correct scramble (e.g. signing the score sheet to affirm that they performed the correctly-numbered scramble and checked that it matches the image, or using an additional person as "scramble checker").
     - A2e) The judge places the puzzle onto the mat in an arbitrary orientation while ensuring that it remains completely covered.
         - A2e1) The competitor is not permitted to request a specific orientation, and the judge must not influence the orientation they place the puzzle on the mat based on what they know or expects the puzzle state to be.
 - A3) Inspection:
@@ -375,7 +375,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the attempt (DNF).
         - A3c2) If the parts of the puzzle are not fully aligned, then the competitor may align the faces, as long as misalignments stay within the limits of [Regulation 10f](regulations:regulation:10f).
         - A3c3) The competitor may reset the timer before the start of the solve.
-        - A3c4) For Square-1, if the use of a thin object inside the puzzle has been enforced by the organization team (see [Regulation A2b1](regulations:regulation:A2b1)), the competitor must remove the object from the puzzle during inspection.
+        - A3c4) For Square-1, if the use of a thin object inside the puzzle has been enforced by the organisation team (see [Regulation A2b1](regulations:regulation:A2b1)), the competitor must remove the object from the puzzle during inspection.
     - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation.
         - A3d1) The puzzle must not rest on the timer. Penalty: time penalty (+2 seconds).
         - A3d2) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
