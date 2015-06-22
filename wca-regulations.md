@@ -8,7 +8,7 @@
 ### WCA Regulations and Guidelines
 
 The WCA Regulations contain the full set of Regulations that apply to all official competitions sanctioned by the World Cube Association.    
-The WCA Regulations are also supplemented by the [WCA Guidelines](guidelines:top). The Regulatioons should be considered a complete document, but the Guidelines contain additional clarifications and explanations.
+The WCA Regulations are also supplemented by the [WCA Guidelines](guidelines:top). The Regulations should be considered a complete document, but the Guidelines contain additional clarifications and explanations.
 
 ### Wording
 Uses of the words "must", "must not", "should", "should not" and "may" match [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
