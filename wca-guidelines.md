@@ -11,7 +11,7 @@ The WCA Guidelines supplement the [WCA Regulations](regulations:top). Please see
 
 ### Numbering
 
-Guidelines are numbered in correspondence with related regulations. Note that mutiple Guidelines may correspond to the same Regulation, and some Guidelines correspond to Regulations that do not exist anymore.
+Guidelines are numbered in correspondence with related regulations. Note that multiple Guidelines may correspond to the same Regulation, and some Guidelines correspond to Regulations that do not exist anymore.
 
 ### Labels
 
@@ -62,7 +62,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 3h+) [CLARIFICATION] Puzzles may be refined internally by sanding or lubricating.
 - 3h++) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, or the puzzles has more/different solved states.
 - 3h2+) [CLARIFICATION] In the past, "stickerless" puzzles were not allowed. Such puzzles are now allowed.
-- 3h2++) [CLARIFICATION] "Stickerless" puzzles that significantly differ from most mass-produced "stickerless" puzzles are only permitted at the discretion of the Delegate.
+- 3h2++) [CLARIFICATION] "Stickerless" puzzles that significantly differ from most mass-produced "stickerless" puzzles are only permitted at the discretion of the WCA Delegate.
 - 3j+) [REMINDER] In the past, engraved/embossed parts have been allowed. This is no longer permitted.
 - 3j2+) [CLARIFICATION] On Clock, all eighteen inner clock faces are considered similar pieces.
 - 3l+) [ADDITION] Logos may feature any reasonable design that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat), and leave the coloured part clearly recognisable. Unconventional logos are only permitted at the discretion of the WCA Delegate.
@@ -93,7 +93,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 6b+) [SEPARATE][RECOMMENDATION] Competitors should attend the winner's ceremony to receive awards/prizes/honours.
 - 6b1+) [SEPARATE][RECOMMENDATION] The winner's ceremony should be held in the competition venue, within one hour after the end of the last event.
 - 6c+) [SEPARATE][RECOMMENDATION] Winners of awards, prizes or honours should be prepared to talk to journalists or any media covering the competition.
-- 6d+) [SEPARATE][RECOMMENDATION] Organisation teams of competitions should have certificates for all category winners, signed by the leader of the organisation team and by the WCA delegate.
+- 6d+) [SEPARATE][RECOMMENDATION] Organisation teams of competitions should have certificates for all category winners, signed by the leader of the organisation team and by the WCA Delegate.
 
 
 ## <article-7><environment><environment> Article 7: Environment
