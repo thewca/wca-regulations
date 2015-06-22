@@ -407,7 +407,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - A6i) Time penalties for stopping the solve are cumulative.
 - A7) Recording results:
     - A7a) The judge tells the competitor the result.
-        - A7a1) If the judge finds that the puzzle is solved, they call "OKAY".
+        - A7a1) If the judge finds that the puzzle is solved, the judge calls "OKAY".
         - A7a2) If the judge assigns any penalties, the judge calls "PENALTY".
         - A7a3) If the result is DNF, the judge calls "DNF".
     - A7b) The judge records the result on a score sheet.
