@@ -22,7 +22,7 @@ WCA Regulations in [PDF format](link:pdf)
 Development of the WCA Regulations and Guidelines is public [on GitHub](https://github.com/cubing/wca-documents).
 
 ### Contact
-For questions and feedback, please contact the [WCA Regulations Committee (WRC)](http://www.worldcubeassociation.org/contact-information).
+For questions and feedback, please contact the [WCA Regulations Committee (WRC)](https://www.worldcubeassociation.org/contact/wrc).
 
 
 ## <contents> [Contents](regulations:contents)
