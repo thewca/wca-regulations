@@ -426,7 +426,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - B1b) The competitor supplies their own blindfold.
 - B2) Starting the attempt:
     - B2a) The judge resets the timer(s) and asks "READY?" as in [Regulation A3b1](regulations:regulation:A3b1). The competitor must be ready to start the attempt within one minute of being called, else the competitor forfeits the attempt (DNS), at the discretion of the judge.
-    - B2b) The competitor places their hands on the elevated sensor unit of the Stackmat. The competitor's fingers must be touching the sensors with palms down. Penalty: time penalty (+2 seconds).
+    - B2b) The competitor uses their fingers to touch the elevated sensor surfaces of the timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to them. Penalty: time penalty (+2 seconds).
     - B2c) The competitor must have no physical contact with the puzzle before the beginning of the attempt. Penalty: time penalty (+2 seconds).
     - B2d) The competitor starts the attempt by removing their hands from the timer, thus starting the timer. (This also starts the solve.)
         - B2d1) The competitor removes the cover from the puzzle after starting the timer.
