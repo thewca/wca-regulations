@@ -408,7 +408,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - A7) Recording results:
     - A7a) The judge tells the competitor the result.
         - A7a1) If the judge finds that the puzzle is solved, they call "OKAY".
-        - A7a2) If the judge assigns any penalties, the judge calls "PENALTY".
+        - A7a2) If the judge assigns any penalties, they call "PENALTY".
         - A7a3) If the result is DNF, the judge calls "DNF".
     - A7b) The judge records the result on a score sheet.
         - A7b1) If penalties are assigned, the judge records the original recorded result displayed on the timer, along with any penalties. The format should be "X + T + Y = F", where X represents the sum of time penalties before/starting the solve, T represents the time displayed on the timer (the "original recorded time"), Y represents a sum of time penalties during/after the solve, and F represents the final result. If X and/or Y is 0, the 0 terms are omitted (e.g. 2 + 17.65 + 2 = 21.65, or 17.65 + 2 = 19.65).
