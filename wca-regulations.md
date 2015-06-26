@@ -446,7 +446,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - B4d) The competitor must not look at the puzzle at any point during the blindfolded phase. Penalty: disqualification of the attempt (DNF).
     - B4e) Until the competitor applies the first move to the puzzle, they may remove the blindfold to return to the memorisation phase.
 - B5) Stopping the solve:
-    - B5a) When using the Stackmat, the competitor stops the attempt by releasing the puzzle and then stopping the timer.
+    - B5a) When using the Stackmat timer, the competitor stops the attempt by releasing the puzzle and then stopping the timer.
     - B5b) When using a stopwatch, the competitor ends the attempt by placing the puzzle back onto the surface and notifying the judge that they are stopping the attempt. At that moment, the judge stops the timer.
     - B5c) If the competitor is not touching the puzzle, they may remove the blindfold before they stop the timer. They must not touch the puzzle until the end of the attempt. Penalty for touching the puzzle: disqualification of the attempt (DNF).
 
