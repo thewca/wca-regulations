@@ -117,7 +117,6 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3a2) Puzzles must be fully operational, such that normal scrambling is possible.
     - 3a3) Polyhedral puzzles must use a colour scheme with one unique colour per face in the solved state. Each puzzle variation must have moves, states, and solutions functionally identical to the original puzzle.
 - 3d) Puzzles must have coloured parts, which must be one of the following: coloured stickers, coloured tiles, coloured plastic, or painted/printed colours. All coloured parts of a puzzle must be made of a similar material.
-    - 3d1) Exception: Competitors with a medically documented visual disability may use textured puzzles with different textures on different faces. Textures/patterns must be uniform per face. Each face should have a distinct colour, to aid in scrambling and judging.
     - 3d1) For competitors with a medically documented visual disability, the following exceptions apply:
         - 3d1a) Blind competitors may use textured puzzles with different textures on different faces. Each face should have a distinct colour, to aid in scrambling and judging.
         - 3d1b) Colour blind competitors may use puzzles with different patterns on different faces where no distinct colours are available. Patterns may come from stickers or be drawn.
