@@ -125,7 +125,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 3h) Modifications that enhance the basic concept of a puzzle are not permitted. Modified versions of puzzles are permitted only if the modification does not make any additional information available to the competitor (e.g. orientation or identity of pieces), compared to an unmodified version of the same puzzle.
     - 3h1) "Pillowed" puzzles are not permitted. Exception: Pillowed 7x7x7 Cubes are permitted.
     - 3h2) Puzzles whose coloured plastic is visible inside the puzzle (e.g. "stickerless" puzzles) are permitted. This does not include the following puzzles:
-      - 3h2a) Puzzles with transparent parts are not permitted. Exception: An overlay sticker (see [Regulation 3l](regulations:regulation:3l)).
+      - 3h2a) Puzzles with transparent parts. Exception: An overlay sticker (see [Regulation 3l](regulations:regulation:3l)).
     - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
     - 3h4) For Clock, custom "inserts" (the same shape and size as the traditional paper inserts) are permitted, at the discretion of the WCA Delegate. The inserts must have a clear indication of 12 o'clock that matches the original inserts.
 - 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that significantly distinguish any piece from a similar piece. Exception: a logo (see [Regulation 3l](regulations:regulation:3l)).
@@ -293,10 +293,10 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 11a3) Equipment malfunction.
 - 11b) If an incident occurs, the WCA Delegate determines an impartial and appropriate course of action.
 - 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make a decision based on fair sportsmanship (also see [Regulation 11e3](regulations:regulation:11e3)).
-- 11e) If an incident occurs during an attempt, the WCA Delegate may give a competitor an extra attempt, replacing the attempt during which the incident occurred. The competitor must appeal verbally or in writing to the judge and WCA Delegate at the time of the incident, before finishing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.
-    - 11e1) If a competitor is given an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble sequence must be generated using the current official version of the official WCA scramble program (see [Regulation 4f](regulations:regulation:4f)).
+- 11e) If an incident occurs during an attempt, the WCA Delegate may grant a competitor an extra attempt, replacing the attempt during which the incident occurred. The competitor must appeal verbally or in writing to the judge and WCA Delegate at the time of the incident, before finishing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.
+    - 11e1) If a competitor is granted an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble sequence must be generated using the current official version of the official WCA scramble program (see [Regulation 4f](regulations:regulation:4f)).
     - 11e2) If a competitor receives any extra attempts, the regularly numbered attempts should be completed first, and extra attempts should be done afterwards. The results from the extra attempts should replace the regularly numbered attempts that caused them, in increasing order.
-    - 11e3) If it is unclear whether an incident should result in an extra attempt, the competitor may be given a tentative extra attempt that will be used only if it is later found that an extra attempt was appropriate (e.g. by a decision of the WCA Board).
+    - 11e3) If it is unclear whether an incident should result in an extra attempt, the competitor may be granted a tentative extra attempt that will be used only if it is later found that an extra attempt was appropriate (e.g. by a decision of the WCA Board).
 - 11f) Decisions about an incident may be supported with video or photographic analysis, at the discretion of the WCA Delegate.
 
 
