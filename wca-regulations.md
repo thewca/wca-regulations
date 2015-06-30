@@ -444,7 +444,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - B4c) The judge must ensure that there is an opaque object between the competitor's face and the puzzle while the competitor is solving.
         - B4c1) In all cases, the competitor must wear the blindfold such that their view of the puzzle would still clearly be blocked if the opaque object were not in the way.
         - B4c2) By default, the judge should place the object (e.g. a sheet of paper or cardboard) between the competitor and the puzzle while the competitor is wearing the blindfold.
-        - B4c3) If the judge and competitor agree beforehand, the competitor may choose to place the puzzle behind a suitable object (e.g. a music stand, the surface of the table) by themself during the blindfolded phase.
+        - B4c3) If the judge and competitor agree beforehand, the competitor may choose to place the puzzle behind a suitable object (e.g. a music stand, the surface of the table) by themselves during the blindfolded phase.
     - B4d) The competitor must not look at the puzzle at any point during the blindfolded phase. Penalty: disqualification of the attempt (DNF).
     - B4e) Until the competitor applies the first move to the puzzle, they may remove the blindfold to return to the memorisation phase.
 - B5) Stopping the solve:
