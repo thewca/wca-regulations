@@ -14,8 +14,8 @@ The WCA Regulations are also supplemented by the [WCA Guidelines](guidelines:top
 Uses of the words "must", "must not", "should", "should not" and "may" match [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
 ### Information on the Internet
-Website of World Cube Association: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)    
-Original source of the WCA regulations: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)    
+Website of World Cube Association: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)    
+Original source of the WCA regulations: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)    
 WCA Regulations in [PDF format](link:pdf)
 
 ### Source
