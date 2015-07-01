@@ -125,7 +125,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 3h) Modifications that enhance the basic concept of a puzzle are not permitted. Modified versions of puzzles are permitted only if the modification does not make any additional information available to the competitor (e.g. orientation or identity of pieces), compared to an unmodified version of the same puzzle.
     - 3h1) "Pillowed" puzzles are not permitted. Exception: Pillowed 7x7x7 Cubes are permitted.
     - 3h2) Puzzles whose coloured plastic is visible inside the puzzle (e.g. "stickerless" puzzles) are permitted. This does not include the following puzzles:
-      - 3h2a) Puzzles with transparent parts. Exception: An overlay sticker (see [Regulation 3l](regulations:regulation:3l)).
+        - 3h2a) Puzzles with transparent parts. Exception: An overlay sticker (see [Regulation 3l](regulations:regulation:3l)).
     - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
     - 3h4) For Clock, custom "inserts" (the same shape and size as the traditional paper inserts) are permitted, at the discretion of the WCA Delegate. The inserts must have a clear indication of 12 o'clock that matches the original inserts.
 - 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that significantly distinguish any piece from a similar piece. Exception: a logo (see [Regulation 3l](regulations:regulation:3l)).
@@ -364,7 +364,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - A2c) After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.
         - A2c1) The scrambler places a cover over the scrambled puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover remains over the puzzle until the beginning of the attempt.
     - A2d) When taking a puzzle from the scrambler, the judge briefly inspects the puzzle to ensure thorough scrambling of the puzzle. The judge raises any concerns with the scrambler, who then conducts a detailed check.
-      - A2d1) The organisation team may require scramblers to take additional measures to make sure that they have performed the correct scramble (e.g. signing the score sheet to affirm that they performed the correctly-numbered scramble and checked that it matches the image, or using an additional person as "scramble checker").
+        - A2d1) The organisation team may require scramblers to take additional measures to make sure that they have performed the correct scramble (e.g. signing the score sheet to affirm that they performed the correctly-numbered scramble and checked that it matches the image, or using an additional person as "scramble checker").
     - A2e) The judge places the puzzle onto the mat in an arbitrary orientation while ensuring that it remains completely covered.
         - A2e1) The competitor is not permitted to request a specific orientation, and the judge must not influence the orientation they place the puzzle on the mat based on what they know or expects the puzzle state to be.
 - A3) Inspection:
