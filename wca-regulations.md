@@ -107,7 +107,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 2s) Competitors with disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations from the WCA Delegate. Competitors requesting such accommodations should contact the organisation team and WCA Delegate at least two weeks before the competition.
 - 2t) Each competitor must be familiar with and understand the WCA Regulations before the competition.
 - 2u) Competitors must be present and ready to compete when they are called to compete for an attempt. Penalty: disqualification from the event.
-    - 2u1) Exception: A competitor who is not present in time for an individually scheduled attempt (e.g. an FMC attempt, a Multiple Blindfolded attempt) may be considered to have declined that attempt (DNS), at the discretion of the WCA Delegate.
+    - 2u1) Exception: A competitor who is not present in time for an individually scheduled attempt (e.g. a Fewest Moves attempt, a Multiple Blindfolded attempt) may be considered to have declined that attempt (DNS), at the discretion of the WCA Delegate.
 
 
 ## <article-3><puzzles><puzzles> Article 3: Puzzles
