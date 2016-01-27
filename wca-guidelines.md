@@ -73,7 +73,7 @@ To be more informative, each Guideline is classified using one of the following 
 
 - 4b1+) [REMINDER] The WCA Delegate must never re-generate any scrambles to replace other ones for the purpose of filtering. For example, it is not be permitted to glance at the scrambles for a competition and generate the entire set again in order to generate "fairer" scrambles.
 - 4b2+) [CLARIFICATION] In general, all official scramble sequences should be kept secret during the competition and published together after the end of the competition (see [Regulation 1c3a](regulations:regulation:1c3a)). In some cases (e.g. world records), the organisation team may wish to release specific scrambles sooner after the end of a round.
-- 4b4+) [ADDITION] It is permitted for the puzzle to change its orientation when it is moved from the scrambler to the solving station, as long as no one is attempting to influence the randomness of the orientation (see [Regulation A2e1](regulations:regulation:A2e1)).
+- 4b4+) [SEPARATE][ADDITION] It is permitted for the puzzle to change its orientation when it is moved from the scrambler to the solving station, as long as no one is attempting to influence the randomness of the orientation (see [Regulation A2e1](regulations:regulation:A2e1)).
 - 4d+) [CLARIFICATION] Some puzzles use standard colour schemes, except that white is replaced with black. In this case, black is the darkest colour and must not be treated as white.
 - 4f+) [RECOMMENDATION] The WCA Delegate should generate sufficient scrambles for the entire competition ahead of time, including spare scrambles for extra attempts.
 - 4f++) [REMINDER] If the WCA Delegate generates any additional scrambles during the competition, the scrambles must be saved (see [Regulation 1c3a](regulations:regulation:1c3a)).
@@ -85,7 +85,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 5b5++) [EXAMPLE] Examples of parts physically detached, resulting in a "DNF": two 3x3x3 center caps, two big cube center pieces, a 3x3x3 edge piece, a 4x4x4 edge piece ("wing"), any combination of two pieces that both have coloured parts.
 - 5b5+++) [EXAMPLE] Example of parts not fully attached, resulting in a solved state: a 5x5x5 centre piece twisted in its spot.
 - 5b5++++) [EXAMPLE] Example of parts physically attached but not fully placed, resulting in a "DNF": a 3x3x3 edge piece slightly popped out.
-- 5c+) [REMINDER] If a competitor has a puzzle defect, this does not give them the right to an extra attempt.
+- 5c+) [SEPARATE][REMINDER] If a competitor has a puzzle defect, this does not give them the right to an extra attempt.
 
 
 ## <article-6><awards><awards> Article 6: Awards/prizes/honours
@@ -135,7 +135,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 11e2++) [EXAMPLE] Suppose a competitor has 5 regularly numbered attempts, and #2 and #4 lead to extra attempts. After finishing the 5 regularly numbered attempts, the competitor continues with extra attempts until there are two valid extra attempts. The first of these replaces attempt #2, and the other one replaces attempt #4.
 
 
-## <article-12><incidents><incidents> Article 12: Notation
+## <article-12><notation><notation> Article 12: Notation
 
 - 12c2+) [ADDITION] When counting the moves in case of a misalignment at the end of a solve, x and y are considered separately. Example: (5, 1) is considered one misalignment, (5, 5) is considered two misalignments.
 
@@ -175,7 +175,7 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-D><feet><solvingwithfeet> Article D: Solving With Feet
 
 - D1b+) [CLARIFICATION] The competitor may wear socks while solving.
-- D1c+) [REMINDER] While repairing puzzle defects, other body parts must not touch the puzzle.
+- D1c+) [SEPARATE][REMINDER] While repairing puzzle defects, other body parts must not touch the puzzle.
 
 
 ## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
