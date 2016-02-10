@@ -377,7 +377,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the attempt (DNF).
         - A3c2) If the parts of the puzzle are not fully aligned, then the competitor may align the faces, as long as misalignments stay within the limits of [Regulation 10f](regulations:regulation:10f).
         - A3c3) The competitor may reset the timer before the start of the solve.
-        - A3c4) For Square-1, if the use of a thin object inside the puzzle has been enforced by the organisation team (see [Regulation A2b1](regulations:regulation:A2b1)), the competitor must remove the object from the puzzle during inspection.
+        - A3c4) For Square-1, if the use of a thin object inside the puzzle has been enforced by the organisation team (see [Regulation A2b1](regulations:regulation:A2b1)), the competitor may remove the object from the puzzle during inspection.
     - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation.
         - A3d1) The puzzle must not rest on the timer. Penalty: time penalty (+2 seconds).
         - A3d2) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
