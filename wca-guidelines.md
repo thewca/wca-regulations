@@ -65,6 +65,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 3h2+) [CLARIFICATION] In the past, "stickerless" puzzles were not allowed. Such puzzles are now allowed.
 - 3h2++) [CLARIFICATION] "Stickerless" puzzles that significantly differ from most mass-produced "stickerless" puzzles are only permitted at the discretion of the WCA Delegate.
 - 3j+) [REMINDER] In the past, engraved/embossed parts have been allowed. This is no longer permitted.
+- 3j++) [CLARIFICATION] On Clock, pins must not be identifiable from any other pin of the same side.
 - 3j2+) [CLARIFICATION] On Clock, all eighteen inner clock faces are considered similar pieces.
 - 3l+) [ADDITION] Logos may feature any reasonable design that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat), and leave the coloured part clearly recognisable. Unconventional logos are only permitted at the discretion of the WCA Delegate.
 
@@ -125,6 +126,7 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-10><solved-state><solvedstate> Article 10: Solved State
 
 - 10f+) [EXPLANATION] The misalignment limits are selected so that they provide a natural cutoff between one state of a puzzle (without penalty) and a state one move away.
+- 10h1+) [ADDITION] The solved state of Clock is not affected by loose or popped pin caps.
 
 
 ## <article-11><incidents><incidents> Article 11: Incidents
