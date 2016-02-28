@@ -73,7 +73,7 @@ To be more informative, each Guideline is classified using one of the following 
 
 - 4b1+) [REMINDER] The WCA Delegate must never re-generate any scrambles to replace other ones for the purpose of filtering. For example, it is not be permitted to glance at the scrambles for a competition and generate the entire set again in order to generate "fairer" scrambles.
 - 4b2+) [CLARIFICATION] In general, all official scramble sequences should be kept secret during the competition and published together after the end of the competition (see [Regulation 1c3a](regulations:regulation:1c3a)). In some cases (e.g. world records), the organisation team may wish to release specific scrambles sooner after the end of a round.
-- 4b4+) [SEPARATE][ADDITION] It is permitted for the puzzle to change its orientation when it is moved from the scrambler to the solving station, as long as no one is attempting to influence the randomness of the orientation (see [Regulation A2e1](regulations:regulation:A2e1)).
+- 4b4+) [ADDITION] It is permitted for the puzzle to change its orientation when it is moved from the scrambler to the solving station, as long as no one is attempting to influence the randomness of the orientation (see [Regulation A2e1](regulations:regulation:A2e1)).
 - 4d+) [CLARIFICATION] Some puzzles use standard colour schemes, except that white is replaced with black. In this case, black is the darkest colour and must not be treated as white.
 - 4f+) [RECOMMENDATION] The WCA Delegate should generate sufficient scrambles for the entire competition ahead of time, including spare scrambles for extra attempts.
 - 4f++) [REMINDER] If the WCA Delegate generates any additional scrambles during the competition, the scrambles must be saved (see [Regulation 1c3a](regulations:regulation:1c3a)).
@@ -85,29 +85,29 @@ To be more informative, each Guideline is classified using one of the following 
 - 5b5++) [EXAMPLE] Examples of parts physically detached, resulting in a "DNF": two 3x3x3 center caps, two big cube center pieces, a 3x3x3 edge piece, a 4x4x4 edge piece ("wing"), any combination of two pieces that both have coloured parts.
 - 5b5+++) [EXAMPLE] Example of parts not fully attached, resulting in a solved state: a 5x5x5 centre piece twisted in its spot.
 - 5b5++++) [EXAMPLE] Example of parts physically attached but not fully placed, resulting in a "DNF": a 3x3x3 edge piece slightly popped out.
-- 5c+) [SEPARATE][REMINDER] If a competitor has a puzzle defect, this does not give them the right to an extra attempt.
+- 5c+) [REMINDER] If a competitor has a puzzle defect, this does not give them the right to an extra attempt.
 
 
 ## <article-6><awards><awards> Article 6: Awards/prizes/honours
 
-- 6a+) [SEPARATE][ADDITION] Awards, prizes or honours may be given to competitors according to the announcement of the competition.
-- 6b+) [SEPARATE][RECOMMENDATION] Competitors should attend the winner's ceremony to receive awards/prizes/honours.
-- 6b1+) [SEPARATE][RECOMMENDATION] The winner's ceremony should be held in the competition venue, within one hour after the end of the last event.
-- 6c+) [SEPARATE][RECOMMENDATION] Winners of awards, prizes or honours should be prepared to talk to journalists or any media covering the competition.
-- 6d+) [SEPARATE][RECOMMENDATION] Organisation teams of competitions should have certificates for all category winners, signed by the leader of the organisation team and by the WCA Delegate.
+- 6a+) [ADDITION] Awards, prizes or honours may be given to competitors according to the announcement of the competition.
+- 6b+) [RECOMMENDATION] Competitors should attend the winner's ceremony to receive awards/prizes/honours.
+- 6b1+) [RECOMMENDATION] The winner's ceremony should be held in the competition venue, within one hour after the end of the last event.
+- 6c+) [RECOMMENDATION] Winners of awards, prizes or honours should be prepared to talk to journalists or any media covering the competition.
+- 6d+) [RECOMMENDATION] Organisation teams of competitions should have certificates for all category winners, signed by the leader of the organisation team and by the WCA Delegate.
 
 
 ## <article-7><environment><environment> Article 7: Environment
 
-- 7d+) [SEPARATE][ADDITION] The temperature of the competition area should be 21 to 25 degrees Celsius.
-- 7h2+) [SEPARATE][ADDITION] The competitors in the competitors area should not be able to see the puzzles of the competitors on stage.
+- 7d+) [ADDITION] The temperature of the competition area should be 21 to 25 degrees Celsius.
+- 7h2+) [ADDITION] The competitors in the competitors area should not be able to see the puzzles of the competitors on stage.
 
 
 ## <article-8><competitions><competitions> Article 8: Competitions
 
 - 8a4+) [RECOMMENDATION] Changes to increase the maximum number of competitors in the first round should be made at least one month before the competition (see [Regulation 9r3](regulations:regulation:9r3)).
 - 8a4++) [RECOMMENDATION] The competition should be announced at least one month before the beginning of the competition.
-- 8a5+) [SEPARATE][RECOMMENDATION] The competition should have at least 12 competitors.
+- 8a5+) [RECOMMENDATION] The competition should have at least 12 competitors.
 - 8a7+) [ADDITION] Organisers should strongly consider modifications to make Stackmat timers more robust against common incidents, such as making the buttons more difficult to press by accident (e.g. by attaching O-rings around the buttons) and securing the battery more firmly (e.g. by padding the battery compartment).
 
 
@@ -119,7 +119,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 9f1+) [EXAMPLE] If the timer displays 12.678 for an attempt, the original recorded time is 12.67 (drop any digit after a hundredth of a second). A judge may write the full-precision time on the score sheet (and keep the precision in the calculation of penalties), as long as the score taker truncates it for the official results.
 - 9f4+) [EXPLANATION] The result of an attempt is DNF only if the competitor began the attempt by indicating that they are ready (see [Regulation A3b2](regulations:regulation:A3b2)) but the attempt was disqualified.
 - 9f5+) [CLARIFICATION] The result for an attempt is DNS if the competitor was eligible for the attempt and did not begin it (see [Regulation A3b2](regulations:regulation:A3b2)). If the competitor did not qualify for an attempt (e.g. in a combined round), they have no result for the attempt.
-- 9q+) [SEPARATE][RECOMMENDATION] Events and rounds should have at least 2 competitors.
+- 9q+) [RECOMMENDATION] Events and rounds should have at least 2 competitors.
 
 
 ## <article-10><solved-state><solvedstate> Article 10: Solved State
@@ -177,7 +177,7 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-D><feet><solvingwithfeet> Article D: Solving With Feet
 
 - D1b+) [CLARIFICATION] The competitor may wear socks while solving.
-- D1c+) [SEPARATE][REMINDER] While repairing puzzle defects, other body parts must not touch the puzzle.
+- D1c+) [REMINDER] While repairing puzzle defects, other body parts must not touch the puzzle.
 
 
 ## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
