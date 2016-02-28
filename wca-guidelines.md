@@ -102,6 +102,7 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-7><environment><environment> Article 7: Environment
 
 - 7d+) [ADDITION] The temperature of the competition area should be 21 to 25 degrees Celsius.
+- 7f1a+) [CLARIFICATION] A full-size mat should have a minimum length of 30 cm and a minimum width of 25 cm.
 - 7h2+) [ADDITION] The competitors in the competitors area should not be able to see the puzzles of the competitors on stage.
 
 
