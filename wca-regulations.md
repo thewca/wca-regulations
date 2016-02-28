@@ -488,7 +488,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - E3) The competitor may use the following objects during the attempt. Penalty for using unauthorised objects: disqualification of the attempt (DNF).
     - E3a) Paper and pens (both supplied by judge).
     - E3b) Rubik's Cubes (at most 3, self-supplied), as described in [Article 3](regulations:article:3).
-    - E3c) Coloured stickers (self-supplied).
+    - E3c) Stickers (self-supplied).
     - E3d) Stopwatch or watch (self-supplied) for keeping track of the elapsed time, if it is approved by the WCA Delegate.
 
 
