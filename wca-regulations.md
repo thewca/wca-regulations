@@ -154,6 +154,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 4b3d) Square-1: The (random) state must require at least 11 moves to solve.
         - 4b3e) 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, and Megaminx: sufficiently many random moves (instead of random state), at least 2 moves to solve.
         - 4b3f) Pyraminx: The (random) state must require at least 6 moves to solve.
+    - 4b4) Each scramble sequence should be applied during a maximum time frame of 2 hours. This time frame begins when the scramble sequence is applied for the first time.
 - 4d) Scrambling orientation:
     - 4d1) NxNxN puzzles and Megaminx are scrambled beginning with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.
     - 4d2) Pyraminx is scrambled beginning with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
