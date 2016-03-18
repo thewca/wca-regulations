@@ -256,9 +256,9 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the Board.
 - 9l) Each round must be completed before any following round of the same event starts.
 - 9m) Events must have at most four rounds.
-    - 9m1) Events with 99 or fewer competitors must have at most three rounds.
-    - 9m2) Events with 15 or fewer competitors must have at most two rounds.
-    - 9m3) Events with 7 or fewer competitors must have at most one round.
+    - 9m1) Events with 99 or fewer competitors must have at most three subsequent rounds.
+    - 9m2) Events with 15 or fewer competitors must have at most two subsequent rounds.
+    - 9m3) Events with 7 or fewer competitors must have at most one subsequent round.
 - 9o) Combined rounds count as one round when counting the number of rounds per event.
 - 9p) If an event has multiple rounds, then:
     - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
