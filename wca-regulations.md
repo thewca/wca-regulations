@@ -59,7 +59,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 1g1) A score taker is responsible for compiling results.
     - 1g2) Changes to the result on a score sheet are only permitted at the discretion of the WCA Delegate.
 - 1h) Competitors in the same round of an event may be divided into groups.
-    - 1h1) Scramblers and judges for a round should not scramble for/judge competitors in their own group before they have finished all of their attempts for the round. They may scramble for/judge competitors in their own group at the discretion of the WCA Delegate, but the organisation team must ensure that scramblers and judges cannot see any scrambles for their attempts that they have not attempted yet.
+    - 1h1) Scramblers and judges for a round should not scramble for/judge competitors in their own group before they have finished all of their attempts for the round. They may scramble for/judge competitors in their own group at the discretion of the WCA Delegate, but the organisation team must ensure that scramblers and judges cannot see any scramble sequences for their attempts that they have not attempted yet.
 - 1j) All officials may compete in the competition.
 - 1k) Officials may serve multiple roles (e.g. organisation team, WCA Delegate, judge, score taker, scrambler).
 
@@ -163,7 +163,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 4d5) Skewb is scrambled beginning with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front-left.
 - 4f) Competition scramble sequences must be generated using the current official version of the official WCA scramble program (available [via the WCA website](https://www.worldcubeassociation.org/regulations/scrambles/)).
 - 4g) After scrambling a puzzle, the scrambler must verify that the puzzle is scrambled correctly. If the puzzle state is wrong, the scrambler must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
-    - 4g1) Exception: For the 6x6x6 Cube, 7x7x7 Cube, and Megaminx, it is not necessary to correct the scramble, at the discretion of the WCA Delegate.
+    - 4g1) Exception: For the 6x6x6 Cube, 7x7x7 Cube, and Megaminx, it is not necessary to correct the scramble sequence, at the discretion of the WCA Delegate.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
@@ -365,7 +365,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - A2c) After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.
         - A2c1) The scrambler places a cover over the scrambled puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover remains over the puzzle until the beginning of the attempt.
     - A2d) When taking a puzzle from the scrambler, the judge briefly inspects the puzzle to ensure thorough scrambling of the puzzle. The judge raises any concerns with the scrambler, who then conducts a detailed check.
-        - A2d1) The organisation team may require scramblers to take additional measures to make sure that they have performed the correct scramble (e.g. signing the score sheet to affirm that they performed the correctly-numbered scramble and checked that it matches the image, or using an additional person as "scramble checker").
+        - A2d1) The organisation team may require scramblers to take additional measures to make sure that they have performed the correct scramble sequence (e.g. signing the score sheet to affirm that they performed the correctly-numbered scramble sequence and checked that it matches the image, or using an additional person as "scramble checker").
     - A2e) The judge places the puzzle onto the mat in an arbitrary orientation while ensuring that it remains completely covered.
         - A2e1) The competitor is not permitted to request a specific orientation, and the judge must not influence the orientation they place the puzzle on the mat based on what they know or expect the puzzle state to be.
 - A3) Inspection:
