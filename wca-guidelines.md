@@ -88,7 +88,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 5b5++) [EXAMPLE] Examples of parts physically detached, resulting in a "DNF": two 3x3x3 center caps, two big cube center pieces, a 3x3x3 edge piece, a 4x4x4 edge piece ("wing"), any combination of two pieces that both have coloured parts.
 - 5b5+++) [EXAMPLE] Example of parts not fully attached, resulting in a solved state: a 5x5x5 centre piece twisted in its spot.
 - 5b5++++) [EXAMPLE] Example of parts physically attached but not fully placed, resulting in a "DNF": a 3x3x3 edge piece slightly popped out.
-- 5c+) [REMINDER] If a competitor has a puzzle defect, this does not give them the right to an extra attempt.
+- 5c+) [REMINDER] If a competitor has a puzzle defect, this does not grant them the right to an extra attempt.
 
 
 ## <article-6><awards><awards> Article 6: Awards/prizes/honours
@@ -110,7 +110,7 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-8><competitions><competitions> Article 8: Competitions
 
 - 8a4+) [RECOMMENDATION] Changes to increase the maximum number of competitors in the first round should be made at least one month before the competition (see [Regulation 9r3](regulations:regulation:9r3)).
-- 8a4++) [RECOMMENDATION] The competition should be announced at least one month before the beginning of the competition.
+- 8a4++) [RECOMMENDATION] The competition should be announced at least one month before the start of the competition.
 - 8a5+) [RECOMMENDATION] The competition should have at least 12 competitors.
 - 8a7+) [ADDITION] Organisers should strongly consider modifications to make Stackmat timers more robust against common incidents, such as making the buttons more difficult to press by accident (e.g. by attaching O-rings around the buttons) and securing the battery more firmly (e.g. by padding the battery compartment).
 
@@ -149,11 +149,11 @@ To be more informative, each Guideline is classified using one of the following 
 
 - A1a2+) [ADDITION] In case of a cumulative time limit, the judge records the original recorded time for a DNF on the score sheet in parentheses, e.g. "DNF (1:02.27)".
 - A1a2++) [CLARIFICATION] Cumulative time limits may be enforced for a single event or a combination of events.
-- A1a3+) [REMINDER] The organisation team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the beginning of the round can disadvantage some competitors unfairly.
+- A1a3+) [REMINDER] The organisation team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the start of the round can disadvantage some competitors unfairly.
 - A1a4+) [REMINDER] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and WCA Delegate should be informed (see [Regulation 1g2](regulations:regulation:1g2)). Judges must always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
 - A1c+) [CLARIFICATION] WCA Delegates should only use their discretion to prevent competitors from being a severe detriment to the competition (e.g. wasting time and/or competition resources). Competitors should not be disqualified for a "poor" result when they are competing to the best of their abilities.
 - A2c1+) [REMINDER] In the past, score sheets have been used to cover puzzles while leaving some sides exposed. This is no longer permitted.
-- A3c3+) [CLARIFICATION] The competitor may reset the timer before/during the inspection phase if the judge accidentally neglected to do so. However, it is the responsibility of the judge to make sure the timer has been reset (see [Regulation A3b](regulations:regulation:A3b)). If the competitor accidentally tries to start the solve with a timer that the judge did not reset (i.e. the competitor performs inspection, places hands on the timer for a reasonable length of time, assumes that the timer will start normally, and begins to manipulate the puzzle), the attempt should be replaced by an extra attempt, at the discretion of the WCA Delegate.
+- A3c3+) [CLARIFICATION] The competitor may reset the timer before/during the inspection phase if the judge accidentally neglected to do so. However, it is the responsibility of the judge to make sure the timer has been reset (see [Regulation A3b](regulations:regulation:A3b)). If the competitor accidentally tries to start the solve with a timer that the judge did not reset (i.e. the competitor performs inspection, places hands on the timer for a reasonable length of time, assumes that the timer will start normally, and starts to manipulate the puzzle), the attempt should be replaced by an extra attempt, at the discretion of the WCA Delegate.
 - A3c4+) [CLARIFICATION] If the use of a thin object inside the puzzle has been enforced, the judge must not remove the object on behalf of the competitor.
 - A3c4++) [CLARIFICATION] The competitor may remove the object during the solve, if they did not do it during the inspection (e.g. they forgot).
 - A5b+) [CLARIFICATION] While inspecting or solving the puzzle, the competitor may touch the puzzle with any part of their body. Exception: One-Handed Solving and Solving With Feet (see [Regulation C1b](regulations:regulation:C1b) and [Regulation D1b](regulations:regulation:D1b)).
