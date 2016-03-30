@@ -484,7 +484,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - E2c) At 60 minutes, each competitor must give the judge a legibly written solution with the competitor's name, using the notation defined for Outer Block Turn Metric (described in [Regulation 12a](regulations:regulation:12a)). Penalty: disqualification of the attempt (DNF).
     - E2d) The length of the solution is calculated in Outer Block Turn Metric (see [Regulation 12a](regulations:regulation:12a)).
         - E2d1) The competitor is permitted a maximum solution length of 80 (moves and rotations).
-    - E2e) The competitor's solution must not be directly derived from any part of the scrambling algorithm. Penalty: disqualification of the attempt (DNF).
+    - E2e) The competitor's solution must not be directly derived from any part of the scramble sequence. Penalty: disqualification of the attempt (DNF), at the discretion of the WCA Delegate.
         - E2e1) The WCA Delegate may ask the competitor to explain the purpose of each move in their solution, irrespective of scrambling algorithm. If the competitor cannot give a valid explanation, the attempt is disqualified (DNF).
 - E3) The competitor may use the following objects during the attempt. Penalty for using unauthorised objects: disqualification of the attempt (DNF).
     - E3a) Paper and pens (both supplied by judge).
