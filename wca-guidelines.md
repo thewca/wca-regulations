@@ -109,7 +109,6 @@ To be more informative, each Guideline is classified using one of the following 
 
 ## <article-8><competitions><competitions> Article 8: Competitions
 
-- 8a4+) [RECOMMENDATION] Changes to increase the maximum number of competitors in the first round should be made at least one month before the competition (see [Regulation 9r3](regulations:regulation:9r3)).
 - 8a4++) [RECOMMENDATION] The competition should be announced at least one month before the start of the competition.
 - 8a5+) [RECOMMENDATION] The competition should have at least 12 competitors.
 - 8a7+) [ADDITION] Organisers should strongly consider modifications to make Stackmat timers more robust against common incidents, such as making the buttons more difficult to press by accident (e.g. by attaching O-rings around the buttons) and securing the battery more firmly (e.g. by padding the battery compartment).
