@@ -73,7 +73,7 @@ To be more informative, each Guideline is classified using one of the following 
 
 ## <article-4><scrambling><scrambling> Article 4: Scrambling
 
-- 4b1+) [REMINDER] The WCA Delegate must never re-generate any scramble sequences to replace other ones for the purpose of filtering. For example, it is not be permitted to glance at the scramble sequences for a competition and generate the entire set again in order to generate "fairer" scramble sequences.
+- 4b1+) [REMINDER] The WCA Delegate must never re-generate any scramble sequences to replace other ones for the purpose of filtering. For example, it is not permitted to glance at the scramble sequences for a competition and generate the entire set again in order to generate "fairer" scramble sequences.
 - 4b2+) [CLARIFICATION] In general, all official scramble sequences should be kept secret during the competition and published together after the end of the competition (see [Regulation 1c3a](regulations:regulation:1c3a)). In some cases (e.g. world records), the organisation team may wish to release specific scramble sequences sooner after the end of a round.
 - 4b4+) [CLARIFICATION] All attempts that have been started within the time frame follow the standard solving procedure (i.e. they are not stopped when the time frame of the relevant scramble sequence exceeds).
 - 4d+) [CLARIFICATION] Some puzzles use standard colour schemes, except that white is replaced with black. In this case, black is the darkest colour and must not be treated as white.
