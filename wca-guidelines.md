@@ -1,6 +1,6 @@
 # <wca-title>WCA Guidelines
 
-<version>Version: July 1, 2015
+<version>Version: April 18, 2016
 
 
 ## Notes
