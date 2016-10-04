@@ -19,10 +19,10 @@ Original source of the WCA regulations: [www.worldcubeassociation.org/regulation
 WCA Regulations in [PDF format](link:pdf)
 
 ### Source
-Development of the WCA Regulations and Guidelines is public [on GitHub](https://github.com/cubing/wca-documents).
+Development of the WCA Regulations and Guidelines is public [on GitHub](https://github.com/thewca/wca-regulations).
 
 ### Contact
-For questions and feedback, please contact the [WCA Regulations Committee (WRC)](https://www.worldcubeassociation.org/contact/wrc).
+For questions and feedback, please contact the [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org).
 
 
 ## <contents> [Contents](regulations:contents)
