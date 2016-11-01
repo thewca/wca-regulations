@@ -5,6 +5,8 @@
 
 ## Notes
 
+Latest textual revision: December 12, 2016
+
 ### WCA Regulations and Guidelines
 
 The WCA Regulations contain the full set of Regulations that apply to all official competitions sanctioned by the World Cube Association.
