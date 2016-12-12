@@ -19,10 +19,10 @@ Original source of the WCA regulations: [www.worldcubeassociation.org/regulation
 WCA Regulations in [PDF format](link:pdf)
 
 ### Source
-Development of the WCA Regulations and Guidelines is public [on GitHub](https://github.com/cubing/wca-documents).
+Development of the WCA Regulations and Guidelines is public [on GitHub](https://github.com/thewca/wca-regulations).
 
 ### Contact
-For questions and feedback, please contact the [WCA Regulations Committee (WRC)](https://www.worldcubeassociation.org/contact/wrc).
+For questions and feedback, please contact the [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org).
 
 
 ## <contents> [Contents](regulations:contents)
@@ -257,7 +257,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 9l) Each round must be completed before any following round of the same event starts.
 - 9m) Events must have at most four rounds.
     - 9m1) Rounds with 99 or fewer competitors must have at most two subsequent rounds.
-    - 9m2) Rounds with 15 or fewer competitors must have at most one subsequent rounds.
+    - 9m2) Rounds with 15 or fewer competitors must have at most one subsequent round.
     - 9m3) Rounds with 7 or fewer competitors must not have subsequent rounds.
 - 9o) Combined rounds count as one round when counting the number of rounds per event.
 - 9p) If an event has multiple rounds, then:
