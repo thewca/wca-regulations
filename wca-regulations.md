@@ -36,9 +36,9 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 ## <article-1><officials><officials> Article 1: Officials
 
-- 1a) A competition must include a WCA Delegate and an organization team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
-- 1b) The organization team of a competition is responsible for logistics before, during, and after the competition.
-- 1c) The WCA Delegate may delegate responsibilities to other members of the organization team, but is ultimately accountable for how these responsibilities are carried out. The WCA Delegate for a competition is responsible for:
+- 1a) A competition must include a WCA Delegate and an organisation team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
+- 1b) The organisation team of a competition is responsible for logistics before, during, and after the competition.
+- 1c) The WCA Delegate may delegate responsibilities to other members of the organisation team, but is ultimately accountable for how these responsibilities are carried out. The WCA Delegate for a competition is responsible for:
     - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the end of the competition.
     - 1c3) Sending the competition results to the WCA Results Team within one week of the end of the competition.
         - 1c3a) All scramble sequences used during a competition must be sent with the results of the competition.
@@ -61,9 +61,9 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 1g1) A score taker is responsible for compiling results.
     - 1g2) Changes to the result on a score sheet are only permitted at the discretion of the WCA Delegate.
 - 1h) Competitors in the same round of an event may be divided into groups.
-    - 1h1) Scramblers and judges for a round should not scramble for/judge competitors in their own group before they have finished all of their attempts for the round. They may scramble for/judge competitors in their own group at the discretion of the WCA Delegate, but the organization team must ensure that scramblers and judges cannot see any scramble sequences for their attempts that they have not attempted yet.
+    - 1h1) Scramblers and judges for a round should not scramble for/judge competitors in their own group before they have finished all of their attempts for the round. They may scramble for/judge competitors in their own group at the discretion of the WCA Delegate, but the organisation team must ensure that scramblers and judges cannot see any scramble sequences for their attempts that they have not attempted yet.
 - 1j) All officials may compete in the competition.
-- 1k) Officials may serve multiple roles (e.g. organization team, WCA Delegate, judge, score taker, scrambler).
+- 1k) Officials may serve multiple roles (e.g. organisation team, WCA Delegate, judge, score taker, scrambler).
 
 
 ## <article-2><competitors><competitors> Article 2: Competitors
@@ -73,9 +73,9 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 2a2) Meet the competition requirements, which must be clearly announced before the competition.
     - 2a3) Are not suspended by WCA Board.
 - 2b) Competitors below the age of 18 must obtain consent from their parent(s)/guardian(s) to register and compete.
-- 2c) Competitors register by providing all information required by the organization team (including: name, country, date of birth, gender, contact information, selected events).
-    - 2c1) A competitor is not eligible to compete without a completed registration, as determined by the organization team.
-- 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and must not be disclosed to outside organizations/persons without the consent of the competitor.
+- 2c) Competitors register by providing all information required by the organisation team (including: name, country, date of birth, gender, contact information, selected events).
+    - 2c1) A competitor is not eligible to compete without a completed registration, as determined by the organisation team.
+- 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and must not be disclosed to outside organisations/persons without the consent of the competitor.
 - 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship standing by means of documents (e.g. a passport). If a competitor is found ineligible to represent the country under which they have registered, the competitor may be disqualified retroactively and/or suspended, at the discretion of the WCA Board.
     - 2e1) The eligible countries are defined by the Wikipedia article "List of sovereign states" ("UN member states and observer states" and "Other states").
     - 2e2) Competitors with updates to their citizenship status may change their country of representation in their first competition of a calendar year.
@@ -106,7 +106,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 2n1) Disputes are only permitted during the competition, within 30 minutes after the disputed incident happened and before the start of any following rounds of the relevant event.
     - 2n2) The WCA Delegate must resolve the dispute before the start of the next round of the event.
     - 2n3) The competitor must accept all final rulings of the WCA Delegate. Penalty: disqualification from the competition.
-- 2s) Competitors with disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations from the WCA Delegate. Competitors requesting such accommodations should contact the organization team and WCA Delegate at least two weeks before the competition.
+- 2s) Competitors with disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations from the WCA Delegate. Competitors requesting such accommodations should contact the organisation team and WCA Delegate at least two weeks before the competition.
 - 2t) Each competitor must be familiar with and understand the WCA Regulations before the competition.
 - 2u) Competitors must be present and ready to compete when they are called to compete for an attempt. Penalty: disqualification from the event.
     - 2u1) Exception: A competitor who is not present in time for an individually scheduled attempt (e.g. a Fewest Moves attempt, a Multiple Blindfolded attempt) may be considered to have declined that attempt (DNS), at the discretion of the WCA Delegate.
@@ -201,7 +201,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 7f2) The Stackmat timer must be attached to the mat and placed on the surface, with the timer on the side of the mat nearest to the competitor.
         - 7f2a) Exception: For Solving With Feet, the Stackmat must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
 - 7h) The competition area must have a Competitors Area.
-    - 7h1) The organization team may require that a competitor who has been called to compete must remain within the Competitors Area until the competitor has finished all attempts for the round.
+    - 7h1) The organisation team may require that a competitor who has been called to compete must remain within the Competitors Area until the competitor has finished all attempts for the round.
 
 
 ## <article-8><competitions><competitions> Article 8: Competitions
@@ -350,8 +350,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 ## <article-A><speedsolving><speedsolving> Article A: Speed Solving
 
 - A1) Speed Solving attempts must abide by the following procedures.
-    - A1a) The organization team must enforce time limits for attempts and/or rounds.
-        - A1a1) The default time limit per solve is 10 minutes, though the organization team may announce a higher or lower time limit.
+    - A1a) The organisation team must enforce time limits for attempts and/or rounds.
+        - A1a1) The default time limit per solve is 10 minutes, though the organisation team may announce a higher or lower time limit.
         - A1a2) Cumulative time limits may be enforced (e.g. 3 results with a cumulative time limit of 20 minutes). The time elapsed in a DNF result counts towards the cumulative time limit.
         - A1a3) For each round, any time limits must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
         - A1a4) The competitor must end each solve within the time limit. If a competitor reaches the time limit for a solve/round, the judge stops the attempt immediately and records the result as DNF. Exception: Multiple Blindfolded Solving (see [Regulation H1b1](regulations:regulation:H1b1)).
@@ -363,11 +363,11 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - A2) Scrambling:
     - A2a) When called for a round, the competitor submits a puzzle, in its solved state, to the scrambler. The competitor then waits in the Competitors Area until they are called to compete.
     - A2b) A scrambler scrambles the puzzle according to the regulations in [Article 4](regulations:article:4).
-        - A2b1) For Square-1, the organization team may enforce placing a thin object in the puzzle to prevent accidental moves being applied before the start of the attempt. If these objects are used, this must be announced before the round starts.
+        - A2b1) For Square-1, the organisation team may enforce placing a thin object in the puzzle to prevent accidental moves being applied before the start of the attempt. If these objects are used, this must be announced before the round starts.
     - A2c) After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.
         - A2c1) The scrambler places a cover over the scrambled puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover remains over the puzzle until the start of the attempt.
     - A2d) When taking a puzzle from the scrambler, the judge briefly inspects the puzzle to ensure thorough scrambling of the puzzle. The judge raises any concerns with the scrambler, who then conducts a detailed check.
-        - A2d1) The organization team may require scramblers to take additional measures to make sure that they have applied the correct scramble sequence (e.g. signing the score sheet to affirm that they applied the correctly-numbered scramble sequence and checked that it matches the image, or using an additional person as "scramble checker").
+        - A2d1) The organisation team may require scramblers to take additional measures to make sure that they have applied the correct scramble sequence (e.g. signing the score sheet to affirm that they applied the correctly-numbered scramble sequence and checked that it matches the image, or using an additional person as "scramble checker").
     - A2e) The judge places the puzzle onto the mat in an arbitrary orientation while ensuring that it remains completely covered.
         - A2e1) The competitor is not permitted to request a specific orientation, and the judge must not influence the orientation they place the puzzle on the mat based on what they know or expect the puzzle state to be.
 - A3) Inspection:
@@ -380,7 +380,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the attempt (DNF).
         - A3c2) If the parts of the puzzle are not fully aligned, then the competitor may align the faces, as long as misalignments stay within the limits of [Regulation 10f](regulations:regulation:10f).
         - A3c3) The competitor may reset the timer before the start of the solve.
-        - A3c4) For Square-1, if the use of a thin object inside the puzzle has been enforced by the organization team (see [Regulation A2b1](regulations:regulation:A2b1)), the competitor may remove the object from the puzzle during inspection.
+        - A3c4) For Square-1, if the use of a thin object inside the puzzle has been enforced by the organisation team (see [Regulation A2b1](regulations:regulation:A2b1)), the competitor may remove the object from the puzzle during inspection.
     - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation. Penalty for placing it outside the mat: time penalty (+2 seconds).
         - A3d2) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
         - A3d3) When 12 seconds of inspection have elapsed, the judge calls "12 SECONDS".
@@ -505,8 +505,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
 
 - H1) Standard blindfolded solving procedures are followed, as described in [Article B](regulations:article:B) (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in [Article B](regulations:article:B) are described below.
-    - H1a) Before an attempt, the competitor must submit to the organization team the number of puzzles (at least 2) they wish to attempt.
-        - H1a1) A competitor is not permitted to change the number of puzzles after submitting their number to the organization team.
+    - H1a) Before an attempt, the competitor must submit to the organisation team the number of puzzles (at least 2) they wish to attempt.
+        - H1a1) A competitor is not permitted to change the number of puzzles after submitting their number to the organisation team.
         - H1a2) A competitor may request to keep their submission private until all competitors have submitted their numbers. Once all competitors have reported their numbers, the information becomes public (e.g. a competitor may ask for the numbers of any other competitors before starting their attempt).
     - H1b) If a competitor is attempting fewer than 6 puzzles, they are allotted a time limit of 10 minutes times the number of puzzles in the attempt, else the time limit is 60 minutes.
         - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge stops the attempt and the attempt is then scored; the time limit for the attempt counts as the original recorded time.
@@ -516,12 +516,12 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 ## <article-Z><optional><optional> Article Z: Optional Regulations
 
-Organization teams may adopt optional regulations to facilitate the administration of the competition.
+Organisation teams may adopt optional regulations to facilitate the administration of the competition.
 The WCA Board must approve any optional regulations for a competition.
 
-- Z1) The organization team may require competitors to submit puzzles during registration.
-- Z2) The organization team may limit the number of events per competitor.
-- Z3) The organization team may select competitors who directly qualify for certain rounds of certain events based on the results of specific previous competitions.
-- Z4) The organization team may limit the number of competitors per event or per competition, on either a "first come first serve" basis or based upon qualification results or rankings in the WCA world rankings of a previously announced calendar date.
-- Z5) The organization team may prohibit competitors from participating in specific combinations of events.
+- Z1) The organisation team may require competitors to submit puzzles during registration.
+- Z2) The organisation team may limit the number of events per competitor.
+- Z3) The organisation team may select competitors who directly qualify for certain rounds of certain events based on the results of specific previous competitions.
+- Z4) The organisation team may limit the number of competitors per event or per competition, on either a "first come first serve" basis or based upon qualification results or rankings in the WCA world rankings of a previously announced calendar date.
+- Z5) The organisation team may prohibit competitors from participating in specific combinations of events.
 
