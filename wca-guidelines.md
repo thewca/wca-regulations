@@ -50,7 +50,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 2c+) [ADDITION] First-time competitors should register using their legal name. They may register using a reasonable nickname, at the discretion of the WCA Delegate.
 - 2c++) [ADDITION] Competitors must not provide intentionally misleading information, and returning competitors should provide information consistent with past information (e.g. exact name and WCA ID).
 - 2d+) [ADDITION] Date of birth and contact information should be especially secured.
-- 2d++) [RECOMMENDATION] If a third party (e.g. journalist) asks the organisation team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
+- 2d++) [RECOMMENDATION] If a third party (e.g. journalist) asks the organization team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
 - 2h+) [CLARIFICATION] Competitors may be barefoot for Solving With Feet.
 - 2j2+) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, their results from earlier rounds remain valid.
 - 2s+) [REMINDER] Special accommodations must be noted in the Delegate Report.
@@ -76,7 +76,7 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-4><scrambling><scrambling> Article 4: Scrambling
 
 - 4b1+) [REMINDER] The WCA Delegate must never re-generate any scramble sequences to replace other ones for the purpose of filtering. For example, it is not permitted to glance at the scramble sequences for a competition and generate the entire set again in order to generate "fairer" scramble sequences.
-- 4b2+) [CLARIFICATION] In general, all official scramble sequences should be kept secret during the competition and published together after the end of the competition (see [Regulation 1c3a](regulations:regulation:1c3a)). In some cases (e.g. world records), the organisation team may wish to release specific scramble sequences sooner after the end of a round.
+- 4b2+) [CLARIFICATION] In general, all official scramble sequences should be kept secret during the competition and published together after the end of the competition (see [Regulation 1c3a](regulations:regulation:1c3a)). In some cases (e.g. world records), the organization team may wish to release specific scramble sequences sooner after the end of a round.
 - 4b4+) [CLARIFICATION] All attempts that have been started within the time frame follow the standard solving procedure (i.e. they are not stopped when the time frame of the relevant scramble sequence exceeds).
 - 4d+) [CLARIFICATION] Some puzzles use standard colour schemes, except that white is replaced with black. In this case, black is the darkest colour and must not be treated as white.
 - 4d++) [ADDITION] It is permitted for the puzzle to change its orientation when it is moved from the scrambler to the solving station, as long as no one is attempting to influence the randomness of the orientation (see [Regulation A2e1](regulations:regulation:A2e1)).
@@ -99,7 +99,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 6b+) [RECOMMENDATION] Competitors should attend the winner's ceremony to receive awards/prizes/honours.
 - 6b1+) [RECOMMENDATION] The winner's ceremony should be held in the competition venue, within one hour after the end of the last event.
 - 6c+) [RECOMMENDATION] Winners of awards, prizes or honours should be prepared to talk to journalists or any media covering the competition.
-- 6d+) [RECOMMENDATION] Organisation teams of competitions should have certificates for all category winners, signed by the leader of the organisation team and by the WCA Delegate.
+- 6d+) [RECOMMENDATION] Organization teams of competitions should have certificates for all category winners, signed by the leader of the organization team and by the WCA Delegate.
 
 
 ## <article-7><environment><environment> Article 7: Environment
@@ -151,7 +151,7 @@ To be more informative, each Guideline is classified using one of the following 
 - A1a2+) [ADDITION] In case of a cumulative time limit, the judge records the original recorded time for a DNF on the score sheet in parentheses, e.g. "DNF (1:02.27)".
 - A1a2++) [CLARIFICATION] Cumulative time limits may be enforced for a single event or a combination of events.
 - A1a2+++) [CLARIFICATION] In case of a cumulative time limit, the result of each remaining attempt in the round is recorded as DNS (Did Not Start) after a competitor reaches the time limit.
-- A1a3+) [REMINDER] The organisation team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the start of the round can disadvantage some competitors unfairly.
+- A1a3+) [REMINDER] The organization team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the start of the round can disadvantage some competitors unfairly.
 - A1a4+) [REMINDER] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and WCA Delegate should be informed (see [Regulation 1g2](regulations:regulation:1g2)). Judges must always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
 - A1c+) [CLARIFICATION] WCA Delegates should only use their discretion to prevent competitors from being a severe detriment to the competition (e.g. wasting time and/or competition resources). Competitors should not be disqualified for a "poor" result when they are competing to the best of their abilities.
 - A2c1+) [REMINDER] In the past, score sheets have been used to cover puzzles while leaving some sides exposed. This is no longer permitted.
