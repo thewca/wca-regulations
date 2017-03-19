@@ -42,7 +42,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the end of the competition.
     - 1c3) Sending the competition results to the WCA Results Team within one week of the end of the competition.
         - 1c3a) All scramble sequences used during a competition must be sent with the results of the competition.
-        - 1c3b) Scramble sequences must be labelled with the events, rounds, and groups for which they were used.
+        - 1c3b) Scramble sequences must be labeled with the events, rounds, and groups for which they were used.
     - 1c4) Sending corrections to the competition results to the WCA Board.
     - 1c5) Advising the other officials where necessary.
     - 1c6) Approving all events and round formats of a competition, before the competition starts, and if changes are required during the competition.
@@ -189,7 +189,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 ## <article-7><environment><environment> Article 7: Environment
 
-- 7b) Spectators must remain at least 1.5 metres away from the solving stations when they are in use.
+- 7b) Spectators must remain at least 1.5 meters away from the solving stations when they are in use.
 - 7c) Lighting of the competition area must be given special attention. Lighting should be neutral, such that competitors can easily differentiate among the colors on the puzzles.
 - 7e) The competition area must be smoke-free.
 - 7f) Solving station:
