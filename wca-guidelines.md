@@ -70,7 +70,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 3j+) [REMINDER] In the past, engraved/embossed parts have been permitted. This is no longer permitted.
 - 3j++) [CLARIFICATION] On Clock, pins must not be identifiable from any other pin of the same side.
 - 3j2+) [CLARIFICATION] On Clock, all eighteen inner clock faces are considered similar pieces.
-- 3l+) [ADDITION] Logos may feature any reasonable design that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat), and leave the colored part clearly recognisable. Unconventional logos are only permitted at the discretion of the WCA Delegate.
+- 3l+) [ADDITION] Logos may feature any reasonable design that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat), and leave the colored part clearly recognizable. Unconventional logos are only permitted at the discretion of the WCA Delegate.
 
 
 ## <article-4><scrambling><scrambling> Article 4: Scrambling
@@ -93,12 +93,12 @@ To be more informative, each Guideline is classified using one of the following 
 - 5c+) [REMINDER] If a competitor has a puzzle defect, this does not grant them the right to an extra attempt.
 
 
-## <article-6><awards><awards> Article 6: Awards/prizes/honours
+## <article-6><awards><awards> Article 6: Awards/prizes/honors
 
-- 6a+) [ADDITION] Awards, prizes or honours may be given to competitors according to the announcement of the competition.
-- 6b+) [RECOMMENDATION] Competitors should attend the winner's ceremony to receive awards/prizes/honours.
+- 6a+) [ADDITION] Awards, prizes or honors may be given to competitors according to the announcement of the competition.
+- 6b+) [RECOMMENDATION] Competitors should attend the winner's ceremony to receive awards/prizes/honors.
 - 6b1+) [RECOMMENDATION] The winner's ceremony should be held in the competition venue, within one hour after the end of the last event.
-- 6c+) [RECOMMENDATION] Winners of awards, prizes or honours should be prepared to talk to journalists or any media covering the competition.
+- 6c+) [RECOMMENDATION] Winners of awards, prizes or honors should be prepared to talk to journalists or any media covering the competition.
 - 6d+) [RECOMMENDATION] Organization teams of competitions should have certificates for all category winners, signed by the leader of the organization team and by the WCA Delegate.
 
 
