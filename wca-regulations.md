@@ -229,7 +229,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 9b2a) Round formats for these events are: "Best of X" (where X is 1 or 2) and "Mean of 3".
     - 9b3) Rubik's Cube: Blindfolded, 4x4x4 Cube: Blindfolded, 5x5x5 Cube: Blindfolded, and Rubik's Cube: Multiple Blindfolded.
         - 9b3a) Round formats for these events are: "Best of X" (where X is 1, 2, or 3).
-        - 9b3b) For Rubik's Cube: Blindfolded, the WCA also recognises "Mean of 3" rankings and records based on the times from "Best of 3" rounds.
+        - 9b3b) For Rubik's Cube: Blindfolded, the WCA also recognizes "Mean of 3" rankings and records based on the times from "Best of 3" rounds.
 - 9f) The results of a round are measured as follows:
     - 9f1) All timed results under 10 minutes are measured and truncated to the nearest hundredth of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second.
     - 9f2) All timed results, averages, and means over 10 minutes are measured and rounded to the nearest second (e.g. x.4 becomes x, x.5 becomes x+1).
@@ -251,8 +251,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 9g) A Combined Round consists of two phases of attempts, where competitors advance to the second phase if they meet a designated cutoff during the first phase.
     - 9g2) Whether a competitor proceeds to next phase of a Combined round, must be decided by ranking (best x competitors) or by result (all competitors with a best result under x) of the first phase.
 - 9i) Results of official WCA competitions must be listed on the WCA world rankings.
-    - 9i1) The WCA recognises the following types of regional records: national records, continental records, and world records.
-    - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognised as breaking that regional record.
+    - 9i1) The WCA recognizes the following types of regional records: national records, continental records, and world records.
+    - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognized as breaking that regional record.
     - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
 - 9j) Each event must be held at most once per competition.
 - 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the Board.
@@ -308,18 +308,18 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 12a) Notation for all NxNxN puzzles:
     - 12a1) Face Moves:
         - 12a1a) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
-        - 12a1b) Anti-clockwise, 90 degrees: F', B', R', L', U', D'.
+        - 12a1b) Counter-clockwise, 90 degrees: F', B', R', L', U', D'.
         - 12a1c) 180 degrees: F2, B2, R2, L2, U2, D2.
     - 12a2) Outer Block Moves (outer slice plus adjacent inner slices; n is defined as total number of slices to move; n may be omitted for two slices):
         - 12a2a) Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw.
-        - 12a2b) Anti-clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw'.
+        - 12a2b) Counter-clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw'.
         - 12a2c) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
     - 12a3) Outer Block Turn Metric (OBTM) is defined as:
         - 12a3a) Each move of the categories Face Moves and Outer Block Moves is counted as 1 move.
         - 12a3b) Each rotation is counted as 0 moves.
 - 12b) Rotations for all NxNxN puzzles:
     - 12b1) Clockwise, 90 degrees: [f] or z, [b] or z', [r] or x, [l] or x', [u] or y, [d] or y'.
-    - 12b2) Anti-clockwise, 90 degrees: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y.
+    - 12b2) Counter-clockwise, 90 degrees: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y.
     - 12b3) 180 degrees: [f2] or z2, [b2] or z2, [r2] or x2, [l2] or x2, [u2] or y2, [d2] or y2.
 - 12c) Notation for Square-1:
     - 12c1) Moves are applied with one of the two smallest surfaces of the equatorial slice on the left side of the front face.
@@ -328,23 +328,23 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 12d) Notation for Megaminx (scrambling notation only):
     - 12d1) Face Moves:
         - 12d1a) Clockwise, 72 degrees: U (upper face).
-        - 12d1b) Anti-clockwise, 72 degrees: U' (upper face).
+        - 12d1b) Counter-clockwise, 72 degrees: U' (upper face).
     - 12d2) Other moves are applied while keeping 3 pieces fixed at top left of the puzzle:
         - 12d2c) Clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R++ (vertical slices), D++ (horizontal slices).
-        - 12d2d) Anti-clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R-- (vertical slices), D-- (horizontal slices).
+        - 12d2d) Counter-clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R-- (vertical slices), D-- (horizontal slices).
 - 12e) Notation for Pyraminx:
     - 12e1) The puzzle is oriented with the bottom face completely horizontal and the front face facing the person who holds the Pyraminx.
     - 12e2) Clockwise, 120 degrees: U (upper 2 layers), L (left 2 layers), R (right 2 layers), B (back 2 layers), u (upper vertex), l (left vertex), r (right vertex), b (back vertex).
-    - 12e3) Anti-clockwise, 120 degrees: U' (upper 2 layers), L' (left 2 layers), R' (right 2 layers), B' (back 2 layers), u' (upper vertex), l' (left vertex), r' (right vertex), b' (back vertex).
+    - 12e3) Counter-clockwise, 120 degrees: U' (upper 2 layers), L' (left 2 layers), R' (right 2 layers), B' (back 2 layers), u' (upper vertex), l' (left vertex), r' (right vertex), b' (back vertex).
 - 12g) Notation for Clock:
     - 12g1) The puzzle is oriented with 12 o'clock on top, and either side in front.
     - 12g2) Move pins up: UR (top-right), DR (bottom-right), DL (bottom-left), UL (top-left), U (both top), R (both right), D (both bottom), L (both left), ALL (all).
-    - 12g3) Turn a wheel next to an up-position pin and move all pins down afterwards: x+ (x clockwise turns), x- (x anti-clockwise turns).
+    - 12g3) Turn a wheel next to an up-position pin and move all pins down afterwards: x+ (x clockwise turns), x- (x counter-clockwise turns).
     - 12g4) Turn around the puzzle so that 12 o'clock stays on top, and then move all pins down: y2.
 - 12h) Notation for Skewb:
     - 12h1) The puzzle is oriented with three faces fully visible, where the upper face is on top.
     - 12h2) Clockwise, 120 degrees: R (the layer around the farthest visible bottom-right vertex), U (the layer around the farthest visible upper vertex), L (the layer around the farthest visible bottom-left vertex), B (the layer around the farthest non-visible back vertex).
-    - 12h3) Anti-clockwise, 120 degrees: R' (the layer around the farthest visible bottom-right vertex), U' (the layer around the farthest visible upper vertex), L' (the layer around the farthest visible bottom-left vertex), B' (the layer around the farthest non-visible back vertex).
+    - 12h3) Counter-clockwise, 120 degrees: R' (the layer around the farthest visible bottom-right vertex), U' (the layer around the farthest visible upper vertex), L' (the layer around the farthest visible bottom-left vertex), B' (the layer around the farthest non-visible back vertex).
 
 
 ## <article-A><speedsolving><speedsolving> Article A: Speed Solving
@@ -359,7 +359,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - A1b) If the time limit for a solve is greater than 10 minutes, a stopwatch must be used for timekeeping.
         - A1b1) For events with inspection, a Stackmat must be used in addition to the stopwatch. For events without inspection where the competitor is expected to exceed 10 minutes, use of the Stackmat is optional.
         - A1b2) If a time from the Stackmat timer is available, it is the original recorded time. Otherwise, the stopwatch time is the original recorded time.
-    - A1c) A competitor participating in an event must be able to fulfil the event's requirements (e.g. know how to solve the puzzle). A competitor must not compete with expectation of a DNF result or an intentionally poor result. Penalty: disqualification of the attempt (DNF)  or disqualification from the event (see [Regulation 2j](regulations:regulation:2j)), at the discretion of the WCA Delegate.
+    - A1c) A competitor participating in an event must be able to fulfill the event's requirements (e.g. know how to solve the puzzle). A competitor must not compete with expectation of a DNF result or an intentionally poor result. Penalty: disqualification of the attempt (DNF)  or disqualification from the event (see [Regulation 2j](regulations:regulation:2j)), at the discretion of the WCA Delegate.
 - A2) Scrambling:
     - A2a) When called for a round, the competitor submits a puzzle, in its solved state, to the scrambler. The competitor then waits in the Competitors Area until they are called to compete.
     - A2b) A scrambler scrambles the puzzle according to the regulations in [Article 4](regulations:article:4).
@@ -487,7 +487,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - E2d1) The competitor is permitted a maximum solution length of 80 (moves and rotations).
     - E2e) The competitor's solution must not be directly derived from any part of the scramble sequence. Penalty: disqualification of the attempt (DNF), at the discretion of the WCA Delegate.
         - E2e1) The WCA Delegate may ask the competitor to explain the purpose of each move in their solution, irrespective of scrambling algorithm. If the competitor cannot give a valid explanation, the attempt is disqualified (DNF).
-- E3) The competitor may use the following objects during the attempt. Penalty for using unauthorised objects: disqualification of the attempt (DNF).
+- E3) The competitor may use the following objects during the attempt. Penalty for using unauthorized objects: disqualification of the attempt (DNF).
     - E3a) Paper and pens (both supplied by judge).
     - E3b) Rubik's Cubes (at most 3, self-supplied), as described in [Article 3](regulations:article:3).
     - E3c) Stickers (self-supplied).
