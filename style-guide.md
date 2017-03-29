@@ -5,7 +5,7 @@ This document is meant to clarify some of the implicit conventions adopted in WC
 ## General Information
 
 - The documents are formatted in [Markdown](http://daringfireball.net/projects/markdown/), a plain-text format created by John Gruber. This makes it easy to focus on the raw text (and any changes), so that it is readable on its own and can also be converted into a fancier format (i.e. HTML).
-  - Indentation is four spaces in the Regualtions
+  - Indentation is four spaces in the Regulations
   - The Guidelines have an irregular correspondence to numbering in the Regulations, thus Guidelines have no indentation in the source.
 - The division into Regulations Guidelines roughly mirrors the normative vs. non-normative (informative) distinction employed by W3C standards.
   - The use of the words "must (not)", "shall (not)", "should (not)", and "may (not)" (requirement levels) conform to RFC 2119. In particular, note that "shall" indicates a (non-optional) requirement.
