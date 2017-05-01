@@ -200,6 +200,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
     - 7f2) The Stackmat timer must be attached to the mat and placed on the surface, with the timer on the side of the mat nearest to the competitor.
         - 7f2a) Exception: For Solving With Feet, the Stackmat must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
+    - 7f3) The mat must have a line drawn 3 cm away from the center point of the timer, measuring 30 cm in length, and parallel to the tangent on the center point.
 - 7h) The competition area must have a Competitors Area.
     - 7h1) The organisation team may require that a competitor who has been called to compete must remain within the Competitors Area until the competitor has finished all attempts for the round.
 
@@ -381,11 +382,11 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A3c2) If the parts of the puzzle are not fully aligned, then the competitor may align the faces, as long as misalignments stay within the limits of [Regulation 10f](regulations:regulation:10f).
         - A3c3) The competitor may reset the timer before the start of the solve.
         - A3c4) For Square-1, if the use of a thin object inside the puzzle has been enforced by the organisation team (see [Regulation A2b1](regulations:regulation:A2b1)), the competitor may remove the object from the puzzle during inspection.
-    - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation. Penalty for placing it outside the mat: time penalty (+2 seconds).
+    - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation, outside the line drawn on the mat (see [Regulation 7f3](regulations:regulation:7f3)). Penalty for placing it outside the mat or inside the line: time penalty (+2 seconds).
         - A3d2) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
         - A3d3) When 12 seconds of inspection have elapsed, the judge calls "12 SECONDS".
 - A4) Starting the solve:
-    - A4b) The competitor uses their fingers to touch the elevated sensor surfaces of the timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to them. Penalty: time penalty (+2 seconds).
+    - A4b) The competitor uses their fingers to touch the elevated sensor surfaces of the timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to them. Finger tips must be behind the line drawn on the mat (see [Regulation 7f3](regulations:regulation:7f3)).Penalty: time penalty (+2 seconds).
         - A4b1) The competitor must have no physical contact with the puzzle between the inspection period and the start of the solve. Penalty: time penalty (+2 seconds).
     - A4d) If a Stackmat timer is in use, the competitor starts the solve by confirming that the timer light is green and then removing their hands from the timer (thus starting the timer).
         - A4d1) The competitor must start the solve within 15 seconds of the start of the inspection. Penalty: time penalty (+2 seconds).
