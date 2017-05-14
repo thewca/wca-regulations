@@ -5,7 +5,7 @@
 
 ## Notes
 
-Latest textual revision: December 12, 2016
+Latest textual revision: May 14, 2017
 
 ### WCA Regulations
 
