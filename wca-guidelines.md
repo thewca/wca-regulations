@@ -62,7 +62,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 3a++) [ADDITION] By default, a competitor should use the same puzzle for consecutive attempts in a speed solving round. A competitor may switch puzzles between attempts, at the discretion of the judge or WCA Delegate.
 - 3a+++) [CLARIFICATION] Competitors may borrow puzzles from other competitors privately, to use in competition.
 - 3a1+) [CLARIFICATION] Competitors may be disqualified if they do not have a puzzle ready to submit soon after they are called (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit a puzzle at the moment).
-- 3d1b+) [CLARIFICATION] Patterns do not need to be present on every face, but only on faces where a distinct color cannot be found. Pieces must not have any feature (e.g. textures, pattern irregularities) that significantly distinguishes them from similar pieces.
+- 3d1b+) [CLARIFICATION] Patterns do not need to be present on every face, but only on faces where a distinct color cannot be found. Pieces must not have any features (e.g. textures, pattern irregularities) that significantly distinguish them from similar pieces.
 - 3h+) [CLARIFICATION] Puzzles may be refined internally by sanding or lubricating.
 - 3h++) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colors on the backside of the puzzle are visible, moves are done automatically, or the puzzles has more/different solved states.
 - 3h2+) [CLARIFICATION] In the past, "stickerless" puzzles were not permitted. Such puzzles are now permitted.
