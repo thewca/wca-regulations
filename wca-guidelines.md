@@ -5,7 +5,7 @@
 
 ## Notes
 
-Latest textual revision: December 12, 2016
+Latest textual revision: May 14, 2017
 
 ### WCA Regulations
 
@@ -50,7 +50,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 2c+) [ADDITION] First-time competitors should register using their legal name. They may register using a reasonable nickname, at the discretion of the WCA Delegate.
 - 2c++) [ADDITION] Competitors must not provide intentionally misleading information, and returning competitors should provide information consistent with past information (e.g. exact name and WCA ID).
 - 2d+) [ADDITION] Date of birth and contact information should be especially secured.
-- 2d++) [RECOMMENDATION] If a third party (e.g. journalist) asks the organisation team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
+- 2d++) [RECOMMENDATION] If a third party (e.g. journalist) asks the organization team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
 - 2h+) [CLARIFICATION] Competitors may be barefoot for Solving With Feet.
 - 2j2+) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, their results from earlier rounds remain valid.
 - 2s+) [REMINDER] Special accommodations must be noted in the Delegate Report.
@@ -62,23 +62,23 @@ To be more informative, each Guideline is classified using one of the following 
 - 3a++) [ADDITION] By default, a competitor should use the same puzzle for consecutive attempts in a speed solving round. A competitor may switch puzzles between attempts, at the discretion of the judge or WCA Delegate.
 - 3a+++) [CLARIFICATION] Competitors may borrow puzzles from other competitors privately, to use in competition.
 - 3a1+) [CLARIFICATION] Competitors may be disqualified if they do not have a puzzle ready to submit soon after they are called (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit a puzzle at the moment).
-- 3d1b+) [CLARIFICATION] Patterns do not need to be present on every face, but only on faces where a distinct colour cannot be found. Pieces must not have any feature (e.g. textures, pattern irregularities) that significantly distinguishes them from similar pieces.
+- 3d1b+) [CLARIFICATION] Patterns do not need to be present on every face, but only on faces where a distinct color cannot be found. Pieces must not have any features (e.g. textures, pattern irregularities) that significantly distinguish them from similar pieces.
 - 3h+) [CLARIFICATION] Puzzles may be refined internally by sanding or lubricating.
-- 3h++) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colours on the backside of the puzzle are visible, moves are done automatically, or the puzzles has more/different solved states.
+- 3h++) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colors on the backside of the puzzle are visible, moves are done automatically, or the puzzles has more/different solved states.
 - 3h2+) [CLARIFICATION] In the past, "stickerless" puzzles were not permitted. Such puzzles are now permitted.
 - 3h2++) [CLARIFICATION] "Stickerless" puzzles that significantly differ from most mass-produced "stickerless" puzzles are only permitted at the discretion of the WCA Delegate.
 - 3j+) [REMINDER] In the past, engraved/embossed parts have been permitted. This is no longer permitted.
-- 3j++) [CLARIFICATION] On Clock, pins must not be identifiable from any other pin of the same side.
+- 3j++) [CLARIFICATION] On Clock, pins must not be distinguishable from any other pin of the same side.
 - 3j2+) [CLARIFICATION] On Clock, all eighteen inner clock faces are considered similar pieces.
-- 3l+) [ADDITION] Logos may feature any reasonable design that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat), and leave the coloured part clearly recognisable. Unconventional logos are only permitted at the discretion of the WCA Delegate.
+- 3l+) [ADDITION] Logos may feature any reasonable design that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat), and leave the colored part clearly recognizable. Unconventional logos are only permitted at the discretion of the WCA Delegate.
 
 
 ## <article-4><scrambling><scrambling> Article 4: Scrambling
 
 - 4b1+) [REMINDER] The WCA Delegate must never re-generate any scramble sequences to replace other ones for the purpose of filtering. For example, it is not permitted to glance at the scramble sequences for a competition and generate the entire set again in order to generate "fairer" scramble sequences.
-- 4b2+) [CLARIFICATION] In general, all official scramble sequences should be kept secret during the competition and published together after the end of the competition (see [Regulation 1c3a](regulations:regulation:1c3a)). In some cases (e.g. world records), the organisation team may wish to release specific scramble sequences sooner after the end of a round.
+- 4b2+) [CLARIFICATION] In general, all official scramble sequences should be kept secret during the competition and published together after the end of the competition (see [Regulation 1c3a](regulations:regulation:1c3a)). In some cases (e.g. world records), the organization team may wish to release specific scramble sequences sooner after the end of a round.
 - 4b4+) [CLARIFICATION] All attempts that have been started within the time frame follow the standard solving procedure (i.e. they are not stopped when the time frame of the relevant scramble sequence exceeds).
-- 4d+) [CLARIFICATION] Some puzzles use standard colour schemes, except that white is replaced with black. In this case, black is the darkest colour and must not be treated as white.
+- 4d+) [CLARIFICATION] Some puzzles use standard color schemes, except that white is replaced with black. In this case, black is the darkest color and must not be treated as white.
 - 4d++) [ADDITION] It is permitted for the puzzle to change its orientation when it is moved from the scrambler to the solving station, as long as no one is attempting to influence the randomness of the orientation (see [Regulation A2e1](regulations:regulation:A2e1)).
 - 4f+) [RECOMMENDATION] The WCA Delegate should generate sufficient scramble sequences for the entire competition ahead of time, including spare scramble sequences for extra attempts.
 - 4f++) [REMINDER] If the WCA Delegate generates any additional scramble sequences during the competition, the scramble sequences must be saved (see [Regulation 1c3a](regulations:regulation:1c3a)).
@@ -87,19 +87,19 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
 
 - 5b5+) [EXAMPLE] Examples of parts physically detached, resulting in a solved state: one 3x3x3 center cap, one big cube center piece, an inner piece of a big cube.
-- 5b5++) [EXAMPLE] Examples of parts physically detached, resulting in a "DNF": two 3x3x3 center caps, two big cube center pieces, a 3x3x3 edge piece, a 4x4x4 edge piece ("wing"), any combination of two pieces that both have coloured parts.
-- 5b5+++) [EXAMPLE] Example of parts not fully attached, resulting in a solved state: a 5x5x5 centre piece twisted in its spot.
+- 5b5++) [EXAMPLE] Examples of parts physically detached, resulting in a "DNF": two 3x3x3 center caps, two big cube center pieces, a 3x3x3 edge piece, a 4x4x4 edge piece ("wing"), any combination of two pieces that both have colored parts.
+- 5b5+++) [EXAMPLE] Example of parts not fully attached, resulting in a solved state: a 5x5x5 center piece twisted in its spot.
 - 5b5++++) [EXAMPLE] Example of parts physically attached but not fully placed, resulting in a "DNF": a 3x3x3 edge piece slightly popped out.
 - 5c+) [REMINDER] If a competitor has a puzzle defect, this does not grant them the right to an extra attempt.
 
 
-## <article-6><awards><awards> Article 6: Awards/prizes/honours
+## <article-6><awards><awards> Article 6: Awards/prizes/honors
 
-- 6a+) [ADDITION] Awards, prizes or honours may be given to competitors according to the announcement of the competition.
-- 6b+) [RECOMMENDATION] Competitors should attend the winner's ceremony to receive awards/prizes/honours.
+- 6a+) [ADDITION] Awards, prizes or honors may be given to competitors according to the announcement of the competition.
+- 6b+) [RECOMMENDATION] Competitors should attend the winner's ceremony to receive awards/prizes/honors.
 - 6b1+) [RECOMMENDATION] The winner's ceremony should be held in the competition venue, within one hour after the end of the last event.
-- 6c+) [RECOMMENDATION] Winners of awards, prizes or honours should be prepared to talk to journalists or any media covering the competition.
-- 6d+) [RECOMMENDATION] Organisation teams of competitions should have certificates for all category winners, signed by the leader of the organisation team and by the WCA Delegate.
+- 6c+) [RECOMMENDATION] Winners of awards, prizes or honors should be prepared to talk to journalists or any media covering the competition.
+- 6d+) [RECOMMENDATION] Organization teams of competitions should have certificates for all category winners, signed by the leader of the organization team and by the WCA Delegate.
 
 
 ## <article-7><environment><environment> Article 7: Environment
@@ -120,7 +120,7 @@ To be more informative, each Guideline is classified using one of the following 
 
 - 9b+) [ADDITION] The preferred format for the final of an event is "Average of 5" or "Mean of 3", if possible.
 - 9b++) [ADDITION] Events other than those specified in [Regulation 9b](regulations:regulation:9b) may be held during a competition, but will be considered unofficial and therefore will not be included in the official results of the competition.
-- 9b3b+) [CLARIFICATION] The "Mean of 3" statistic does not affect the competitor's ranking in a "Best of 3" round (which is based on the best result). The WCA recognises it outside of the competition format.
+- 9b3b+) [CLARIFICATION] The "Mean of 3" statistic does not affect the competitor's ranking in a "Best of 3" round (which is based on the best result). The WCA recognizes it outside of the competition format.
 - 9f1+) [EXAMPLE] If the timer displays 12.678 for an attempt, the original recorded time is 12.67 (drop any digit after a hundredth of a second). A judge may write the full-precision time on the score sheet (and keep the precision in the calculation of penalties), as long as the score taker truncates it for the official results.
 - 9f4+) [EXPLANATION] The result of an attempt is DNF only if the competitor began the attempt by indicating that they are ready (see [Regulation A3b2](regulations:regulation:A3b2)) but the attempt was disqualified.
 - 9f5+) [CLARIFICATION] The result for an attempt is DNS if the competitor was eligible for the attempt and did not start it (see [Regulation A3b2](regulations:regulation:A3b2)). If the competitor did not qualify for an attempt (e.g. in a combined round), they have no result for the attempt.
@@ -151,7 +151,7 @@ To be more informative, each Guideline is classified using one of the following 
 - A1a2+) [ADDITION] In case of a cumulative time limit, the judge records the original recorded time for a DNF on the score sheet in parentheses, e.g. "DNF (1:02.27)".
 - A1a2++) [CLARIFICATION] Cumulative time limits may be enforced for a single event or a combination of events.
 - A1a2+++) [CLARIFICATION] In case of a cumulative time limit, the result of each remaining attempt in the round is recorded as DNS (Did Not Start) after a competitor reaches the time limit.
-- A1a3+) [REMINDER] The organisation team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the start of the round can disadvantage some competitors unfairly.
+- A1a3+) [REMINDER] The organization team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the start of the round can disadvantage some competitors unfairly.
 - A1a4+) [REMINDER] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and WCA Delegate should be informed (see [Regulation 1g2](regulations:regulation:1g2)). Judges must always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
 - A1c+) [CLARIFICATION] WCA Delegates should only use their discretion to prevent competitors from being a severe detriment to the competition (e.g. wasting time and/or competition resources). Competitors should not be disqualified for a "poor" result when they are competing to the best of their abilities.
 - A2c1+) [REMINDER] In the past, score sheets have been used to cover puzzles while leaving some sides exposed. This is no longer permitted.
