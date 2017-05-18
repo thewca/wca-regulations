@@ -5,7 +5,7 @@
 
 ## Notes
 
-Latest textual revision: May 14, 2017
+Latest textual revision: May 18, 2017
 
 ### WCA Regulations and Guidelines
 
@@ -436,10 +436,10 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - B2d1) The competitor removes the cover from the puzzle after starting the timer.
     - B2e) If a stopwatch is in use in addition to a Stackmat timer, the judge starts the stopwatch as soon as the competitor starts the solve.
     - B2f) If a stopwatch is in use as the only timer, the competitor places their hands on the table (instead of a Stackmat timer). After confirming that they are ready, the competitor starts the solve by lifting the cover. The judge starts the stopwatch as soon as the competitor starts the solve.
-- B3) Memorisation phase:
-    - B3a) The competitor may pick up the puzzle during the memorisation phase.
+- B3) Memorization phase:
+    - B3a) The competitor may pick up the puzzle during the memorization phase.
     - B3b) The competitor must not make physical notes. Penalty: disqualification of the attempt (DNF).
-    - B3c) The competitor must not apply moves to the puzzle during the memorisation phase. Penalty: disqualification of the attempt (DNF).
+    - B3c) The competitor must not apply moves to the puzzle during the memorization phase. Penalty: disqualification of the attempt (DNF).
 - B4) Blindfolded phase:
     - B4a) The competitor dons the blindfold to start the blindfolded phase.
     - B4b) The competitor must not apply moves to the puzzle before they have fully donned the blindfold. Penalty: disqualification of the attempt (DNF).
@@ -448,7 +448,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - B4c2) By default, the judge should place the object (e.g. a sheet of paper or cardboard) between the competitor and the puzzle while the competitor is wearing the blindfold.
         - B4c3) If the judge and competitor agree beforehand, the competitor may choose to place the puzzle behind a suitable object (e.g. a music stand, the surface of the table) by themselves during the blindfolded phase.
     - B4d) The competitor must not look at the puzzle at any point during the blindfolded phase. Penalty: disqualification of the attempt (DNF).
-    - B4e) Until the competitor applies the first move to the puzzle, they may remove the blindfold to return to the memorisation phase.
+    - B4e) Until the competitor applies the first move to the puzzle, they may remove the blindfold to return to the memorization phase.
 - B5) Stopping the solve:
     - B5a) When using the Stackmat timer, the competitor stops the solve by releasing the puzzle and then stopping the timer.
     - B5b) When using a stopwatch, the competitor stops the solve by placing the puzzle back onto the surface and notifying the judge that they are stopping the solve. At that moment, the judge stops the timer.
