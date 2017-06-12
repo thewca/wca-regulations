@@ -76,9 +76,10 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 2c) Competitors register by providing all information required by the organization team (including: name, country, date of birth, gender, contact information, selected events).
     - 2c1) A competitor is not eligible to compete without a completed registration, as determined by the organization team.
 - 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and must not be disclosed to outside organizations/persons without the consent of the competitor.
-- 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship standing by means of documents (e.g. a passport). If a competitor is found ineligible to represent the country under which they have registered, the competitor may be disqualified retroactively and/or suspended, at the discretion of the WCA Board.
-    - 2e1) The eligible countries are defined by the Wikipedia article "List of sovereign states" ("UN member states and observer states" and "Other states").
+- 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship standing by means of documents (e.g. a passport) at their first competition. If a competitor is found ineligible to represent the country under which they have registered, the competitor may be disqualified retroactively and/or suspended, at the discretion of the WCA Board.
+    - 2e1) The eligible countries are defined by the [WCA List of Recognized Countries](https://www.worldcubeassociation.org/regulations/countries/).
     - 2e2) Competitors with updates to their citizenship status may change their country of representation in their first competition of a calendar year.
+    - 2e3) Competitors who have no citizenship may compete as "Stateless".
 - 2f) Competitors must obey venue rules and conduct themselves in a considerate manner.
 - 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
     - 2g3) Competitors in the Competitors Area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor from the event, at the discretion of the WCA Delegate.
@@ -524,4 +525,3 @@ The WCA Board must approve any optional regulations for a competition.
 - Z3) The organization team may select competitors who directly qualify for certain rounds of certain events based on the results of specific previous competitions.
 - Z4) The organization team may limit the number of competitors per event or per competition, on either a "first come first serve" basis or based upon qualification results or rankings in the WCA world rankings of a previously announced calendar date.
 - Z5) The organization team may prohibit competitors from participating in specific combinations of events.
-
