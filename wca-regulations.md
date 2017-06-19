@@ -1,11 +1,9 @@
 # <wca-title>WCA Regulations
 
-<version>Version: April 18, 2016
+<version>Version: June 19, 2017
 
 
 ## Notes
-
-Latest textual revision: May 18, 2017
 
 ### WCA Regulations and Guidelines
 
