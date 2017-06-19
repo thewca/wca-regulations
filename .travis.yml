@@ -5,3 +5,4 @@ install:
   - pip install wrc
 script:
   - wrc . --target=check
+  - wrc-states wca-states.md --target=check
