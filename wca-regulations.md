@@ -349,9 +349,9 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 ## <article-A><speedsolving><speedsolving> Article A: Speed Solving
 
 - A1) Speed Solving attempts must abide by the following procedures.
-    - A1a) The organization team must enforce time limits for attempts and/or rounds.
+    - A1a) The organization team must enforce time limits for solves and/or rounds.
         - A1a1) The default time limit per solve is 10 minutes, though the organization team may announce a higher or lower time limit.
-        - A1a2) Cumulative time limits may be enforced (e.g. 3 results with a cumulative time limit of 20 minutes). The time elapsed in a DNF result counts towards the cumulative time limit.
+        - A1a2) Cumulative time limits may be enforced (e.g. 3 solves with a cumulative time limit of 20 minutes - see [Regulation A1a5](regulations:regulation:A1a5)). The time elapsed in a DNF result counts towards the cumulative time limit.
         - A1a3) For each round, any time limits must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
         - A1a4) The competitor must end each solve within the time limit. If a competitor reaches the time limit for a solve/round, the judge stops the attempt immediately and records the result as DNF. Exception: Multiple Blindfolded Solving (see [Regulation H1b1](regulations:regulation:H1b1)).
         - A1a5) A solve is considered to meet the time limit if and only if the final result, after any time penalties are applied, is less than the time limit. Exception: Multiple Blindfolded Solving (see [Regulation H1b1](regulations:regulation:H1b1)).
