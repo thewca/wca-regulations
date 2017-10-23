@@ -122,7 +122,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 3d1a) Blind competitors may use textured puzzles with different textures on different faces. Each face should have a distinct color, to aid in scrambling and judging.
         - 3d1b) Color blind competitors who cannot distinguish between the necessary number of colors may use colored parts with patterns, if it has been explicitly approved according to [Regulation 2s](regulations:regulation:2s). Patterns may come from stickers or be drawn.
     - 3d2) The colors of the colored parts must be solid, with one uniform color per face. Each color must be clearly distinct from the other colors.
-    - 3d3) If the colored parts are tiles or stickers, they must not be thicker than 1.5mm. Exception: Megaminx tiles may be slightly thicker than 1.5mm, at the discretion of the WCA Delegate.
+    - 3d3) If the colored parts are stickers or tiles, they must not be thicker than 1.5mm. Exception: Megaminx tiles may be slightly thicker than 1.5mm, at the discretion of the WCA Delegate.
 - 3h) Modifications that enhance the basic concept of a puzzle are not permitted. Modified versions of puzzles are permitted only if the modification does not make any additional information available to the competitor (e.g. orientation or identity of pieces), compared to an unmodified version of the same puzzle.
     - 3h1) "Pillowed" puzzles are not permitted. Exception: Pillowed 7x7x7 Cubes are permitted.
     - 3h2) Puzzles whose colored plastic is visible inside the puzzle (e.g. "stickerless" puzzles) are permitted. This does not include the following puzzles:
