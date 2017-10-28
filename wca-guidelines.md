@@ -149,7 +149,7 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-A><speedsolving><speedsolving> Article A: Speed Solving
 
 - A1a2+) [ADDITION] In case of a cumulative time limit, the judge records the original recorded time for a DNF on the score sheet in parentheses, e.g. "DNF (1:02.27)".
-- A1a2++) [CLARIFICATION] Cumulative time limits may be enforced for a single event or a combination of events.
+- A1a2++) [CLARIFICATION] Cumulative time limits may be enforced for a single round or a combination of rounds of different events.
 - A1a2+++) [CLARIFICATION] In case of a cumulative time limit, the result of each remaining attempt in the round is recorded as DNS (Did Not Start) after a competitor reaches the time limit.
 - A1a3+) [REMINDER] The organization team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the start of the round can disadvantage some competitors unfairly.
 - A1a4+) [REMINDER] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and WCA Delegate should be informed (see [Regulation 1g2](regulations:regulation:1g2)). Judges must always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
