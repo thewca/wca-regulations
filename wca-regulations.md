@@ -134,6 +134,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3j2) Definition: Two pieces are similar to each other if they are identical in shape and size, or mirrored in shape and identical in size.
     - 3j3) Corrugated/textured parts which permit the orientation of pieces to be distinguished by feel are not permitted for blindfolded events.
 - 3k) Puzzles must be approved by the WCA Delegate before use in the competition.
+    - 3k1) If a puzzle is found to be not permitted during a round, the competitor must submit a replacement. Earlier results remain valid, at the discretion of the WCA Delegate.
 - 3l) A puzzle may have a logo on a colored part. If it does, it must have at most one colored part with a logo.
     - 3l1) The logo must be placed on a center piece. Exceptions for puzzles that do not have center pieces:
         - 3l1a) For Pyraminx and 2x2x2, the logo may be on any piece.
