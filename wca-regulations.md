@@ -263,7 +263,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 9o) Combined rounds count as one round when counting the number of rounds per event.
 - 9p) If an event has multiple rounds, then:
     - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
-    - 9p2) The competitors who advance to the next round must be determined by ranking (best x competitors) or by result (all competitors with a better result than x) in the preceding round.
+    - 9p2) The competitors who advance to the next round must be determined by result (all competitors with a better result than x) in the preceding round.
     - 9p3) If a qualifying competitor withdraws from a round, they may be replaced by the best-ranked non-qualifying competitor from the preceding round.
 - 9s) Each round of each event must have a time limit (see [Regulation A1a](regulations:regulation:A1a)).
 
