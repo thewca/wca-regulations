@@ -248,7 +248,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9f14) For "Mean of 3" and "Average of 5" rounds, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where "better" is defined as the shorter time.
     - 9f15) Competitors who achieve the same result in a round receive an identical ranking for the round.
 - 9g) A Combined Round consists of two phases of attempts, where competitors advance to the second phase if they meet a designated cutoff during the first phase.
-    - 9g2) Whether a competitor proceeds to next phase of a Combined round, must be decided by ranking (best x competitors) or by result (all competitors with a best result under x) of the first phase.
+    - 9g2) Whether a competitor proceeds to next phase of a Combined round must be decided by result (all competitors with a best result under x) of the first phase.
 - 9i) Results of official WCA competitions must be listed on the WCA world rankings.
     - 9i1) The WCA recognizes the following types of regional records: national records, continental records, and world records.
     - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognized as breaking that regional record.
