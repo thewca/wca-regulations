@@ -518,8 +518,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 ## <article-Z><optional><optional> Article Z: Optional Regulations
 
-Organization teams may adopt optional regulations to facilitate the administration of the competition.
-The WCA Board must approve any optional regulations for a competition.
+Organization teams may adopt optional regulations to facilitate the administration of the competition, at the discretion of the WCA Board.
 
 - Z1) The organization team may require competitors to submit puzzles during registration.
 - Z2) The organization team may limit the number of events per competitor.
