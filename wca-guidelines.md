@@ -52,6 +52,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 2e+) [CLARIFICATION] If a competitor holds multiple citizenship, they may choose which country to represent at their first competition.
 - 2e3+) [CLARIFICATION] Stateless competitors have no national records and rankings, nor continental records and rankings.
 - 2h+) [CLARIFICATION] Competitors may be barefoot for Solving With Feet.
+- 2i1b+) [CLARIFICATION] This includes relevant devices which are switched off or disconnected.
 - 2j2+) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, their results from earlier rounds remain valid.
 - 2s+) [REMINDER] Special accommodations must be noted in the Delegate Report.
 
