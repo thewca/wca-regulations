@@ -218,9 +218,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 ## <article-9><events><events> Article 9: Events
 
-- 9a) The WCA governs competitions for:
-    - 9a1) Puzzles known as Rubik's puzzles.
-    - 9a2) Other puzzles that are manipulated by twisting the sides, commonly known as "twisty puzzles".
+- 9a) The WCA governs competitions for mechanical puzzles that are operated by twisting groups of pieces, commonly known as "twisty puzzles".
 - 9b) The official puzzles and event formats of the WCA are:
     - 9b1) Rubik's Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, Clock, Megaminx, Pyraminx, Square-1, Skewb, and Rubik's Cube: One-Handed.
         - 9b1a) Round formats for these events are: "Best of X" (where X is 1, 2, or 3), and "Average of 5".
