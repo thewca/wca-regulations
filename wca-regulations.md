@@ -355,7 +355,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A1a4) The competitor must end each solve within the time limit. If a competitor reaches the time limit for a solve/round, the judge stops the solve immediately and records the result as DNF. Exception: Multiple Blindfolded Solving (see [Regulation H1b1](regulations:regulation:H1b1)).
         - A1a5) A solve is considered to meet the time limit if and only if the final result, after any time penalties are applied, is less than the time limit. Exception: Multiple Blindfolded Solving (see [Regulation H1b1](regulations:regulation:H1b1)).
     - A1b) If the time limit for a solve is greater than 10 minutes, a stopwatch must be used for timekeeping.
-        - A1b1) For events with inspection, a Stackmat must be used in addition to the stopwatch. For events without inspection where the competitor is expected to exceed 10 minutes, use of the Stackmat is optional.
+        - A1b1) A Stackmat must be used in addition to the stopwatch. Exception: for events without inspection where the competitor is expected to exceed 10 minutes, use of the Stackmat is optional.
         - A1b2) If a time from the Stackmat timer is available, it is the original recorded time. Otherwise, the stopwatch time is the original recorded time.
     - A1c) A competitor participating in an event must be able to fulfill the event's requirements (e.g. know how to solve the puzzle). A competitor must not compete with expectation of a DNF result or an intentionally poor result. Penalty: disqualification of the attempt (DNF)  or disqualification from the event (see [Regulation 2j](regulations:regulation:2j)), at the discretion of the WCA Delegate.
 - A2) Scrambling:
@@ -511,7 +511,6 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - H1b) If a competitor is attempting fewer than 6 puzzles, they are allotted a time limit of 10 minutes times the number of puzzles in the attempt, else the time limit is 60 minutes.
         - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge stops the attempt and the attempt is then scored; the time limit for the attempt counts as the original recorded time.
     - H1d) Time penalties for the puzzles of the attempt are cumulative.
-    - H1e) Use of the Stackmat timer is optional for timekeeping.
 
 
 ## <article-Z><optional><optional> Article Z: Optional Regulations
