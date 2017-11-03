@@ -40,13 +40,13 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the end of the competition.
     - 1c3) Sending the competition results to the WCA Results Team within one week of the end of the competition.
         - 1c3a) All scramble sequences used during a competition must be sent with the results of the competition.
-        - 1c3b) Scramble sequences must be labeled with the events, rounds, and groups for which they were used.
+        - 1c3b) All scramble sequences must be labeled with the events, rounds, and groups for which they were used.
     - 1c4) Sending corrections to the competition results to the WCA Results Team.
     - 1c5) Advising the other officials where necessary.
     - 1c6) Approving all events and round formats of a competition, before the competition starts, and if changes are required during the competition.
-    - 1c7) Decisions about disqualifying competitors during the competition.
+    - 1c7) Deciding about disqualifying competitors during the competition.
     - 1c8) Providing the scramble sequences.
-    - 1c9) Decisions about changes to the scheduled times of rounds. In cases of such changes, a clear announcement must be made to all competitors.
+    - 1c9) Deciding about changes to the scheduled times of rounds. In cases of such changes, a clear announcement must be made to all competitors.
     - 1c10) Making a copy of the WCA Regulations available at the competition.
 - 1e) Each event must have one or more judges.
     - 1e1) A judge is responsible for executing the procedures of the event.
