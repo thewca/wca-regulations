@@ -271,7 +271,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 - 10b) Only the resting state of the puzzle, after the timer has been stopped, is considered.
 - 10c) The puzzle may be in any orientation at the end of the attempt.
-- 10d) All parts of a puzzle must be fully attached to the puzzle in their required positions. Exception: see [Regulation 5b5](regulations:regulation:5b5).
+- 10d) All parts of a puzzle must be physically attached to the puzzle and fully placed in their required positions. Exception: see [Regulation 5b5](regulations:regulation:5b5).
 - 10e) A puzzle is solved when all colored parts are reassembled and all parts are aligned within the limits specified below:
     - 10e1) For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in [Regulation 10f](regulations:regulation:10f), the puzzle is considered to require one additional move to solve (see "Outer Block Turn Metric" in [Article 12](regulations:article:12)).
     - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle is considered solved without penalty.
