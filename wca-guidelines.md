@@ -206,3 +206,8 @@ To be more informative, each Guideline is classified using one of the following 
 - H1b1++) [ADDITION] The judge may permit the competitor to continue the attempt unofficially, but the attempt must be stopped and judged first, in full accordance with the Regulations.
 - H1d+) [EXAMPLE] Example: Suppose a competitor attempts 10 cubes, stops the solve with a time of 59:57, and has two time penalties. The final result is 59:57 + 2*2 = 60:01 (also see [Regulation A1a5](regulations:regulation:A1a5)).
 - H1d++) [EXAMPLE] Example: Suppose a competitor attempts 10 cubes, the judge stops the competitor at 60 minutes, and the attempt has two time penalties. The final result is 60:00 + 2*2 = 60:04.
+
+
+## <article-Z><optional><optional> Article Z: Optional Regulations
+
+- Z4b+) [EXAMPLE] Examples for reasons which justify a change of the competitor limit after the competition was announced: the venue was changed or the number of registrations is higher than expected.
