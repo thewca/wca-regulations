@@ -50,6 +50,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 2d+) [ADDITION] Date of birth and contact information should be especially secured.
 - 2d++) [RECOMMENDATION] If a third party (e.g. journalist) asks the organization team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
 - 2e+) [CLARIFICATION] If a competitor holds multiple citizenship, they may choose which country to represent at their first competition.
+- 2e++) [ADDITION] The WCA Delegate should also verify the name and date of birth by means of documents (e.g. a passport) of every new competitor at their first competition.
 - 2e3+) [CLARIFICATION] Stateless competitors have no national records and rankings, nor continental records and rankings.
 - 2h+) [CLARIFICATION] Competitors may be barefoot for Solving With Feet.
 - 2i1b+) [CLARIFICATION] This includes relevant devices which are switched off or disconnected.
