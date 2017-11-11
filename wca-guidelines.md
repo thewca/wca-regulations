@@ -187,6 +187,7 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-D><feet><solvingwithfeet> Article D: Solving With Feet
 
 - D1b+) [CLARIFICATION] The competitor may wear socks while solving.
+- D1b++) [CLARIFICATION] In the past, competitors were required to inspect the puzzle using their feet for Solving with Feet. They are now permitted to touch the puzzle with their hands or any other part of their body during inspection (see [Guideline A5b+](guidelines:guideline:A5b+)).
 - D1c+) [REMINDER] While repairing puzzle defects, other body parts must not touch the puzzle.
 
 
