@@ -47,9 +47,12 @@ To be more informative, each Guideline is classified using one of the following 
 
 - 2c+) [ADDITION] First-time competitors should register using their legal name. They may register using a reasonable nickname, at the discretion of the WCA Delegate.
 - 2c++) [ADDITION] Competitors must not provide intentionally misleading information, and returning competitors should provide information consistent with past information (e.g. exact name and WCA ID).
+- 2c1+) [ADDITION] The requirements for a completed registration must be clearly stated on the competition website.
+- 2c1++) [EXAMPLE] For example, the organization team may require a confirmation e-mail to be answered before a particular date, pre-payment of the registration fee, or paying due registration fees of past competitions. The organization team should carefully consider the fairness of the requirements.
 - 2d+) [ADDITION] Date of birth and contact information should be especially secured.
 - 2d++) [RECOMMENDATION] If a third party (e.g. journalist) asks the organization team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
 - 2e+) [CLARIFICATION] If a competitor holds multiple citizenship, they may choose which country to represent at their first competition.
+- 2e++) [ADDITION] The WCA Delegate should also verify the name and date of birth by means of documents (e.g. a passport) of every new competitor at their first competition.
 - 2e3+) [CLARIFICATION] Stateless competitors have no national records and rankings, nor continental records and rankings.
 - 2h+) [CLARIFICATION] Competitors may be barefoot for Solving With Feet.
 - 2i1b+) [CLARIFICATION] This includes relevant devices which are switched off or disconnected.
@@ -64,7 +67,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 3a+++) [CLARIFICATION] Competitors may borrow puzzles from other competitors privately, to use in competition.
 - 3a1+) [CLARIFICATION] Competitors may be disqualified if they do not have a puzzle ready to submit soon after they are called (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit a puzzle at the moment).
 - 3d1b+) [CLARIFICATION] Patterns do not need to be present on every face, but only on faces where a distinct color cannot be found. Pieces must not have any features (e.g. textures, pattern irregularities) that significantly distinguish them from similar pieces.
-- 3h+) [CLARIFICATION] Puzzles may be refined internally by sanding or lubricating.
+- 3h+) [CLARIFICATION] Puzzles may be refined internally by sanding, lubrication, or modifications which improve stability (e.g. magnets).
 - 3h++) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colors on the backside of the puzzle are visible, moves are done automatically, or the puzzles has more/different solved states.
 - 3h2+) [CLARIFICATION] In the past, "stickerless" puzzles were not permitted. Such puzzles are now permitted.
 - 3h2++) [CLARIFICATION] "Stickerless" puzzles that significantly differ from most mass-produced "stickerless" puzzles are only permitted at the discretion of the WCA Delegate.
@@ -152,6 +155,8 @@ To be more informative, each Guideline is classified using one of the following 
 - A1a2+) [ADDITION] In case of a cumulative time limit, the judge records the original recorded time for a DNF on the score sheet in parentheses, e.g. "DNF (1:02.27)".
 - A1a2++) [CLARIFICATION] Cumulative time limits may be enforced for a single round or a combination of rounds of different events.
 - A1a2+++) [CLARIFICATION] In case of a cumulative time limit, the result of each remaining attempt in the round is recorded as DNS (Did Not Start) after a competitor reaches the time limit.
+- A1a2++++) [ADDITION] If a cumulative time limit for a single event or a combination of events is enforced, such events don't have a regular time limit per solve.
+- A1a2+++++) [CLARIFICATION] Events where a time limit per attempt is defined by the Regulations (3x3x3 Fewest Moves and 3x3x3 Multi-Blind) cannot have a cumulative time limit.
 - A1a3+) [REMINDER] The organization team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the start of the round can disadvantage some competitors unfairly.
 - A1a4+) [REMINDER] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and WCA Delegate should be informed (see [Regulation 1g2](regulations:regulation:1g2)). Judges must always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
 - A1c+) [CLARIFICATION] WCA Delegates should only use their discretion to prevent competitors from being a severe detriment to the competition (e.g. wasting time and/or competition resources). Competitors should not be disqualified for a "poor" result when they are competing to the best of their abilities.
@@ -161,6 +166,7 @@ To be more informative, each Guideline is classified using one of the following 
 - A3c4++) [CLARIFICATION] The competitor may remove the object during the solve, if they did not do it during the inspection (e.g. they forgot).
 - A5b+) [CLARIFICATION] While inspecting or solving the puzzle, the competitor may touch the puzzle with any part of their body. Exception: One-Handed Solving and Solving With Feet (see [Regulation C1b](regulations:regulation:C1b) and [Regulation D1b](regulations:regulation:D1b)).
 - A6b+) [EXPLANATION] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timer malfunctions.
+- A6e+) [CLARIFICATION] If the puzzle falls into the lap of the competitor after stopping the timer, this is considered touching the puzzle.
 - A6g+) [ADDITION] While the judge is determining whether to assign a penalty for misalignment, they should not touch the puzzle.
 - A7c+) [ADDITION] If a result signed by a competitor is found to be incomplete or unreadable, it should be interpreted the worst reasonable way (e.g. "1:05" will be considered 1:05.99, "25.X3" will be considered 25.73 if X could be either a 1 or a 7). Given that the Stackmat timer displays a time of X:0Y.ss as X:Y.ss, a missing tens digit should be considered more likely than a missing ones digit (e.g. "1:2.27" will be considered 1:02.27). The judge who signed an ambiguous result may be requested to clarify it, at the discretion of the score taker.
 - A7g+) [EXAMPLE] Examples of incidents that could grant a new competitor an extra attempt: not waiting for the green light, improperly starting or stopping the timer, going over inspection time due to misunderstanding how to start a solve, or other procedural time penalties.
@@ -185,6 +191,7 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-D><feet><solvingwithfeet> Article D: Solving With Feet
 
 - D1b+) [CLARIFICATION] The competitor may wear socks while solving.
+- D1b++) [CLARIFICATION] In the past, competitors were required to inspect the puzzle using their feet for Solving with Feet. They are now permitted to touch the puzzle with their hands or any other part of their body during inspection (see [Guideline A5b+](guidelines:guideline:A5b+)).
 - D1c+) [REMINDER] While repairing puzzle defects, other body parts must not touch the puzzle.
 
 
@@ -210,4 +217,5 @@ To be more informative, each Guideline is classified using one of the following 
 
 ## <article-Z><optional><optional> Article Z: Optional Regulations
 
+- Z4+) [CLARIFICATION] In case of a competitor limit based upon qualification results or rankings in the WCA world rankings of a previously announced calendar date, the organization team must use only one type of result (i.e. single or average/mean).
 - Z4b+) [EXAMPLE] Examples for reasons which justify a change of the competitor limit after the competition was announced: the venue was changed or the number of registrations is higher than expected.
