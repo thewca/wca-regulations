@@ -217,4 +217,4 @@ To be more informative, each Guideline is classified using one of the following 
 
 ## <article-Z><optional><optional> Article Z: Optional Regulations
 
-- Z4+) [CLARIFICATION] In case of a competitors limit based upon qualification results or rankings in the WCA world rankings of a previously announced calendar date, the organization team must use only one type of result (i.e. single or average/mean).
+- Z4+) [CLARIFICATION] In case of a competitor limit based upon qualification results or rankings in the WCA world rankings of a previously announced calendar date, the organization team must use only one type of result (i.e. single or average/mean).
