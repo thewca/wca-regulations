@@ -458,10 +458,10 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 ## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
 
 - C1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-    - C1b) During the solve, the competitor must use only one hand to touch the puzzle. Penalty: disqualification of the attempt (DNF).
+    - C1b) During the solve, the competitor must use only one hand to operate the puzzle. Penalty: disqualification of the attempt (DNF).
         - C1b2) If a puzzle defect occurs, and the competitor chooses to repair it, they must repair it using only the solving hand. Penalty: disqualification of the attempt (DNF).
-        - C1b3) If a puzzle defect occurs, and parts of the puzzle briefly come in contact with other body parts without the competitor's intention, this is not considered touching the puzzle, at the discretion of the judge.
-    - C1c) During the solve, once a competitor touches the puzzle with one hand, they must not touch the puzzle with the other hand. Penalty: disqualification of the attempt (DNF).
+        - C1b3) If other body parts of the competitor come in contact with the puzzle or parts of the puzzle without the competitor's intention and without applying moves, this is not considered operating the puzzle, at the discretion of the judge.
+    - C1c) During the solve, once a competitor operates the puzzle with one hand, they must not operate the puzzle with the other hand. Penalty: disqualification of the attempt (DNF).
 
 
 ## <article-D><feet><solvingwithfeet> Article D: Solving With Feet
