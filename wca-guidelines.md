@@ -203,7 +203,6 @@ To be more informative, each Guideline is classified using one of the following 
 - E2c++) [CLARIFICATION] The competitor's solution must only use moves that are exactly defined in [Regulation 12a](regulations:regulation:12a). Examples of notation and moves that are not permitted in competition: [F], [R, U], [R: U], R'2, L'w, f, M, U2'.
 - E2e+) [CLARIFICATION] Competitors must not derive solutions from any part of the scramble sequence, and solutions should not share significant parts with the inverse scramble sequence.
 - E2e++) [EXAMPLE] Example of solutions that should result in a disqualification of the attempt (DNF): solutions beginning with the same 4 or more moves as the inverse scramble sequence.
-- E3b+) [REMINDER] "Rubik's Cube" refers only to the standard 3x3x3 puzzle.
 - E3d+) [CLARIFICATION] Any stopwatch or watch used by a competitor must not appear to have any functions that would help the competitor find a solution.
 - E3d++) [CLARIFICATION] Competitors should not consider a personal stopwatch or watch as the official time, and must submit their solution after the judge calls "STOP".
 
