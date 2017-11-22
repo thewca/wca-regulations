@@ -218,3 +218,4 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-Z><optional><optional> Article Z: Optional Regulations
 
 - Z4+) [CLARIFICATION] In case of a competitor limit based upon qualification results or rankings in the WCA world rankings of a previously announced calendar date, the organization team must use only one type of result (i.e. single or average/mean).
+- Z4b+) [EXAMPLE] Examples for reasons which justify a change of the competitor limit after the competition was announced: the venue was changed or the number of registrations is higher than expected.

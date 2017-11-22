@@ -521,5 +521,8 @@ Organization teams may adopt optional regulations to facilitate the administrati
 - Z1) The organization team may require competitors to submit puzzles during registration.
 - Z2) The organization team may limit the number of events per competitor.
 - Z3) The organization team may select competitors who directly qualify for certain rounds of certain events based on the results of specific previous competitions.
-- Z4) The organization team may limit the number of competitors per event or per competition, on either a "first come first serve" basis or based upon qualification results or rankings in the WCA world rankings of a previously announced calendar date.
+- Z4) The organization team may limit the number of competitors per event or per competition, on either a "first come first serve" basis or based upon qualification results or rankings in the WCA world rankings of a previously announced calendar date. If the number of competitors per event or per competition is limited, the following regulations apply:
+    - Z4a) If the limit for a competition or an event is reached before the competition, the organization team must not accept on-site registrations for the competition or the event.
+    - Z4b) Competitor limits should be announced together with the competition. Any changes to competitor limits are at the discretion of the WCA Board.
+    - Z4c) If there is more than one registration period, the organization team must announce each additional registration period at least 48 hours before it starts.
 - Z5) The organization team may prohibit competitors from participating in specific combinations of events.
