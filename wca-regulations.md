@@ -135,11 +135,11 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3j3) Corrugated/textured parts which permit the orientation of pieces to be distinguished by feel are not permitted for blindfolded events.
 - 3k) Puzzles must be approved by the WCA Delegate before use in the competition.
     - 3k1) If a puzzle is found to be not permitted during a round, the competitor must submit a replacement. Earlier results remain valid, at the discretion of the WCA Delegate.
-- 3l) A puzzle may have a logo on a colored part. If it does, it must have at most one colored part with a logo.
+- 3l) A puzzle may have a logo on a colored part. If it does, it must have at most one colored part with a logo. Exception: For blindfolded events, a puzzle must not have a logo.
     - 3l1) The logo must be placed on a center piece. Exceptions for puzzles that do not have center pieces:
         - 3l1a) For Pyraminx and 2x2x2, the logo may be on any piece.
         - 3l1b) For Square-1, the logo must be on a piece in the equatorial slice.
-    - 3l2) The logo may be embossed, engraved, or consist of an overlay sticker. Exception: The logo must not be distinguishable by feel for blindfolded events (i.e. no embossings, engravings, or overlay stickers).
+    - 3l2) The logo may be embossed, engraved, or consist of an overlay sticker.
 - 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
 
 
