@@ -75,6 +75,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 3j++) [CLARIFICATION] On Clock, pins must not be distinguishable from any other pin of the same side.
 - 3j2+) [CLARIFICATION] On Clock, all eighteen inner clock faces are considered similar pieces.
 - 3l+) [ADDITION] Logos may feature any reasonable design that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat), and leave the colored part clearly recognizable. Unconventional logos are only permitted at the discretion of the WCA Delegate.
+- 3l++) [CLARIFICATION] In the past, puzzles with logos have been permitted for blindfolded events. Such puzzles are no longer permitted.
 
 
 ## <article-4><scrambling><scrambling> Article 4: Scrambling
