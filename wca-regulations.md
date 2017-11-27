@@ -468,7 +468,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 - D1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
     - D1a) During the attempt, the competitor must sit in a chair, sit on the surface, or stand.
-    - D1b) During the solve, the competitor must use only their feet and the surface to manipulate the puzzle. Penalty: disqualification of the attempt (DNF).
+    - D1b) During the solve, the competitor must use only their feet and the surface to operate the puzzle. Penalty: disqualification of the attempt (DNF).
 - D3) Starting the solve:
     - D3a) The competitor places their feet onto the timer sensors.
     - D3b) The competitor removes their feet from the timer sensors to start the solve.
