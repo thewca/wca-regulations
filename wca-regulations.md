@@ -5,6 +5,11 @@
 
 ## Notes
 
+### Translation
+
+Please note that translations are not official versions, even though they are provided on the WCA website for convenience.
+If there is a difference between a translation and the (current official) English version, the English version must be used.
+
 ### WCA Regulations and Guidelines
 
 The WCA Regulations contain the full set of Regulations that apply to all official competitions sanctioned by the World Cube Association.
