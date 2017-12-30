@@ -219,7 +219,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 8a4) Be announced on the WCA website at least four weeks before the start of the competition. Exception: In special cases, competitions may be announced up to two weeks before, at the discretion of the WCA Board.
     - 8a6) Be publicly accessible.
     - 8a7) Use the authentic Speed Stacks Stackmat timer (Generation 2, Generation 3 Pro Timer, or Generation 4 Pro Timer) for time measurement.
-    - 8a8) Be open to all who wish to compete. Restrictions must be approved by the WCA Board and clearly stated when the competition is announced.
+    - 8a8) Be open to all who wish to compete.
 - 8f) If WCA Regulations are not correctly observed during a competition, results may be modified at the discretion of the WCA Board.
 
 
