@@ -129,7 +129,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 9f1+) [EXAMPLE] If the timer displays 12.678 for an attempt, the original recorded time is 12.67 (drop any digit after a hundredth of a second). A judge may write the full-precision time on the score sheet (and keep the precision in the calculation of penalties), as long as the score taker truncates it for the official results.
 - 9f4+) [EXPLANATION] The result of an attempt is DNF only if the competitor began the attempt by indicating that they are ready (see [Regulation A3b2](regulations:regulation:A3b2)) but the attempt was disqualified.
 - 9f5+) [CLARIFICATION] The result for an attempt is DNS if the competitor was eligible for the attempt and did not start it (see [Regulation A3b2](regulations:regulation:A3b2)). If the competitor did not qualify for an attempt (e.g. in a combined round), they have no result for the attempt.
-- 9p2+) [CLARIFICATION] Best result refers to the single or average that determines the ranking of the corresponding round.
+- 9p2+) [CLARIFICATION] Result refers to the single or average that determines the ranking of the corresponding round.
 - 9q+) [RECOMMENDATION] Events and rounds should have at least 2 competitors.
 
 
