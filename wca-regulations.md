@@ -228,7 +228,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 9a) The WCA governs competitions for mechanical puzzles that are operated by twisting groups of pieces, commonly known as "twisty puzzles".
 - 9b) The official events of the WCA are:
     - 9b1) 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 One-Handed, 3x3x3 With Feet, Clock, Megaminx, Pyraminx, Skewb, and Square-1.
-        - 9b1a) Round format for these events is: "Average of 5". For a Combined Round the round format is "Best of 2" for the first phase and "Average of 5" for the second phase. Exception: In special cases, the round format for these events can be "Best of X" (where X is 1, 2, or 3), at the discretion of the WCA Board.
+        - 9b1a) Round format for these events is: "Average of 5". Exception: In special cases, the round format for these events can be "Best of X" (where X is 1, 2, or 3), at the discretion of the WCA Board.
     - 9b2) 3x3x3 Fewest Moves, 6x6x6 Cube, and 7x7x7 Cube.
         - 9b2a) Round formats for these events are: "Best of X" (where X is 1 or 2) and "Mean of 3".
     - 9b3) 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded, and 3x3x3 Multi-Blind.
@@ -252,8 +252,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9f13) For "Mean of 3" and "Average of 5" rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the shorter recorded time.
     - 9f14) For "Mean of 3" and "Average of 5" rounds, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where "better" is defined as the shorter time.
     - 9f15) Competitors who achieve the same result in a round receive an identical ranking for the round.
-- 9g) A Combined Round consists of two phases of attempts, where competitors advance to the second phase if they meet a designated cutoff during the first phase.
-    - 9g2) Whether a competitor proceeds to next phase of a Combined round must be decided by result (all competitors with a better result than x) of the first phase (see [Regulation 9f12](regulations:regulation:9f12)).
+- 9g) If the round format is "Average of 5", a round may have a "Best of 2" cutoff phase where the competitor must meet a given cutoff with either of the first two solves (e.g. a result better than X seconds) in order to be eligible for the remaining three attempts.
+    - 9g1) Any cutoff must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
 - 9i) Results of official WCA competitions must be listed on the WCA world rankings.
     - 9i1) The WCA recognizes the following types of regional records: national records, continental records, and world records.
     - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognized as breaking that regional record.
@@ -265,7 +265,6 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9m1) Rounds with 99 or fewer competitors must have at most two subsequent rounds.
     - 9m2) Rounds with 15 or fewer competitors must have at most one subsequent round.
     - 9m3) Rounds with 7 or fewer competitors must not have subsequent rounds.
-- 9o) Combined rounds count as one round when counting the number of rounds per event.
 - 9p) If an event has multiple rounds, then:
     - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
     - 9p2) The competitors who advance to the next round must be determined by ranking (best x competitors) or by result (all competitors with a better result than x) in the preceding round.
