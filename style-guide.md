@@ -63,17 +63,17 @@ This document is meant to clarify some of the implicit conventions adopted in WC
 
 - "Puzzle" instead of "cube", wherever applicable.
 - "Regulation" or "Guideline" instead of "rule".
-- "Result" instead of "score" (except for "score sheet" and "score taker").
+- "Result" instead of "score" (except for "score sheet" and "score taker") or "time".
 - "Ranking" instead of "rank".
 - "Permitted" instead of "allowed" or "accepted".
-- "Not permitted" instead of "forbidden".
+- "Not permitted" instead of "forbidden", "illegal", or "banned".
 - "Attempt" instead of "solve" (unless specifically referring to the timed portion).
 - "The attempt" instead of "an attempt", except the first mention of an attempt that has not been identified yet.
 - "Scramble sequence" instead of "scramble".
 - "Start" instead of "begin".
 - "Stop" instead of "halt" or "finish"
 - "Registration" instead of "pre-registration" (unless specifically referring to registration before the day of the competition).
-- A judge "[shall] call" instead of "says".
+- A judge "calls" instead of "says".
 - "Score sheet" (two words) instead of "score card".
 - "Apply" (moves or scramble sequence) instead of "perform" or "do".
 - "Assign" (a penalty) instead of "apply".
