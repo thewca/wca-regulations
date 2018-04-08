@@ -89,7 +89,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 2h) Competitors must be fully dressed while in the competition venue. At the discretion of the WCA Delegate, competitors may be disqualified from the competition for inappropriate clothing.
 - 2i) While competing, competitors must not use electronics or audio equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting).
     - 2i1) Competitors may use non-electronic aids that do not give an unfair advantage, at the discretion of the WCA Delegate. This includes:
-        - 2i1a) Medical/physical aids worn by the competitor (e.g. glasses, wrist brace). As an exception to [Regulation 2i](regulations:regulation:2i), medical aids may be electronic if the competitor does not have comfortable non-electronic alternatives (e.g. if competitor has a personal hearing aid or pacemaker).
+        - 2i1a) Medical/physical aids worn by the competitor (e.g. glasses, wrist brace). As an exception to [Regulation 2i](regulations:regulation:2i), medical aids may be electronic if the competitor does not have comfortable non-electronic alternatives (e.g. if the competitor has a personal hearing aid or pacemaker).
         - 2i1b) Earplugs and earmuffs (but not electronic headphones and earbuds).
     - 2i2) Competitors may use cameras at the solving station at the discretion of the WCA Delegate, but the following restrictions apply from the start of the attempt until the competitor stops the solve. Penalty for breaking a restriction: disqualification of the attempt (DNF).
         - 2i2a) Each camera monitor must be blank or out of sight of the competitor (see [Regulation A5b](regulations:regulation:A5b)).
@@ -140,7 +140,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3j3) Corrugated/textured parts which permit the orientation of pieces to be distinguished by feel are not permitted for blindfolded events.
 - 3k) Puzzles should be approved by the WCA Delegate before use in the competition.
     - 3k1) If a puzzle is found to be not permitted during a round, the competitor must submit a replacement.
-    - 3k2) Penalty for attempts done with not permitted puzzles: disqualification of the attempt (DNF). Exception: If a puzzle is found to be not permitted during a round, earlier results may be replaced with an extra attempt, at the discretion of the WCA Delegate.
+    - 3k2) Penalty for attempts done with puzzles which are not permitted: disqualification of the attempt (DNF). Exception: If a puzzle is found to be not permitted during a round, earlier results may be replaced with an extra attempt, at the discretion of the WCA Delegate.
 - 3l) A puzzle may have a logo on a colored part. If it does, it must have at most one colored part with a logo. Exception: For blindfolded events, a puzzle must not have a logo.
     - 3l1) The logo must be placed on a center piece. Exceptions for puzzles that do not have center pieces:
         - 3l1a) For Pyraminx and 2x2x2, the logo may be on any piece.
@@ -164,8 +164,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 4b3f) Pyraminx: The (random) state must require at least 6 moves to solve.
     - 4b4) Each scramble sequence should be applied during a maximum time frame of 2 hours. This time frame starts when the scramble sequence is applied for the first time.
 - 4d) Scrambling orientation:
-    - 4d1) NxNxN puzzles and Megaminx are scrambled starting with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front.
-    - 4d2) Pyraminx is scrambled starting with the yellow face (if not possible, then the lightest face) on bottom and the green face (if not possible, then the darkest adjacent face) on the front.
+    - 4d1) NxNxN puzzles and Megaminx are scrambled starting with the white face (if not possible, then the lightest face) on the top and the green face (if not possible, then the darkest adjacent face) on the front.
+    - 4d2) Pyraminx is scrambled starting with the yellow face (if not possible, then the lightest face) on the bottom and the green face (if not possible, then the darkest adjacent face) on the front.
     - 4d3) Square-1 is scrambled starting with the darker color on front (out of the 2 possible scrambling orientations).
     - 4d4) Clock is scrambled starting with either side in front and 12 o'clock pointing up.
     - 4d5) Skewb is scrambled starting with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front-left.
@@ -179,17 +179,17 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 5a) Examples of puzzle defects include: popped parts, pieces twisted in place, and detached screws/caps/stickers.
 - 5b) If a puzzle defect occurs during an attempt, the competitor may choose to either repair the defect and continue the attempt, or to stop the attempt.
     - 5b1) If a competitor chooses to repair the puzzle, they must repair only the defective parts. Tools and/or parts of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the attempt (DNF).
-    - 5b2) Any repair to a puzzle must not give the competitor any advantage in solving the puzzle. Penalty: disqualification of the attempt (DNF).
+    - 5b2) Any repair to a puzzle must not give the competitor an advantage in solving the puzzle. Penalty: disqualification of the attempt (DNF).
     - 5b3) Permitted repairs:
         - 5b3a) If any parts have fallen out or moved out of place, the competitor may place them back.
         - 5b3b) If, after repairing the puzzle but before the end of the attempt, the competitor finds that the puzzle is unsolvable, they may disassemble and reassemble a maximum of 4 pieces to make the puzzle solvable.
         - 5b3c) If the puzzle is unsolvable, and can be made solvable by rotating a single corner piece, the competitor may correct the corner piece by twisting it in place without disassembling the puzzle.
     - 5b4) During a blindfolded phase (see [Regulation B4](regulations:regulation:b4)), all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
     - 5b5) If at the end of the attempt some parts of the puzzle are physically detached or not fully placed, the following regulations apply:
-        - 5b5a) If one or more parts without colored faces is affected, the puzzle is considered solved.
+        - 5b5a) If one or more parts without colored faces are affected, the puzzle is considered solved.
         - 5b5b) If one part with one colored face is affected, the puzzle is considered solved.
         - 5b5c) If more than one part with one colored face is affected, the puzzle is considered unsolved (DNF).
-        - 5b5d) If one or more parts with more than one colored face is affected, the puzzle is considered unsolved (DNF).
+        - 5b5d) If one or more parts with more than one colored face are affected, the puzzle is considered unsolved (DNF).
         - 5b5e) Regulations [5b5c](regulations:regulation:5b5c) and [5b5d](regulations:regulation:5b5d) supersede [5b5a](regulations:regulation:5b5a) and [5b5b](regulations:regulation:5b5b).
 
 
@@ -228,7 +228,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 9a) The WCA governs competitions for mechanical puzzles that are operated by twisting groups of pieces, commonly known as "twisty puzzles".
 - 9b) The official events of the WCA are:
     - 9b1) 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 One-Handed, 3x3x3 With Feet, Clock, Megaminx, Pyraminx, Skewb, and Square-1.
-        - 9b1a) Round format for these events is: "Average of 5". For a Combined Round the round format is "Best of 2" for the first phase and "Average of 5" for the second phase. Exception: In special cases, the round format for these events can be "Best of X" (where X is 1, 2, or 3), at the discretion of the WCA Board.
+        - 9b1a) Round format for these events is: "Average of 5". For a Combined Round, the round format is "Best of 2" for the first phase and "Average of 5" for the second phase. Exception: In special cases, the round format for these events can be "Best of X" (where X is 1, 2, or 3), at the discretion of the WCA Board.
     - 9b2) 3x3x3 Fewest Moves, 6x6x6 Cube, and 7x7x7 Cube.
         - 9b2a) Round formats for these events are: "Best of X" (where X is 1 or 2) and "Mean of 3".
     - 9b3) 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded, and 3x3x3 Multi-Blind.
@@ -248,12 +248,12 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9f12) For "Best of X" rounds, rankings are assessed based on the best result per competitor. The following are used to compare results:
         - 9f12a) For timed results, "better" is defined as the shorter time.
         - 9f12b) For Fewest Moves Solving, "better" is defined as the shorter solution length.
-        - 9f12c) For Multiple Blindfolded Solving, rankings are assessed based on number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, or if only 1 puzzle is solved, the attempt is considered unsolved (DNF). If competitors achieve the same result, rankings are assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings are assessed based on the number of puzzles the competitors failed to solve, where fewer unsolved puzzles is better.
+        - 9f12c) For Multiple Blindfolded Solving, rankings are assessed based on the number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, or if only 1 puzzle is solved, the attempt is considered unsolved (DNF). If competitors achieve the same result, rankings are assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings are assessed based on the number of puzzles the competitors failed to solve, where fewer unsolved puzzles are better.
     - 9f13) For "Mean of 3" and "Average of 5" rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the shorter recorded time.
     - 9f14) For "Mean of 3" and "Average of 5" rounds, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where "better" is defined as the shorter time.
     - 9f15) Competitors who achieve the same result in a round receive an identical ranking for the round.
 - 9g) A Combined Round consists of two phases of attempts, where competitors advance to the second phase if they meet a designated cutoff during the first phase.
-    - 9g2) Whether a competitor proceeds to next phase of a Combined round must be decided by result (all competitors with a better result than x) of the first phase (see [Regulation 9f12](regulations:regulation:9f12)).
+    - 9g2) Whether a competitor proceeds to next phase of a Combined round must be decided by the result (all competitors with a better result than x) of the first phase (see [Regulation 9f12](regulations:regulation:9f12)).
 - 9i) Results of official WCA competitions must be listed on the WCA world rankings.
     - 9i1) The WCA recognizes the following types of regional records: national records, continental records, and world records.
     - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognized as breaking that regional record.
@@ -280,7 +280,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 10c) The puzzle may be in any orientation at the end of the attempt.
 - 10d) All parts of a puzzle must be physically attached to the puzzle and fully placed in their required positions. Exception: see [Regulation 5b5](regulations:regulation:5b5).
 - 10e) A puzzle is solved when all colored parts are reassembled and all parts are aligned within the limits specified below:
-    - 10e1) For each two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in [Regulation 10f](regulations:regulation:10f), the puzzle is considered to require one additional move to solve (see "Outer Block Turn Metric" in [Article 12](regulations:article:12)).
+    - 10e1) For every two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in [Regulation 10f](regulations:regulation:10f), the puzzle is considered to require one additional move to solve (see "Outer Block Turn Metric" in [Article 12](regulations:article:12)).
     - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle is considered solved without penalty.
     - 10e3) If one move is required, the puzzle is be considered solved with a time penalty (+2 seconds).
     - 10e4) If more than one move is required, the puzzle is considered unsolved (DNF).
@@ -315,7 +315,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 12a1a) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
         - 12a1b) Counter-clockwise, 90 degrees: F', B', R', L', U', D'.
         - 12a1c) 180 degrees: F2, B2, R2, L2, U2, D2.
-    - 12a2) Outer Block Moves (outer slice plus adjacent inner slices; n is defined as total number of slices to move; n may be omitted for two slices):
+    - 12a2) Outer Block Moves (outer slice plus adjacent inner slices; n is defined as the total number of slices to move; n may be omitted for two slices):
         - 12a2a) Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw.
         - 12a2b) Counter-clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw'.
         - 12a2c) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
@@ -335,7 +335,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 12d1) Face Moves:
         - 12d1a) Clockwise, 72 degrees: U (upper face).
         - 12d1b) Counter-clockwise, 72 degrees: U' (upper face).
-    - 12d2) Other moves are applied while keeping 3 pieces fixed at top left of the puzzle:
+    - 12d2) Other moves are applied while keeping 3 pieces fixed at the top left of the puzzle:
         - 12d2c) Clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R++ (vertical slices), D++ (horizontal slices).
         - 12d2d) Counter-clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R-- (vertical slices), D-- (horizontal slices).
 - 12e) Notation for Pyraminx:
@@ -365,7 +365,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - A1b) If the time limit for a solve is greater than 10 minutes, a stopwatch must be used for timekeeping.
         - A1b1) A Stackmat must be used in addition to the stopwatch. Exception: for events without inspection where the competitor is expected to exceed 10 minutes, use of the Stackmat is optional.
         - A1b2) If a time from the Stackmat timer is available, it is the original recorded time. Otherwise, the stopwatch time is the original recorded time.
-    - A1c) A competitor participating in an event must be able to fulfill the event's requirements (e.g. know how to solve the puzzle). A competitor must not compete with expectation of a DNF result or an intentionally poor result. Penalty: disqualification of the attempt (DNF)  or disqualification from the event (see [Regulation 2j](regulations:regulation:2j)), at the discretion of the WCA Delegate.
+    - A1c) A competitor participating in an event must be able to fulfill the event's requirements (e.g. know how to solve the puzzle). A competitor must not compete with the expectation of a DNF result or an intentionally poor result. Penalty: disqualification of the attempt (DNF)  or disqualification from the event (see [Regulation 2j](regulations:regulation:2j)), at the discretion of the WCA Delegate.
 - A2) Scrambling:
     - A2a) When called for a round, the competitor submits a puzzle, in its solved state, to the scrambler. The competitor then waits in the Competitors Area until they are called to compete.
     - A2b) A scrambler scrambles the puzzle according to the regulations in [Article 4](regulations:article:4).
