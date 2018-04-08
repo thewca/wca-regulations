@@ -239,11 +239,11 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9f2) All timed results, averages, and means over 10 minutes are measured and rounded to the nearest second (e.g. x.4 becomes x, x.5 becomes x+1).
     - 9f4) The result of an attempt is recorded as DNF (Did Not Finish) if the attempt is disqualified or unsolved/unfinished.
     - 9f5) The result of an attempt is recorded as DNS (Did Not Start) if the competitor is eligible for an attempt but declines it.
-    - 9f6) For "Best of X" rounds, each competitor is allotted X attempts. The best result of these attempts counts for the competitor's ranking in the round.
+    - 9f6) For "Best of X" rounds, each competitor is allotted X attempts. The best result of these attempts determines the competitor's ranking in the round.
     - 9f7) For "Best of X" rounds, a DNF or DNS is the worst possible result.
-    - 9f8) For "Average of 5" rounds, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts are removed, and the arithmetic mean of the remaining 3 attempts counts for the competitor's ranking in the round.
+    - 9f8) For "Average of 5" rounds, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts are removed, and the arithmetic mean of the remaining 3 attempts determines the competitor's ranking in the round.
     - 9f9) For "Average of 5" rounds, one DNF or DNS is permitted to count as the competitor's worst result of the round. If a competitor has more than one DNF and/or DNS result in the round, their average result for the round is DNF.
-    - 9f10) For "Mean of 3" rounds competitors are allotted 3 attempts. The arithmetic mean of the 3 attempts counts for the competitor's ranking in the round.
+    - 9f10) For "Mean of 3" rounds, competitors are allotted 3 attempts. The arithmetic mean of the 3 attempts determines the competitor's ranking in the round.
     - 9f11) For "Mean of 3" rounds, if the competitor has at least one DNF or DNS result, their average result for the round is DNF.
     - 9f12) For "Best of X" rounds, rankings are assessed based on the best result per competitor. The following are used to compare results:
         - 9f12a) For timed results, "better" is defined as the shorter time.
@@ -260,7 +260,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
 - 9j) Each event must be held at most once per competition.
 - 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the Board.
-- 9l) Each round must be completed before any following round of the same event starts.
+- 9l) Each round must be completed before any following round of the same event can start.
 - 9m) Events must have at most four rounds.
     - 9m1) Rounds with 99 or fewer competitors must have at most two subsequent rounds.
     - 9m2) Rounds with 15 or fewer competitors must have at most one subsequent round.
@@ -280,7 +280,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 10c) The puzzle may be in any orientation at the end of the attempt.
 - 10d) All parts of a puzzle must be physically attached to the puzzle and fully placed in their required positions. Exception: see [Regulation 5b5](regulations:regulation:5b5).
 - 10e) A puzzle is solved when all colored parts are reassembled and all parts are aligned within the limits specified below:
-    - 10e1) For every two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned more than the limit described in [Regulation 10f](regulations:regulation:10f), the puzzle is considered to require one additional move to solve (see "Outer Block Turn Metric" in [Article 12](regulations:article:12)).
+    - 10e1) For every two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned by more than the limit described in [Regulation 10f](regulations:regulation:10f), the puzzle is considered to require one additional move to solve (see "Outer Block Turn Metric" in [Article 12](regulations:article:12)).
     - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle is considered solved without penalty.
     - 10e3) If one move is required, the puzzle is be considered solved with a time penalty (+2 seconds).
     - 10e4) If more than one move is required, the puzzle is considered unsolved (DNF).
@@ -339,7 +339,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 12d2c) Clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R++ (vertical slices), D++ (horizontal slices).
         - 12d2d) Counter-clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R-- (vertical slices), D-- (horizontal slices).
 - 12e) Notation for Pyraminx:
-    - 12e1) The puzzle is oriented with the bottom face completely horizontal and the front face facing the person who holds the Pyraminx.
+    - 12e1) The puzzle is oriented with the bottom face completely horizontal and the front face facing the person who is holding the Pyraminx.
     - 12e2) Clockwise, 120 degrees: U (upper 2 layers), L (left 2 layers), R (right 2 layers), B (back 2 layers), u (upper vertex), l (left vertex), r (right vertex), b (back vertex).
     - 12e3) Counter-clockwise, 120 degrees: U' (upper 2 layers), L' (left 2 layers), R' (right 2 layers), B' (back 2 layers), u' (upper vertex), l' (left vertex), r' (right vertex), b' (back vertex).
 - 12g) Notation for Clock:
@@ -369,7 +369,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - A2) Scrambling:
     - A2a) When called for a round, the competitor submits a puzzle, in its solved state, to the scrambler. The competitor then waits in the Competitors Area until they are called to compete.
     - A2b) A scrambler scrambles the puzzle according to the regulations in [Article 4](regulations:article:4).
-        - A2b1) For Square-1, the organization team may enforce placing a thin object in the puzzle to prevent accidental moves being applied before the start of the attempt. If these objects are used, this must be announced before the round starts.
+        - A2b1) For Square-1, the organization team may enforce placing a thin object in the puzzle to prevent accidental moves from being applied before the start of the attempt. If these objects are used, this must be announced before the round starts.
     - A2c) After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.
         - A2c1) The scrambler places a cover over the scrambled puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover remains over the puzzle until the start of the attempt.
     - A2d) When taking a puzzle from the scrambler, the judge briefly inspects the puzzle to ensure thorough scrambling of the puzzle. The judge raises any concerns with the scrambler, who then conducts a detailed check.
@@ -380,7 +380,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - A3a) The competitor may inspect the puzzle at the start of each attempt.
         - A3a1) The competitor is allotted a maximum of 15 seconds to inspect the puzzle and start the solve.
     - A3b) The judge prepares the timer by turning it on and resetting if necessary. Separately, the judge also prepares a stopwatch for timing inspection.
-        - A3b1) When the judge believes the competitor is ready, the judge asks "READY?". The competitor must be ready to start the attempt within one minute of being called, else the competitor forfeits the attempt (DNS), at the discretion of the judge.
+        - A3b1) When the judge believes the competitor is ready, the judge asks "READY?". The competitor must be ready to start the attempt within one minute of being called, or else the competitor forfeits the attempt (DNS), at the discretion of the judge.
         - A3b2) The competitor starts the attempt by confirming that they are ready, and the judge uncovers the puzzle and starts timing the inspection.
     - A3c) The competitor may pick up the puzzle during inspection.
         - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the attempt (DNF).
