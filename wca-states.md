@@ -182,7 +182,7 @@ The WCA recognizes a total of 199 independent countries.
 - (TL:_Asia) Timor-Leste
 - (TG:_Africa) Togo
 - (TO:_Oceania) Tonga
-- (TT:_South America) Trinidad and Tobago
+- (TT:_North America) Trinidad and Tobago
 - (TN:_Africa) Tunisia
 - (TR:_Europe) Turkey
 - (TM:_Asia) Turkmenistan
