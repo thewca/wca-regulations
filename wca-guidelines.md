@@ -5,6 +5,8 @@
 
 ## Notes
 
+Latest textual revision: May 29, 2018
+
 ### WCA Regulations
 
 The WCA Guidelines supplement the [WCA Regulations](regulations:top). Please see the Regulations for more information about the WCA.
