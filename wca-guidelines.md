@@ -5,6 +5,8 @@
 
 ## Notes
 
+Latest textual revision: May 29, 2018
+
 ### WCA Regulations
 
 The WCA Guidelines supplement the [WCA Regulations](regulations:top). Please see the Regulations for more information about the WCA.
@@ -18,7 +20,7 @@ Guidelines are numbered in correspondence with related regulations. Note that mu
 To be more informative, each Guideline is classified using one of the following labels. Note that this should be treated as metadata, not as a description of importance.
 
 - <label>[ADDITION] Additional information to supplement the Regulations.
-- <label>[CLARIFICATION] Information to address any possible questions about interpretation of the Regulations.
+- <label>[CLARIFICATION] Information to address any possible questions about the interpretation of the Regulations.
 - <label>[EXPLANATION] Information that clarifies the intent of Regulations.
 - <label>[RECOMMENDATION] Something that is not strictly mandatory, but that should be done if possible.
 - <label>[REMINDER] Information that may be addressed by other Regulations/Guideline, but whose relevance is worth reiterating.
@@ -52,7 +54,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 2c1++) [EXAMPLE] For example, the organization team may require a confirmation e-mail to be answered before a particular date, pre-payment of the registration fee, or paying due registration fees of past competitions. The organization team should carefully consider the fairness of the requirements.
 - 2d+) [ADDITION] Date of birth and contact information should be especially secured.
 - 2d++) [RECOMMENDATION] If a third party (e.g. journalist) asks the organization team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
-- 2e+) [CLARIFICATION] If a competitor holds multiple citizenship, they may choose which country to represent at their first competition.
+- 2e+) [CLARIFICATION] If a competitor holds multiple citizenships, they may choose which country to represent at their first competition.
 - 2e++) [ADDITION] The WCA Delegate should also verify the name and date of birth by means of documents (e.g. a passport) of every new competitor at their first competition.
 - 2e3+) [CLARIFICATION] Stateless competitors have no national records and rankings, nor continental records and rankings.
 - 2h+) [CLARIFICATION] Competitors may be barefoot for Solving With Feet.
@@ -69,7 +71,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 3a1+) [CLARIFICATION] Competitors may be disqualified if they do not have a puzzle ready to submit soon after they are called (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit a puzzle at the moment).
 - 3d1b+) [CLARIFICATION] Patterns do not need to be present on every face, but only on faces where a distinct color cannot be found. Pieces must not have any features (e.g. textures, pattern irregularities) that significantly distinguish them from similar pieces.
 - 3h+) [CLARIFICATION] Puzzles may be refined internally by sanding, lubrication, or modifications which improve stability (e.g. magnets).
-- 3h++) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colors on the backside of the puzzle are visible, moves are done automatically, or the puzzles has more/different solved states.
+- 3h++) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colors on the backside of the puzzle are visible, moves are done automatically, or the puzzles have more/different solved states.
 - 3h2+) [CLARIFICATION] In the past, "stickerless" puzzles were not permitted. Such puzzles are now permitted.
 - 3h2++) [CLARIFICATION] "Stickerless" puzzles that significantly differ from most mass-produced "stickerless" puzzles are only permitted at the discretion of the WCA Delegate.
 - 3j+) [REMINDER] In the past, engraved/embossed parts have been permitted. This is no longer permitted.
@@ -112,7 +114,7 @@ To be more informative, each Guideline is classified using one of the following 
 
 - 7d+) [ADDITION] The temperature of the competition area should be 21 to 25 degrees Celsius.
 - 7f1a+) [CLARIFICATION] A full-size mat should have minimum dimensions of 30cm (left to right) by 25cm (front to back).
-- 7h2+) [ADDITION] The competitors in the competitors area should not be able to see the puzzles of the competitors on stage.
+- 7h2+) [ADDITION] The competitors in the Competitors Area should not be able to see the puzzles of the competitors on stage.
 
 
 ## <article-8><competitions><competitions> Article 8: Competitions
@@ -128,14 +130,14 @@ To be more informative, each Guideline is classified using one of the following 
 - 9b3b+) [CLARIFICATION] The "Mean of 3" statistic does not affect the competitor's ranking in a "Best of 3" round (which is based on the best result). The WCA recognizes it outside of the competition format.
 - 9f1+) [EXAMPLE] If the timer displays 12.678 for an attempt, the original recorded time is 12.67 (drop any digit after a hundredth of a second). A judge may write the full-precision time on the score sheet (and keep the precision in the calculation of penalties), as long as the score taker truncates it for the official results.
 - 9f4+) [EXPLANATION] The result of an attempt is DNF only if the competitor began the attempt by indicating that they are ready (see [Regulation A3b2](regulations:regulation:A3b2)) but the attempt was disqualified.
-- 9f5+) [CLARIFICATION] The result for an attempt is DNS if the competitor was eligible for the attempt and did not start it (see [Regulation A3b2](regulations:regulation:A3b2)). If the competitor did not qualify for an attempt (e.g. in a combined round), they have no result for the attempt.
+- 9f5+) [CLARIFICATION] The result of an attempt is DNS if the competitor was eligible for the attempt and did not start it (see [Regulation A3b2](regulations:regulation:A3b2)). If the competitor did not qualify for an attempt (e.g. in a combined round), they have no result for the attempt.
 - 9p2+) [CLARIFICATION] Result refers to the single or average that determines the ranking of the corresponding round.
 - 9q+) [RECOMMENDATION] Events and rounds should have at least 2 competitors.
 
 
 ## <article-10><solved-state><solvedstate> Article 10: Solved State
 
-- 10e1+) [CLARIFICATION] For Square-1, because of the shape shifting property of the puzzle, the metric for misalignments defined in [Regulation 10f4](regulations:regulation:10f4) is different from the metric for the notation, used by the scrambling program and defined in [Regulation 12c4](regulations:regulation:12c4).
+- 10e1+) [CLARIFICATION] For Square-1, because of the shape-shifting property of the puzzle, the metric for misalignments defined in [Regulation 10f4](regulations:regulation:10f4) is different from the metric for the notation, used by the scrambling program and defined in [Regulation 12c4](regulations:regulation:12c4).
 - 10f+) [EXPLANATION] The misalignment limits are selected so that they provide a natural cutoff between one state of a puzzle (without penalty) and a state one move away.
 - 10f4+) [CLARIFICATION] When counting the moves in case of a misalignment at the end of a solve, x and y are considered separately. Example: (5, 1) is considered one misalignment, (5, 5) is considered two misalignments.
 - 10h1+) [ADDITION] The solved state of Clock is not affected by loose or popped pin caps.
