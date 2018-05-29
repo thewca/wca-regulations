@@ -5,6 +5,8 @@
 
 ## Notes
 
+Latest textual revision: May 29, 2018
+
 ### Translation
 
 Please note that translations are not official versions, even though they are provided on the WCA website for convenience.
