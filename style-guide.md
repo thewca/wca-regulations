@@ -11,7 +11,7 @@ This document is meant to clarify some of the implicit conventions adopted in WC
   - The use of the words "must (not)", "shall (not)", "should (not)", and "may (not)" (requirement levels) conform to RFC 2119. In particular, note that "shall" indicates a (non-optional) requirement.
   - The Regulations must not rely on the Guidelines for completeness or consistency. Any normative Guidelines must be be implicit in the Regulations (e.g. labeled [REMINDER]).
   - As a rule of thumb, anything with "must" or "shall" should be in the Regulations, and anything with "should" or "may" should be in the Guidelines.
-- The documents are written in British English.
+- The documents are written in American English.
 
 
 ## Formatting Conventions
