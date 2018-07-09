@@ -152,6 +152,10 @@ To be more informative, each Guideline is classified using one of the following 
 - 11e2++) [EXAMPLE] Suppose a competitor has 5 regularly numbered attempts, and #2 leads to extra attempts. The competitor should do extra attempts until there is a valid extra attempt to replace #2. Suppose later another attempt leads to extra attempts, the competitor should proceed in a similar way as for #2.
 
 
+## <article-12><notation><notation> Article 12: Notation
+- 12a2+) [CLARIFICATION] For example, both Rw and 2Rw are valid notation for the same physical move. 1Rw is not valid notation for any NxNxN Cube, and 3Rw is not valid notation for the 2x2x2 Cube or the 3x3x3 Cube (but 3Rw is valid notation for the 4x4x4 Cube and larger NxNxN Cubes).
+
+
 ## <article-A><speedsolving><speedsolving> Article A: Speed Solving
 
 - A1a2+) [ADDITION] In case of a cumulative time limit, the judge records the original recorded time for a DNF on the score sheet in parentheses, e.g. "DNF (1:02.27)".
@@ -202,12 +206,16 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
 
 - E2b+) [CLARIFICATION] A competitor may choose to stop an attempt early by handing in a solution before the time limit.
-- E2c+) [CLARIFICATION] Although the judge may provide a standard sheet for competitors to submit solutions, a competitor may submit a solution on a different piece of paper, as long as a single move sequence is unambiguously indicated as the submitted solution. (Note that the piece of paper must come from the judge, according to [Regulation E3a](regulations:regulation:E3a).)
-- E2c++) [CLARIFICATION] The competitor's solution must only use moves that are exactly defined in [Regulation 12a](regulations:regulation:12a). Examples of notation and moves that are not permitted in competition: [F], [R, U], [R: U], R'2, L'w, f, M, U2'.
+- E2c+) [CLARIFICATION] Although the judge may provide a standard sheet for competitors to submit solutions, a competitor may submit a solution on a different piece of paper. (Note that the piece of paper must come from the judge, according to [Regulation E3a](regulations:regulation:E3a).)
+- E2c1+) [ADDITION] If the competitor forgot to write their name on their intended solution paper before the end of 60 minutes, they may be allowed to add their name (without modifying their solution or making any other changes) under direct supervision of the judge, at the discretion of the Delegate. The competitor must ask and write their name before they finish submitting their solution (e.g. placing it in the judge's hands and allowing the judge to move on to the next competitor, placing it on the judge's table and walking away), and are not allowed to add their name later.
+- E2c2+) [EXAMPLE] Examples that are not considered a single unambiguous move sequence written out as one or multiple horizontal lines of text: a solution with extra moves, multiple solution sequences without exactly one boxed/circled solution, a solution with ambiguous symbols (e.g. a letter that looks similar to "B" and "R" but is not clearly one of them), a solution written in a spiral, a solution with stars or arrows indicating moves to be performed out of written order (e.g. "insertions" that are not written in-line with the rest of the move sequence, "pre-moves" that are not incorporated into the move sequence using valid notation), any arrangement of symbols that cannot be interpreted as an unambiguous sequence of "top-to-bottom" text lines with each line in "left-to-right" reading order.
+- E2c2++) [CLARIFICATION] The submitted page may contain written moves on both sides, as long as only one side has a boxed/circled solution.
+- E2c3+) [ADDITION] A blacked-out move or symbol must be covered using ink in a rectangle, oval, or other solidly filled shape. A partially filled shape is permitted as long as it clearly blacks out the move, at the discretion of the Delegate.
+- E2c4+) [CLARIFICATION] Examples of symbols or combinations of symbols that are not permitted in solutions for Fewest Moves Solving: M, e, r, Y (uppercase), T, U1, Ui, U3, U-, R++, R2', R'2, L'w, 1R, 2U, 2f, 2-3r, 1Rw, 3Rw, 2-3Rw, rw, Rr, *, →, ⮐, /, ., ?, [r u], [F], <f>, {f}, [f]', [f]2, [x], (x), (L), 2(Rw), (U)2, (U)', (R U)', (R U R'), [R, U], [R: U].
 - E2e+) [CLARIFICATION] Competitors must not derive solutions from any part of the scramble sequence, and solutions should not share significant parts with the inverse scramble sequence.
 - E2e++) [EXAMPLE] Example of solutions that should result in a disqualification of the attempt (DNF): solutions beginning with the same 4 or more moves as the inverse scramble sequence.
-- E3d+) [CLARIFICATION] Any stopwatch or watch used by a competitor must not appear to have any functions that would help the competitor find a solution.
-- E3d++) [CLARIFICATION] Competitors should not consider a personal stopwatch or watch as the official time, and must submit their solution after the judge calls "STOP".
+- E3d+) [CLARIFICATION] Any stopwatch or watch used by a competitor must not have any functions that would help the competitor find a solution.
+- E3d++) [CLARIFICATION] Competitors should not consider a personal stopwatch or watch as the official time, and must submit their solution when the judge calls "STOP".
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
