@@ -87,7 +87,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 2e3) Competitors who have no citizenship may compete as "Stateless".
 - 2f) Competitors must obey venue rules and conduct themselves in a considerate manner.
 - 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
-    - 2g3) Competitors in the Competitors Area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor from the event, at the discretion of the WCA Delegate.
+    - 2g3) Competitors in a Competitors Area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor(s) from the event, at the discretion of the WCA Delegate.
 - 2h) Competitors must be fully dressed while in the competition venue. At the discretion of the WCA Delegate, competitors may be disqualified from the competition for inappropriate clothing.
 - 2i) While competing, competitors must not use electronics or audio equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting).
     - 2i1) Competitors may use non-electronic aids that do not give an unfair advantage, at the discretion of the WCA Delegate. This includes:
@@ -208,8 +208,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
     - 7f2) The Stackmat timer must be attached to the mat and placed on the surface, with the timer on the side of the mat nearest to the competitor.
         - 7f2a) Exception: For Solving With Feet, the Stackmat must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
-- 7h) The competition area must have a Competitors Area.
-    - 7h1) The organization team may require that a competitor who has been called to compete must remain within the Competitors Area until the competitor has finished all attempts for the round.
+- 7h) The competition area must have one or more Competitors Areas.
+    - 7h1) The organization team may require that a competitor who has been called to compete must remain within their assigned Competitors Area until the competitor has finished all attempts for the round.
 
 
 ## <article-8><competitions><competitions> Article 8: Competitions
@@ -369,7 +369,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A1b2) If a time from the Stackmat timer is available, it is the original recorded time. Otherwise, the stopwatch time is the original recorded time.
     - A1c) A competitor participating in an event must be able to fulfill the event's requirements (e.g. know how to solve the puzzle). A competitor must not compete with the expectation of a DNF result or an intentionally poor result. Penalty: disqualification of the attempt (DNF)  or disqualification from the event (see [Regulation 2j](regulations:regulation:2j)), at the discretion of the WCA Delegate.
 - A2) Scrambling:
-    - A2a) When called for a round, the competitor submits a puzzle, in its solved state, to the scrambler. The competitor then waits in the Competitors Area until they are called to compete.
+    - A2a) When called for a round, the competitor submits a puzzle, in its solved state, to the scrambler. The competitor then waits in a Competitors Area until they are called to compete.
     - A2b) A scrambler scrambles the puzzle according to the regulations in [Article 4](regulations:article:4).
         - A2b1) For Square-1, the organization team may enforce placing a thin object in the puzzle to prevent accidental moves from being applied before the start of the attempt. If these objects are used, this must be announced before the round starts.
     - A2c) After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.
