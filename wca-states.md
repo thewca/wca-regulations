@@ -3,10 +3,7 @@
 <version>Version: June 19, 2017
 
 
-The WCA recognizes a total of 199 independent countries.
-
-
-## <states-list>UN Member States:
+The WCA recognizes a total of 199 countries.
 
 - (AF:_Asia) Afghanistan
 - (AL:_Europe) Albania
@@ -81,7 +78,9 @@ The WCA recognizes a total of 199 independent countries.
 - (GW:_Africa) Guinea Bissau
 - (GY:_South America) Guyana
 - (HT:_North America) Haiti
+- (VA:_Europe) Holy See
 - (HN:_North America) Honduras
+- (HK:_Asia) Hong Kong
 - (HU:_Europe) Hungary
 - (IS:_Europe) Iceland
 - (IN:_Asia) India
@@ -97,6 +96,7 @@ The WCA recognizes a total of 199 independent countries.
 - (KZ:_Asia) Kazakhstan
 - (KE:_Africa) Kenya
 - (KI:_Oceania) Kiribati
+- (XK:_Europe) Kosovo
 - (KW:_Asia) Kuwait
 - (KG:_Asia) Kyrgyzstan
 - (LA:_Asia) Laos
@@ -108,6 +108,7 @@ The WCA recognizes a total of 199 independent countries.
 - (LI:_Europe) Liechtenstein
 - (LT:_Europe) Lithuania
 - (LU:_Europe) Luxembourg
+- (MO:_Asia) Macau
 - (MG:_Africa) Madagascar
 - (MW:_Africa) Malawi
 - (MY:_Asia) Malaysia
@@ -137,6 +138,7 @@ The WCA recognizes a total of 199 independent countries.
 - (OM:_Asia) Oman
 - (PK:_Asia) Pakistan
 - (PW:_Oceania) Palau
+- (PS:_Asia) Palestine
 - (PA:_North America) Panama
 - (PG:_Oceania) Papua New Guinea
 - (PY:_South America) Paraguay
@@ -176,6 +178,7 @@ The WCA recognizes a total of 199 independent countries.
 - (SE:_Europe) Sweden
 - (CH:_Europe) Switzerland
 - (SY:_Asia) Syria
+- (TW:_Asia) Taiwan
 - (TJ:_Asia) Tajikistan
 - (TH:_Asia) Thailand
 - (MK:_Europe) Macedonia
@@ -201,29 +204,3 @@ The WCA recognizes a total of 199 independent countries.
 - (YE:_Asia) Yemen
 - (ZM:_Africa) Zambia
 - (ZW:_Africa) Zimbabwe
-
-
-## <states-list>UN Permanent Observer States:
-
-- (VA:_Europe) Holy See
-- (PS:_Asia) Palestine
-
-
-## <states-list>The following countries are non-UN member states recognized by the WCA:
-
-- (TW:_Asia) Taiwan
-A fully self-governing autonomous region and was represented as the Republic of China (ROC) at the UN until 1971 when the People's Republic of China (PRC) assumed China's seat.
-Currently has recognition as a country by 20 UN member states.
-
-
-- (XK:_Europe) Kosovo
-Declared independence from Serbia in February 2008.
-Currently has recognition as a country by 115 UN member states as of February 27th, 2017.
-
-- (HK:_Asia) Hong Kong
-Is formally known as Hong Kong Special Administrative Region of the People's Republic of China. It is a fully autonomous region and maintains a separate political and economic system from China aside from its foreign affairs.
-Due to Hong Kong's long history in the WCA and large community, it is recognized as a separate entity to China within the WCA.
-
-- (MO:_Asia) Macau
-Is formally known as Macao Special Administrative Region of the People's Republic of China.
-It is functionally identical to Hong Kong, as so we treat it the same way as Hong Kong within the WCA.
