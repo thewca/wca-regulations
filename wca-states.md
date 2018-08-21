@@ -1,10 +1,13 @@
 # <wca-title>WCA List of Recognized Countries
 <wca-states>
 <version>Version: June 19, 2017
+  
+  
+The WCA recognizes a total of 199 states/regions:
 
 
-<states-list> The WCA recognizes a total of 199 countries.
-
+## <states-list> 
+  
 - (AF:_Asia) Afghanistan
 - (AL:_Europe) Albania
 - (DZ:_Africa) Algeria
