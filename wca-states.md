@@ -6,7 +6,7 @@
 The WCA recognizes a total of 199 countries/regions:
 
 
-## <states-list> 
+## <states-list>
 
 - (AF:_Asia) Afghanistan
 - (AL:_Europe) Albania
