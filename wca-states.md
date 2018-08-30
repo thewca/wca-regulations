@@ -1,6 +1,6 @@
 # <wca-title>WCA List of Recognized Countries
 <wca-states>
-<version>Version: June 19, 2017
+<version>Version: August 20, 2018
 
 
 The WCA recognizes a total of 199 countries/regions:
