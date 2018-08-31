@@ -106,7 +106,7 @@ This document is meant to clarify some of the implicit conventions adopted in WC
 
 - Re-normalize indentation. (Use re-indent.sh, but make sure to adapt the script source for the document and sanity-diff the changes.)
 - Search for stray tabs, double-spaces, extra spaces/missing punctuation at the end of lines.
-- When searching for words/phrases, be careful about alternate spellings and search for a conservative substring (e.g. search "solv" for "solve"/"solving", "apple" for "apply"/"applied", "penalt" for "penalty"/"penalties"). Be careful about a blind search/replace.
+- When searching for words/phrases, be careful about alternate spellings and search for a conservative substring (e.g. search "solv" for "solve"/"solving", "appl" for "apply"/"applied", "penalt" for "penalty"/"penalties"). Be careful about a blind search/replace.
 
 
 ## Definitions
