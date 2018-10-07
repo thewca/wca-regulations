@@ -238,6 +238,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 9b3b) For 3x3x3 Blindfolded, the WCA also recognizes "Mean of 3" rankings and records based on the times from "Best of 3" rounds.
 - 9f) The results of a round are measured as follows:
     - 9f1) All timed results under 10 minutes are measured and truncated to the nearest hundredth of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second.
+        - 9f1a) For Multiple Blindfolded Solving, all timed results are measured and rounded to the nearest second (e.g. x.49 becomes x, x.50 becomes x+1), even when the result is under 10 minutes.
     - 9f2) All timed results, averages, and means over 10 minutes are measured and rounded to the nearest second (e.g. x.49 becomes x, x.50 becomes x+1).
     - 9f4) The result of an attempt is recorded as DNF (Did Not Finish) if the attempt is disqualified or unsolved/unfinished.
     - 9f5) The result of an attempt is recorded as DNS (Did Not Start) if the competitor is eligible for an attempt but declines it.
