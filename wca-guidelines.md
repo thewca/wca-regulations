@@ -72,7 +72,6 @@ To be more informative, each Guideline is classified using one of the following 
 - 3d1b+) [CLARIFICATION] Patterns do not need to be present on every face, but only on faces where a distinct color cannot be found. Pieces must not have any features (e.g. textures, pattern irregularities) that significantly distinguish them from similar pieces.
 - 3h+) [CLARIFICATION] Puzzles may be refined internally by sanding, lubrication, or modifications which improve stability (e.g. magnets).
 - 3h++) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colors on the backside of the puzzle are visible, moves are done automatically, or the puzzles have more/different solved states.
-- 3h2+) [CLARIFICATION] In the past, "stickerless" puzzles were not permitted. Such puzzles are now permitted.
 - 3h2++) [CLARIFICATION] "Stickerless" puzzles that significantly differ from most mass-produced "stickerless" puzzles are only permitted at the discretion of the WCA Delegate.
 - 3j+) [REMINDER] In the past, engraved/embossed parts have been permitted. This is no longer permitted.
 - 3j++) [CLARIFICATION] On Clock, pins must not be distinguishable from any other pin of the same side.
