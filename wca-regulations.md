@@ -166,7 +166,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 4b3f) Pyraminx: The (random) state must require at least 6 moves to solve.
     - 4b4) Each scramble sequence should be applied during a maximum time frame of 2 hours. This time frame starts when the scramble sequence is applied for the first time.
 - 4d) Scrambling orientation:
-    - 4d1) NxNxN puzzles and Megaminx are scrambled starting with the white face (if not possible, then the lightest face) on the top and the darkest adjacent green face (if not possible, then the darkest adjacent face) on the front.
+    - 4d1) NxNxN Cubes and Megaminx are scrambled starting with the white face (if not possible, then the lightest face) on the top and the darkest adjacent green face (if not possible, then the darkest adjacent face) on the front.
     - 4d2) Pyraminx is scrambled starting with the yellow face (if not possible, then the lightest face) on the bottom and the green face (if not possible, then the darkest adjacent face) on the front.
     - 4d3) Square-1 is scrambled starting with the darker color on front (out of the 2 possible scrambling orientations).
     - 4d4) Clock is scrambled starting with either side in front and 12 o'clock pointing up.
@@ -287,7 +287,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 10e3) If one move is required, the puzzle is be considered solved with a time penalty (+2 seconds).
     - 10e4) If more than one move is required, the puzzle is considered unsolved (DNF).
 - 10f) Limits of acceptable misalignment for puzzles:
-    - 10f1) NxNxN puzzles: at most 45 degrees.
+    - 10f1) NxNxN Cubes: at most 45 degrees.
     - 10f2) Megaminx: at most 36 degrees.
     - 10f3) Pyraminx and Skewb: at most 60 degrees.
     - 10f4) Square-1: at most 45 degrees (U/D) or 90 degrees (/).
@@ -312,22 +312,23 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 ## <article-12><notation><notation> Article 12: Notation
 
-- 12a) Notation for all NxNxN puzzles:
-    - 12a1) Face Moves:
+- 12a) Notation for NxNxN Cubes:
+    - 12a1) Face Moves (outer slice):
         - 12a1a) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
         - 12a1b) Counter-clockwise, 90 degrees: F', B', R', L', U', D'.
         - 12a1c) 180 degrees: F2, B2, R2, L2, U2, D2.
-    - 12a2) Outer Block Moves (outer slice plus adjacent inner slices; n is defined as the total number of slices to move; n may be omitted for two slices):
+    - 12a2) Outer Block Moves (outer slice with adjacent inner slices). For each of the moves defined below, n is the total number of slices to move, which must be in the range 1 < n < N (where N is the number of layers in the puzzle). n may be also be omitted, for an implicit value of n = 2 slices. Outer Block Moves are:
         - 12a2a) Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw.
         - 12a2b) Counter-clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw'.
         - 12a2c) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
-    - 12a3) Outer Block Turn Metric (OBTM) is defined as:
-        - 12a3a) Each move of the categories Face Moves and Outer Block Moves is counted as 1 move.
-        - 12a3b) Each rotation is counted as 0 moves.
-- 12b) Rotations for all NxNxN puzzles:
-    - 12b1) Clockwise, 90 degrees: [f] or z, [b] or z', [r] or x, [l] or x', [u] or y, [d] or y'.
-    - 12b2) Counter-clockwise, 90 degrees: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y.
-    - 12b3) 180 degrees: [f2] or z2, [b2] or z2, [r2] or x2, [l2] or x2, [u2] or y2, [d2] or y2.
+    - 12a4) Rotations (entire puzzle):
+        - 12a4a) Clockwise, 90 degrees: [f] or z, [b] or z', [r] or x, [l] or x', [u] or y, [d] or y'.
+        - 12a4b) Counter-clockwise, 90 degrees: [f'] or z', [b'] or z, [r'] or x', [l'] or x, [u'] or y', [d'] or y.
+        - 12a4c) 180 degrees: [f2] or z2, [b2] or z2, [r2] or x2, [l2] or x2, [u2] or y2, [d2] or y2.
+    - 12a5) Outer Block Turn Metric (OBTM) is defined as:
+        - 12a5a) Each move of the categories Face Moves and Outer Block Moves is counted as 1 move.
+        - 12a5b) Each move of the Rotations category is counted as 0 moves.
+    - 12a6) Execution Turn Metric (ETM) is defined as: Each move of the categories Face Moves, Outer Block Moves, and Rotations is counted as 1 move.
 - 12c) Notation for Square-1:
     - 12c1) Moves are applied with one of the two smallest surfaces of the equatorial slice on the left side of the front face.
     - 12c2) (x, y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise. x and y must be integers from -5 to 6, and cannot be both equal to 0.
@@ -491,13 +492,13 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 - E2) Procedure for Fewest Moves Solving:
     - E2a) The judge distributes a scramble sequence to all competitors. The judge then starts the stopwatch and calls "GO".
-    - E2b) All competitors have a total time limit of 60 minutes to devise a solution.
+    - E2b) All competitors have a total time limit of 60 minutes to find and write a solution.
         - E2b1) The judge should call "5 MINUTES REMAINING" at 55 minutes, and must call "STOP" at 60 minutes.
-    - E2c) At 60 minutes, each competitor must give the judge a legibly written solution with the competitor's name, using the notation defined for Outer Block Turn Metric (described in [Regulation 12a](regulations:regulation:12a)). Penalty: disqualification of the attempt (DNF).
-    - E2d) The length of the solution is calculated in Outer Block Turn Metric (see [Regulation 12a](regulations:regulation:12a)).
-        - E2d1) The competitor is permitted a maximum solution length of 80 (moves and rotations).
+    - E2c) At 60 minutes, each competitor must submit to the judge a single piece of paper with the competitor's written name (optionally accompanied by WCA ID) and solution, using the notation for the 3x3x3 Cube described in [Regulation 12a](regulations:regulation:12a). Penalty: disqualification of the attempt (DNF).
+    - E2d) The competitor's result is the number of moves in their solution, calculated using Outer Block Turn Metric (see [Regulation 12a5](regulations:regulation:12a5)).
+        - E2d1) The competitor's solution must not exceed 80 moves (including rotations) when calculated using Execution Turn Metric (see [Regulation 12a6](regulations:regulation:12a6)). Penalty: disqualification of the attempt (DNF).
     - E2e) The competitor's solution must not be directly derived from any part of the scramble sequence. Penalty: disqualification of the attempt (DNF), at the discretion of the WCA Delegate.
-        - E2e1) The WCA Delegate may ask the competitor to explain the purpose of each move in their solution, irrespective of scrambling algorithm. If the competitor cannot give a valid explanation, the attempt is disqualified (DNF).
+        - E2e1) The WCA Delegate may ask the competitor to explain the purpose of each move in their solution, irrespective of the scramble sequence. If the competitor cannot give a valid explanation, the attempt is disqualified (DNF).
 - E3) The competitor may use the following objects during the attempt. Penalty for using unauthorized objects: disqualification of the attempt (DNF).
     - E3a) Paper and pens (both supplied by judge).
     - E3b) 3x3x3 Cubes (at most 3, self-supplied), as described in [Article 3](regulations:article:3).
