@@ -434,7 +434,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - A7g) At the discretion of the WCA Delegate, an incident or penalty caused by a new competitor's inexperience may be replaced with an extra attempt.
 
 
-## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
+## <article-B><blindfolded><blindfoldedsolving> Article B: 3x3x3 Blindfolded
 
 - B1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
     - B1a) There is no inspection period.
@@ -515,7 +515,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: 3x3x3 Multi-Blind
 
-- H1) Standard blindfolded solving procedures are followed, as described in [Article B](regulations:article:B) (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in [Article B](regulations:article:B) are described below.
+- H1) Standard blindfolded solving procedures are followed, as described in [Article B](regulations:article:B) (3x3x3 Blindfolded). Additional regulations that supersede the corresponding procedures in [Article B](regulations:article:B) are described below.
     - H1a) Before an attempt, the competitor must submit to the organization team the number of puzzles (at least 2) they wish to attempt.
         - H1a1) A competitor is not permitted to change the number of puzzles after submitting their number to the organization team.
         - H1a2) A competitor may request to keep their submission private until all competitors have submitted their numbers. Once all competitors have reported their numbers, the information becomes public (e.g. a competitor may ask for the numbers of any other competitors before starting their attempt).
