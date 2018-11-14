@@ -434,7 +434,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - A7g) At the discretion of the WCA Delegate, an incident or penalty caused by a new competitor's inexperience may be replaced with an extra attempt.
 
 
-## <article-B><blindfolded><blindfoldedsolving> Article B: 3x3x3 Blindfolded
+## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
 
 - B1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
     - B1a) There is no inspection period.
@@ -466,7 +466,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - B5c) If the competitor is not touching the puzzle, they may remove the blindfold before they stop the timer. They must not touch the puzzle until the end of the attempt. Penalty for touching the puzzle: disqualification of the attempt (DNF).
 
 
-## <article-C><one-handed><onehandedsolving> Article C: 3x3x3 One-Handed
+## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
 
 - C1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
     - C1b) During the solve, the competitor must use only one hand to operate the puzzle. Penalty: disqualification of the attempt (DNF).
@@ -475,7 +475,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - C1c) During the solve, once a competitor operates the puzzle with one hand, they must not operate the puzzle with the other hand. Penalty: disqualification of the attempt (DNF).
 
 
-## <article-D><feet><solvingwithfeet> Article D: 3x3x3 With Feet
+## <article-D><feet><solvingwithfeet> Article D: Solving with Feet
 
 - D1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
     - D1a) During the attempt, the competitor must sit in a chair, sit on the surface, or stand.
@@ -487,7 +487,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - D4a) The competitor stops the timer by placing their feet onto the timer sensors.
 
 
-## <article-E><fewest-moves><fewestmovessolving> Article E: 3x3x3 Fewest Moves
+## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
 
 - E2) Procedure for 3x3x3 Fewest Moves:
     - E2a) The judge distributes a scramble sequence to all competitors. The judge then starts the stopwatch and calls "GO".
@@ -505,7 +505,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - E3d) Stopwatch or watch (self-supplied) for keeping track of the elapsed time, if it is approved by the WCA Delegate.
 
 
-## <article-F><clock><clocksolving> Article F: Clock
+## <article-F><clock><clocksolving> Article F: Clock Solving
 
 - F1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
 - F2) The judge places the scrambled puzzle onto the mat in a standing position.
@@ -513,7 +513,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - F3a) The competitor must not change the positions of any pins from their scrambled positions before the start of the solve. Penalty: disqualification of the attempt (DNF).
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: 3x3x3 Multi-Blind
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
 
 - H1) Standard blindfolded solving procedures are followed, as described in [Article B](regulations:article:B) (3x3x3 Blindfolded). Additional regulations that supersede the corresponding procedures in [Article B](regulations:article:B) are described below.
     - H1a) Before an attempt, the competitor must submit to the organization team the number of puzzles (at least 2) they wish to attempt.
