@@ -475,7 +475,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - C1c) During the solve, once a competitor operates the puzzle with one hand, they must not operate the puzzle with the other hand. Penalty: disqualification of the attempt (DNF).
 
 
-## <article-D><feet><solvingwithfeet> Article D: Solving with Feet
+## <article-D><feet><solvingwithfeet> Article D: Solving With Feet
 
 - D1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
     - D1a) During the attempt, the competitor must sit in a chair, sit on the surface, or stand.
@@ -515,7 +515,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
 
-- H1) Standard blindfolded solving procedures are followed, as described in [Article B](regulations:article:B) (3x3x3 Blindfolded). Additional regulations that supersede the corresponding procedures in [Article B](regulations:article:B) are described below.
+- H1) Standard blindfolded solving procedures are followed, as described in [Article B](regulations:article:B) (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in [Article B](regulations:article:B) are described below.
     - H1a) Before an attempt, the competitor must submit to the organization team the number of puzzles (at least 2) they wish to attempt.
         - H1a1) A competitor is not permitted to change the number of puzzles after submitting their number to the organization team.
         - H1a2) A competitor may request to keep their submission private until all competitors have submitted their numbers. Once all competitors have reported their numbers, the information becomes public (e.g. a competitor may ask for the numbers of any other competitors before starting their attempt).
