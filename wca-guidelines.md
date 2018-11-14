@@ -179,27 +179,27 @@ To be more informative, each Guideline is classified using one of the following 
 
 
 
-## <article-B><blindfolded><blindfoldedsolving> Article B: 3x3x3 Blindfolded
+## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
 
 - B1+) [REMINDER] The competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces (see [Regulation 3k](regulations:regulation:3k)). This should be given special attention for 3x3x3 Blindfolded.
 - B1b+) [RECOMMENDATION] Blindfolds should be checked by the WCA Delegate before use in the competition.
 
 
-## <article-C><one-handed><onehandedsolving> Article C: 3x3x3 One-Handed
+## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
 
 - C1b+) [CLARIFICATION] The competitor may use both hands during inspection.
 - C1b++) [CLARIFICATION] The competitor is not required to use the same solving hand for different attempts of the same round.
 - C1b+++) [REMINDER] Use of the surface is permitted while solving or repairing the puzzle.
 
 
-## <article-D><feet><solvingwithfeet> Article D: 3x3x3 With Feet
+## <article-D><feet><solvingwithfeet> Article D: Solving with Feet
 
 - D1b+) [CLARIFICATION] The competitor may wear socks while solving.
 - D1b++) [CLARIFICATION] In the past, competitors were required to inspect the puzzle using their feet for 3x3x3 With Feet. They are now permitted to touch the puzzle with their hands or any other part of their body during inspection (see [Guideline A5b+](guidelines:guideline:A5b+)).
 - D1c+) [REMINDER] While repairing puzzle defects, other body parts must not touch the puzzle.
 
 
-## <article-E><fewest-moves><fewestmovessolving> Article E: 3x3x3 Fewest Moves
+## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
 
 - E2b+) [CLARIFICATION] A competitor may choose to stop an attempt early by handing in a solution before the time limit.
 - E2c+) [CLARIFICATION] Although the judge may provide a standard sheet for competitors to submit solutions, a competitor may submit a solution on a different piece of paper, as long as a single move sequence is unambiguously indicated as the submitted solution. (Note that the piece of paper must come from the judge, according to [Regulation E3a](regulations:regulation:E3a).)
@@ -210,7 +210,7 @@ To be more informative, each Guideline is classified using one of the following 
 - E3d++) [CLARIFICATION] Competitors should not consider a personal stopwatch or watch as the official time, and must submit their solution after the judge calls "STOP".
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: 3x3x3 Multi-Blind
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
 
 - H1b1+) [REMINDER] The attempt is not disqualified for reaching the time limit, due to exceptions for 3x3x3 Multi-Blind (see [Regulation A1a4](regulations:regulation:A1a4) and [Regulation A1a5](regulations:regulation:A1a5)).
 - H1b1++) [ADDITION] The judge may permit the competitor to continue the attempt unofficially, but the attempt must be stopped and judged first, in full accordance with the Regulations.
