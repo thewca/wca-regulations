@@ -394,7 +394,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A3d3) When 12 seconds of inspection have elapsed, the judge calls "12 SECONDS".
 - A4) Starting the solve:
     - A4b) The competitor uses their fingers to touch the elevated sensor surfaces of the timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to the competitor. Penalty: time penalty (+2 seconds).
-        - A4b1) The competitor must have no physical contact with the puzzle between the inspection period and the start of the solve. Penalty: time penalty (+2 seconds).
+        - A4b1) The competitor must have no physical contact with the puzzle while starting the solve. Penalty: time penalty (+2 seconds).
     - A4d) If a Stackmat timer is in use, the competitor should keep their hands on the timer until they see a green timer light. They start the solve by removing their hands from the timer (thus starting the timer).
         - A4d1) The competitor must start the solve within 15 seconds of the start of the inspection. Penalty: time penalty (+2 seconds).
         - A4d2) The competitor must start the solve within 17 seconds of the start of the inspection. Penalty: disqualification of the attempt (DNF).
