@@ -87,9 +87,9 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 2e3) Competitors who have no citizenship may compete as "Stateless".
 - 2f) Competitors must obey venue rules and conduct themselves in a considerate manner.
 - 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
-    - 2g3) Competitors in the Competitors Area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor from the event, at the discretion of the WCA Delegate.
+    - 2g3) Competitors in a Competitors Area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor(s) from the event, at the discretion of the WCA Delegate.
 - 2h) Competitors must be fully dressed while in the competition venue. At the discretion of the WCA Delegate, competitors may be disqualified from the competition for inappropriate clothing.
-- 2i) While competing, competitors must not use electronics or audio equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting).
+- 2i) While competing, competitors must not use electronics or audio equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting) apart from the Stackmat timer.
     - 2i1) Competitors may use non-electronic aids that do not give an unfair advantage, at the discretion of the WCA Delegate. This includes:
         - 2i1a) Medical/physical aids worn by the competitor (e.g. glasses, wrist brace). As an exception to [Regulation 2i](regulations:regulation:2i), medical aids may be electronic if the competitor does not have comfortable non-electronic alternatives (e.g. if the competitor has a personal hearing aid or pacemaker).
         - 2i1b) Earplugs and earmuffs (but not electronic headphones and earbuds).
@@ -208,8 +208,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
     - 7f2) The Stackmat timer must be attached to the mat and placed on the surface, with the timer on the side of the mat nearest to the competitor.
         - 7f2a) Exception: For 3x3x3 With Feet, the Stackmat must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
-- 7h) The competition area must have a Competitors Area.
-    - 7h1) The organization team may require that a competitor who has been called to compete must remain within the Competitors Area until the competitor has finished all attempts for the round.
+- 7h) The competition area must have one or more Competitors Areas.
+    - 7h1) The organization team may require that a competitor who has been called to compete must remain within their assigned Competitors Area until the competitor has finished all attempts for the round.
 
 
 ## <article-8><competitions><competitions> Article 8: Competitions
@@ -358,18 +358,18 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 ## <article-A><speedsolving><speedsolving> Article A: Speed Solving
 
 - A1) Speed Solving attempts must abide by the following procedures.
-    - A1a) The organization team must enforce time limits for solves and/or rounds.
-        - A1a1) The default time limit per solve is 10 minutes, though the organization team may announce a higher or lower time limit.
-        - A1a2) Cumulative time limits may be enforced (e.g. 3 solves with a cumulative time limit of 20 minutes - see [Regulation A1a5](regulations:regulation:A1a5)). The time elapsed in a DNF result counts towards the cumulative time limit.
-        - A1a3) For each round, any time limits must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
-        - A1a4) The competitor must end each solve within the time limit. If a competitor reaches the time limit for a solve/round, the judge stops the solve immediately and records the result as DNF. Exception: 3x3x3 Multi-Blind (see [Regulation H1b1](regulations:regulation:H1b1)).
-        - A1a5) A solve is considered to meet the time limit if and only if the final result, after any time penalties are applied, is less than the time limit. Exception: 3x3x3 Multi-Blind (see [Regulation H1b1](regulations:regulation:H1b1)).
-    - A1b) If the time limit for a solve is greater than 10 minutes, a stopwatch must be used for timekeeping.
+    - A1a) The organization team applies exactly one kind of time limit (time limit per attempt or cumulative time limit) to each round.
+        - A1a1) The default time limit is 10 minutes for each attempt in a round, though the organization team may announce a higher or lower time limit per attempt. In this case, the limit must be the same for all attempts in a round.
+        - A1a2) For events other than 3x3x3 Fewest Moves and 3x3x3 Multi-Blind, the organization team may define a cumulative time limit. The cumulative time limit must either apply to all attempts in one round (e.g. 3 attempts with a cumulative time limit of 20 minutes), or to all attempts in a combination of rounds for different events. In this case, the time limit for a particular attempt is the cumulative time limit minus the total time in other attempts counting towards the time limit so far (see [Regulation A1a5](regulations:regulation:A1a5)). If a round has an applicable cumulative time limit, it must have at most one.
+        - A1a3) The time limits for all rounds must be announced before the competition, and should not be changed after any affected rounds have begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
+        - A1a4) The competitor must end each solve before the time limit for the attempt is reached. If a competitor's timer reaches the time limit for an attempt, the judge stops the solve immediately and records the result as DNF. Exception: 3x3x3 Multi-Blind (see [Regulation H1b1](regulations:regulation:H1b1)).
+        - A1a5) The time counting towards the time limit for an attempt is either the result after time penalties are applied (if the result was not DNF) or the time elapsed in the solve (if the result was DNF).
+    - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
         - A1b1) A Stackmat must be used in addition to the stopwatch. Exception: for events without inspection where the competitor is expected to exceed 10 minutes, use of the Stackmat is optional.
         - A1b2) If a time from the Stackmat timer is available, it is the original recorded time. Otherwise, the stopwatch time is the original recorded time.
     - A1c) A competitor participating in an event must be able to fulfill the event's requirements (e.g. know how to solve the puzzle). A competitor must not compete with the expectation of a DNF result or an intentionally poor result. Penalty: disqualification of the attempt (DNF)  or disqualification from the event (see [Regulation 2j](regulations:regulation:2j)), at the discretion of the WCA Delegate.
 - A2) Scrambling:
-    - A2a) When called for a round, the competitor submits a puzzle, in its solved state, to the scrambler. The competitor then waits in the Competitors Area until they are called to compete.
+    - A2a) When called for a round, the competitor submits the puzzle, in its solved state, to the scrambler. The competitor then waits in their assigned Competitors Area until they are called to compete.
     - A2b) A scrambler scrambles the puzzle according to the regulations in [Article 4](regulations:article:4).
         - A2b1) For Square-1, the organization team may enforce placing a thin object in the puzzle to prevent accidental moves from being applied before the start of the attempt. If these objects are used, this must be announced before the round starts.
     - A2c) After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.
@@ -394,7 +394,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A3d3) When 12 seconds of inspection have elapsed, the judge calls "12 SECONDS".
 - A4) Starting the solve:
     - A4b) The competitor uses their fingers to touch the elevated sensor surfaces of the timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to the competitor. Penalty: time penalty (+2 seconds).
-        - A4b1) The competitor must have no physical contact with the puzzle between the inspection period and the start of the solve. Penalty: time penalty (+2 seconds).
+        - A4b1) The competitor must have no physical contact with the puzzle while starting the solve. Penalty: time penalty (+2 seconds).
     - A4d) If a Stackmat timer is in use, the competitor should keep their hands on the timer until they see a green timer light. They start the solve by removing their hands from the timer (thus starting the timer).
         - A4d1) The competitor must start the solve within 15 seconds of the start of the inspection. Penalty: time penalty (+2 seconds).
         - A4d2) The competitor must start the solve within 17 seconds of the start of the inspection. Penalty: disqualification of the attempt (DNF).
@@ -415,7 +415,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - A6e) After releasing the puzzle, the competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been applied, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
     - A6f) The competitor must not reset the timer until the judge has recorded the result on the score sheet. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
         - A6f1) If the competitor resets the timer before the result has been completely recorded, the judge must not write down the result from memory or from video or photographic evidence, and must disqualify the attempt instead (DNF).
-    - A6g) The judge determines whether the puzzle is solved. They must not make moves or align faces when examining the puzzle. Exception: For Clock, the judge will usually need to pick up the puzzle to verify both faces.
+    - A6g) The judge determines whether the puzzle is solved. They must not touch the puzzle before they have determined whether to assign a penalty for misalignment.
     - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle before the dispute is resolved.
     - A6i) Time penalties for stopping the solve are cumulative.
 - A7) Recording results:

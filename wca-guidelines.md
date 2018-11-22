@@ -72,7 +72,6 @@ To be more informative, each Guideline is classified using one of the following 
 - 3d1b+) [CLARIFICATION] Patterns do not need to be present on every face, but only on faces where a distinct color cannot be found. Pieces must not have any features (e.g. textures, pattern irregularities) that significantly distinguish them from similar pieces.
 - 3h+) [CLARIFICATION] Puzzles may be refined internally by sanding, lubrication, or modifications which improve stability (e.g. magnets).
 - 3h++) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colors on the backside of the puzzle are visible, moves are done automatically, or the puzzles have more/different solved states.
-- 3h2+) [CLARIFICATION] In the past, "stickerless" puzzles were not permitted. Such puzzles are now permitted.
 - 3h2++) [CLARIFICATION] "Stickerless" puzzles that significantly differ from most mass-produced "stickerless" puzzles are only permitted at the discretion of the WCA Delegate.
 - 3j+) [REMINDER] In the past, engraved/embossed parts have been permitted. This is no longer permitted.
 - 3j++) [CLARIFICATION] On Clock, pins must not be distinguishable from any other pin of the same side.
@@ -115,7 +114,7 @@ To be more informative, each Guideline is classified using one of the following 
 
 - 7d+) [ADDITION] The temperature of the competition area should be 21 to 25 degrees Celsius.
 - 7f1a+) [CLARIFICATION] A full-size mat should have minimum dimensions of 30cm (left to right) by 25cm (front to back).
-- 7h2+) [ADDITION] The competitors in the Competitors Area should not be able to see the puzzles of the competitors on stage.
+- 7h2+) [ADDITION] Competitors in a Competitors Area who are waiting between attempts should not be able to see the puzzles of the competitors on stage.
 
 
 ## <article-8><competitions><competitions> Article 8: Competitions
@@ -155,10 +154,7 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-A><speedsolving><speedsolving> Article A: Speed Solving
 
 - A1a2+) [ADDITION] In case of a cumulative time limit, the judge records the original recorded time for a DNF on the score sheet in parentheses, e.g. "DNF (1:02.27)".
-- A1a2++) [CLARIFICATION] Cumulative time limits may be enforced for a single round or a combination of rounds of different events.
-- A1a2+++) [CLARIFICATION] In case of a cumulative time limit, the result of each remaining attempt in the round is recorded as DNS (Did Not Start) after a competitor reaches the time limit.
-- A1a2++++) [ADDITION] If a cumulative time limit for a single event or a combination of events is enforced, such events don't have a regular time limit per solve.
-- A1a2+++++) [CLARIFICATION] Events where a time limit per attempt is defined by the Regulations (3x3x3 Fewest Moves and 3x3x3 Multi-Blind) must not have a cumulative time limit.
+- A1a2++) [EXAMPLE] If a round has a cumulative time limit of 30 minutes and the competitor's results first two attempts are 6:00 and DNF (10:00), then the time limit for the third attempt is 30:00 - 6:00 - 10:00 = 14:00. For this particular example, note that only the final result for an attempt counts. Therefore, a third attempt with an original recorded time of 13:59 without penalties meets the time limit because the final result is 13:59 (see [Regulation 9f2](regulations:regulation:9f2)), while a third attempt with a result of 13:59 + 2 = 14:01 does not meet the time limit.
 - A1a3+) [REMINDER] The organization team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the start of the round can disadvantage some competitors unfairly.
 - A1a4+) [REMINDER] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and WCA Delegate should be informed (see [Regulation 1g2](regulations:regulation:1g2)). Judges must always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
 - A1c+) [CLARIFICATION] WCA Delegates should only use their discretion to prevent competitors from being a severe detriment to the competition (e.g. wasting time and/or competition resources). Competitors should not be disqualified for a "poor" result when they are competing to the best of their abilities.
@@ -170,7 +166,6 @@ To be more informative, each Guideline is classified using one of the following 
 - A5b+) [CLARIFICATION] While inspecting or solving the puzzle, the competitor may touch the puzzle with any part of their body. Exception: 3x3x3 One-Handed and 3x3x3 With Feet (see [Regulation C1b](regulations:regulation:C1b) and [Regulation D1b](regulations:regulation:D1b)).
 - A6b+) [EXPLANATION] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timer malfunctions.
 - A6e+) [CLARIFICATION] If the puzzle falls into the lap of the competitor after stopping the timer, this is considered touching the puzzle.
-- A6g+) [ADDITION] While the judge is determining whether to assign a penalty for misalignment, they should not touch the puzzle.
 - A7c+) [ADDITION] If a result signed by a competitor is found to be incomplete or unreadable, it should be interpreted the worst reasonable way (e.g. "1:05" will be considered 1:05.99, "25.X3" will be considered 25.73 if X could be either a 1 or a 7). Given that the Stackmat timer displays a time of X:0Y.ss as X:Y.ss, a missing tens digit should be considered more likely than a missing ones digit (e.g. "1:2.27" will be considered 1:02.27). The judge who signed an ambiguous result may be requested to clarify it, at the discretion of the score taker.
 - A7c4+) [ADDITION] Missing signatures found by the score taker may be added by the judge and/or competitor before the end of the competition, at the discretion of the WCA Delegate.
 - A7g+) [EXAMPLE] Examples of incidents that could grant a new competitor an extra attempt: not waiting for the green light, improperly starting or stopping the timer, going over inspection time due to misunderstanding how to start a solve, or other procedural time penalties.
