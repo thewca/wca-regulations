@@ -151,6 +151,10 @@ To be more informative, each Guideline is classified using one of the following 
 - 11e2++) [EXAMPLE] Suppose a competitor has 5 regularly numbered attempts, and #2 leads to extra attempts. The competitor should do extra attempts until there is a valid extra attempt to replace #2. Suppose later another attempt leads to extra attempts, the competitor should proceed in a similar way as for #2.
 
 
+## <article-12><notation><notation> Article 12: Notation
+- 12a2+) [CLARIFICATION] For example, both Rw and 2Rw are valid notation for the same physical move for the 3x3x3 Cube. 1Rw is not valid notation for any NxNxN Cube, and 3Rw is not valid notation for the 2x2x2 Cube or the 3x3x3 Cube (but 3Rw is valid notation for the 4x4x4 Cube and larger NxNxN Cubes).
+
+
 ## <article-A><speedsolving><speedsolving> Article A: Speed Solving
 
 - A1a2+) [ADDITION] In case of a cumulative time limit, the judge records the original recorded time for a DNF on the score sheet in parentheses, e.g. "DNF (1:02.27)".
@@ -201,8 +205,8 @@ To be more informative, each Guideline is classified using one of the following 
 - E2c++) [CLARIFICATION] The competitor's solution must only use moves that are exactly defined in [Regulation 12a](regulations:regulation:12a). Examples of notation and moves that are not permitted in competition: [F], [R, U], [R: U], R'2, L'w, f, M, U2'.
 - E2e+) [CLARIFICATION] Competitors must not derive solutions from any part of the scramble sequence, and solutions should not share significant parts with the inverse scramble sequence.
 - E2e++) [EXAMPLE] Example of solutions that should result in a disqualification of the attempt (DNF): solutions beginning with the same 4 or more moves as the inverse scramble sequence.
-- E3d+) [CLARIFICATION] Any stopwatch or watch used by a competitor must not appear to have any functions that would help the competitor find a solution.
-- E3d++) [CLARIFICATION] Competitors should not consider a personal stopwatch or watch as the official time, and must submit their solution after the judge calls "STOP".
+- E3d+) [CLARIFICATION] Any stopwatch or watch used by a competitor must not have any functions that would help the competitor find a solution.
+- E3d++) [CLARIFICATION] Competitors should not consider a personal stopwatch or watch as the official time, and must submit their solution when the judge calls "STOP".
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
