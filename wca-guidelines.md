@@ -191,7 +191,7 @@ To be more informative, each Guideline is classified using one of the following 
 - C1b+++) [REMINDER] Use of the surface is permitted while solving or repairing the puzzle.
 
 
-## <article-D><feet><solvingwithfeet> Article D: Solving With Feet
+## <article-D><feet><solvingwithfeet> Article D: Feet Solving
 
 - D1b+) [CLARIFICATION] The competitor may wear socks while solving.
 - D1b++) [CLARIFICATION] In the past, competitors were required to inspect the puzzle using their feet for 3x3x3 With Feet. They are now permitted to touch the puzzle with their hands or any other part of their body during inspection (see [Guideline A5b+](guidelines:guideline:A5b+)).
