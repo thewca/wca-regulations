@@ -43,7 +43,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 - 1a) A competition must include a WCA Delegate and an organization team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
 - 1b) The organization team of a competition is responsible for logistics before, during, and after the competition.
-- 1c) The WCA Delegate may delegate responsibilities to other members of the organization team, but is ultimately accountable for how these responsibilities are carried out. The WCA Delegate for a competition is responsible for:
+- 1c) The WCA Delegate may delegate responsibilities to other members of the organization team (unless otherwise noted), but is ultimately accountable for how these responsibilities are carried out. The WCA Delegate for a competition is responsible for:
     - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the end of the competition.
     - 1c3) Sending the competition results to the WCA Results Team within one week of the end of the competition.
         - 1c3a) All scramble sequences used during a competition must be sent with the results of the competition.
@@ -52,7 +52,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 1c5) Advising the other officials where necessary.
     - 1c6) Approving all events and round formats of a competition, before the competition starts, and if changes are required during the competition.
     - 1c7) Deciding about disqualifying competitors during the competition.
-    - 1c8) Providing the scramble sequences.
+    - 1c8) Providing and guarding the scramble sequences (see [Regulation 4b2](regulations:regulation:4b2)). This responsibility should not be delegated to other members of the organization team.
     - 1c9) Deciding about changes to the scheduled times of rounds. In cases of such changes, a clear announcement must be made to all competitors.
     - 1c10) Making a copy of the WCA Regulations available at the competition.
 - 1e) Each event must have one or more judges.
@@ -65,8 +65,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 1g) Each event must have one or more score takers.
     - 1g1) A score taker is responsible for compiling results.
     - 1g2) Changes to the result on a score sheet are only permitted at the discretion of the WCA Delegate.
-- 1h) Competitors in the same round of an event may be divided into groups.
-    - 1h1) Scramblers and judges for a round should not scramble for/judge competitors in their own group before they have finished all of their attempts for the round. They may scramble for/judge competitors in their own group at the discretion of the WCA Delegate, but the organization team must ensure that scramblers and judges cannot see any scramble sequences for their attempts that they have not attempted yet.
+- 1h) Competitors in the same round of an event may compete as a single group or be divided into multiple groups.
+    - 1h1) Scramblers and judges for a round should not scramble for/judge competitors in their own group before they have finished all of their attempts for the round. They may scramble for/judge competitors in their own group at the discretion of the WCA Delegate, but the organization team must ensure that scramblers and judges cannot see any scramble sequences for their attempts that they have not attempted yet (see [Regulation 4b2](regulations:regulation:4b2)).
 - 1j) All officials may compete in the competition.
 - 1k) Officials may serve multiple roles (e.g. organization team, WCA Delegate, judge, score taker, scrambler).
 
@@ -156,7 +156,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 4a) A scrambler applies scramble sequences to the puzzles.
 - 4b) Puzzles must be scrambled using computer-generated random scramble sequences.
     - 4b1) Generated scramble sequences must not be inspected before the competition, and must not be filtered or selected in any way by the WCA Delegate.
-    - 4b2) Scramble sequences for a round must be available only to the WCA Delegate and the scramblers for the event, until the end of the round. Exception: For Fewest Moves Solving, competitors receive scramble sequences during the round (see [Article E](regulations:article:E)).
+    - 4b2) Scramble sequences for a group must be available only to the WCA Delegate before the start of that group, and only available to the WCA Delegate and the scramblers for the group until it is finished. Exception: For Fewest Moves Solving, competitors receive scramble sequences during the round (see [Article E](regulations:article:E)).
     - 4b3) Specification for a scramble program: An official scramble sequence must produce a random state from those that require at least 2 moves to solve (equal probability for each state). The following additions/exceptions apply:
         - 4b3a) For blindfolded events, the scramble sequence must orient the puzzle randomly (equal probability for each orientation).
         - 4b3b) 2x2x2 Cube: The (random) state must require at least 4 moves to solve.
