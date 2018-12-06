@@ -59,6 +59,8 @@ To be more informative, each Guideline is classified using one of the following 
 - 2e++) [ADDITION] The WCA Delegate should also verify the name and date of birth by means of documents (e.g. a passport) of every new competitor at their first competition.
 - 2e3+) [CLARIFICATION] Stateless competitors have no national records and rankings, nor continental records and rankings.
 - 2h+) [CLARIFICATION] Competitors may be barefoot for Solving With Feet.
+- 2i+) [ADDITION] Although the competitor may pick up a stopwatch to view the current time (when they are not blindfolded), they must not start, stop, pause, or otherwise interact with the timekeeping of the stopwatch.
+- 2i++) [ADDITION] The organization team may provide the competitor an unofficial stopwatch for viewing the elapsed time (started together with the main stopwatch), in which case the competitor is not permitted to touch the official stopwatch.
 - 2i1b+) [CLARIFICATION] This includes relevant devices which are switched off or disconnected.
 - 2j2+) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, their results from earlier rounds remain valid.
 - 2s+) [REMINDER] Special accommodations must be noted in the Delegate Report.
