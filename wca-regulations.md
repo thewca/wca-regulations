@@ -60,7 +60,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the WCA Delegate, as long as the judge is able to ensure that all WCA Regulations are followed at all times.
     - 1e2) Every competitor must be available for judging. If required to judge, a competitor may be excused only for a legitimate reason (e.g. being unfamiliar with a puzzle), at the discretion of the WCA Delegate. Penalty: disqualification from the competition (see [Regulation 2k](regulations:regulation:2k)).
 - 1f) Each event must have one or more scramblers. Exception: Fewest Moves Solving.
-    - 1f1) A scrambler applies scramble sequences to prepare puzzles for attempts.
+    - 1f1) A scrambler applies scramble sequences to prepare puzzles for attempts (see [Regulation A2](regulations:regulation:A2)).
     - 1f2) Every competitor must be available for scrambling. If required to scramble, a competitor may be excused only for a legitimate reason (e.g. being unfamiliar with scrambling notation), at the discretion of the WCA Delegate. Penalty: disqualification from the competition (see [Regulation 2k](regulations:regulation:2k)).
 - 1g) Each event must have one or more score takers.
     - 1g1) A score taker is responsible for compiling results.
@@ -376,7 +376,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - A2c) After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.
         - A2c1) The scrambler places a cover over the scrambled puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover remains over the puzzle until the start of the attempt.
     - A2d) When taking a puzzle from the scrambler, the judge briefly inspects the puzzle to ensure thorough scrambling of the puzzle. The judge raises any concerns with the scrambler, who then conducts a detailed check.
-        - A2d1) The organization team may require scramblers to take additional measures to make sure that they have applied the correct scramble sequence (e.g. signing the score sheet to affirm that they applied the correctly-numbered scramble sequence and checked that it matches the image, or using an additional person as "scramble checker").
+        - A2d1) The organization team should require scramblers to sign the score sheet to affirm that they applied the correctly-numbered scramble sequence and checked that it matches the image.
     - A2e) The judge places the puzzle onto the mat in an arbitrary orientation while ensuring that it remains completely covered.
         - A2e1) The competitor is not permitted to request a specific orientation, and the judge must not influence the orientation they place the puzzle on the mat based on what they know or expect the puzzle state to be.
 - A3) Inspection:
