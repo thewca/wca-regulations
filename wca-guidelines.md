@@ -39,6 +39,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 1c3++) [ADDITION] Physical records (e.g. score sheets, written solutions from Fewest Moves Solving) must be retained for a minimum of one month. Digital records (e.g. scramble sequences, results) must be retained permanently.
 - 1c3b+) [CLARIFICATION] If there are multiple groups, it is not necessary to identify which competitor was in which groups.
 - 1c4+) [RECOMMENDATION] Corrections to the results should be available within one week of the competition date.
+- 1c8+) [ADDITION] The Delegate must only give access to scramble sequences for future groups to other members of the organization team if they will be temporarily unavailable (e.g. competing themselves), and should give others access to the minimum possible amount of scrambles in this case.
 - 1c10+) [CLARIFICATION] It is sufficient to ensure access to a digital copy of the Regulations.
 - 1h+) [RECOMMENDATION] Competitors in the same group should use the same scramble sequences. Different groups should use different scramble sequences.
 - 1h++) [RECOMMENDATION] All attempts in the final round of an event, as well as all Fewest Moves Solving attempts, should have the same scramble sequences for all competitors (i.e. only 1 group).
@@ -83,7 +84,7 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-4><scrambling><scrambling> Article 4: Scrambling
 
 - 4b1+) [REMINDER] The WCA Delegate must never re-generate any scramble sequences to replace other ones for the purpose of filtering. For example, it is not permitted to glance at the scramble sequences for a competition and generate the entire set again in order to generate "fairer" scramble sequences.
-- 4b2+) [CLARIFICATION] In general, all official scramble sequences should be kept secret during the competition and published together after the end of the competition (see [Regulation 1c3a](regulations:regulation:1c3a)). In some cases (e.g. world records), the organization team may wish to release specific scramble sequences sooner after the end of a round.
+- 4b2+) [CLARIFICATION] In general, all official scramble sequences should be kept secret during the competition and published together after the end of the competition (see [Regulation 1c3a](regulations:regulation:1c3a)). In some cases (e.g. world records), the organization team may wish to release specific scramble sequences sooner after the end of a group.
 - 4b4+) [CLARIFICATION] All attempts that have been started within the time frame follow the standard solving procedure (i.e. they are not stopped when the time frame of the relevant scramble sequence expires).
 - 4d+) [CLARIFICATION] Some puzzles use standard color schemes, except that white is replaced with black. In this case, black is the darkest color and must not be treated as white.
 - 4d++) [ADDITION] It is permitted for the puzzle to change its orientation when it is moved from the scrambler to the solving station, as long as no one is attempting to influence the randomness of the orientation (see [Regulation A2e1](regulations:regulation:A2e1)).
