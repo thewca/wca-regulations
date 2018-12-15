@@ -230,7 +230,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 9a) The WCA governs competitions for mechanical puzzles that are operated by twisting groups of pieces, commonly known as "twisty puzzles".
 - 9b) The official events of the WCA are:
     - 9b1) 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 One-Handed, 3x3x3 With Feet, Clock, Megaminx, Pyraminx, Skewb, and Square-1.
-        - 9b1a) Round format for these events is: "Average of 5". For a Combined Round, the round format is "Best of 2" for the first phase and "Average of 5" for the second phase. Exception: In special cases, the round format for these events can be "Best of X" (where X is 1, 2, or 3), at the discretion of the WCA Board.
+        - 9b1a) Round format for these events is: "Average of 5". For a Combined Round, the round format is "Best of 2" for the first phase and "Average of 5" for the second phase.
     - 9b2) 6x6x6 Cube and 7x7x7 Cube.
         - 9b2a) Round format for these events is: "Mean of 3". For a Combined Round, the round format is "Best of 1" for the first phase and "Mean of 3" for the second phase.
     - 9b3) 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded, and 3x3x3 Multi-Blind.
