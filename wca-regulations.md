@@ -43,18 +43,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 - 1a) A competition must include a WCA Delegate and an organization team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
 - 1b) The organization team of a competition is responsible for logistics before, during, and after the competition.
-- 1c) The WCA Delegate may delegate responsibilities to other members of the organization team (unless otherwise noted), but is ultimately accountable for how these responsibilities are carried out. The WCA Delegate for a competition is responsible for:
-    - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the end of the competition.
-    - 1c3) Sending the competition results to the WCA Results Team within one week of the end of the competition.
-        - 1c3a) All scramble sequences used during a competition must be sent with the results of the competition.
-        - 1c3b) All scramble sequences must be labeled with the events, rounds, and groups for which they were used.
-    - 1c4) Sending corrections to the competition results to the WCA Results Team.
-    - 1c5) Advising the other officials where necessary.
-    - 1c6) Approving all events and round formats of a competition, before the competition starts, and if changes are required during the competition.
-    - 1c7) Deciding about disqualifying competitors during the competition.
-    - 1c8) Providing and guarding the scramble sequences (see [Regulation 4b2](regulations:regulation:4b2)). This responsibility should not be delegated to other members of the organization team.
-    - 1c9) Deciding about changes to the scheduled times of rounds. In cases of such changes, a clear announcement must be made to all competitors.
-    - 1c10) Making a copy of the WCA Regulations available at the competition.
+- 1c) The WCA Delegate is responsible for ensuring that the competition adheres to the WCA Regulations and any applicable WCA policies or requirements. The WCA Delegate may appoint other members of the organization team to carry out specific responsibilities on their behalf, but is ultimately accountable for how these responsibilities are carried out.
 - 1e) Each event must have one or more judges.
     - 1e1) A judge is responsible for executing the procedures of the event.
         - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the WCA Delegate, as long as the judge is able to ensure that all WCA Regulations are followed at all times.
@@ -160,6 +149,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 4b) Puzzles must be scrambled using computer-generated random scramble sequences.
     - 4b1) Generated scramble sequences must not be inspected before the competition, and must not be filtered or selected in any way by the WCA Delegate.
     - 4b2) Scramble sequences for a group must be available only to the WCA Delegate before the start of that group, and only available to the WCA Delegate and the scramblers for the group until it is finished. Exception: For 3x3x3 Fewest Moves, competitors receive scramble sequences during the round (see [Article E](regulations:article:E)).
+        - 4b2a) The designated WCA Delegate for the competition must only give access to scramble sequences for future groups to other members of the organization team if they will be temporarily unavailable (e.g. competing themselves), and should give others access to the minimum possible amount of scrambles in this case.
     - 4b3) Specification for a scramble program: An official scramble sequence must produce a random state from those that require at least 2 moves to solve (equal probability for each state). The following additions/exceptions apply:
         - 4b3a) For blindfolded events, the scramble sequence must orient the puzzle randomly (equal probability for each orientation).
         - 4b3b) 2x2x2 Cube: The (random) state must require at least 4 moves to solve.
@@ -205,7 +195,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 7e) The competition area must be smoke-free.
 - 7f) Solving station:
     - 7f1) Definitions:
-        - 7f1a) Stackmat: The Speed Stacks Stackmat timer and a full-size compatible mat.
+        - 7f1a) Stackmat: The Speed Stacks Stackmat timer and a full-size compatible mat. Generation 2, Generation 3 Pro Timer, or/and Generation 4 Pro Timer must be used for time measurement.
         - 7f1b) Mat: The mat of the Stackmat.
         - 7f1c) Timer: The timer of the Stackmat, or a stopwatch (for longer attempts).
         - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
@@ -213,19 +203,6 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 7f2a) Exception: For 3x3x3 With Feet, the Stackmat must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
 - 7h) The competition area must have one or more Competitors Areas.
     - 7h1) The organization team may require that a competitor who has been called to compete must remain within their assigned Competitors Area until the competitor has finished all attempts for the round.
-
-
-## <article-8><competitions><competitions> Article 8: Competitions
-
-- 8a) An official WCA competition must:
-    - 8a1) Be approved by the WCA Board.
-    - 8a2) Follow the WCA Regulations.
-    - 8a3) Have a designated WCA Delegate in attendance.
-    - 8a4) Be announced on the WCA website at least four weeks before the start of the competition. Exception: In special cases, competitions may be announced up to two weeks before, at the discretion of the WCA Board.
-    - 8a6) Be publicly accessible.
-    - 8a7) Use the authentic Speed Stacks Stackmat timer (Generation 2, Generation 3 Pro Timer, or Generation 4 Pro Timer) for time measurement.
-    - 8a8) Be open to all who wish to compete.
-- 8f) If WCA Regulations are not correctly observed during a competition, results may be modified at the discretion of the WCA Board.
 
 
 ## <article-9><events><events> Article 9: Events
@@ -313,6 +290,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 11e2) If a competitor is granted an extra attempt, the extra attempt should be done right after the attempt that caused it, and must replace the original regularly numbered attempt.
     - 11e3) If it is unclear whether an incident should result in an extra attempt, the competitor may be granted a provisional extra attempt that will be used only if it is later found that an extra attempt was appropriate (e.g. by a decision of the WRC).
 - 11f) Decisions about an incident may be supported with video or photographic analysis, at the discretion of the WCA Delegate.
+- 11g) The WCA Delegate must ensure that copies of the Regulations and Guidelines are available (e.g. printed, digital, or accessible via internet) to consult for any incidents.
 
 
 ## <article-12><notation><notation> Article 12: Notation
@@ -529,17 +507,3 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - H1b) If a competitor is attempting fewer than 6 puzzles, they are allotted a time limit of 10 minutes times the number of puzzles in the attempt, else the time limit is 60 minutes.
         - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge stops the attempt and the attempt is then scored; the time limit for the attempt counts as the original recorded time.
     - H1d) Time penalties for the puzzles of the attempt are cumulative.
-
-
-## <article-Z><optional><optional> Article Z: Optional Regulations
-
-Organization teams may adopt optional regulations to facilitate the administration of the competition, at the discretion of the WCA Board.
-
-- Z1) The organization team may require competitors to submit puzzles during registration.
-- Z2) The organization team may limit the number of events per competitor.
-- Z3) The organization team may select competitors who directly qualify for certain rounds of certain events based on the results of specific previous competitions.
-- Z4) The organization team may limit the number of competitors per event or per competition, on either a "first come first serve" basis or based upon qualification results or rankings in the WCA world rankings of a previously announced calendar date. If the number of competitors per event or per competition is limited, the following regulations apply:
-    - Z4a) If the limit for a competition or an event is reached before the competition, the organization team must not accept on-site registrations for the competition or the event.
-    - Z4b) Competitor limits should be announced together with the competition. Any changes to competitor limits are at the discretion of the WCA Board.
-    - Z4c) If there is more than one registration period, the organization team must announce each additional registration period at least 48 hours before it starts.
-- Z5) The organization team may prohibit competitors from participating in specific combinations of events.

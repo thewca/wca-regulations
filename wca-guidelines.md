@@ -34,13 +34,8 @@ To be more informative, each Guideline is classified using one of the following 
 
 ## <article-1><officials><officials> Article 1: Officials
 
-- 1c+) [CLARIFICATION] "The WCA Delegate" refers to anyone fulfilling the role of a WCA Delegate at a competition.
-- 1c3+) [RECOMMENDATION] Results should be ready at the end of the last day of competition.
-- 1c3++) [ADDITION] Physical records (e.g. score sheets, written solutions from 3x3x3 Fewest Moves) must be retained for a minimum of one month. Digital records (e.g. scramble sequences, results) must be retained permanently.
-- 1c3b+) [CLARIFICATION] If there are multiple groups, it is not necessary to identify which competitor was in which groups.
-- 1c4+) [RECOMMENDATION] Corrections to the results should be available within one week of the competition date.
-- 1c8+) [ADDITION] The Delegate must only give access to scramble sequences for future groups to other members of the organization team if they will be temporarily unavailable (e.g. competing themselves), and should give others access to the minimum possible amount of scrambles in this case.
-- 1c10+) [CLARIFICATION] It is sufficient to ensure access to a digital copy of the Regulations.
+- 1c+) [CLARIFICATION] If there are multiple WCA Delegates designated for the competition, "the WCA Delegate" refers to any of them. "The WCA Delegate" also refers to anyone appointed by a designated WCA Delegate for a relevant responsibility of the WCA Delegate for the competition.
+- 1c++) [CLARIFICATION] WCA Delegates may attend the competition without being designated to serve in the WCA Delegate role for the competition. "The WCA Delegate" does not refer to them unless they have been appointed with a relevant responsibility by a designated WCA Delegate for the competition (see [Guideline 1c+](guidelines:guideline:1c+)).
 - 1h+) [RECOMMENDATION] Competitors in the same group should use the same scramble sequences. Different groups should use different scramble sequences.
 - 1h++) [RECOMMENDATION] All attempts in the final round of an event, as well as all 3x3x3 Fewest Moves attempts, should have the same scramble sequences for all competitors (i.e. only 1 group).
 - 1h1+) [CLARIFICATION] Scramblers/judges should only scramble for/judge other competitors in the same group only if it is important for competition logistics.
@@ -118,13 +113,8 @@ To be more informative, each Guideline is classified using one of the following 
 
 - 7d+) [ADDITION] The temperature of the competition area should be 21 to 25 degrees Celsius.
 - 7f1a+) [CLARIFICATION] A full-size mat should have minimum dimensions of 30cm (left to right) by 25cm (front to back).
+- 7f1a++) [ADDITION] Organizers should strongly consider modifications to make Stackmat timers more robust against common incidents, such as making the buttons more difficult to press by accident (e.g. by attaching O-rings around the buttons) and securing the battery more firmly (e.g. by padding the battery compartment).
 - 7h2+) [ADDITION] Competitors in a Competitors Area who are waiting between attempts should not be able to see the puzzles of the competitors on stage.
-
-
-## <article-8><competitions><competitions> Article 8: Competitions
-
-- 8a5+) [RECOMMENDATION] The competition should have at least 12 competitors.
-- 8a7+) [ADDITION] Organizers should strongly consider modifications to make Stackmat timers more robust against common incidents, such as making the buttons more difficult to press by accident (e.g. by attaching O-rings around the buttons) and securing the battery more firmly (e.g. by padding the battery compartment).
 
 
 ## <article-9><events><events> Article 9: Events
@@ -221,9 +211,3 @@ To be more informative, each Guideline is classified using one of the following 
 - H1b1++) [ADDITION] The judge may permit the competitor to continue the attempt unofficially, but the attempt must be stopped and judged first, in full accordance with the Regulations.
 - H1d+) [EXAMPLE] Example: Suppose a competitor attempts 10 cubes, stops the solve with a time of 59:57, and has two time penalties. The time of the final result is 59:57 + 2*2 = 60:01 (also see [Regulation A1a5](regulations:regulation:A1a5)).
 - H1d++) [EXAMPLE] Example: Suppose a competitor attempts 10 cubes, the judge stops the competitor at 60 minutes, and the attempt has two time penalties. The time of the final result is 60:00 + 2*2 = 60:04.
-
-
-## <article-Z><optional><optional> Article Z: Optional Regulations
-
-- Z4+) [CLARIFICATION] In case of a competitor limit based upon qualification results or rankings in the WCA world rankings of a previously announced calendar date, the organization team must use only one type of result (i.e. single or average/mean).
-- Z4b+) [EXAMPLE] Examples for reasons which justify a change of the competitor limit after the competition was announced: the venue was changed or the number of registrations is higher than expected.
