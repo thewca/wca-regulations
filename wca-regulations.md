@@ -231,11 +231,13 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 9b) The official events of the WCA are:
     - 9b1) 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 One-Handed, 3x3x3 With Feet, Clock, Megaminx, Pyraminx, Skewb, and Square-1.
         - 9b1a) Round format for these events is: "Average of 5". For a Combined Round, the round format is "Best of 2" for the first phase and "Average of 5" for the second phase. Exception: In special cases, the round format for these events can be "Best of X" (where X is 1, 2, or 3), at the discretion of the WCA Board.
-    - 9b2) 3x3x3 Fewest Moves, 6x6x6 Cube, and 7x7x7 Cube.
-        - 9b2a) Round formats for these events are: "Best of X" (where X is 1 or 2) and "Mean of 3".
+    - 9b2) 6x6x6 Cube and 7x7x7 Cube.
+        - 9b2a) Round format for these events is: "Mean of 3". For a Combined Round, the round format is "Best of 1" for the first phase and "Mean of 3" for the second phase.
     - 9b3) 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded, and 3x3x3 Multi-Blind.
         - 9b3a) Round formats for these events are: "Best of X" (where X is 1, 2, or 3).
         - 9b3b) For 3x3x3 Blindfolded, the WCA also recognizes "Mean of 3" rankings and records based on the times from "Best of 3" rounds.
+    - 9b4) 3x3x3 Fewest Moves.
+        - 9b4a) Round formats for this event are: "Best of X" (where X is 1 or 2) and "Mean of 3".
 - 9f) The results of a round are measured as follows:
     - 9f1) All timed results under 10 minutes, except for Multiple Blindfolded Solving, are measured and truncated to the nearest hundredth of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second.
     - 9f2) All timed results, averages, and means over 10 minutes, as well as all times for Multiple Blindfolded Solving results, are measured and rounded to the nearest second (e.g. x.49 becomes x, x.50 becomes x+1).
