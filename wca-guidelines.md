@@ -77,6 +77,8 @@ To be more informative, each Guideline is classified using one of the following 
 - 3j+) [REMINDER] In the past, engraved/embossed parts have been permitted. This is no longer permitted.
 - 3j++) [CLARIFICATION] On Clock, pins must not be distinguishable from any other pin of the same side.
 - 3j2+) [CLARIFICATION] On Clock, the nine inner clock faces on one side are considered similar pieces.
+- 3k2+) [ADDITION] The WCA Delegate should not apply a listed exception if they believe the competitor tried to used a non-permitted puzzle on purpose.
+- 3k2b+) [EXAMPLE] Suppose the competitor attempts 10 puzzles and solves 8 successfully. If it is found that two solved puzzles and one unsolved puzzle are not permitted, the competitor is considered to have solved 6 puzzles, at the discretion of the Delegate.
 - 3l+) [ADDITION] Logos may feature any reasonable design that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat), and leave the colored part clearly recognizable. Unconventional logos are only permitted at the discretion of the WCA Delegate.
 - 3l++) [CLARIFICATION] In the past, puzzles with logos have been permitted for blindfolded events. Such puzzles are no longer permitted.
 
