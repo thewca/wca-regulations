@@ -36,15 +36,15 @@ To be more informative, each Guideline is classified using one of the following 
 
 - 1c+) [CLARIFICATION] "The WCA Delegate" refers to anyone fulfilling the role of a WCA Delegate at a competition.
 - 1c3+) [RECOMMENDATION] Results should be ready at the end of the last day of competition.
-- 1c3++) [ADDITION] Physical records (e.g. score sheets, written solutions from Fewest Moves Solving) must be retained for a minimum of one month. Digital records (e.g. scramble sequences, results) must be retained permanently.
+- 1c3++) [ADDITION] Physical records (e.g. score sheets, written solutions from 3x3x3 Fewest Moves) must be retained for a minimum of one month. Digital records (e.g. scramble sequences, results) must be retained permanently.
 - 1c3b+) [CLARIFICATION] If there are multiple groups, it is not necessary to identify which competitor was in which groups.
 - 1c4+) [RECOMMENDATION] Corrections to the results should be available within one week of the competition date.
 - 1c8+) [ADDITION] The Delegate must only give access to scramble sequences for future groups to other members of the organization team if they will be temporarily unavailable (e.g. competing themselves), and should give others access to the minimum possible amount of scrambles in this case.
 - 1c10+) [CLARIFICATION] It is sufficient to ensure access to a digital copy of the Regulations.
 - 1h+) [RECOMMENDATION] Competitors in the same group should use the same scramble sequences. Different groups should use different scramble sequences.
-- 1h++) [RECOMMENDATION] All attempts in the final round of an event, as well as all Fewest Moves Solving attempts, should have the same scramble sequences for all competitors (i.e. only 1 group).
+- 1h++) [RECOMMENDATION] All attempts in the final round of an event, as well as all 3x3x3 Fewest Moves attempts, should have the same scramble sequences for all competitors (i.e. only 1 group).
 - 1h1+) [CLARIFICATION] Scramblers/judges should only scramble for/judge other competitors in the same group only if it is important for competition logistics.
-- 1h1++) [CLARIFICATION] For Fewest Moves Solving, judges may judge competitors in their own group before they have finished their attempt (i.e. while they are competing).
+- 1h1++) [CLARIFICATION] For 3x3x3 Fewest Moves, judges may judge competitors in their own group before they have finished their attempt (i.e. while they are competing).
 
 
 ## <article-2><competitors><competitors> Article 2: Competitors
@@ -58,7 +58,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 2e+) [CLARIFICATION] If a competitor holds multiple citizenships, they may choose which country to represent at their first competition.
 - 2e++) [ADDITION] The WCA Delegate should also verify the name and date of birth by means of documents (e.g. a passport) of every new competitor at their first competition.
 - 2e3+) [CLARIFICATION] Stateless competitors have no national records and rankings, nor continental records and rankings.
-- 2h+) [CLARIFICATION] Competitors may be barefoot for Solving With Feet.
+- 2h+) [CLARIFICATION] Competitors may be barefoot for 3x3x3 With Feet.
 - 2i1b+) [CLARIFICATION] This includes relevant devices which are switched off or disconnected.
 - 2j2+) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, their results from earlier rounds remain valid.
 - 2s+) [REMINDER] Special accommodations must be noted in the Delegate Report.
@@ -168,7 +168,7 @@ To be more informative, each Guideline is classified using one of the following 
 - A3c3++) [CLARIFICATION] The competitor cannot "test" or "restart" the timer during inspection, since inspection ends once the competitor starts the solve (see [Regulation A4d](regulations:regulation:A4d)). If the competitor stops the timer after they have started it for the first time, this is considered stopping the solve (see [Regulation A6](regulations:regulation:A6))), even if they do so within 15 seconds of starting inspection.
 - A3c4+) [CLARIFICATION] If the use of a thin object inside the puzzle has been enforced, the judge must not remove the object on behalf of the competitor.
 - A3c4++) [CLARIFICATION] The competitor may remove the object during the solve, if they did not do it during the inspection (e.g. they forgot).
-- A5b+) [CLARIFICATION] While inspecting or solving the puzzle, the competitor may touch the puzzle with any part of their body. Exception: One-Handed Solving and Solving With Feet (see [Regulation C1b](regulations:regulation:C1b) and [Regulation D1b](regulations:regulation:D1b)).
+- A5b+) [CLARIFICATION] While inspecting or solving the puzzle, the competitor may touch the puzzle with any part of their body. Exception: 3x3x3 One-Handed and 3x3x3 With Feet (see [Regulation C1b](regulations:regulation:C1b) and [Regulation D1b](regulations:regulation:D1b)).
 - A6b+) [EXPLANATION] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timer malfunctions.
 - A6e+) [CLARIFICATION] If the puzzle falls into the lap of the competitor after stopping the timer, this is considered touching the puzzle.
 - A7c+) [ADDITION] If a result signed by a competitor is found to be incomplete or unreadable, it should be interpreted the worst reasonable way (e.g. "1:05" will be considered 1:05.99, "25.X3" will be considered 25.73 if X could be either a 1 or a 7). Given that the Stackmat timer displays a time of X:0Y.ss as X:Y.ss, a missing tens digit should be considered more likely than a missing ones digit (e.g. "1:2.27" will be considered 1:02.27). The judge who signed an ambiguous result may be requested to clarify it, at the discretion of the score taker.
@@ -181,7 +181,7 @@ To be more informative, each Guideline is classified using one of the following 
 
 ## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
 
-- B1+) [REMINDER] The competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces (see [Regulation 3k](regulations:regulation:3k)). This should be given special attention for Blindfolded Solving.
+- B1+) [REMINDER] The competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces (see [Regulation 3k](regulations:regulation:3k)). This should be given special attention for 3x3x3 Blindfolded.
 - B1b+) [RECOMMENDATION] Blindfolds should be checked by the WCA Delegate before use in the competition.
 
 
@@ -192,10 +192,10 @@ To be more informative, each Guideline is classified using one of the following 
 - C1b+++) [REMINDER] Use of the surface is permitted while solving or repairing the puzzle.
 
 
-## <article-D><feet><solvingwithfeet> Article D: Solving With Feet
+## <article-D><feet><solvingwithfeet> Article D: Feet Solving
 
 - D1b+) [CLARIFICATION] The competitor may wear socks while solving.
-- D1b++) [CLARIFICATION] In the past, competitors were required to inspect the puzzle using their feet for Solving with Feet. They are now permitted to touch the puzzle with their hands or any other part of their body during inspection (see [Guideline A5b+](guidelines:guideline:A5b+)).
+- D1b++) [CLARIFICATION] In the past, competitors were required to inspect the puzzle using their feet for 3x3x3 With Feet. They are now permitted to touch the puzzle with their hands or any other part of their body during inspection (see [Guideline A5b+](guidelines:guideline:A5b+)).
 - D1c+) [REMINDER] While repairing puzzle defects, other body parts must not touch the puzzle.
 
 
@@ -213,7 +213,7 @@ To be more informative, each Guideline is classified using one of the following 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
 
-- H1b1+) [REMINDER] The attempt is not disqualified for reaching the time limit, due to exceptions for Multiple Blindfolded Solving (see [Regulation A1a4](regulations:regulation:A1a4) and [Regulation A1a5](regulations:regulation:A1a5)).
+- H1b1+) [REMINDER] The attempt is not disqualified for reaching the time limit, due to exceptions for 3x3x3 Multi-Blind (see [Regulation A1a4](regulations:regulation:A1a4) and [Regulation A1a5](regulations:regulation:A1a5)).
 - H1b1++) [ADDITION] The judge may permit the competitor to continue the attempt unofficially, but the attempt must be stopped and judged first, in full accordance with the Regulations.
 - H1d+) [EXAMPLE] Example: Suppose a competitor attempts 10 cubes, stops the solve with a time of 59:57, and has two time penalties. The time of the final result is 59:57 + 2*2 = 60:01 (also see [Regulation A1a5](regulations:regulation:A1a5)).
 - H1d++) [EXAMPLE] Example: Suppose a competitor attempts 10 cubes, the judge stops the competitor at 60 minutes, and the attempt has two time penalties. The time of the final result is 60:00 + 2*2 = 60:04.
