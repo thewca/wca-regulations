@@ -235,7 +235,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 9b2a) Round format for these events is: "Mean of 3". For a Combined Round, the round format is "Best of 1" for the first phase and "Mean of 3" for the second phase.
     - 9b3) 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded, and 3x3x3 Multi-Blind.
         - 9b3a) Round formats for these events are: "Best of X" (where X is 1, 2, or 3).
-        - 9b3b) For 3x3x3 Blindfolded, the WCA also recognizes "Mean of 3" rankings and records based on the times from "Best of 3" rounds.
+        - 9b3b) For 3x3x3 Blindfolded, 4x4x4 Blindfolded, and 5x5x5 Blindfolded the WCA also recognizes "Mean of 3" rankings and records based on the times from "Best of 3" rounds.
     - 9b4) 3x3x3 Fewest Moves.
         - 9b4a) Round formats for this event are: "Best of X" (where X is 1 or 2) and "Mean of 3".
 - 9f) The results of a round are measured as follows:
