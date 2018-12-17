@@ -11,7 +11,7 @@ This document is meant to clarify some of the implicit conventions adopted in WC
   - The use of the words "must (not)", "shall (not)", "should (not)", and "may (not)" (requirement levels) conform to RFC 2119. In particular, note that "shall" indicates a (non-optional) requirement.
   - The Regulations must not rely on the Guidelines for completeness or consistency. Any normative Guidelines must be be implicit in the Regulations (e.g. labeled [REMINDER]).
   - As a rule of thumb, anything with "must" or "shall" should be in the Regulations, and anything with "should" or "may" should be in the Guidelines.
-- The documents are written in British English.
+- The documents are written in American English.
 
 
 ## Formatting Conventions
@@ -63,17 +63,17 @@ This document is meant to clarify some of the implicit conventions adopted in WC
 
 - "Puzzle" instead of "cube", wherever applicable.
 - "Regulation" or "Guideline" instead of "rule".
-- "Result" instead of "score" (except for "score sheet" and "score taker").
+- "Result" instead of "score" (except for "score sheet" and "score taker") or "time".
 - "Ranking" instead of "rank".
 - "Permitted" instead of "allowed" or "accepted".
-- "Not permitted" instead of "forbidden".
+- "Not permitted" instead of "forbidden", "illegal", or "banned".
 - "Attempt" instead of "solve" (unless specifically referring to the timed portion).
 - "The attempt" instead of "an attempt", except the first mention of an attempt that has not been identified yet.
 - "Scramble sequence" instead of "scramble".
 - "Start" instead of "begin".
 - "Stop" instead of "halt" or "finish"
 - "Registration" instead of "pre-registration" (unless specifically referring to registration before the day of the competition).
-- A judge "[shall] call" instead of "says".
+- A judge "calls" instead of "says".
 - "Score sheet" (two words) instead of "score card".
 - "Apply" (moves or scramble sequence) instead of "perform" or "do".
 - "Assign" (a penalty) instead of "apply".
@@ -96,6 +96,7 @@ This document is meant to clarify some of the implicit conventions adopted in WC
 - "Each" (individual).
 - "Any" (potential, i.e. in case of applicability).
 - "Submit" instead of "hand in" or "turn in".
+- "Scramble program" of "scramble sequences" instead of "scrambling program" or "scrambling sequence".
 
 ### Notable Differences between the Regulations and Common Use
 
@@ -106,7 +107,7 @@ This document is meant to clarify some of the implicit conventions adopted in WC
 
 - Re-normalize indentation. (Use re-indent.sh, but make sure to adapt the script source for the document and sanity-diff the changes.)
 - Search for stray tabs, double-spaces, extra spaces/missing punctuation at the end of lines.
-- When searching for words/phrases, be careful about alternate spellings and search for a conservative substring (e.g. search "solv" for "solve"/"solving", "apple" for "apply"/"applied", "penalt" for "penalty"/"penalties"). Be careful about a blind search/replace.
+- When searching for words/phrases, be careful about alternate spellings and search for a conservative substring (e.g. search "solv" for "solve"/"solving", "appl" for "apply"/"applied", "penalt" for "penalty"/"penalties"). Be careful about a blind search/replace.
 
 
 ## Definitions
