@@ -474,10 +474,16 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 ## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
 
 - E2) Procedure for 3x3x3 Fewest Moves:
-    - E2a) The judge distributes a scramble sequence to all competitors. The judge then starts the stopwatch and calls "GO".
+    - E2a) The judge distributes a scramble sequence and paper to all competitors. The judge then starts the stopwatch and calls "GO".
+        - E2a1) Before the attempt has begun, the competitor must not write on any paper intended for the attempt. Exception: the competitor may write information to identify the attempt [Regulation E2c1](regulations:regulation:E2c1). If they write this information on the paper that contains the scramble sequence, they must write only on the the side without the scramble sequence before the attempt.
     - E2b) All competitors have a total time limit of 60 minutes to find and write a solution.
         - E2b1) The judge should call "5 MINUTES REMAINING" at 55 minutes, and must call "STOP" at 60 minutes.
-    - E2c) At 60 minutes, each competitor must submit to the judge a single piece of paper with the competitor's written name (optionally accompanied by WCA ID) and solution, using the notation for the 3x3x3 Cube described in [Regulation 12a](regulations:regulation:12a). Penalty: disqualification of the attempt (DNF).
+    - E2c) At 60 minutes, each competitor must submit to the judge a single piece of paper with a written solution and information to identify the attempt.
+        - E2c1) Information to identify the attempt is: the competitor's name or WCA ID (at least one, optionally both), and optionally the competition name, round, and/or attempt number. Penalty for a submitted solution without a name or WCA ID: disqualification of the attempt (DNF).
+        - E2c2) The solution must be a single unambiguous move sequence with each individual move written out in sequential order. Penalty for an ambiguous solution: disqualification of the attempt (DNF).
+        - E2c3) The competitor should clearly black out/scribble out all moves on the paper that are not part of their intended solution.
+        - E2c4) The competitor's solution must only use moves that are exactly defined as notation for the 3x3x3 Cube in [Regulation 12a](regulations:regulation:12a), and must not use any symbols or combinations of symbols that are not specifically defined there. Penalty: disqualification of the attempt (DNF).
+        - E2c5) The competitor's solution is considered correct if starting with a solved puzzle and applying the scramble sequence followed by the solution results in a solved puzzle. Penalty for an incorrect solution: disqualification of the attempt (DNF).
     - E2d) The competitor's result is the number of moves in their solution, calculated using Outer Block Turn Metric (see [Regulation 12a5](regulations:regulation:12a5)).
         - E2d1) The competitor's solution must not exceed 80 moves (including rotations) when calculated using Execution Turn Metric (see [Regulation 12a6](regulations:regulation:12a6)). Penalty: disqualification of the attempt (DNF).
     - E2e) The competitor's solution must not be directly derived from any part of the scramble sequence. Penalty: disqualification of the attempt (DNF), at the discretion of the WCA Delegate.
