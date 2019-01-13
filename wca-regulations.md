@@ -219,7 +219,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9b4) 3x3x3 Multi-Blind.
         - 9b4a) Round format for this event is: "Best of X" (where X is 1, 2, or 3). For a Combined Round, the round format is "Best of X" (where X is 1 or 2) for the first phase and "Best of 3" for the second phase.
     - 9b5) 3x3x3 Fewest Moves.
-        - 9b5a) Round formats for this event are: "Best of X" (where X is 1 or 2) and "Mean of 3".
+        - 9b5a) Round formats for this event are: "Best of X" (where X is 1 or 2) and "Mean of 3". For a Combined Round, the round format is "Best of X" (where X is 1 or 2) for the first phase and "Mean of 3" for the second phase.
 - 9f) The results of a round are measured as follows:
     - 9f1) All timed results under 10 minutes, except for 3x3x3 Multi-Blind, are measured and truncated to the nearest hundredth of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second.
     - 9f2) All timed results, averages, and means over 10 minutes, as well as all times for 3x3x3 Multi-Blind results, are measured and rounded to the nearest second (e.g. x.49 becomes x, x.50 becomes x+1).
