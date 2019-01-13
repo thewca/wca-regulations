@@ -479,7 +479,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - E2b) All competitors have a total time limit of 60 minutes to find and write a solution.
         - E2b1) The judge should call "5 MINUTES REMAINING" at 55 minutes, and must call "STOP" at 60 minutes.
     - E2c) At 60 minutes, each competitor must submit to the judge a single piece of paper with a written solution and information to identify the attempt.
-        - E2c1) Information to identify the attempt is: the competitor's name or WCA ID (at least one, optionally both), and optionally the competition name, round, and/or attempt number. Penalty for a submitted solution without a name or WCA ID: disqualification of the attempt (DNF).
+        - E2c1) Information to identify the attempt is: the competitor's name, WCA ID, or competition registration ID (at least one, optionally multiple), and optionally the competition name, round, or attempt number. Penalty for a submitted solution without name, WCA ID, or competition registration ID: disqualification of the attempt (DNF).
         - E2c2) The solution must be a single unambiguous move sequence with each individual move written out in sequential order. Penalty for an ambiguous solution: disqualification of the attempt (DNF).
         - E2c3) The competitor should clearly black out/scribble out all moves on the paper that are not part of their intended solution.
         - E2c4) The competitor's solution must only use moves that are exactly defined as notation for the 3x3x3 Cube in [Regulation 12a](regulations:regulation:12a), and must not use any symbols or combinations of symbols that are not specifically defined there. Penalty: disqualification of the attempt (DNF).
