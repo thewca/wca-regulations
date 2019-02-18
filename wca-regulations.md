@@ -214,7 +214,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9b1) 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 One-Handed, 3x3x3 With Feet, Clock, Megaminx, Pyraminx, Skewb, and Square-1:
         - 9b1a) Round format for these events: "Average of 5".
         - 9b1b) Combined Round format for these events: "Best of 2" cutoff phase for "Average of 5".
-    - 9b2) 6x6x6 Cube and 7x7x7 Cube, with the following round formats:
+    - 9b2) 6x6x6 Cube and 7x7x7 Cube.
         - 9b2a) Round format for these events: "Mean of 3".
         - 9b2b) Combined Round format for these events: "Best of 1" cutoff phase for "Mean of 3".
     - 9b3) 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded.
