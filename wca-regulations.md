@@ -212,14 +212,20 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 9a) The WCA governs competitions for mechanical puzzles that are operated by twisting groups of pieces, commonly known as "twisty puzzles".
 - 9b) The official events of the WCA are:
     - 9b1) 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 One-Handed, 3x3x3 With Feet, Clock, Megaminx, Pyraminx, Skewb, and Square-1.
-        - 9b1a) Round format for these events is: "Average of 5". For a Combined Round, the round format is "Best of 2" for the first phase and "Average of 5" for the second phase.
+        - 9b1a) Round format for these events: "Average of 5".
+        - 9b1b) Combined Round format for these events: "Best of 2" cutoff phase for "Average of 5".
     - 9b2) 6x6x6 Cube and 7x7x7 Cube.
-        - 9b2a) Round format for these events is: "Mean of 3". For a Combined Round, the round format is "Best of 1" for the first phase and "Mean of 3" for the second phase.
-    - 9b3) 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded, and 3x3x3 Multi-Blind.
-        - 9b3a) Round formats for these events are: "Best of X" (where X is 1, 2, or 3).
-        - 9b3b) For 3x3x3 Blindfolded, 4x4x4 Blindfolded, and 5x5x5 Blindfolded the WCA also recognizes "Mean of 3" rankings and records based on the times from "Best of 3" rounds.
+        - 9b2a) Round format for these events: "Mean of 3".
+        - 9b2b) Combined Round format for these events: "Best of 1" cutoff phase for "Mean of 3".
+    - 9b3) 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded.
+        - 9b3a) Round format for these events: "Best of 3".
+        - 9b3b) For these events, the WCA also recognizes "Mean of 3" rankings and records based on the times from "Best of 3" rounds.
     - 9b4) 3x3x3 Fewest Moves.
-        - 9b4a) Round formats for this event are: "Best of X" (where X is 1 or 2) and "Mean of 3".
+        - 9b4a) Round formats for this event: Best of X" (where X is 1 or 2) or "Mean of 3".
+        - 9b4b) Combined Round formats for this event: "Best of 1" cutoff phase for "Best of 2" or "Best of X" (where X is 1 or 2) cutoff phase for "Mean of 3".
+    - 9b5) 3x3x3 Multi-Blind
+        - 9b5a) Round formats for this event: "Best of X" (where X is 1, 2, or 3).
+        - 9b5b) Combined Round formats for this event: "Best of X" (where X is 1 or 2) cutoff phase for "Best of Y" (where Y is 2 or 3, and Y > X).
 - 9f) The results of a round are measured as follows:
     - 9f1) All timed results under 10 minutes, except for 3x3x3 Multi-Blind, are measured and truncated to the nearest hundredth of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second.
     - 9f2) All timed results, averages, and means over 10 minutes, as well as all times for 3x3x3 Multi-Blind results, are measured and rounded to the nearest second (e.g. x.49 becomes x, x.50 becomes x+1).
@@ -238,8 +244,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9f13) For "Mean of 3" and "Average of 5" rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the smaller recorded result.
     - 9f14) For "Mean of 3" and "Average of 5" rounds, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where "better" is defined as the smaller recorded result.
     - 9f15) Competitors who achieve the same result in a round receive an identical ranking for the round.
-- 9g) A Combined Round consists of two phases of attempts, where competitors advance to the second phase if they meet a designated cutoff during the first phase.
-    - 9g2) Whether a competitor proceeds to next phase of a Combined round must be decided by the result (all competitors with a better result than x) of the first phase (see [Regulation 9f12](regulations:regulation:9f12)).
+- 9g) A Combined Round is a round with a "Best of X" cutoff phase and a cutoff result (e.g. "Best of 2" with a cutoff result of 2 minutes). If the competitor meets the cutoff result in at least one of their cutoff phase attempts, they are eligibe for the remaining attempts. Attempts from the cutoff phase count towards the full round format.
 - 9i) Results of official WCA competitions must be listed on the WCA world rankings.
     - 9i1) The WCA recognizes the following types of regional records: national records, continental records, and world records.
     - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognized as breaking that regional record.
