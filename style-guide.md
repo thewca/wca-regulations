@@ -96,7 +96,7 @@ This document is meant to clarify some of the implicit conventions adopted in WC
 - "Each" (individual).
 - "Any" (potential, i.e. in case of applicability).
 - "Submit" instead of "hand in" or "turn in".
-- "Scramble program" of "scramble sequences" instead of "scrambling program" or "scrambling sequence".
+- "Scramble program" or "scramble sequences" instead of "scrambling program" or "scrambling sequence".
 
 ### Notable Differences between the Regulations and Common Use
 
