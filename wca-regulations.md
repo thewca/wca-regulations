@@ -349,7 +349,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 ## <article-A><speedsolving><speedsolving> Article A: Speed Solving
 
 - A1) Speed Solving attempts must abide by the following procedures.
-    - A1a) The organization must apply exactly one kind of time limit (time limit per attempt or cumulative time limit) to each round.
+    - A1a) The organization team must apply exactly one kind of time limit (time limit per attempt or cumulative time limit) to each round.
         - A1a1) The default time limit is 10 minutes for each attempt in a round, though the organization team may announce a higher or lower time limit per attempt. In this case, the limit must be the same for all attempts in a round.
         - A1a2) For events other than 3x3x3 Fewest Moves and 3x3x3 Multi-Blind, the organization team may define a cumulative time limit. The cumulative time limit must either apply to all attempts in one round (e.g. 3 attempts with a cumulative time limit of 20 minutes), or to all attempts in a combination of rounds for different events. In this case, the time limit for a particular attempt is the cumulative time limit minus the total time in other attempts counting towards the time limit so far (see [Regulation A1a5](regulations:regulation:A1a5)). If a round has an applicable cumulative time limit, it must have at most one.
         - A1a3) The time limits for all rounds must be announced before the competition, and should not be changed after any affected rounds have begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
