@@ -80,6 +80,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 3k2b++) [EXAMPLE] Suppose the competitor attempts 10 puzzles and solves 8 successfully. If it is found that two solved puzzles and one unsolved puzzle are not permitted, the competitor is considered to have a result with 6 solved puzzles out of 10 (rather than DNF), at the discretion of the WCA Delegate.
 - 3l+) [ADDITION] Logos may feature any reasonable design that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat), and leave the colored part clearly recognizable. Unconventional logos are only permitted at the discretion of the WCA Delegate.
 - 3l++) [CLARIFICATION] In the past, puzzles with logos have been permitted for blindfolded events. Such puzzles are no longer permitted.
+- 3l1+) [CLARIFICATION] On NxNxN puzzles, a center piece is defined as any piece with a single colored part. For example, the 5x5x5 Cube has 9 center pieces on each face.
 
 
 ## <article-4><scrambling><scrambling> Article 4: Scrambling
