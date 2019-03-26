@@ -183,7 +183,8 @@ To be more informative, each Guideline is classified using one of the following 
 
 - B1+) [REMINDER] The competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces (see [Regulation 3k](regulations:regulation:3k)). This should be given special attention for Blindfolded Solving.
 - B1b+) [RECOMMENDATION] Blindfolds should be checked by the WCA Delegate before use in the competition.
-- B2d+) [ADDITION] Since the competitor normally starts the solve by starting the timer, the competitor must not "test" or "restart" the timer once the judge has indicated that they are ready (see [Regulation B2a](regulations:regulation:B2a)). Exception: the competitor may test (start and stop/reset) the timer once if they first ask the judge.
+- B2d+) [ADDITION] Since the competitor starts the solve by starting the timer, the competitor must not "test" or "restart" the timer once the judge has indicated that they are ready (see [Regulation B2a](regulations:regulation:B2a)). However, they may ask the judge to start and reset a timer in order to verify that it is working.
+
 
 ## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
 
