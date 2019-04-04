@@ -431,7 +431,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - B1a) There is no inspection period.
     - B1b) The competitor supplies their own blindfold.
 - B2) Starting the attempt:
-    - B2a) The judge resets the timer(s) and asks "READY?" as in [Regulation A3b1](regulations:regulation:A3b1). The competitor must be ready to start the attempt within one minute of being called, else the competitor forfeits the attempt (DNS), at the discretion of the judge.
+    - B2a) The judge resets the timer(s) as in [Regulation A3b](regulations:regulation:A3b) and indicates that they are ready for the competitor to start the attempt (e.g. placing the puzzle cover in front of the competitor, saying "READY", giving a thumbs-up signal). The competitor must start the attempt within one minute, else the competitor forfeits the attempt (DNS), at the discretion of the judge.
     - B2b) The competitor uses their fingers to touch the elevated sensor surfaces of the timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to them. Penalty: time penalty (+2 seconds).
     - B2c) The competitor must have no physical contact with the puzzle before the start of the attempt. Penalty: time penalty (+2 seconds).
     - B2d) The competitor starts the attempt by removing their hands from the timer, thus starting the timer. (This also starts the solve.)
