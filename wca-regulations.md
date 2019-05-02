@@ -94,8 +94,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 2k1) Fails to check in or register in time for the competition.
     - 2k2) Is suspected of cheating or defrauding the officials during the competition.
         - 2k2a) The WCA Delegate may disqualify any suspected results.
-    - 2k3) Behaves in a way that is unlawful, violent or indecent; or intentionally damages venue facilities or personal property within the venue.
-    - 2k4) Interferes with, or distracts others during, the competition.
+    - 2k3) Behaves in a way that is unlawful/violent/indecent, or intentionally damages venue facilities or personal property within the venue.
+    - 2k4) Distracts or interferes with others during the competition.
     - 2k5) Fails to abide by WCA Regulations during the competition.
 - 2l) A competitor may be disqualified immediately, or after a warning, depending on the nature and severity of the infraction.
     - 2l1) A disqualified competitor is not eligible for the refund of any expenses due to participating in the competition.
