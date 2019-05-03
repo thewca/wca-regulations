@@ -242,7 +242,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9f13) For "Mean of 3" and "Average of 5" rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the smaller recorded result.
     - 9f14) For "Mean of 3" and "Average of 5" rounds, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where "better" is defined as the smaller recorded result.
     - 9f15) Competitors who achieve the same result in a round receive an identical ranking for the round.
-- 9g) A Combined Round is a round with a "Best of X" cutoff phase and a cutoff result (e.g. "Best of 2" with a cutoff result of 2 minutes). If the competitor meets the cutoff result in at least one of their cutoff phase attempts, they are eligibe for the remaining attempts. Attempts from the cutoff phase count towards the full round format.
+- 9g) A Combined Round is a round with a "Best of X" cutoff phase and a cutoff result (e.g. "Best of 2" with a cutoff result of 2 minutes). If the competitor meets the cutoff result in at least one of their cutoff phase attempts, they are eligible for the remaining attempts. Attempts from the cutoff phase count towards the full round format.
 - 9i) Results of official WCA competitions must be listed on the WCA world rankings.
     - 9i1) The WCA recognizes the following types of regional records: national records, continental records, and world records.
     - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognized as breaking that regional record.
