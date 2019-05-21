@@ -79,8 +79,8 @@ The WCA recognizes a total of 199 countries/regions:
 - (GR:_Europe) Greece
 - (GD:_North America) Grenada
 - (GT:_North America) Guatemala
-- (GW:_Africa) Guinea Bissau
 - (GN:_Africa) Guinea
+- (GW:_Africa) Guinea Bissau
 - (GY:_South America) Guyana
 - (HT:_North America) Haiti
 - (VA:_Europe) Holy See
