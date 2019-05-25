@@ -177,10 +177,10 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 5b2) Any repair to a puzzle must not give the competitor an advantage in solving the puzzle. Penalty: disqualification of the attempt (DNF).
     - 5b3) Permitted repairs:
         - 5b3a) If any parts have fallen out or moved out of place, the competitor may place them back.
-        - 5b3b) If, after repairing the puzzle but before the end of the attempt, the competitor finds that the puzzle is unsolvable, they may disassemble and reassemble a maximum of 4 pieces to make the puzzle solvable.
+        - 5b3b) If a competitor repairs the puzzle but finds that the puzzle is unsolvable later during the solve, they may disassemble and reassemble a maximum of 4 pieces to make the puzzle solvable.
         - 5b3c) If the puzzle is unsolvable, and can be made solvable by rotating a single corner piece, the competitor may correct the corner piece by twisting it in place without disassembling the puzzle.
     - 5b4) During a blindfolded phase (see [Regulation B4](regulations:regulation:b4)), all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
-    - 5b5) If at the end of the attempt some parts of the puzzle are physically detached or not fully placed, the following regulations apply:
+    - 5b5) If some parts of the puzzle are physically detached or not fully placed at the end of the solve, the following regulations apply:
         - 5b5a) If one or more parts without colored faces are affected, the puzzle is considered solved.
         - 5b5b) If one part with one colored face is affected, the puzzle is considered solved.
         - 5b5c) If more than one part with one colored face is affected, the puzzle is considered unsolved (DNF).
@@ -516,5 +516,5 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - H1a2) A competitor may request to keep their submission private until all competitors have submitted their numbers. Once all competitors have reported their numbers, the information becomes public (e.g. a competitor may ask for the numbers of any other competitors before starting their attempt).
         - H1a3) Before the attempt, the scrambled puzzles must be placed on the table in an arbitrary orientation while ensuring they remain completely covered. The puzzles should be arranged in shape as square as possible (e.g. 8 puzzles should be arranged in 2 rows with 3 puzzles and 1 row with 2 puzzles).
     - H1b) If a competitor is attempting fewer than 6 puzzles, they are allotted a time limit of 10 minutes times the number of puzzles in the attempt, else the time limit is 60 minutes.
-        - H1b1) The competitor may signal the end of the attempt at any time. If and when the time limit is reached, the judge stops the attempt and the attempt is then scored; the time limit for the attempt counts as the original recorded time.
+        - H1b1) The competitor may signal the end of the solve at any time. If and when the time limit is reached, the judge stops the attempt and the attempt is then scored; the time limit for the attempt counts as the original recorded time.
     - H1d) Time penalties for the puzzles of the attempt are cumulative.
