@@ -15,7 +15,7 @@ The WCA recognizes a total of 199 countries/regions:
 - (AO:_Africa) Angola
 - (AG:_North America) Antigua and Barbuda
 - (AR:_South America) Argentina
-- (AM:_Asia) Armenia
+- (AM:_Europe) Armenia
 - (AU:_Oceania) Australia
 - (AT:_Europe) Austria
 - (AZ:_Europe) Azerbaijan
