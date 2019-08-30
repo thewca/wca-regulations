@@ -9,3 +9,10 @@ The current draft for upcoming Regulations is maintained on the branch named [`d
 ## Translations
 
 See [`thewca/wca-regulations-translations`](https://github.com/thewca/wca-regulations-translations).
+
+## WRC Priorities
+
+GitHub Project Boards that keep track of our current work:
+
+- [WRC Priorities](https://github.com/orgs/thewca/projects/3)
+  - [Regulations 2020 – Priorities](https://github.com/orgs/thewca/projects/4)
