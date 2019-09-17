@@ -207,3 +207,8 @@ The WCA recognizes a total of 199 countries/regions:
 - (YE:_Asia) Yemen
 - (ZM:_Africa) Zambia
 - (ZW:_Africa) Zimbabwe
+
+
+## <credit>
+
+The list above was compiled by [James Molloy](mailto:jmolloy@worldcubeassociation.org).
