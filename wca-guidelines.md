@@ -105,7 +105,7 @@ To be more informative, each Guideline is classified using one of the following 
 
 ## <article-6><awards><awards> Article 6: Awards/prizes/honors
 
-- 6a+) [ADDITION] Awards, prizes or honors may be given to competitors according to the announcement of the competition.
+- 6a+) [RECOMMENDATION] Awards, prizes or honors may be given to competitors according to the announcement of the competition.
 - 6b+) [RECOMMENDATION] Competitors should attend the winner's ceremony to receive awards/prizes/honors.
 - 6b1+) [RECOMMENDATION] The winner's ceremony should be held in the competition venue, within one hour after the end of the last event.
 - 6c+) [RECOMMENDATION] Winners of awards, prizes or honors should be prepared to talk to journalists or any media covering the competition.
