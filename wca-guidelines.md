@@ -189,7 +189,6 @@ To be more informative, each Guideline is classified using one of the following 
 
 - C1b+) [CLARIFICATION] The competitor may use both hands during inspection.
 - C1b++) [CLARIFICATION] The competitor is not required to use the same solving hand for different attempts of the same round.
-- C1b+++) [REMINDER] Use of the surface is permitted while solving or repairing the puzzle.
 
 
 ## <article-D><feet><solvingwithfeet> Article D: Feet Solving
