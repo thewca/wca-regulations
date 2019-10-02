@@ -123,7 +123,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 3h) Modifications that enhance the basic concept of a puzzle are not permitted. Modified versions of puzzles are permitted only if the modification does not make any additional information available to the competitor (e.g. orientation or identity of pieces), compared to an unmodified version of the same puzzle.
     - 3h1) "Pillowed" puzzles are permitted.
     - 3h2) Puzzles whose colored plastic is visible inside the puzzle (e.g. "stickerless" puzzles) are permitted. This does not include the following puzzles:
-        - 3h2a) Puzzles with transparent parts. Exception: A logo (see [Regulation 3l](regulations:regulation:3l)).
+        - 3h2a) Puzzles with transparent parts. Exception: An overlay sticker or a logo (see [Regulation 3l](regulations:regulation:3l)).
     - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
     - 3h4) For Clock, custom "inserts" (the same shape and size as the traditional paper inserts) are permitted, at the discretion of the WCA Delegate. The inserts must have a clear indication of 12 o'clock that matches the original inserts.
 - 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that significantly distinguish any piece from a similar piece. Exception: a logo (see [Regulation 3l](regulations:regulation:3l)).
