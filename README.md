@@ -17,3 +17,7 @@ GitHub Project Boards that keep track of our current work:
 
 - [WRC Priorities](https://github.com/orgs/thewca/projects/3)
   - [Regulations 2020 – Priorities](https://github.com/orgs/thewca/projects/4)
+  
+## WRC Minutes Log
+
+GitHub Issue that keep track of the Committee minutes. See [https://github.com/thewca/wca-regulations/issues/824](https://github.com/thewca/wca-regulations/issues/824).
