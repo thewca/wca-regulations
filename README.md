@@ -1,8 +1,8 @@
-# WCA Documents
+# WCA Regulations
 
-Regulations and Guidelines for official Rubik's Cube and other twisty puzzles competitions sanctions by the [World Cube Association](http://www.worldcubeassociation.org/).
+This repository contains the the WCA Regulations and Guidelines, which apply to all official competitions sanctioned by the [World Cube Association](http://www.worldcubeassociation.org/).
 
-Official competitions must always use the current version of the Regulations at <https://www.worldcubeassociation.org/regulations/> (which matches the branch named [`official`](https://github.com/thewca/wca-regulations/tree/official) on GitHub).
+Official competitions must always use the current version of the Regulations at <https://www.worldcubeassociation.org/regulations/>, which matches the branch named [`official`](https://github.com/thewca/wca-regulations/tree/official) on GitHub.
 
 The current draft for upcoming Regulations is maintained on the branch named [`draft`](https://github.com/thewca/wca-regulations/tree/draft).
 
