@@ -20,4 +20,4 @@ GitHub Project Boards that keep track of our current work:
   
 ## WRC Minutes Log
 
-GitHub Issue that keep track of the Committee minutes. See [https://github.com/thewca/wca-regulations/issues/824](https://github.com/thewca/wca-regulations/issues/824).
+GitHub Issue that keep track of the Committee meeting minutes. See [https://github.com/thewca/wca-regulations/issues/824](https://github.com/thewca/wca-regulations/issues/824).
