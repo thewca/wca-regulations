@@ -115,6 +115,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3a1) Competitors must be ready to submit their puzzles when they are called (see [Regulation 2u](regulations:regulation:2u)).
     - 3a2) Puzzles must be fully operational, such that normal scrambling is possible.
     - 3a3) Polyhedral puzzles must use a color scheme with one unique color per face in the solved state. Each puzzle variation must have moves, states, and solutions functionally identical to the original puzzle.
+    - 3a4) Puzzles must not have electronic components (e.g. Bluetooth or Wi-Fi capabilities, motors, sensors, lights). See [Regulation 2i](regulations:regulation:2i).
 - 3d) Puzzles must have colored parts, which define the color scheme of the puzzle and must be one and only one of the following: colored stickers, colored tiles, colored plastic, or painted/printed colors. All colored parts of a puzzle must be made of a similar material.
     - 3d1) For competitors with a medically documented visual disability, the following exceptions apply:
         - 3d1a) Blind competitors may use textured puzzles with different textures on different faces. Each face should have a distinct color, to aid in scrambling and judging.
