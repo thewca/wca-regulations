@@ -222,6 +222,8 @@ To be more informative, each Guideline is classified using one of the following 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
 
+- H1a+) [ADDITION] The competitors may choose to bring 1 or 2 extra puzzles as backup in case of incidents found during the attempt (e.g. duplicate scrambled puzzles). Attempts higher than 6 puzzles are highly recommendated to bring extra puzzles.
+- H1a++) [ADDITION] The extra puzzles should be scrambled together with the intended puzzles but kept away from the competitors untill incidents are found.
 - H1b1+) [REMINDER] The attempt is not disqualified for reaching the time limit, due to exceptions for 3x3x3 Multi-Blind (see [Regulation A1a4](regulations:regulation:A1a4) and [Regulation A1a5](regulations:regulation:A1a5)).
 - H1b1++) [ADDITION] The judge may permit the competitor to continue the attempt unofficially, but the attempt must be stopped and judged first, in full accordance with the Regulations.
 - H1d+) [EXAMPLE] Example: Suppose a competitor attempts 10 cubes, stops the solve with a time of 59:57, and has two time penalties. The time of the final result is 59:57 + 2*2 = 60:01 (also see [Regulation A1a5](regulations:regulation:A1a5)).
