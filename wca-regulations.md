@@ -501,6 +501,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - E3b) 3x3x3 Cubes (at most 3, self-supplied), as described in [Article 3](regulations:article:3).
     - E3c) Stickers (self-supplied).
     - E3d) Stopwatch or watch (self-supplied) for keeping track of the elapsed time, if it is approved by the WCA Delegate.
+- E4) The organization team may choose to publish the solutions (e.g. photo of the score sheets or transcriptions of solutions).
 
 
 ## <article-F><clock><clocksolving> Article F: Clock Solving
