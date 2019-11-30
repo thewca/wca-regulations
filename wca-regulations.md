@@ -90,6 +90,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 2j1) If a competitor is disqualified from an event for any reason, they are not eligible for any more attempts in the event.
         - 2j1a) The results of all remaining attempts in the event are recorded as DNF.
     - 2j2) If a competitor is disqualified during the course of an event, their earlier results remain valid. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
+    - 2j3) If a competitor does not fulfill the event's requirements (e.g. know how to solve the puzzle). A competitor must not compete with the expectation of a DNF result or an intentionally poor result.
 - 2k) At the discretion of the WCA Delegate, a competitor may be disqualified from some events (a single event, multiple events, or all events) if the competitor:
     - 2k1) Fails to check in or register in time for the competition.
     - 2k2) Is suspected of cheating or defrauding the officials during the competition.
@@ -357,7 +358,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
         - A1b1) A Stackmat must be used in addition to the stopwatch. Exception: for events without inspection where the competitor is expected to exceed 10 minutes, use of the Stackmat is optional.
         - A1b2) If a time from the Stackmat timer is available, it is the original recorded time. Otherwise, the stopwatch time is the original recorded time.
-    - A1c) A competitor participating in an event must be able to fulfill the event's requirements (e.g. know how to solve the puzzle). A competitor must not compete with the expectation of a DNF result or an intentionally poor result. Penalty: disqualification of the attempt (DNF)  or disqualification from the event (see [Regulation 2j](regulations:regulation:2j)), at the discretion of the WCA Delegate.
+    - A1c) A competitor participating in an event must be able to fulfill the event's requirements (see [Regulation 2j3](regulations:regulation:2j3)).
 - A2) Scrambling:
     - A2a) When called for a round, the competitor submits the puzzle, in its solved state, to the scrambler. The competitor then waits in their assigned Competitors Area until they are called to compete.
     - A2b) A scrambler scrambles the puzzle according to the regulations in [Article 4](regulations:article:4).

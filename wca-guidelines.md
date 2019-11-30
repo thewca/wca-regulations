@@ -59,6 +59,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 2i1c+) [CLARIFICATION] Electronic hand warmers may be used before or after an attempt only. Non-electronic hand warmers may be used at any time during an attempt.
 - 2i2a+) [ADDITION] The monitor of a camera can be visible to the competitor as long as it does not show the live feed of the camera.
 - 2j2+) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, their results from earlier rounds remain valid.
+- 2j3+) [CLARIFICATION] WCA Delegates should only use their discretion to prevent competitors from being a severe detriment to the competition (e.g. wasting time and/or competition resources). Competitors should not be disqualified for a "poor" result when they are competing to the best of their abilities.
 - 2s+) [REMINDER] Special accommodations must be noted in the Delegate Report.
 
 
@@ -163,7 +164,6 @@ To be more informative, each Guideline is classified using one of the following 
 - A1a2+++) [ADDITION] If the result from an attempt is unavailable (e.g. the timer was reset), the judge should consult the WCA Delegate and make an estimate of the elapsed time for the attempt. This estimate counts towards the time limit, but must not be used as the basis of an official result for the individual attempt.
 - A1a3+) [REMINDER] The organization team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a combined round), and that changing time limits after the start of the round can disadvantage some competitors unfairly.
 - A1a4+) [REMINDER] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and WCA Delegate should be informed (see [Regulation 1g2](regulations:regulation:1g2)). Judges must always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
-- A1c+) [CLARIFICATION] WCA Delegates should only use their discretion to prevent competitors from being a severe detriment to the competition (e.g. wasting time and/or competition resources). Competitors should not be disqualified for a "poor" result when they are competing to the best of their abilities.
 - A2c1+) [REMINDER] In the past, score sheets have been used to cover puzzles while leaving some sides exposed. This is no longer permitted.
 - A2d1+) [ADDITION] If a missing scramble signature is discovered before an attempt, the puzzle should immediately be returned to a scrambler for verification and a corresponding signature.
 - A2d1++) [ADDITION] If a missing scramble signature is discovered after the beginning of the attempt, the result may be kept, at the discretion of the WCA Delegate. However, the WCA Delegate should not allow such incidents to become common.
