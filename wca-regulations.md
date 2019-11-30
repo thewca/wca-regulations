@@ -202,7 +202,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
     - 7f2) The Stackmat timer must be attached to the mat and placed on the surface, with the timer on the side of the mat nearest to the competitor.
         - 7f2a) Exception: For 3x3x3 With Feet, the Stackmat must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
-    - 7f3) The organization team should strongly consider modifications to make Stackmat timers more robust against common incidents, such as making the buttons more difficult to press by accident (e.g. by attaching O-rings around the buttons) and securing the battery more firmly (e.g. by padding the battery compartment).
+    - 7f3) The organization team should modify Stackmat timers to be more robust against common incidents, by making the buttons more difficult to press by accident (e.g. by attaching O-rings around the buttons) and securing the battery more firmly (e.g. by padding the battery compartment).
 - 7h) The competition area must have one or more Competitors Areas.
     - 7h1) The organization team may require that a competitor who has been called to compete must remain within their assigned Competitors Area until the competitor has finished all attempts for the round.
 
