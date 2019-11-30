@@ -53,7 +53,7 @@ The WCA recognizes a total of 199 countries/regions:
 - (CU:_North America) Cuba
 - (CY:_Europe) Cyprus
 - (CZ:_Europe) Czech Republic
-- (KP:_Asia) Democratic People’s Republic of Korea
+- (KP:_Asia) Democratic People's Republic of Korea
 - (CD:_Africa) Democratic Republic of the Congo
 - (DK:_Europe) Denmark
 - (DJ:_Africa) Djibouti
