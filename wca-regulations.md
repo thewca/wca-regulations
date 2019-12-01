@@ -312,7 +312,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 12a2b) Counter-clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw'.
         - 12a2c) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
     - 12a4) Rotations (entire puzzle):
-        - 12a4a) Clockwise, 90 degrees: x (same direction as R), x', y (same direction as U), y', z (same direction as F), z'.
+        - 12a4a) Clockwise, 90 degrees: x (same direction as R or L'), y (same direction as U or D'), z (same direction as F or B').
         - 12a4b) Counter-clockwise, 90 degrees: x', x, y', y, z', z.
         - 12a4c) 180 degrees: x2, x2, y2, y2, z2, z2.
     - 12a5) Outer Block Turn Metric (OBTM) is defined as:
