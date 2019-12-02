@@ -57,7 +57,7 @@ This document is meant to clarify some of the implicit conventions adopted in WC
 - References to the "(WCA) Regulations" and "(WCA) Guidelines" are capitalized. For example, Regulation 1a) is a regulation in the Regulations. This makes it clear that "Regulations" refers to the body of the WCA Regulations.
 - Also should be capitalized: Competitors Area.
 - The WCA Delegate should be mentioned by their full title.
-- Puzzles names are capitalized. Event formats like "One-Handed Solving" are also capitalized. A puzzle name + event format should omit the word "Solving" (e.g. Rubik's Cube: One-Handed). See Regulation 9b for official puzzles and event formats.
+- Puzzles names are capitalized. Event formats like "One-Handed Solving" are also capitalized. A puzzle name + event format should omit the word "Solving" (e.g. 3x3x3 One-Handed). See Regulation 9b for official puzzles and event formats.
 
 ### Recommended Word Choices
 
