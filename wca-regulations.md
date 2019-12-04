@@ -202,7 +202,6 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 7f1c) Timer: The timer of the Stackmat, or a stopwatch (for longer attempts).
         - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
     - 7f2) The Stackmat timer must be attached to the mat and placed on the surface, with the timer on the side of the mat nearest to the competitor.
-        - 7f2a) Exception: For 3x3x3 With Feet, the Stackmat must be placed directly on the floor. The timer device may be placed on the side of the mat farthest from the competitor.
     - 7f3) The organization team should modify Stackmat timers to be more robust against common incidents, by making the buttons more difficult to press by accident (e.g. by attaching O-rings around the buttons) and securing the battery more firmly (e.g. by padding the battery compartment).
 - 7h) The competition area must have one or more Competitors Areas.
     - 7h1) The organization team may require that a competitor who has been called to compete must remain within their assigned Competitors Area until the competitor has finished all attempts for the round.
@@ -212,7 +211,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 - 9a) The WCA governs competitions for mechanical puzzles that are operated by twisting groups of pieces, commonly known as "twisty puzzles".
 - 9b) The official events of the WCA are:
-    - 9b1) 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 One-Handed, 3x3x3 With Feet, Clock, Megaminx, Pyraminx, Skewb, and Square-1.
+    - 9b1) 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 One-Handed, Clock, Megaminx, Pyraminx, Skewb, and Square-1.
         - 9b1a) Full round format for these events: "Average of 5".
         - 9b1b) Cutoff format for these events: "Best of 2" cutoff phase for "Average of 5".
     - 9b2) 6x6x6 Cube and 7x7x7 Cube.
@@ -467,18 +466,6 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - C1b3) If other body parts of the competitor come in contact with the puzzle or parts of the puzzle without the competitor's intention and without applying moves, this is not considered operating the puzzle, at the discretion of the judge.
         - C1b4) During the solve, the competitor may hold the puzzle against the surface to help operate the puzzle (see [Regulation 7f1d](regulations:regulation:7f1d)).
     - C1c) During the solve, once a competitor operates the puzzle with one hand, they must not operate the puzzle with the other hand. Penalty: disqualification of the attempt (DNF).
-
-
-## <article-D><feet><solvingwithfeet> Article D: Feet Solving
-
-- D1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-    - D1a) During the attempt, the competitor must sit in a chair, sit on the surface, or stand.
-    - D1b) During the solve, the competitor must use only their feet and the surface to operate the puzzle. Penalty: disqualification of the attempt (DNF).
-- D3) Starting the solve:
-    - D3a) The competitor places their feet onto the timer sensors.
-    - D3b) The competitor removes their feet from the timer sensors to start the solve.
-- D4) Stopping the solve:
-    - D4a) The competitor stops the timer by placing their feet onto the timer sensors.
 
 
 ## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving

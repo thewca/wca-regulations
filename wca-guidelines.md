@@ -51,7 +51,6 @@ To be more informative, each Guideline is classified using one of the following 
 - 2e+) [CLARIFICATION] If a competitor holds multiple citizenships, they may choose which country to represent at their first competition.
 - 2e++) [ADDITION] The WCA Delegate should also verify the name and date of birth by means of documents (e.g. a passport) of every new competitor at their first competition.
 - 2e3+) [CLARIFICATION] Stateless competitors have no national records and rankings, nor continental records and rankings.
-- 2h+) [CLARIFICATION] Competitors may be barefoot for 3x3x3 With Feet.
 - 2i+) [ADDITION] Although the competitor may pick up a stopwatch to view the current time (when they are not blindfolded), they must not start, stop, pause, or otherwise interact with the timekeeping of the stopwatch.
 - 2i++) [ADDITION] The organization team may provide the competitor an unofficial stopwatch for viewing the elapsed time (started together with the main stopwatch), in which case the competitor is not permitted to touch the official stopwatch.
 - 2i+++) [REMINDER] Bluetooth puzzles are considered electronic devices.
@@ -170,7 +169,7 @@ To be more informative, each Guideline is classified using one of the following 
 - A3c3++) [CLARIFICATION] The competitor cannot "test" or "restart" the timer during inspection, since inspection ends once the competitor starts the solve (see [Regulation A4d](regulations:regulation:A4d)). If the competitor stops the timer after they have started it for the first time, this is considered stopping the solve (see [Regulation A6](regulations:regulation:A6)), even if they do so within 15 seconds of starting inspection.
 - A3c4+) [CLARIFICATION] If the use of a thin object inside the puzzle has been enforced, the judge must not remove the object on behalf of the competitor.
 - A3c4++) [CLARIFICATION] The competitor may remove the object during the solve, if they did not do it during the inspection (e.g. they forgot).
-- A5b+) [CLARIFICATION] While inspecting or solving the puzzle, the competitor may touch the puzzle with any part of their body. Exception: 3x3x3 One-Handed and 3x3x3 With Feet (see [Regulation C1b](regulations:regulation:C1b) and [Regulation D1b](regulations:regulation:D1b)).
+- A5b+) [CLARIFICATION] While inspecting or solving the puzzle, the competitor may touch the puzzle with any part of their body. Exception: 3x3x3 One-Handed (see [Regulation C1b](regulations:regulation:C1b)).
 - A5b++) [CLARIFICATION] If a part of the competitor's puzzle pops out (see [Regulation 5a](regulations:regulation:5a)), the competitor must not ask for assistance retrieving or locating the part and the judge should attempt to prevent others from assisting. If someone picks up a popped part for the competitor, the judge or competitor may ask them to place it on the solving station and not to assist any further.
 - A6b+) [EXPLANATION] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timer malfunctions.
 - A6e+) [CLARIFICATION] If the puzzle falls into the lap of the competitor after stopping the timer, this is considered touching the puzzle.
@@ -193,13 +192,6 @@ To be more informative, each Guideline is classified using one of the following 
 
 - C1b+) [CLARIFICATION] The competitor may use both hands during inspection.
 - C1b++) [CLARIFICATION] The competitor is not required to use the same solving hand for different attempts of the same round.
-
-
-## <article-D><feet><solvingwithfeet> Article D: Feet Solving
-
-- D1b+) [CLARIFICATION] The competitor may wear socks while solving.
-- D1b++) [CLARIFICATION] In the past, competitors were required to inspect the puzzle using their feet for 3x3x3 With Feet. They are now permitted to touch the puzzle with their hands or any other part of their body during inspection (see [Guideline A5b+](guidelines:guideline:A5b+)).
-- D1c+) [REMINDER] While repairing puzzle defects, other body parts must not touch the puzzle.
 
 
 ## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
