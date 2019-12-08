@@ -291,7 +291,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 11a2) Interference or facility interruptions (e.g. power failure, emergency alarm activation).
     - 11a3) Equipment malfunction.
 - 11b) If an incident occurs, the WCA Delegate determines an impartial and appropriate course of action.
-- 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make a decision based on fair sportsmanship (also see [Regulation 11e3](regulations:regulation:11e3)).
+- 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make a decision based on fair sportsmanship (see [Regulation 11e3](regulations:regulation:11e3)).
 - 11e) If an incident occurs during an attempt, the WCA Delegate may grant a competitor an extra attempt, replacing the attempt during which the incident occurred. The competitor must appeal verbally or in writing to the judge and WCA Delegate at the time of the incident, before finishing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.
     - 11e1) If a competitor is granted an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble sequence must be generated using a current official version of an official WCA scramble program (see [Regulation 4f](regulations:regulation:4f)).
     - 11e2) If a competitor is granted an extra attempt, the extra attempt should be done right after the attempt that caused it, and must replace the original regularly numbered attempt.
@@ -393,7 +393,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - A4e) Time penalties for starting the solve are cumulative.
 - A5) During the solve:
     - A5a) While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge or the WCA Delegate. Penalty: disqualification of the attempt (DNF).
-    - A5b) While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface (also see [Regulation 2i](regulations:regulation:2i)). Penalty: disqualification of the attempt (DNF).
+    - A5b) While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface (see [Regulation 2i](regulations:regulation:2i)). Penalty: disqualification of the attempt (DNF).
     - A5c) The competitor may hold the puzzle against the surface to help operate the puzzle (see [Regulation 7f1d](regulations:regulation:7f1d)).
 - A6) Stopping the solve:
     - A6a) The competitor releases the puzzle before stopping the solve, and stops the solve by stopping the timer. If a stopwatch is in use, the judge stops the stopwatch as soon as the competitor does this.
