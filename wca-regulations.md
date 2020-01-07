@@ -307,7 +307,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 12a1a) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
         - 12a1b) Counter-clockwise, 90 degrees: F', B', R', L', U', D'.
         - 12a1c) 180 degrees: F2, B2, R2, L2, U2, D2.
-    - 12a2) Outer Block Moves (outer slice with adjacent inner slices). For each of the moves defined below, n is the total number of slices to move, which must be in the range 1 < n < N (where N is the number of layers in the puzzle). n may be also be omitted, for an implicit value of n = 2 slices. Outer Block Moves are:
+    - 12a2) Outer Block Moves (outer slice with adjacent inner slices). For each of the moves defined below, n is the total number of slices to move, which must be in the range 1 < n < N (where N is the number of layers in the puzzle). n may also be omitted, for an implicit value of n = 2 slices. Outer Block Moves are:
         - 12a2a) Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw.
         - 12a2b) Counter-clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw'.
         - 12a2c) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
