@@ -357,7 +357,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A1a5) The time counting towards the time limit for an attempt is either the result after time penalties are applied (if the result was not DNF) or the time elapsed in the solve (if the result was DNF).
     - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
         - A1b1) A Stackmat must be used in addition to the stopwatch. Exception: for events without inspection where the competitor is expected to exceed 10 minutes, use of the Stackmat is optional.
-        - A1b2) If a time from the Stackmat timer is available, it is the original recorded time. Otherwise (e.g. the Stackmat timer malfunctioned, ran for over 10 minutes or wasn't used at all), the stopwatch time is the original recorded time.
+        - A1b2) If a time from the Stackmat timer is available, it is the original recorded time. Otherwise (e.g. the Stackmat timer malfunctioned, ran for over 10 minutes or was not used at all), the stopwatch time is the original recorded time.
     - A1c) A competitor participating in an event must be able to fulfill the event's requirements (see [Regulation 2k6](regulations:regulation:2k6)).
 - A2) Scrambling:
     - A2a) When called for a round, the competitor submits the puzzle, in its solved state, to the scrambler. The competitor then waits in their assigned Competitors Area until they are called to compete.
