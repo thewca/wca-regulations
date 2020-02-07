@@ -445,7 +445,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - B3c) The competitor must not apply moves to the puzzle during the memorization phase. Penalty: disqualification of the attempt (DNF).
 - B4) Blindfolded phase:
     - B4a) The competitor dons the blindfold to start the blindfolded phase.
-        B4a1) Until the competitor applies the first move to the puzzle, they may remove the blindfold to return to the memorization phase.
+        - B4a1) Until the competitor applies the first move to the puzzle, they may remove the blindfold to return to the memorization phase.
     - B4b) The competitor must not apply moves to the puzzle before they have fully donned the blindfold. Penalty: disqualification of the attempt (DNF).
     - B4c) The judge must ensure that there is a sight blocker between the competitor's face and the puzzle while the competitor is solving.
         - B4c1) In all cases, the competitor must wear the blindfold such that their view of the puzzle would still clearly be blocked if the sight blocker were not in the way.
