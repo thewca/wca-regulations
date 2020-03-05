@@ -83,7 +83,6 @@ The WCA recognizes a total of 199 countries/regions:
 - (GW:_Africa) Guinea Bissau
 - (GY:_South America) Guyana
 - (HT:_North America) Haiti
-- (VA:_Europe) Holy See
 - (HN:_North America) Honduras
 - (HK:_Asia) Hong Kong
 - (HU:_Europe) Hungary
@@ -202,6 +201,7 @@ The WCA recognizes a total of 199 countries/regions:
 - (UY:_South America) Uruguay
 - (UZ:_Asia) Uzbekistan
 - (VU:_Oceania) Vanuatu
+- (VA:_Europe) Vatican City
 - (VE:_South America) Venezuela
 - (VN:_Asia) Vietnam
 - (YE:_Asia) Yemen
