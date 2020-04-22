@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Describe the bug**
+**Describe the typo**
 A clear and concise description of what the typo is.
 
 **Possible solution**
