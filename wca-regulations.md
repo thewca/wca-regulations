@@ -253,12 +253,11 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the Board.
 - 9l) Each round must be completed before any following round of the same event can start.
 - 9m) Events must have at most four rounds.
-    - 9m1) Rounds with 99 or fewer competitors must have at most two subsequent rounds.
-    - 9m2) Rounds with 15 or fewer competitors must have at most one subsequent round.
+    - 9m1) Rounds with 99 or fewer competitors that had results when the round ended must have at most two subsequent rounds.
+    - 9m2) Rounds with 15 or fewer competitors that had results when the round ended must have at most one subsequent round.
     - 9m3) Rounds with 7 or fewer competitors must not have subsequent rounds.
 - 9o) Cutoff rounds count as one round when counting the number of rounds per event.
 - 9p) If an event has multiple rounds, then:
-    - 9p1) At least 25% of competitors with recorded results at the time the round ended must be eliminated between consecutive rounds of the same event.
     - 9p2) The competitors who advance to the next round must be determined by ranking (best x competitors) or by result (all competitors with a better result than x) in the preceding round.
         - 9p2a) For each round, advancement conditions must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
     - 9p3) If a qualifying competitor withdraws from a round, they may be replaced by the best-ranked non-qualifying competitor from the preceding round.
