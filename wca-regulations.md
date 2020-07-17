@@ -418,7 +418,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A7a3) If the result is DNF, the judge calls "DNF".
     - A7b) The judge records the result on a score sheet and signs next to the result to acknowledge that the result is correct, complete, properly formatted, and clearly readable.
         - A7b1) If penalties are assigned, the judge records the original recorded time displayed on the timer, along with any penalties. The format should be "X + T + Y = F", where X represents the sum of time penalties before/starting the solve, T represents the time displayed on the timer (the "original recorded time"), Y represents a sum of time penalties during/after the solve, and F represents the final result (e.g. 2 + 17.65 + 2 = 21.65). If X and/or Y is 0, the 0 terms are omitted (e.g. 17.65 + 2 = 19.65).
-    - A7c) The competitor must check the recorded result, and sign (or initial) the score sheet to acknowledge that the result is correct, complete, properly formatted, and clearly readable. This finishes the attempt (superseded by [Regulation Y7e1](regulations:regulation:Y7e).
+    - A7c) The competitor must check the recorded result, and sign (or initial) the score sheet to acknowledge that the result is correct, complete, properly formatted, and clearly readable. This finishes the attempt (partially superseded by [Regulation Y7e1](regulations:regulation:Y7e)).
         - A7c1) If the competitor or the judge refuses to accept and sign the score sheet, the WCA Delegate must resolve the dispute.
         - A7c2) If the competitor signs (or otherwise marks) an attempt before they have begun it, they forfeit the attempt and the result will be considered DNS.
         - A7c3) If the competitor signs (or otherwise marks) an attempt after starting the attempt but before the judge has finished recording the result, the attempt will be considered unfinished (DNF).
@@ -522,26 +522,24 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - Y1) Additional regulations that supersede all other regulations are described below. These regulations are meant to complement the [Competition Safety Policy](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Safety.pdf).
 - Y2) Definitions:
     - Y2a) Attendee: Any person who attends a WCA Competition, including competitors, officials and guests.
-    - Y2b) Fixed seating: A competition method in which a competitor does all of their attempts a round at the same solving station.
-- Y3) Besides what is required in Regulation 2a, if deemed necessary by the WCA Delegate and announced clearly before the competition, an attendee may be required to meet one or more of the following requirements:
+    - Y2b) Fixed seating: A competition method in which a competitor does all of their attempts in a round at the same solving station.
+- Y3) Besides what is required in [Regulation 2a](regulations:regulation:2a), if deemed necessary by the WCA Delegate and announced clearly before the competition, an attendee may be required to meet one or more of the following requirements:
     - Y3a) Wear a face mask inside the competition venue.
     - Y3b) Not to have come in contact with a person with COVID-19 for at least 14 days before the competition.
     - Y3c) Not to have COVID-19 nor to feel COVID-19 symptoms (as determined by the [World Health Organization](https://www.who.int/)) for at least 14 days before the competition.
+    - Y3d) Comply with other reasonable safety measures sanctioned by the World Health Organization or by local governments.
 - Y4) All competitors and officials should bring their own pen to the competition.
 - Y5) Judges may bring their own stopwatch for timing inspection, which should be checked by the WCA Delegate.
 - Y6) Environment:
     - Y6a) If deemed necessary by the WCA Delegate, the competition area must not have a Competitors Area.
-    - Y6b) Competitors may bring their own cover to place over the competition supplied mat or timer provided the function of the equipment is not affected.
-    - Y6c) Competitors should refrain from touching the surface of the solving station when they are not in the process of an official attempt. 
-- Y7) Competing procedures that supersede Article A, B, and H are described below. These procedures do not apply to Article E, Fewest Moves Solving.
-    - Y7a) Competitions should use fixed seating (see Regulation Y2b).
+    - Y6b) Competitors should refrain from touching the surface of the solving station when they are not in the process of an official attempt. 
+- Y7) Competing procedures that supersede [Article A](regulations:article:A), [B](regulations:article:B), and [H](regulations:article:H) are described below. These procedures do not apply to [Article E](regulations:article:E), Fewest Moves Solving.
+    - Y7a) Competitions should use fixed seating (see [Regulation Y2b](regulations:regulation:Y2b)).
     - Y7b) The judge should avoid touching the puzzle at all times. Exception: for Clock, the judge should pick up the puzzle to verify both faces are solved.
     - Y7c) Scrambling:
-        - Y7c1) When called for a round, after disinfecting their puzzles, the competitor submits the puzzle, in its solved state, to the scrambler. The competitor then waits in their assigned solving station.
+        - Y7c1) When called for a round, after disinfecting their puzzles, the competitor submits the puzzle, in its solved state, to the scrambler. The competitor then waits at their assigned solving station.
     - Y7d) Inspection: 
-        - Y7d1) The competitor prepares the timer by turning it on and resetting if necessary. The judge should avoid touching the timer at all times.
+        - Y7d1) The judge asks the competitor to prepare the timer by turning it on and resetting if necessary. The competitor then turns the timer on and resets it if necessary. The judge should avoid touching the timer at all times.
     - Y7e) Recording results:
-        - Y7e1) The judge records the result on a score sheet. Without touching the score sheet, the competitor must visually check the recorded result, and tell their judge that the result is correct to acknowledge that the result is correct, complete, properly formatted, and clearly readable. After this, the judge must sign the score sheet to acknowledge that the competitor has agreed with the recorded result and that the result is correct, complete, properly formatted, and clearly readable. This finishes the attempt.
-        - Y7e2) If the competitor or the judge refuses to accept and verbally approve or sign, respectively, the score sheet, the WCA Delegate must resolve the dispute. 
-        - Y7e3) The competitor should not tell their judge the result is correct before the judge has recorded the attempt. The competitor is ultimately responsible for ensuring that the judge has signed an attempt after they have verbally approved it. If an attempt is found to be missing the judge’s signature after the judge delivered the score sheet to the score taker (see Regulation A7f), it will be considered unfinished (DNF).
+        - Y7e1) The competitor must check the recorded result, and sign (or initial) the score sheet, without touching it, with his own pen to acknowledge that the result is correct, complete, properly formatted, and clearly readable. This finishes the attempt.
     - Y7f) After finishing the attempt, if there are more attempts to be done, the competitor must place the puzzle inside the cover.
