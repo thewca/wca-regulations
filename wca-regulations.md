@@ -1,6 +1,6 @@
 # <wca-title>WCA Regulations
 
-<version>Version: July 20, 2020
+<version>Version: August 1, 2020
 
 
 ## Notes
