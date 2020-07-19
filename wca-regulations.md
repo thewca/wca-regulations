@@ -373,7 +373,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - A3) Inspection:
     - A3a) The competitor may inspect the puzzle at the start of each attempt.
         - A3a1) The competitor is allotted a maximum of 15 seconds to inspect the puzzle and start the solve.
-    - A3b) The judge prepares the timer by turning it on and resetting if necessary. Separately, the judge also prepares a stopwatch for timing inspection (partially superseded by [Regulation Y7d1](regulations:regulation:Y7d1).
+    - A3b) The judge prepares the timer by turning it on and resetting if necessary. Separately, the judge also prepares a stopwatch for timing inspection (partially superseded by [Regulation Y7d1](regulations:regulation:Y7d1)).
         - A3b1) When the judge believes the competitor is ready, the judge asks "READY?". The competitor must be ready to start the attempt within one minute from the moment they are asked, or else the competitor forfeits the attempt (DNS), at the discretion of the judge.
         - A3b2) The competitor starts the attempt by confirming that they are ready, and the judge uncovers the puzzle and starts timing the inspection.
     - A3c) The competitor may pick up the puzzle during inspection.
@@ -429,11 +429,11 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 ## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
 
-- B1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below (partially superseded by [Regulation Y7](regulations:regulation:Y7).
+- B1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below (partially superseded by [Regulation Y7](regulations:regulation:Y7)).
     - B1a) There is no inspection period.
     - B1b) The competitor supplies their own blindfold.
 - B2) Starting the attempt:
-    - B2a) The judge resets the timer(s) as in [Regulation A3b](regulations:regulation:A3b) and indicates that they are ready for the competitor to start the attempt (e.g. placing the puzzle cover in front of the competitor, saying "READY", giving a thumbs-up signal). The competitor must start the attempt within one minute, else the competitor forfeits the attempt (DNS), at the discretion of the judge (partially superseded by [Regulation Y7d1](regulations:regulation:Y7d1).
+    - B2a) The judge resets the timer(s) as in [Regulation A3b](regulations:regulation:A3b) and indicates that they are ready for the competitor to start the attempt (e.g. placing the puzzle cover in front of the competitor, saying "READY", giving a thumbs-up signal). The competitor must start the attempt within one minute, else the competitor forfeits the attempt (DNS), at the discretion of the judge (partially superseded by [Regulation Y7d1](regulations:regulation:Y7d1)).
     - B2b) The competitor uses their fingers to touch the elevated sensor surfaces of the timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to them. Penalty: time penalty (+2 seconds).
     - B2c) The competitor must have no physical contact with the puzzle before the start of the attempt. Penalty: time penalty (+2 seconds).
     - B2d) The competitor starts the attempt by removing their hands from the timer, thus starting the timer. (This also starts the solve.)
@@ -507,7 +507,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving
 
-- H1) Standard blindfolded solving procedures are followed, as described in [Article B](regulations:article:B) (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in [Article B](regulations:article:B) are described below (partially superseded by [Regulation Y7](regulations:regulation:Y7).
+- H1) Standard blindfolded solving procedures are followed, as described in [Article B](regulations:article:B) (Blindfolded Solving). Additional regulations that supersede the corresponding procedures in [Article B](regulations:article:B) are described below (partially superseded by [Regulation Y7](regulations:regulation:Y7)).
     - H1a) Before an attempt, the competitor must submit to the organization team the number of puzzles (at least 2) they wish to attempt.
         - H1a1) A competitor is not permitted to change the number of puzzles after submitting their number to the organization team.
         - H1a2) A competitor may request to keep their submission private until all competitors have submitted their numbers. Once all competitors have reported their numbers, the information becomes public (e.g. a competitor may ask for the numbers of any other competitors before starting their attempt).
@@ -529,7 +529,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - Y3c) Not to have COVID-19 nor to feel COVID-19 symptoms (as determined by the [World Health Organization](https://www.who.int/)) for at least 14 days before the competition.
     - Y3d) Comply with other reasonable safety measures sanctioned by the World Health Organization or by local governments.
 - Y4) All competitors and officials should bring their own pen to the competition.
-- Y5) Judges may bring their own stopwatch for timing inspection, which should be checked by the WCA Delegate.
+- Y5) Judges may bring their own stopwatch or phone for timing inspection, which should be checked by the WCA Delegate.
 - Y6) Environment:
     - Y6a) If deemed necessary by the WCA Delegate, the competition area must not have a Competitors Area.
     - Y6b) Competitors should refrain from touching the surface of the solving station when they are not in the process of an official attempt. 
@@ -541,5 +541,5 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - Y7d) Inspection: 
         - Y7d1) The judge asks the competitor to prepare the timer by turning it on and resetting if necessary. The competitor then turns the timer on and resets it if necessary. The judge should avoid touching the timer at all times.
     - Y7e) Recording results:
-        - Y7e1) The competitor must check the recorded result, and sign (or initial) the score sheet, without touching it, with his own pen to acknowledge that the result is correct, complete, properly formatted, and clearly readable. This finishes the attempt.
+        - Y7e1) The competitor must check the recorded result, and sign (or initial) the score sheet, without touching it, with their own pen to acknowledge that the result is correct, complete, properly formatted, and clearly readable. This finishes the attempt.
     - Y7f) After finishing the attempt, if there are more attempts to be done, the competitor must place the puzzle inside the cover.
