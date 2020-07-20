@@ -532,13 +532,13 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - Y5) Judges may bring their own stopwatch or phone for timing inspection, which should be checked by the WCA Delegate.
 - Y6) Environment:
     - Y6a) If deemed necessary by the WCA Delegate, the competition area must not have a Competitors Area.
-    - Y6b) Competitors should refrain from touching the surface of the solving station when they are not in the process of an official attempt. 
+    - Y6b) Competitors should refrain from touching the surface of the solving station when they are not in the process of an official attempt.
 - Y7) Competing procedures that supersede [Article A](regulations:article:A), [B](regulations:article:B), and [H](regulations:article:H) are described below. These procedures do not apply to [Article E](regulations:article:E), Fewest Moves Solving.
     - Y7a) Competitions should use fixed seating (see [Regulation Y2b](regulations:regulation:Y2b)).
     - Y7b) The judge should avoid touching the puzzle at all times. Exception: for Clock, the judge should pick up the puzzle to verify both faces are solved.
     - Y7c) Scrambling:
         - Y7c1) When called for a round, after disinfecting their puzzles, the competitor submits the puzzle, in its solved state, to the scrambler. The competitor then waits at their assigned solving station.
-    - Y7d) Inspection: 
+    - Y7d) Inspection:
         - Y7d1) The judge asks the competitor to prepare the timer by turning it on and resetting if necessary. The competitor then turns the timer on and resets it if necessary. The judge should avoid touching the timer at all times.
     - Y7e) Recording results:
         - Y7e1) The competitor must check the recorded result, and sign (or initial) the score sheet with their own pen to acknowledge that the result is correct, complete, properly formatted, and clearly readable. This finishes the attempt.
