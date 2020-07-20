@@ -1,6 +1,6 @@
 # <wca-title>WCA Regulations
 
-<version>Version: August 1, 2020
+<version>Version: January 1, 2020
 
 
 ## Notes
@@ -223,7 +223,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9b4) 3x3x3 Fewest Moves.
         - 9b4a) Full round formats for this event: Best of X" (where X is 1 or 2) or "Mean of 3".
         - 9b4b) Cutoff formats for this event: "Best of 1" cutoff phase for "Best of 2" or "Best of X" (where X is 1 or 2) cutoff phase for "Mean of 3".
-    - 9b5) 3x3x3 Multi-Blind
+    - 9b5) 3x3x3 Multi-Blind.
         - 9b5a) Full round formats for this event: "Best of X" (where X is 1, 2, or 3).
         - 9b5b) Cutoff formats for this event: "Best of X" (where X is 1 or 2) cutoff phase for "Best of Y" (where Y is 2 or 3, and Y > X).
 - 9f) The results of a round are measured as follows:
@@ -308,7 +308,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 12a1a) Clockwise, 90 degrees: F (front face), B (back face), R (right face), L (left face), U (upper face), D (bottom face).
         - 12a1b) Counter-clockwise, 90 degrees: F', B', R', L', U', D'.
         - 12a1c) 180 degrees: F2, B2, R2, L2, U2, D2.
-    - 12a2) Outer Block Moves (outer slice with adjacent inner slices). For each of the moves defined below, n is the total number of slices to move, which must be in the range 1 < n < N (where N is the number of layers in the puzzle). n may be also be omitted, for an implicit value of n = 2 slices. Outer Block Moves are:
+    - 12a2) Outer Block Moves (outer slice with adjacent inner slices). For each of the moves defined below, n is the total number of slices to move, which must be in the range 1 < n < N (where N is the number of layers in the puzzle). n may also be omitted, for an implicit value of n = 2 slices. Outer Block Moves are:
         - 12a2a) Clockwise, 90 degrees: nFw, nBw, nRw, nLw, nUw, nDw.
         - 12a2b) Counter-clockwise, 90 degrees: nFw', nBw', nRw', nLw', nUw', nDw'.
         - 12a2c) 180 degrees: nFw2, nBw2, nRw2, nLw2, nUw2, nDw2.
@@ -511,10 +511,11 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - H1a) Before an attempt, the competitor must submit to the organization team the number of puzzles (at least 2) they wish to attempt.
         - H1a1) A competitor is not permitted to change the number of puzzles after submitting their number to the organization team.
         - H1a2) A competitor may request to keep their submission private until all competitors have submitted their numbers. Once all competitors have reported their numbers, the information becomes public (e.g. a competitor may ask for the numbers of any other competitors before starting their attempt).
-        - H1a3) Before the attempt, the scrambled puzzles must be placed on the table in an arbitrary orientation while ensuring they remain completely covered. The puzzles should be arranged in shape as square as possible (e.g. 8 puzzles should be arranged in 2 rows with 3 puzzles and 1 row with 2 puzzles).
+        - H1a3) Before the attempt, the scrambled puzzles must be placed on the table in an arbitrary orientation while ensuring they remain completely covered. The puzzles should be arranged in a shape as square as possible (e.g. 8 puzzles should be arranged in 2 rows with 3 puzzles and 1 row with 2 puzzles).
     - H1b) If a competitor is attempting fewer than 6 puzzles, they are allotted a time limit of 10 minutes times the number of puzzles in the attempt, else the time limit is 60 minutes.
         - H1b1) The competitor may signal the end of the solve at any time. If and when the time limit is reached, the judge stops the attempt and the attempt is then scored; the time limit for the attempt counts as the original recorded time.
     - H1d) Time penalties for the puzzles of the attempt are cumulative.
+    - H1e) If a competitor accidentally applies any moves to one or more puzzles during the memorization phase, those puzzles may be considered unsolved at the end of the attempt (instead of immediately disqualifying the entire attempt), at the discretion of the WCA Delegate.
 
 
 ## <article-Y><temporary-regulations><temporaryregulations> Article Y: Temporary Regulations

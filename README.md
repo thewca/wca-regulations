@@ -1,7 +1,7 @@
 # WCA Regulations
 
 This repository contains the WCA Regulations and Guidelines, which apply to all official competitions sanctioned by the [World Cube Association](http://www.worldcubeassociation.org/).
-Regulations and Guidelines for official Rubik's Cube and other twisty puzzles competitions sanctioned by the [World Cube Association](http://www.worldcubeassociation.org/).
+Regulations and Guidelines for official 3x3x3 Cube and other twisty puzzles competitions sanctioned by the [World Cube Association](http://www.worldcubeassociation.org/).
 
 Official competitions must always use the current version of the Regulations at <https://www.worldcubeassociation.org/regulations/>, which matches the branch named [`official`](https://github.com/thewca/wca-regulations/tree/official) on GitHub.
 
@@ -11,13 +11,15 @@ The current draft for upcoming Regulations is maintained on the branch named [`d
 
 See [`thewca/wca-regulations-translations`](https://github.com/thewca/wca-regulations-translations) for further information.
 
-## WRC Priorities
+## WCA Forum
 
-GitHub Project Boards that keep track of our current work:
+Public discussions of the WCA Regulations and Guidelines takes place in the [WCA Forum](https://forum.worldcubeassociation.org/c/regulations). In addition, there are the following post in the WCA Forum:
 
-- [WRC Priorities](https://github.com/orgs/thewca/projects/3).
-  - [Regulations 2020 – Priorities](https://github.com/orgs/thewca/projects/4).
-  
-## WRC Minutes Log
+- [Rules for the WCA Regulations Category](https://forum.worldcubeassociation.org/t/rules-for-the-wca-regulations-category).
+- [2021 Regulations — WRC Priorities](https://forum.worldcubeassociation.org/t/2021-regulations-wrc-priorities).
 
-GitHub Wiki page that keeps track of the Committee meeting minutes. See [`thewca/wca-regulations/wiki`](https://github.com/thewca/wca-regulations/wiki).
+## GitHub
+
+The WRC uses GitHub issues for keeping track of the team logistics. If you find a typo on the Regulations, you can [submit an issue](https://github.com/thewca/wca-regulations/issues/new?assignees=&labels=typo&template=typo-report.md&title=).
+
+The [`thewca/wca-regulations/wiki`](https://github.com/thewca/wca-regulations/wiki) is used for posting the WRC Operations and the meetings minutes logs.

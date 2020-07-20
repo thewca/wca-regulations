@@ -1,6 +1,6 @@
 # <wca-title>WCA Guidelines
 
-<version>Version: August 1, 2020
+<version>Version: January 1, 2020
 
 
 ## Notes
@@ -215,7 +215,7 @@ To be more informative, each Guideline is classified using one of the following 
 - E3d++) [CLARIFICATION] Competitors should not consider a personal stopwatch or watch as the official time, and must submit their solution when the judge calls "STOP".
 
 
-## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multiple Blindfolded Solving
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving
 
 - H1+) [ADDITION] If a puzzle with a duplicate scramble is found during an attempt, the puzzle may be re-scrambled using a different scramble sequence, at the discretion of the WCA Delegate.
 - H1b1+) [REMINDER] The attempt is not disqualified for reaching the time limit, due to exceptions for 3x3x3 Multi-Blind (see [Regulation A1a4](regulations:regulation:A1a4) and [Regulation A1a5](regulations:regulation:A1a5)).
