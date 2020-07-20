@@ -542,5 +542,5 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - Y7d1) The judge asks the competitor to prepare the timer by turning it on and resetting if necessary. The competitor then turns the timer on and resets it if necessary. The judge should avoid touching the timer at all times.
     - Y7e) Recording results:
         - Y7e1) The competitor must check the recorded result, and sign (or initial) the score sheet with their own pen to acknowledge that the result is correct, complete, properly formatted, and clearly readable. This finishes the attempt.
-            - Y7e1a) The competitor should not touch the score sheet.
+        - Y7e2) The competitor should not touch the score sheet.
     - Y7f) After finishing the attempt, if there are more attempts to be done, the competitor must place the puzzle inside the cover.
