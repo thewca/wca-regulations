@@ -1,6 +1,6 @@
 # <wca-title>WCA Guidelines
 
-<version>Version: January 1, 2020
+<version>Version: August 1, 2020
 
 
 ## Notes
