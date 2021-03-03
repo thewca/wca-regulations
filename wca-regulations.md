@@ -264,7 +264,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9p3) If a qualifying competitor withdraws from a round, they may be replaced by the best-ranked non-qualifying competitor from the preceding round.
 - 9s) Each round of each event must have a time limit (see [Regulation A1a](regulations:regulation:A1a)).
 - 9t) If any change occurs to the results of a competitor after the competition has ended (e.g. score-taking mistake, retroactive penalty), such that the competitor should not have advanced to the next round (or was not allowed to take part in the round), all results of this competitor for all subsequent rounds must be removed.
-    - 9t1) If this makes a round no longer compliant with [Regulation 9m1](regulations:regulation:9m1),[9m2](regulations:regulation:9m2) or [9m3](regulations:regulation:9m3), the subsequent rounds must not be removed.
+    - 9t1) If this makes a round no longer compliant with [Regulation 9p1](regulations:regulation:9p1),[9m1](regulations:regulation:9m1),[9m2](regulations:regulation:9m2) or [9m3](regulations:regulation:9m3), the subsequent rounds must not be removed.
     - 9t2) If any change occurs to the result of a competitor, such that another competitor should not have advanced to the next round, the result of the second competitor will not be removed.
 
 
