@@ -435,7 +435,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - B2) Starting the attempt:
     - B2a) The judge resets the timer(s) as in [Regulation A3b](regulations:regulation:A3b) and indicates that they are ready for the competitor to start the attempt (e.g. placing the puzzle cover in front of the competitor, saying "READY", giving a thumbs-up signal). The competitor must start the attempt within one minute, else the competitor forfeits the attempt (DNS), at the discretion of the judge (partially superseded by [Regulation Y7d1](regulations:regulation:Y7d1)).
     - B2b) The competitor uses their fingers to touch the elevated sensor surfaces of the timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to them. Penalty: time penalty (+2 seconds).
-    - B2c) The competitor must have no physical contact with the puzzle before the start of the attempt. Penalty: time penalty (+2 seconds).
+    - B2c) The competitor must have no physical contact with the puzzle cover before the start of the attempt. Penalty: time penalty (+2 seconds).
     - B2d) The competitor starts the attempt by removing their hands from the timer, thus starting the timer. (This also starts the solve.)
         - B2d1) The competitor removes the cover from the puzzle after starting the timer.
     - B2e) If a stopwatch is in use in addition to a Stackmat timer, the judge starts the stopwatch as soon as the competitor starts the solve.
