@@ -105,15 +105,6 @@ To be more informative, each Guideline is classified using one of the following 
 - 5c+) [REMINDER] If a competitor has a puzzle defect, this does not grant them the right to an extra attempt.
 
 
-## <article-6><awards><awards> Article 6: Awards/prizes/honors
-
-- 6a+) [RECOMMENDATION] Awards, prizes or honors may be given to competitors according to the announcement of the competition.
-- 6b+) [RECOMMENDATION] Competitors should attend the winner's ceremony to receive awards/prizes/honors.
-- 6b1+) [RECOMMENDATION] The winner's ceremony should be held in the competition venue, within one hour after the end of the last event.
-- 6c+) [RECOMMENDATION] Winners of awards, prizes or honors should be prepared to talk to journalists or any media covering the competition.
-- 6d+) [RECOMMENDATION] Organization teams of competitions should have certificates for all category winners, signed by the leader of the organization team and by the WCA Delegate.
-
-
 ## <article-7><environment><environment> Article 7: Environment
 
 - 7f1a+) [CLARIFICATION] A full-size mat should have minimum dimensions of 30cm (left to right) by 25cm (front to back).
