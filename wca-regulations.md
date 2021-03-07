@@ -516,6 +516,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - H1b1) The competitor may signal the end of the solve at any time. If and when the time limit is reached, the judge stops the attempt and the attempt is then scored; the time limit for the attempt counts as the original recorded time.
     - H1d) Time penalties for the puzzles of the attempt are cumulative.
     - H1e) If a competitor accidentally applies any moves to one or more puzzles during the memorization phase, those puzzles may be considered unsolved at the end of the attempt (instead of immediately disqualifying the entire attempt), at the discretion of the WCA Delegate.
+- H2) The competitor may self supply a flat covering(e.g. a mat or a cloth) for the surface, at the discretion of the WCA Delegate. If the competitor wish to do so, the request must be made at the same time as submitting the number of puzzles (see [Regulation H1a](regulations:regulation:H1a)).
 
 
 ## <article-Y><temporary-regulations><temporaryregulations> Article Y: Temporary Regulations
