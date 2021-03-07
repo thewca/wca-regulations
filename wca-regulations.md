@@ -406,7 +406,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - A6c) The competitor must fully release the puzzle before stopping the timer. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been applied after stopping the timer and before releasing the puzzle, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
     - A6d) The competitor must stop the timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
     - A6e) After releasing the puzzle, the competitor must not touch or move the puzzle until the judge has inspected the puzzle. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been applied, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
-    - A6f) The competitor must not reset the timer until the judge has recorded the result on the score sheet. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
+    - A6f) The competitor must not reset the timer unless both the competitor and the judge have signed the attempt. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
         - A6f1) If the competitor resets the timer before the result has been completely recorded, the judge must not write down the result from memory or from video or photographic evidence, and must disqualify the attempt instead (DNF).
     - A6g) The judge determines whether the puzzle is solved. They must not touch the puzzle before they have determined whether to assign a penalty for misalignment. Exception: For Clock, the judge will usually need to pick up the puzzle to verify both faces.
     - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle before the dispute is resolved.
@@ -423,7 +423,6 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A7c2) If the competitor signs (or otherwise marks) an attempt before they have begun it, they forfeit the attempt and the result will be considered DNS.
         - A7c3) If the competitor signs (or otherwise marks) an attempt after starting the attempt but before the judge has finished recording the result, the attempt will be considered unfinished (DNF).
         - A7c4) The competitor should not sign an attempt before the judge has recorded and signed the attempt. The competitor is ultimately responsible for ensuring that they and the judge have signed an attempt. If an attempt is found to be missing one or both signatures after the judge delivered the score sheet to the score taker (see [Regulation A7f](regulations:regulation:A7f)), it will be considered unfinished (DNF).
-        - A7c5) The competitor must not reset the timer unless both the competitor and the judge have signed the attempt.
     - A7f) When a competitor's score sheet for a round is complete, the judge delivers the score sheet to the score taker.
     - A7g) At the discretion of the WCA Delegate, an incident or penalty caused by a new competitor's inexperience may be replaced with an extra attempt.
 
