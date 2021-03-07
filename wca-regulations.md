@@ -418,7 +418,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A7a3) If the result is DNF, the judge calls "DNF".
     - A7b) The judge records the result on a score sheet and signs next to the result to acknowledge that the result is correct, complete, properly formatted, and clearly readable.
         - A7b1) If penalties are assigned, the judge records the original recorded time displayed on the timer, along with any penalties. The format should be "X + T + Y = F", where X represents the sum of time penalties before/starting the solve, T represents the time displayed on the timer (the "original recorded time"), Y represents a sum of time penalties during/after the solve, and F represents the final result (e.g. 2 + 17.65 + 2 = 21.65). If X and/or Y is 0, the 0 terms are omitted (e.g. 17.65 + 2 = 19.65).
-    - A7c) The competitor must check the recorded result, and sign (or initial) the score sheet to acknowledge that the result is correct, complete, properly formatted, and clearly readable. This finishes the attempt (partially superseded by [Regulation Y7e1](regulations:regulation:Y7e)).
+    - A7c) The competitor must check the recorded result, and sign (or initial) the score sheet to acknowledge that the result is correct, complete, properly formatted, and clearly readable.
         - A7c1) If the competitor or the judge refuses to accept and sign the score sheet, the WCA Delegate must resolve the dispute.
         - A7c2) If the competitor signs (or otherwise marks) an attempt before they have begun it, they forfeit the attempt and the result will be considered DNS.
         - A7c3) If the competitor signs (or otherwise marks) an attempt after starting the attempt but before the judge has finished recording the result, the attempt will be considered unfinished (DNF).
@@ -542,6 +542,5 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - Y7d) Inspection:
         - Y7d1) The judge asks the competitor to prepare the timer by turning it on and resetting if necessary. The competitor then turns the timer on and resets it if necessary. The judge should avoid touching the timer at all times.
     - Y7e) Recording results:
-        - Y7e1) The competitor must check the recorded result, and sign (or initial) the score sheet with their own pen to acknowledge that the result is correct, complete, properly formatted, and clearly readable. This finishes the attempt.
         - Y7e2) The competitor should not touch the score sheet.
     - Y7f) After finishing the attempt, if there are more attempts to be done, the competitor must place the puzzle inside the cover.
