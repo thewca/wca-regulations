@@ -20,7 +20,7 @@ Uses of the words "must", "must not", "should", "should not" and "may" match [RF
 
 ### Information on the Internet
 Website of World Cube Association: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)
-Original source of the WCA regulations: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)
+Original source of the WCA Regulations: [www.worldcubeassociation.org/regulations](https://www.worldcubeassociation.org/regulations/)
 WCA Regulations in [PDF format](link:pdf)
 
 ### Source
@@ -250,7 +250,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognized as breaking that regional record.
     - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
 - 9j) Each event must be held at most once per competition.
-- 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the Board.
+- 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the WCA.
 - 9l) Each round must be completed before any following round of the same event can start.
 - 9m) Events must have at most four rounds.
     - 9m1) Rounds with 99 or fewer competitors must have at most two subsequent rounds.
@@ -473,7 +473,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 - E2) Procedure for 3x3x3 Fewest Moves:
     - E2a) The judge distributes a scramble sequence and paper to all competitors. The judge then starts the stopwatch and calls "GO".
-        - E2a1) Before the attempt has begun, the competitor must not write on any paper intended for the attempt. Exception: the competitor may write information to identify the attempt (see [Regulation E2c1](regulations:regulation:E2c1)). If they write this information on the paper that contains the scramble sequence, they must write only on the the side without the scramble sequence before the attempt. Penalty for writing anything other than information to identify the attempt: disqualification of the attempt (DNF).
+        - E2a1) Before the attempt has begun, the competitor must not write on any paper intended for the attempt. Exception: the competitor may write information to identify the attempt (see [Regulation E2c1](regulations:regulation:E2c1)). If they write this information on the paper that contains the scramble sequence, they must write only on the side without the scramble sequence before the attempt. Penalty for writing anything other than information to identify the attempt: disqualification of the attempt (DNF).
     - E2b) All competitors have a total time limit of 60 minutes to find and write a solution.
         - E2b1) The judge should call "5 MINUTES REMAINING" at 55 minutes, and must call "STOP" at 60 minutes.
     - E2c) At 60 minutes, each competitor must submit to the judge a single piece of paper with a written solution and information to identify the attempt.
