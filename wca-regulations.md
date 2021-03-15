@@ -291,7 +291,12 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 11a2) Interference or facility interruptions (e.g. power failure, emergency alarm activation).
     - 11a3) Equipment malfunction.
 - 11b) If an incident occurs, the WCA Delegate determines an impartial and appropriate course of action.
-- 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make a decision based on fair sportsmanship (also see [Regulation 11e3](regulations:regulation:11e3)).
+- 11d) If the WCA Regulations are not fully clear of if the exact wording of a Regulation would result in a harsh penalty for a borderline incident, the the following Regulations apply:
+    - 11d1) The WCA Delegate must make a decision based on fair sportsmanship (also see [Regulation 11e3](regulations:regulation:11e3)).
+    - 11d2) The WCA Delegate may waive a penalty or award a provisional extra attempt even when the relevant Regulations do not specify this. This must be noted in the Delegate report, and satisfy the following conditions:
+        - 11d2a) The competitor did not receive (or attempt to receive) an unfair advantage for their result.
+        - 11d2b) The competitor does not have an existing pattern of this kind of incident.
+    - 11d3) If there is a dispute about whether the Delegate’s decision was appropriate, the WRC may review and override the decision.
 - 11e) If an incident occurs during an attempt, the WCA Delegate may grant a competitor an extra attempt, replacing the attempt during which the incident occurred. The competitor must appeal verbally or in writing to the judge and WCA Delegate at the time of the incident, before finishing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.
     - 11e1) If a competitor is granted an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble sequence must be generated using a current official version of an official WCA scramble program (see [Regulation 4f](regulations:regulation:4f)).
     - 11e2) If a competitor is granted an extra attempt, the extra attempt should be done right after the attempt that caused it, and must replace the original regularly numbered attempt.
