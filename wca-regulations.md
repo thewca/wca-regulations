@@ -291,7 +291,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 11a2) Interference or facility interruptions (e.g. power failure, emergency alarm activation).
     - 11a3) Equipment malfunction.
 - 11b) If an incident occurs, the WCA Delegate determines an impartial and appropriate course of action.
-- 11d) If the WCA Regulations are not fully clear of if the exact wording of a Regulation would result in a harsh penalty for a borderline incident, the the following Regulations apply:
+- 11d) If the WCA Regulations are not fully clear of if the exact wording of a Regulation would result in a harsh penalty for a borderline incident, the following Regulations apply:
     - 11d1) The WCA Delegate must make a decision based on fair sportsmanship (also see [Regulation 11e3](regulations:regulation:11e3)).
     - 11d2) The WCA Delegate may waive a penalty or award a provisional extra attempt even when the relevant Regulations do not specify this. This must be noted in the Delegate report, and satisfy the following conditions:
         - 11d2a) The competitor did not receive (or attempt to receive) an unfair advantage for their result.
