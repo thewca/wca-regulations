@@ -130,6 +130,9 @@ To be more informative, each Guideline is classified using one of the following 
 - 9f5+) [CLARIFICATION] The result of an attempt is DNS if the competitor was eligible for the attempt and did not start it (see [Regulation A3b2](regulations:regulation:A3b2)). If the competitor did not qualify for an attempt (e.g. in a cutoff round), they have no result for the attempt.
 - 9p2+) [CLARIFICATION] Result refers to the single or average that determines the ranking of the corresponding round.
 - 9q+) [RECOMMENDATION] Events and rounds should have at least 2 competitors.
+- 9t+) [EXPLANATION] Because of [9t1](regulations:regulain:9t1) and [9t2](regulations:regulain:9t2), rounds may look like they don't comply with [9p1](regulations:regulation:9m1), [9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) or [9m3](regulations:regulation:9m3). However, making changes to comply to these rules would affect innocent competitors, which is why the results must stay the same.
+- 9t++) [ADDITION] If the change of results happens during the competition, this rule must also be applied. In that case, [9t1](regulations:regulain:9t1), [9t2](regulations:regulain:9t2) and [9t3](regulations:regulain:9t3) should also be followed, at the discretion of the WCA Delegate.
+- 9t3+) [EXAMPLE] Suppose competitor A gets a 10.00 average and competitor B gets a 10.05 average in the first round of an event, such that competitor A advances to the final round but not B. If a score-taking mistake is discovered, and competitor B actually got a 9.95 average (and should have proceeded instead of A), competitor A keeps their result for the final round.
 
 
 ## <article-10><solved-state><solvedstate> Article 10: Solved State
