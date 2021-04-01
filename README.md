@@ -23,3 +23,14 @@ Public discussions of the WCA Regulations and Guidelines takes place in the [WCA
 The WRC uses GitHub issues for keeping track of the team logistics. If you find a typo on the Regulations, you can [submit an issue](https://github.com/thewca/wca-regulations/issues/new?assignees=&labels=typo&template=typo-report.md&title=).
 
 The [`thewca/wca-regulations/wiki`](https://github.com/thewca/wca-regulations/wiki) is used for posting the WRC Operations and the meetings minutes logs.
+=======
+## WRC Priorities
+
+GitHub Project Boards that keep track of our current work:
+
+- [WRC Priorities](https://github.com/orgs/thewca/projects/3).
+  - [Regulations 2020 – Priorities](https://github.com/orgs/thewca/projects/4).
+  
+## WRC Minutes Log
+
+GitHub Wiki page that keeps track of the Committee meeting minutes. See [`thewca/wca-regulations/wiki`](https://github.com/thewca/wca-regulations/wiki).

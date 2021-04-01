@@ -43,8 +43,6 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-2><competitors><competitors> Article 2: Competitors
 
 - 2c+) [ADDITION] First-time competitors should register using their legal name. They may register using a reasonable nickname, at the discretion of the WCA Delegate.
-- 2c1+) [ADDITION] The requirements for a completed registration must be clearly stated on the competition website.
-- 2c1++) [EXAMPLE] For example, the organization team may require a confirmation e-mail to be answered before a particular date, pre-payment of the registration fee, or paying due registration fees of past competitions. The organization team should carefully consider the fairness of the requirements.
 - 2c2+) [CLARIFICATION] A WCA profile is the collection of data related to a competitor, and includes their personal information (name, nationality, gender, and date of birth) as well as all their results in official WCA competitions.
 - 2d+) [ADDITION] Date of birth and contact information should be especially secured.
 - 2d++) [RECOMMENDATION] If a third party (e.g. journalist) asks the organization team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
@@ -105,20 +103,10 @@ To be more informative, each Guideline is classified using one of the following 
 - 5c+) [REMINDER] If a competitor has a puzzle defect, this does not grant them the right to an extra attempt.
 
 
-## <article-6><awards><awards> Article 6: Awards/prizes/honors
-
-- 6a+) [RECOMMENDATION] Awards, prizes or honors may be given to competitors according to the announcement of the competition.
-- 6b+) [RECOMMENDATION] Competitors should attend the winner's ceremony to receive awards/prizes/honors.
-- 6b1+) [RECOMMENDATION] The winner's ceremony should be held in the competition venue, within one hour after the end of the last event.
-- 6c+) [RECOMMENDATION] Winners of awards, prizes or honors should be prepared to talk to journalists or any media covering the competition.
-- 6d+) [RECOMMENDATION] Organization teams of competitions should have certificates for all category winners, signed by the leader of the organization team and by the WCA Delegate.
-
-
 ## <article-7><environment><environment> Article 7: Environment
 
-- 7d+) [ADDITION] The temperature of the competition area should be 21 to 25 degrees Celsius.
 - 7f1a+) [CLARIFICATION] A full-size mat should have minimum dimensions of 30cm (left to right) by 25cm (front to back).
-- 7h2+) [ADDITION] Competitors in a Competitors Area who are waiting between attempts should not be able to see the puzzles of the competitors on stage.
+- 7h2+) [ADDITION] Competitors in a Competitor Waiting Area who are waiting between attempts should not be able to see the puzzles of the competitors on stage.
 
 
 ## <article-9><events><events> Article 9: Events
@@ -131,6 +119,9 @@ To be more informative, each Guideline is classified using one of the following 
 - 9f5+) [CLARIFICATION] The result of an attempt is DNS if the competitor was eligible for the attempt and did not start it (see [Regulation A3b2](regulations:regulation:A3b2)). If the competitor did not qualify for an attempt (e.g. in a cutoff round), they have no result for the attempt.
 - 9p2+) [CLARIFICATION] Result refers to the single or average that determines the ranking of the corresponding round.
 - 9q+) [RECOMMENDATION] Events and rounds should have at least 2 competitors.
+- 9t+) [EXPLANATION] Because of [9t1](regulations:regulain:9t1) and [9t2](regulations:regulain:9t2), rounds may look like they don't comply with [9p1](regulations:regulation:9m1), [9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) or [9m3](regulations:regulation:9m3). However, making changes to comply to these rules would affect innocent competitors, which is why the results must stay the same.
+- 9t++) [ADDITION] If the change of results happens during the competition, this rule must also be applied. In that case, [9t1](regulations:regulain:9t1), [9t2](regulations:regulain:9t2) and [9t3](regulations:regulain:9t3) should also be followed, at the discretion of the WCA Delegate.
+- 9t3+) [EXAMPLE] Suppose competitor A gets a 10.00 average and competitor B gets a 10.05 average in the first round of an event, such that competitor A advances to the final round but not B. If a score-taking mistake is discovered, and competitor B actually got a 9.95 average (and should have proceeded instead of A), competitor A keeps their result for the final round.
 
 
 ## <article-10><solved-state><solvedstate> Article 10: Solved State
@@ -175,7 +166,6 @@ To be more informative, each Guideline is classified using one of the following 
 - A6b+) [EXPLANATION] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timer malfunctions.
 - A6e+) [CLARIFICATION] If the puzzle falls into the lap of the competitor after stopping the timer, this is considered touching the puzzle.
 - A7c+) [ADDITION] If a result signed by a competitor is found to be incomplete or unreadable, it should be interpreted the worst reasonable way (e.g. "1:05" will be considered 1:05.99, "25.X3" will be considered 25.73 if X could be either a 1 or a 7). Given that the Stackmat timer displays a time of X:0Y.ss as X:Y.ss, a missing tens digit should be considered more likely than a missing ones digit (e.g. "1:2.27" will be considered 1:02.27). The judge who signed an ambiguous result may be requested to clarify it, at the discretion of the score taker.
-- A7c4+) [ADDITION] Missing signatures found by the score taker may be added by the judge and/or competitor before the end of the competition, at the discretion of the WCA Delegate.
 - A7g+) [EXAMPLE] Examples of incidents that could grant a new competitor an extra attempt: not waiting for the green light, improperly starting or stopping the timer, going over inspection time due to misunderstanding how to start a solve, or other procedural time penalties.
 - A7g++) [CLARIFICATION] Individual penalties cannot be waived for new competitors. A full extra attempt must be granted.
 - A7g+++) [RECOMMENDATION] The WCA Delegate should use stronger discretion when granting more than one extra attempt to the same new competitor. If more than one extra attempt is granted, it should be for a different incident.
