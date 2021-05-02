@@ -9,7 +9,7 @@ This document is meant to clarify some of the implicit conventions adopted in WC
   - The Guidelines have an irregular correspondence to numbering in the Regulations, thus Guidelines have no indentation in the source.
 - The division into Regulations Guidelines roughly mirrors the normative vs. non-normative (informative) distinction employed by W3C standards.
   - The use of the words "must (not)", "shall (not)", "should (not)", and "may (not)" (requirement levels) conform to RFC 2119. In particular, note that "shall" indicates a (non-optional) requirement.
-  - The Regulations must not rely on the Guidelines for completeness or consistency. Any normative Guidelines must be be implicit in the Regulations (e.g. labeled [REMINDER]).
+  - The Regulations must not rely on the Guidelines for completeness or consistency. Any normative Guidelines must be implicit in the Regulations (e.g. labeled [REMINDER]).
   - As a rule of thumb, anything with "must" or "shall" should be in the Regulations, and anything with "should" or "may" should be in the Guidelines.
 - The documents are written in American English.
 
@@ -122,4 +122,4 @@ This document is meant to clarify some of the implicit conventions adopted in WC
 - Ranking/Rank: An ordinal number representing a result's order in a list of results (e.g. ranking in a round, world rank).
 - Record: A best-ranked result (e.g. of comparable results for a region, or of results for a competitor)
 - Part: A subset of puzzle components (in particular, any individual piece, cap, sticker, etc.).
-- Piece: A part of the puzzle that stays together during normal use of a puzzle (e.g. a cubie with its stickers).
+- Piece: A part of the puzzle that stays together during normal use of a puzzle (e.g. a cube with its stickers).
