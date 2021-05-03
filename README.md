@@ -1,7 +1,6 @@
 # WCA Regulations
 
-This repository contains the WCA Regulations and Guidelines, which apply to all official competitions sanctioned by the [World Cube Association](http://www.worldcubeassociation.org/).
-Regulations and Guidelines for official 3x3x3 Cube and other twisty puzzles competitions sanctioned by the [World Cube Association](http://www.worldcubeassociation.org/).
+This repository contains the WCA Regulations and Guidelines, which apply to all official competitions for the 3x3x3 Cube and other twisty puzzles, sanctioned by the [World Cube Association](http://www.worldcubeassociation.org/).
 
 Official competitions must always use the current version of the Regulations at <https://www.worldcubeassociation.org/regulations/>, which matches the branch named [`official`](https://github.com/thewca/wca-regulations/tree/official) on GitHub.
 
