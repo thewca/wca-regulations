@@ -9,7 +9,7 @@ This document is meant to clarify some of the implicit conventions adopted in WC
   - The Guidelines have an irregular correspondence to numbering in the Regulations, thus Guidelines have no indentation in the source.
 - The division into Regulations Guidelines roughly mirrors the normative vs. non-normative (informative) distinction employed by W3C standards.
   - The use of the words "must (not)", "shall (not)", "should (not)", and "may (not)" (requirement levels) conform to RFC 2119. In particular, note that "shall" indicates a (non-optional) requirement.
-  - The Regulations must not rely on the Guidelines for completeness or consistency. Any normative Guidelines must be be implicit in the Regulations (e.g. labeled [REMINDER]).
+  - The Regulations must not rely on the Guidelines for completeness or consistency. Any normative Guidelines must be implicit in the Regulations (e.g. labeled [REMINDER]).
   - As a rule of thumb, anything with "must" or "shall" should be in the Regulations, and anything with "should" or "may" should be in the Guidelines.
 - The documents are written in American English.
 
