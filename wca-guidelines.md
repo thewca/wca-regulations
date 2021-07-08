@@ -36,7 +36,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 1c++) [CLARIFICATION] WCA Delegates may attend the competition without being designated to serve in the WCA Delegate role for the competition. "The WCA Delegate" does not refer to them unless they have been appointed with a relevant responsibility by a designated WCA Delegate for the competition (see [Guideline 1c+](guidelines:guideline:1c+)).
 - 1h+) [RECOMMENDATION] Competitors in the same group should use the same scramble sequences. Different groups should use different scramble sequences.
 - 1h++) [RECOMMENDATION] All attempts in the final round of an event, as well as all 3x3x3 Fewest Moves attempts, should have the same scramble sequences for all competitors (i.e. only 1 group).
-- 1h1+) [CLARIFICATION] Scramblers/judges should only scramble for/judge other competitors in the same group only if it is important for competition logistics.
+- 1h1+) [CLARIFICATION] Scramblers/judges should only scramble for/judge other competitors in the same group if it is important for competition logistics.
 - 1h1++) [CLARIFICATION] For 3x3x3 Fewest Moves, judges may judge competitors in their own group before they have finished their attempt (i.e. while they are competing).
 
 
