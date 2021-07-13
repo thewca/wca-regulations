@@ -63,7 +63,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 2a) Any person may compete in a WCA competition if they (complemented by [Regulation Y3](regulations:regulation:Y3)):
     - 2a1) Comply with WCA Regulations.
     - 2a2) Meet the competition requirements, which must be clearly announced before the competition.
-    - 2a3) Are not suspended the by WCA Board.
+    - 2a3) Are not suspended by the WCA Board.
 - 2b) Competitors below the age of 18 must obtain consent from their parent(s)/guardian(s) to register and compete.
 - 2c) Competitors register by providing all information required by the organization team (including: name, country, date of birth, gender, contact information, selected events).
     - 2c1) A competitor is not eligible to compete without a completed registration, as determined by the organization team.
