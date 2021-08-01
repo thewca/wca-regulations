@@ -63,7 +63,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 2a) Any person may compete in a WCA competition if they (complemented by [Regulation Y3](regulations:regulation:Y3)):
     - 2a1) Comply with WCA Regulations.
     - 2a2) Meet the competition requirements, which must be clearly announced before the competition.
-    - 2a3) Are not suspended by WCA Board.
+    - 2a3) Are not suspended by the WCA Board.
 - 2b) Competitors below the age of 18 must obtain consent from their parent(s)/guardian(s) to register and compete.
 - 2c) Competitors register by providing all information required by the organization team (including: name, country, date of birth, gender, contact information, selected events).
     - 2c1) A competitor is not eligible to compete without a completed registration, as determined by the organization team.
@@ -223,7 +223,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 9b3a) Full round format for these events: "Best of 3".
         - 9b3b) For these events, the WCA also recognizes "Mean of 3" rankings and records based on the times from "Best of 3" rounds.
     - 9b4) 3x3x3 Fewest Moves.
-        - 9b4a) Full round formats for this event: Best of X" (where X is 1 or 2) or "Mean of 3".
+        - 9b4a) Full round formats for this event: "Best of X" (where X is 1 or 2) or "Mean of 3".
         - 9b4b) Cutoff formats for this event: "Best of 1" cutoff phase for "Best of 2" or "Best of X" (where X is 1 or 2) cutoff phase for "Mean of 3".
     - 9b5) 3x3x3 Multi-Blind.
         - 9b5a) Full round formats for this event: "Best of X" (where X is 1, 2, or 3).
@@ -279,7 +279,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 10e) A puzzle is solved when all colored parts are reassembled and all parts are aligned within the limits specified below:
     - 10e1) For every two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned by more than the limit described in [Regulation 10f](regulations:regulation:10f), the puzzle is considered to require one additional move to solve (see "Outer Block Turn Metric" in [Article 12](regulations:article:12)).
     - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle is considered solved without penalty.
-    - 10e3) If one move is required, the puzzle is be considered solved with a time penalty (+2 seconds).
+    - 10e3) If one move is required, the puzzle is considered solved with a time penalty (+2 seconds).
     - 10e4) If more than one move is required, the puzzle is considered unsolved (DNF).
 - 10f) Limits of acceptable misalignment for puzzles:
     - 10f1) NxNxN Cubes: at most 45 degrees.
@@ -336,8 +336,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 12d1a) Clockwise, 72 degrees: U (upper face).
         - 12d1b) Counter-clockwise, 72 degrees: U' (upper face).
     - 12d2) Other moves are applied while keeping 3 pieces fixed at the top left of the puzzle:
-        - 12d2c) Clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R++ (vertical slices), D++ (horizontal slices).
-        - 12d2d) Counter-clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R-- (vertical slices), D-- (horizontal slices).
+        - 12d2c) Clockwise 144 degrees move of the whole puzzle except for the slice of top left three pieces: R++ (vertical slices), D++ (horizontal slices).
+        - 12d2d) Counter-clockwise 144 degrees move of the whole puzzle except for the slice of top left three pieces: R-- (vertical slices), D-- (horizontal slices).
 - 12e) Notation for Pyraminx:
     - 12e1) The puzzle is oriented with the bottom face completely horizontal and the front face facing the person who is holding the Pyraminx.
     - 12e2) Clockwise, 120 degrees: U (upper 2 layers), L (left 2 layers), R (right 2 layers), B (back 2 layers), u (upper vertex), l (left vertex), r (right vertex), b (back vertex).
