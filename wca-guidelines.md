@@ -72,6 +72,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 3h2++) [CLARIFICATION] "Stickerless" puzzles that significantly differ from most mass-produced "stickerless" puzzles are only permitted at the discretion of the WCA Delegate.
 - 3j+) [REMINDER] In the past, engraved/embossed parts have been permitted. This is no longer permitted.
 - 3j++) [CLARIFICATION] On Clock, pins may be distinguishable from any other pin of the same side.
+- 3j1+) [REMINDER] On Clock, loose pins are not considered a reasonable wear, at the discretion of the WCA Delegate.
 - 3j2+) [CLARIFICATION] On Clock, the nine inner clock faces on one side are considered similar pieces.
 - 3k2+) [ADDITION] The WCA Delegate should not apply a listed exception if they believe the competitor tried to use a non-permitted puzzle on purpose.
 - 3k2b+) [CLARIFICATION] If a non-permitted puzzle is found during the course of a 3x3x3 Multi-Blind attempt, the puzzle must not be exchanged or removed from the attempt and must be counted as unsolved if the entire attempt is not disqualified.
