@@ -109,7 +109,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 2t) Each competitor must be familiar with and understand the WCA Regulations before the competition.
 - 2u) Competitors must be present and ready to compete when they are called to compete for an attempt. Penalty: disqualification from the event.
     - 2u1) Exception: A competitor who is not present in time for an individually scheduled attempt (e.g. a 3x3x3 Fewest Moves attempt, a 3x3x3 Multi-Blind attempt) may be considered to have declined that attempt (DNS), at the discretion of the WCA Delegate.
-    2u2) Exception: A competitor who arrives late for a round where a cumulative time limit is applied may compete with a reduced cumulative time limit, at the discretion of the WCA Delegate.
+    - 2u2) Exception: A competitor who arrives late for a round where a cumulative time limit is applied may compete with a reduced cumulative time limit, at the discretion of the WCA Delegate.
 
 
 ## <article-3><puzzles><puzzles> Article 3: Puzzles
