@@ -106,7 +106,7 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-7><environment><environment> Article 7: Environment
 
 - 7f1a+) [CLARIFICATION] A full-size mat should have minimum dimensions of 30cm (left to right) by 25cm (front to back).
-- 7f2+) [CLARIFICATION] Attempts done with an unattached timer may not be replaced or disqualified if it went unnoticed when the solve was finished even if the competitor gained no advantage from it).
+- 7f2+) [CLARIFICATION] Attempts done with an unattached timer may not be replaced or disqualified if it went unnoticed when the solve was finished even if the competitor gained no advantage from it.
 - 7h2+) [ADDITION] Competitors in a Competitor Waiting Area who are waiting between attempts should not be able to see the puzzles of the competitors on stage.
 
 
