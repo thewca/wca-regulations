@@ -1,6 +1,6 @@
 # <wca-title>WCA Regulations
 
-<version>Version: May 1, 2021
+<version>Version: January 1, 2022
 
 
 ## Notes
@@ -63,7 +63,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 2a) Any person may compete in a WCA competition if they (complemented by [Regulation Y3](regulations:regulation:Y3)):
     - 2a1) Comply with WCA Regulations.
     - 2a2) Meet the competition requirements, which must be clearly announced before the competition.
-    - 2a3) Are not suspended by WCA Board.
+    - 2a3) Are not suspended by the WCA Board.
 - 2b) Competitors below the age of 18 must obtain consent from their parent(s)/guardian(s) to register and compete.
 - 2c) Competitors register by providing all information required by the organization team (including: name, country, date of birth, gender, contact information, selected events).
     - 2c1) A competitor is not eligible to compete without a completed registration, as determined by the organization team.
@@ -77,7 +77,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
     - 2g3) Competitors in a Competitor Waiting Area must not communicate with each other about the scrambled states of the puzzles of the round in progress. Penalty: disqualification of the competitor(s) from the event, at the discretion of the WCA Delegate.
 - 2h) Competitors must be fully dressed while in the competition venue. At the discretion of the WCA Delegate, competitors may be disqualified from the competition for inappropriate clothing.
-- 2i) While competing, competitors must not use electronics or audio equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting) apart from the Stackmat timer or stopwatch.
+- 2i) While inspecting or solving, competitors must not use electronics or audio equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting) apart from the Stackmat timer or stopwatch.
     - 2i1) Competitors may use non-electronic aids that do not give an unfair advantage, at the discretion of the WCA Delegate. This includes:
         - 2i1a) Medical/physical aids worn by the competitor (e.g. glasses, wrist brace). As an exception to [Regulation 2i](regulations:regulation:2i), medical aids may be electronic if the competitor does not have comfortable non-electronic alternatives (e.g. if the competitor has a personal hearing aid or pacemaker).
         - 2i1b) Earplugs and earmuffs (but not electronic headphones and earbuds).
@@ -87,10 +87,11 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 2i2a) Each camera monitor must be blank or out of sight of the competitor (see [Regulation A5b](regulations:regulation:A5b)).
         - 2i2b) The competitor must not interact with (e.g. operate, hold, wear) any active camera. Exception: the competitor may wear a camera mounted on their head, as long as it is out of their sight and it is clear that they are not interacting with it (apart from wearing it).
     - 2i3) The competitor may have a cell phone in their pocket, as long as it is clear that they are not otherwise interacting with it.
+    - 2i4) Competitors should turn off all cell phone notifications while competing to avoid disturbing the competition.
 - 2j) The WCA Delegate may disqualify a competitor from a specific event.
     - 2j1) If a competitor is disqualified from an event for any reason, they are not eligible for any more attempts in the event.
         - 2j1a) If the competitor has already started at least one attempt in a round before being disqualified from it, the results of all remaining attempts in the event are recorded as DNF. If the competitor has started no attempts (i.e. has no results or only has DNS results), no results are recorded.
-    - 2j2) If a competitor is disqualified during the course of an event, their earlier results remain valid. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
+    - 2j2) If a competitor is disqualified during the course of an event, results from attempts that are already finished when the competitor is disqualified remain valid. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
 - 2k) At the discretion of the WCA Delegate, a competitor may be disqualified from some events (a single event, multiple events, or all events) if the competitor:
     - 2k1) Fails to check in or register in time for the competition.
     - 2k2) Is suspected of cheating or defrauding the officials during the competition.
@@ -109,6 +110,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 2t) Each competitor must be familiar with and understand the WCA Regulations before the competition.
 - 2u) Competitors must be present and ready to compete when they are called to compete for an attempt. Penalty: disqualification from the event.
     - 2u1) Exception: A competitor who is not present in time for an individually scheduled attempt (e.g. a 3x3x3 Fewest Moves attempt, a 3x3x3 Multi-Blind attempt) may be considered to have declined that attempt (DNS), at the discretion of the WCA Delegate.
+    - 2u2) Exception: For rounds with a cumulative time limit, a competitor who arrives late may compete with a reduced cumulative time limit, at the discretion of the WCA Delegate.
 
 
 ## <article-3><puzzles><puzzles> Article 3: Puzzles
@@ -198,12 +200,13 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 7e) The competition area must be smoke-free.
 - 7f) Solving station:
     - 7f1) Definitions:
-        - 7f1a) Stackmat: The Speed Stacks Stackmat timer and a full-size compatible mat. Generation 2, Generation 3 Pro Timer, and/or Generation 4 Pro Timer must be used for time measurement.
+        - 7f1a) Stackmat: The Speed Stacks Stackmat timer and a full-size compatible mat. Generation 2, Generation 3 Pro Timer, Generation 4 Pro Timer, and/or Generation 5 Pro Timer must be used for time measurement.
         - 7f1b) Mat: The mat of the Stackmat.
         - 7f1c) Timer: The timer of the Stackmat, or a stopwatch (for longer attempts).
         - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
     - 7f2) The Stackmat timer must be attached to the mat and placed on the surface, with the timer on the side of the mat nearest to the competitor.
     - 7f3) The organization team should modify Stackmat timers to be more robust against common incidents, by making the buttons more difficult to press by accident (e.g. by attaching O-rings around the buttons) and securing the battery more firmly (e.g. by padding the battery compartment).
+    - 7f4) Generation 5 Pro Timer must be used in 2-pad mode.
 - 7h) The competition area must have one or more Competitor Waiting Areas (superseded by [Regulation Y6a](regulations:regulation:Y6a)).
     - 7h1) The organization team may require that a competitor who has been called to compete must remain within their assigned Competitor Waiting Area until the competitor has finished all attempts for the round.
     - 7h2) Definition: A Competitor Waiting Area is an area in which competitors in a group wait at to be called to a solving station. 
@@ -223,7 +226,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 9b3a) Full round format for these events: "Best of 3".
         - 9b3b) For these events, the WCA also recognizes "Mean of 3" rankings and records based on the times from "Best of 3" rounds.
     - 9b4) 3x3x3 Fewest Moves.
-        - 9b4a) Full round formats for this event: Best of X" (where X is 1 or 2) or "Mean of 3".
+        - 9b4a) Full round formats for this event: "Best of X" (where X is 1 or 2) or "Mean of 3".
         - 9b4b) Cutoff formats for this event: "Best of 1" cutoff phase for "Best of 2" or "Best of X" (where X is 1 or 2) cutoff phase for "Mean of 3".
     - 9b5) 3x3x3 Multi-Blind.
         - 9b5a) Full round formats for this event: "Best of X" (where X is 1, 2, or 3).
@@ -258,7 +261,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9m1) Rounds with 99 or fewer competitors must have at most two subsequent rounds.
     - 9m2) Rounds with 15 or fewer competitors must have at most one subsequent round.
     - 9m3) Rounds with 7 or fewer competitors must not have subsequent rounds.
-- 9o) Cutoff rounds count as one round when counting the number of rounds per event.
+- 9o) Cutoff Rounds count as one round when counting the number of rounds per event.
 - 9p) If an event has multiple rounds, then:
     - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
     - 9p2) The competitors who advance to the next round must be determined by ranking (best x competitors) or by result (all competitors with a better result than x) in the preceding round.
@@ -279,7 +282,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 10e) A puzzle is solved when all colored parts are reassembled and all parts are aligned within the limits specified below:
     - 10e1) For every two adjacent parts (e.g. two parallel, adjacent slices of a cube) of the puzzle that are misaligned by more than the limit described in [Regulation 10f](regulations:regulation:10f), the puzzle is considered to require one additional move to solve (see "Outer Block Turn Metric" in [Article 12](regulations:article:12)).
     - 10e2) If no further moves are required to bring the puzzle to its solved state, the puzzle is considered solved without penalty.
-    - 10e3) If one move is required, the puzzle is be considered solved with a time penalty (+2 seconds).
+    - 10e3) If one move is required, the puzzle is considered solved with a time penalty (+2 seconds).
     - 10e4) If more than one move is required, the puzzle is considered unsolved (DNF).
 - 10f) Limits of acceptable misalignment for puzzles:
     - 10f1) NxNxN Cubes: at most 45 degrees.
@@ -336,8 +339,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 12d1a) Clockwise, 72 degrees: U (upper face).
         - 12d1b) Counter-clockwise, 72 degrees: U' (upper face).
     - 12d2) Other moves are applied while keeping 3 pieces fixed at the top left of the puzzle:
-        - 12d2c) Clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R++ (vertical slices), D++ (horizontal slices).
-        - 12d2d) Counter-clockwise 144 degrees move of whole puzzle except for the slice of top left three pieces: R-- (vertical slices), D-- (horizontal slices).
+        - 12d2c) Clockwise 144 degrees move of the whole puzzle except for the slice of top left three pieces: R++ (vertical slices), D++ (horizontal slices).
+        - 12d2d) Counter-clockwise 144 degrees move of the whole puzzle except for the slice of top left three pieces: R-- (vertical slices), D-- (horizontal slices).
 - 12e) Notation for Pyraminx:
     - 12e1) The puzzle is oriented with the bottom face completely horizontal and the front face facing the person who is holding the Pyraminx.
     - 12e2) Clockwise, 120 degrees: U (upper 2 layers), L (left 2 layers), R (right 2 layers), B (back 2 layers), u (upper vertex), l (left vertex), r (right vertex), b (back vertex).
@@ -379,7 +382,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - A3) Inspection:
     - A3a) The competitor may inspect the puzzle at the start of each attempt.
         - A3a1) The competitor is allotted a maximum of 15 seconds to inspect the puzzle and start the solve.
-    - A3b) The judge prepares the timer by turning it on and resetting if necessary. Separately, the judge also prepares a stopwatch for timing inspection (partially superseded by [Regulation Y7d1](regulations:regulation:Y7d1)).
+    - A3b) The judge prepares the timer by turning it on and resetting if necessary. If a Generation 5 Pro Timer is in use, the judge must ensure it is set to 2-Pad mode. Separately, the judge also prepares a stopwatch for timing inspection (partially superseded by [Regulation Y7d1](regulations:regulation:Y7d1)).
         - A3b1) When the judge believes the competitor is ready, the judge asks "READY?". The competitor must be ready to start the attempt within one minute from the moment they are asked, or else the competitor forfeits the attempt (DNS), at the discretion of the judge.
         - A3b2) The competitor starts the attempt by confirming that they are ready, and the judge uncovers the puzzle and starts timing the inspection.
     - A3c) The competitor may pick up the puzzle during inspection.

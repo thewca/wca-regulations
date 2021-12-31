@@ -1,6 +1,6 @@
 # <wca-title>WCA Guidelines
 
-<version>Version: May 1, 2021
+<version>Version: January 1, 2022
 
 
 ## Notes
@@ -36,7 +36,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 1c++) [CLARIFICATION] WCA Delegates may attend the competition without being designated to serve in the WCA Delegate role for the competition. "The WCA Delegate" does not refer to them unless they have been appointed with a relevant responsibility by a designated WCA Delegate for the competition (see [Guideline 1c+](guidelines:guideline:1c+)).
 - 1h+) [RECOMMENDATION] Competitors in the same group should use the same scramble sequences. Different groups should use different scramble sequences.
 - 1h++) [RECOMMENDATION] All attempts in the final round of an event, as well as all 3x3x3 Fewest Moves attempts, should have the same scramble sequences for all competitors (i.e. only 1 group).
-- 1h1+) [CLARIFICATION] Scramblers/judges should only scramble for/judge other competitors in the same group only if it is important for competition logistics.
+- 1h1+) [CLARIFICATION] Scramblers/judges should only scramble for/judge other competitors in the same group if it is important for competition logistics.
 - 1h1++) [CLARIFICATION] For 3x3x3 Fewest Moves, judges may judge competitors in their own group before they have finished their attempt (i.e. while they are competing).
 
 
@@ -58,6 +58,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 2j2+) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, their results from earlier rounds remain valid.
 - 2k6+) [CLARIFICATION] WCA Delegates should only use their discretion to prevent competitors from being a severe detriment to the competition (e.g. wasting time and/or competition resources). Competitors should not be disqualified for a "poor" result when they are competing to the best of their abilities.
 - 2s+) [REMINDER] Special accommodations must be noted in the Delegate Report.
+- 2u1+) [ADDITION] The competitor may compete at the discretion of the WCA Delegate. The WCA Delegate must carefully consider the fairness of allowing it.
 
 
 ## <article-3><puzzles><puzzles> Article 3: Puzzles
@@ -70,8 +71,10 @@ To be more informative, each Guideline is classified using one of the following 
 - 3h+) [CLARIFICATION] Puzzles may be refined internally by sanding, lubrication, or modifications which improve stability (e.g. magnets).
 - 3h++) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colors on the backside of the puzzle are visible, moves are done automatically, or the puzzles have more/different solved states.
 - 3h2++) [CLARIFICATION] "Stickerless" puzzles that significantly differ from most mass-produced "stickerless" puzzles are only permitted at the discretion of the WCA Delegate.
+- 3h2a+) [ADDITION] Examples of transparent parts that do not reveal more information about the state of the puzzle: internal parts of the puzzle mechanism, transparent Clock cases.
 - 3j+) [REMINDER] In the past, engraved/embossed parts have been permitted. This is no longer permitted.
 - 3j++) [CLARIFICATION] On Clock, pins may be distinguishable from any other pin of the same side.
+- 3j1+) [REMINDER] On Clock, loose pins (i.e. pins that can toggle or recede using gravity instead of being directly pressed) are not considered reasonable wear.
 - 3j2+) [CLARIFICATION] On Clock, the nine inner clock faces on one side are considered similar pieces.
 - 3k2+) [ADDITION] The WCA Delegate should not apply a listed exception if they believe the competitor tried to use a non-permitted puzzle on purpose.
 - 3k2b+) [CLARIFICATION] If a non-permitted puzzle is found during the course of a 3x3x3 Multi-Blind attempt, the puzzle must not be exchanged or removed from the attempt and must be counted as unsolved if the entire attempt is not disqualified.
@@ -116,7 +119,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 9b3b+) [CLARIFICATION] The "Mean of 3" statistic does not affect the competitor's ranking in a "Best of 3" round (which is based on the best result). The WCA recognizes it outside of the competition format.
 - 9f1+) [EXAMPLE] If the timer displays 12.678 for an attempt, the original recorded time is 12.67 (drop any digit after a hundredth of a second). A judge may write the full-precision time on the score sheet (and keep the precision in the calculation of penalties), as long as the score taker truncates it for the official results.
 - 9f4+) [EXPLANATION] The result of an attempt is DNF only if the competitor began the attempt by indicating that they are ready (see [Regulation A3b2](regulations:regulation:A3b2)) but the attempt was disqualified.
-- 9f5+) [CLARIFICATION] The result of an attempt is DNS if the competitor was eligible for the attempt and did not start it (see [Regulation A3b2](regulations:regulation:A3b2)). If the competitor did not qualify for an attempt (e.g. in a cutoff round), they have no result for the attempt.
+- 9f5+) [CLARIFICATION] The result of an attempt is DNS if the competitor was eligible for the attempt and did not start it (see [Regulation A3b2](regulations:regulation:A3b2)). If the competitor did not qualify for an attempt (e.g. in a Cutoff Round), they have no result for the attempt.
 - 9p2+) [CLARIFICATION] Result refers to the single or average that determines the ranking of the corresponding round.
 - 9q+) [RECOMMENDATION] Events and rounds should have at least 2 competitors.
 - 9t+) [EXPLANATION] Because of [9t1](regulations:regulation:9t1) and [9t2](regulations:regulation:9t2), rounds may look like they do not comply with [9p1](regulations:regulation:9p1), [9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) or [9m3](regulations:regulation:9m3). However, making changes to comply to these rules would affect innocent competitors, which is why the results must stay the same.
@@ -208,6 +211,7 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving
 
 - H1+) [ADDITION] If a puzzle with a duplicate scramble is found during an attempt, the puzzle may be re-scrambled using a different scramble sequence, at the discretion of the WCA Delegate.
+- H1b+) [ADDITION] A competitor may join a Multi-Blind attempt that is already in progress, at the discretion of the WCA Delegate. In this case, their time limit is the time remaining (i.e. they must finish when other competitors reach their time limit). Exception: a competitor must not be permitted to join a Multi-Blind attempt if any competitor has finished their attempt already, or if there is any other risk that information about the scramble may have become known to the competitor who wishes to join.
 - H1b1+) [REMINDER] The attempt is not disqualified for reaching the time limit, due to exceptions for 3x3x3 Multi-Blind (see [Regulation A1a4](regulations:regulation:A1a4) and [Regulation A1a5](regulations:regulation:A1a5)).
 - H1b1++) [ADDITION] The judge may permit the competitor to continue the attempt unofficially, but the attempt must be stopped and judged first, in full accordance with the Regulations.
 - H1d+) [EXAMPLE] Example: Suppose a competitor attempts 10 cubes, stops the solve with a time of 59:57, and has two time penalties. The time of the final result is 59:57 + 2*2 = 60:01 (also see [Regulation A1a5](regulations:regulation:A1a5)).
