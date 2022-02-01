@@ -534,7 +534,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 ## <article-Y><temporary-regulations><temporaryregulations> Article Y: Temporary Regulations
 
-- Y1) Additional regulations that supersede all other regulations are described below. These regulations are meant to complement the [Competition Safety Policy](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Safety.pdf).
+- Y1) Additional regulations that supersede all other regulations are described below.
 - Y2) Definitions:
     - Y2a) Attendee: Any person who attends a WCA Competition, including competitors, officials and guests.
     - Y2b) Fixed seating: A competition method in which a competitor does all of their attempts in a round at the same solving station.
