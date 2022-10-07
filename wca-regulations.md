@@ -275,7 +275,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9t3) If any change occurs to the result of a competitor, such that another competitor should not have advanced to the next round, the result of the second competitor must not be removed.
 - 9u) A competition is considered to have ended if all the following requirement are meet:
     - 9u1) All the scheduled rounds in the WCA website are completed.
-    - 9u2) All the listed WCA Delegates permanemtly leave the venue. Exception: the WCA Delegate may announce the end of the competition before all the listed WCA Delegates have left the venue (e.g. before the awards ceremony).
+    - 9u2) All the listed WCA Delegates permanently leave the venue. Exception: the WCA Delegate may announce the end of the competition before all the listed WCA Delegates have left the venue (e.g. before the awards ceremony).
 
 
 ## <article-10><solved-state><solvedstate> Article 10: Solved State
