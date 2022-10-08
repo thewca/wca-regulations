@@ -277,7 +277,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9u1) All the scheduled rounds in the WCA website are completed.
     - 9u2) The WCA Delegate announces the end of the competition. If the WCA Delegate does not announce the end of the competition, at least one of the following conditions are required:
         - 9u2a) All the listed WCA Delegates permanently leave the venue.
-        - 9u2b) The end of the calendar date in which the competition took place is reached.
+        - 9u2b) The end of the last calendar date of the competition is reached.
 
 
 ## <article-10><solved-state><solvedstate> Article 10: Solved State
