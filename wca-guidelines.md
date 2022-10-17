@@ -57,6 +57,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 2i2a+) [ADDITION] A monitor of a camera can be visible to the competitor as long as it does not show the live feed of the camera.
 - 2j2+) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, their results from earlier rounds remain valid.
 - 2j2++) [EXAMPLE] If the WCA Delegate disqualifies a competitor during their third attempt in a round, only the third attempt and all following attempts in that event are disqualified, even if the circumstances that originated the disqualification occurred prior to this attempt.
+- 2j2+++) [CLARIFICATION] Specific completed attempts may be disqualified under the circumstances described in [Regulation 2k](regulations:regulation:2k), only if the relevant incident ocurred during the attempt.
 - 2k6+) [CLARIFICATION] WCA Delegates should only use their discretion to prevent competitors from being a severe detriment to the competition (e.g. wasting time and/or competition resources). Competitors should not be disqualified for a "poor" result when they are competing to the best of their abilities.
 - 2s+) [REMINDER] Special accommodations must be noted in the Delegate Report.
 - 2u1+) [ADDITION] The competitor may compete at the discretion of the WCA Delegate. The WCA Delegate must carefully consider the fairness of allowing it.
