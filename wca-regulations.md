@@ -228,7 +228,6 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 9b3b) For these events, the WCA also recognizes "Mean of 3" rankings and records based on the times from "Best of 3" rounds.
     - 9b4) 3x3x3 Fewest Moves.
         - 9b4a) Full round formats for this event: "Best of X" (where X is 1 or 2) or "Mean of 3".
-        - 9b4b) Cutoff formats for this event: "Best of 1" cutoff phase for "Best of 2" or "Best of X" (where X is 1 or 2) cutoff phase for "Mean of 3".
     - 9b5) 3x3x3 Multi-Blind.
         - 9b5a) Full round formats for this event: "Best of X" (where X is 1, 2, or 3).
         - 9b5b) Cutoff formats for this event: "Best of X" (where X is 1 or 2) cutoff phase for "Best of Y" (where Y is 2 or 3, and Y > X).
