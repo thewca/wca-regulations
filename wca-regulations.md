@@ -387,7 +387,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A3b1) When the judge believes the competitor is ready, the judge asks "READY?". The competitor must be ready to start the attempt within one minute from the moment they are asked, or else the competitor forfeits the attempt (DNS), at the discretion of the judge.
         - A3b2) The competitor starts the attempt by confirming that they are ready, and the judge uncovers the puzzle and starts timing the inspection.
     - A3c) The competitor may pick up the puzzle during inspection.
-        - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the attempt (DNF). Exception: For Square-1, the competitor should not be penalized for any accidental move made within the limits of Regulation 10f](regulations:regulation:10f).
+        - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the attempt (DNF). Exception: For Square-1, the competitor should not be penalized for any accidental move made within the limits of [Regulation 10f](regulations:regulation:10f).
         - A3c2) If the parts of the puzzle are not fully aligned, then the competitor may align the faces, as long as misalignments stay within the limits of [Regulation 10f](regulations:regulation:10f).
         - A3c3) The competitor may reset the timer before the start of the solve.
         - A3c4) For Square-1, if the use of a thin object inside the puzzle has been enforced by the organization team (see [Regulation A2b1](regulations:regulation:A2b1)), the competitor may remove the object from the puzzle during inspection.
