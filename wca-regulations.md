@@ -192,6 +192,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 5b5c) If more than one part with one colored face is affected, the puzzle is considered unsolved (DNF).
         - 5b5d) If one or more parts with more than one colored face are affected, the puzzle is considered unsolved (DNF).
         - 5b5e) Regulations [5b5c](regulations:regulation:5b5c) and [5b5d](regulations:regulation:5b5d) supersede [5b5a](regulations:regulation:5b5a) and [5b5b](regulations:regulation:5b5b).
+    - 5b6) Definition: A part is a subset of puzzle components (in particular, any individual piece, cap, sticker, etc.).
 
 
 ## <article-7><environment><environment> Article 7: Environment
