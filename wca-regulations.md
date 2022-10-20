@@ -26,6 +26,9 @@ WCA Regulations in [PDF format](link:pdf)
 ### Source
 Development of the WCA Regulations and Guidelines is public [on GitHub](https://github.com/thewca/wca-regulations) and the discussion is public [on the WCA Forum](https://forum.worldcubeassociation.org/c/regulations).
 
+### License
+This document is licensed under a [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license. Permissions beyond the scope of this license may be available at [thewca/wca-regulations-translations](https://github.com/thewca/wca-regulations-translations#license)
+
 ### Contact
 For questions and feedback, please contact the [WCA Regulations Committee (WRC)](mailto:wrc@worldcubeassociation.org).
 

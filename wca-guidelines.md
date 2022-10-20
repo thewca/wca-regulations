@@ -9,6 +9,9 @@
 
 The WCA Guidelines supplement the [WCA Regulations](regulations:top). Please see the Regulations for more information about the WCA.
 
+### License
+This document is licensed under a [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license. Permissions beyond the scope of this license may be available at [thewca/wca-regulations-translations](https://github.com/thewca/wca-regulations-translations#license).
+
 ### Numbering
 
 Guidelines are numbered in correspondence with related regulations. Note that multiple Guidelines may correspond to the same Regulation, and some Guidelines correspond to Regulations that do not exist anymore.
