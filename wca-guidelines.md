@@ -109,6 +109,7 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-7><environment><environment> Article 7: Environment
 
 - 7f1a+) [CLARIFICATION] A full-size mat should have minimum dimensions of 30cm (left to right) by 25cm (front to back).
+- 7f3+) [RECOMMENDATION] Recommended O-ring size: 1.5cm inner and 2.2cm outer diameter.
 - 7h2+) [ADDITION] Competitors in a Competitor Waiting Area who are waiting between attempts should not be able to see the puzzles of the competitors on stage.
 
 
