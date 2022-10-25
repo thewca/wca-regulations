@@ -95,6 +95,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 4f+) [RECOMMENDATION] The WCA Delegate should generate sufficient scramble sequences for the entire competition ahead of time, including spare scramble sequences for extra attempts.
 - 4f++) [REMINDER] If the WCA Delegate generates any additional scramble sequences during the competition, the scramble sequences must be saved.
 - 4g1+) [CLARIFICATION] 5x5x5 Blindfolded scrambles must be scrambled correctly
+- 4g1++) [RECOMMENDATION] A Delegate should only use discretion for allowing incorrect scramble states if it is necessary for the event to be held.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
