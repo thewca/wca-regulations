@@ -94,6 +94,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 4d++) [ADDITION] It is permitted for the puzzle to change its orientation when it is moved from the scrambler to the solving station, as long as no one is attempting to influence the randomness of the orientation (see [Regulation A2e1](regulations:regulation:A2e1)).
 - 4f+) [RECOMMENDATION] The WCA Delegate should generate sufficient scramble sequences for the entire competition ahead of time, including spare scramble sequences for extra attempts.
 - 4f++) [REMINDER] If the WCA Delegate generates any additional scramble sequences during the competition, the scramble sequences must be saved.
+- 4g1+) [CLARIFICATION] 5x5x5 Blindfolded scrambles must be scrambled correctly
 
 
 ## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
