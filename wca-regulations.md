@@ -145,6 +145,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3l1) The logo must be placed on a center piece. Exceptions for puzzles that do not have center pieces:
         - 3l1a) For Pyraminx and 2x2x2, the logo may be on any piece.
         - 3l1b) For Square-1, the logo must be on a piece in the equatorial slice.
+        - 3l1c) For Clock, the logo must be anywhere on the puzzle, as long as the clock faces remain uncovered.
     - 3l2) The logo may be embossed, engraved, or consist of an overlay sticker.
 - 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
 
