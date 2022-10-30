@@ -137,7 +137,7 @@ To be more informative, each Guideline is classified using one of the following 
 
 ## <article-11><incidents><incidents> Article 11: Incidents
 
-- 11e+) [CLARIFICATION] Since an appeal is not guaranteed to be successful, the competitor may choose to keep the timer running while appealing it, and resume the attempt when appropriate.
+- 11e+) [CLARIFICATION] Since an appeal is not guaranteed to be successful, the competitor may choose to keep the timer running while appealing it, and resume the solve when appropriate.
 - 11e++) [RECOMMENDATION] The WCA Delegate should record the reason(s) for the extra attempt (e.g. on the back of the score sheet).
 - 11e+++) [RECOMMENDATION] The WCA Delegate should use stronger discretion when granting an extra attempt after the original attempt is finished. The extra attempt should be granted on very exceptional circumstances.
 - 11e++++) [REMINDER] The attempt is finished after the competitor checks the recorded result and signs on the score sheet (see [Regulation A7c](regulations:regulation:A7c)).
