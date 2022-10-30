@@ -388,7 +388,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A3b1) When the judge believes the competitor is ready, the judge asks "READY?". The competitor must be ready to start the attempt within one minute from the moment they are asked, or else the competitor forfeits the attempt (DNS), at the discretion of the judge.
         - A3b2) The competitor starts the attempt by confirming that they are ready, and the judge uncovers the puzzle and starts timing the inspection.
     - A3c) The competitor may pick up the puzzle during inspection.
-        - A3c1) The competitor must not apply moves nor intentional alignments during inspection. Penalty: disqualification of the attempt (DNF).
+        - A3c1) The competitor must not apply moves nor intentional alignments (see [Regulation A3c2](regulations:regulation:A3c2)) during inspection. Penalty: disqualification of the attempt (DNF).
         - A3c2) If the parts of the puzzle are not fully aligned when the cover is removed, then the competitor may align the faces, as long as misalignments stay within the limits of [Regulation 10f](regulations:regulation:10f).
         - A3c3) The competitor may reset the timer before the start of the solve.
         - A3c4) For Square-1, if the use of a thin object inside the puzzle has been enforced by the organization team (see [Regulation A2b1](regulations:regulation:A2b1)), the competitor may remove the object from the puzzle during inspection.
@@ -457,7 +457,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - B3) Memorization phase:
     - B3a) The competitor may pick up the puzzle during the memorization phase.
     - B3b) The competitor must not make physical notes. Penalty: disqualification of the attempt (DNF).
-    - B3c) The competitor must not apply moves nor intentional alignments to the puzzle during the memorization phase. Penalty: disqualification of the attempt (DNF).
+    - B3c) The competitor must not apply moves nor intentional alignments (see [Regulation A3c2](regulations:regulation:A3c2)) to the puzzle during the memorization phase. Penalty: disqualification of the attempt (DNF).
     - B3d) If the parts of the puzzle are not fully aligned, then the competitor may align the faces, as long as misalignments stay within the limits of [Regulation 10f](regulations:regulation:10f) (see [Regulation A3c2](regulations:regulation:A3c2)).
 - B4) Blindfolded phase:
     - B4a) The competitor dons the blindfold to start the blindfolded phase.
