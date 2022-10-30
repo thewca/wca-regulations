@@ -257,7 +257,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
 - 9j) Each event must be held at most once per competition.
 - 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the WCA Competition Announcement Team.
-- 9l) Each round must be completed before any following round of the same event can start. Exception: extra attempts may be given at any point during a competition to replace an attempt that was initially invalid. If this causes a change to the advancement conditions to a round that has already started, the following regulations apply:
+- 9l) Each round must be completed before any following round of the same event can start. Exception: Extra attempts may be given at any point during a competition to replace an attempt that was initially invalid.
     - 9l1) If the competitor's new result causes another competitor to no longer qualify for a subsequent round, that competitor's results for the subsequent round must be kept.
     - 9l2) If the competitor's new result causes themself to no longer qualify for a subsequent round, their results for the subsequent round must be removed.
 - 9m) Events must have at most four rounds.
