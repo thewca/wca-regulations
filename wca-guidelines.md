@@ -38,7 +38,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 1h++) [RECOMMENDATION] All attempts in the final round of an event, as well as all 3x3x3 Fewest Moves attempts, should have the same scramble sequences for all competitors (i.e. only 1 group).
 - 1h1+) [CLARIFICATION] Scramblers/judges should only scramble for/judge other competitors in the same group if it is important for competition logistics.
 - 1h1++) [CLARIFICATION] For 3x3x3 Fewest Moves, judges may judge competitors in their own group before they have finished their attempt (i.e. while they are competing).
-- 1h1+++) [ADDITION] Competitors are permitted to compete earlier/later than the scheduled time, at the discretion of the WCA Delegate.
+- 1h1+++) [ADDITION] Competitors may request to compete earlier or later than the scheduled time for the round in a separate group. Competitors requesting such accommodations should contact the organization team and WCA Delegate before the competition.
 
 
 ## <article-2><competitors><competitors> Article 2: Competitors
