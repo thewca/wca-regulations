@@ -388,8 +388,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A3b1) When the judge believes the competitor is ready, the judge asks "READY?". The competitor must be ready to start the attempt within one minute from the moment they are asked, or else the competitor forfeits the attempt (DNS), at the discretion of the judge.
         - A3b2) The competitor starts the attempt by confirming that they are ready, and the judge uncovers the puzzle and starts timing the inspection.
     - A3c) The competitor may pick up the puzzle during inspection.
-        - A3c1) The competitor must not apply moves nor intentional alignments (see [Regulation A3c2](regulations:regulation:A3c2)) during inspection. Penalty: disqualification of the attempt (DNF).
-        - A3c2) If the parts of the puzzle are not fully aligned when the cover is removed, then the competitor may align the faces, as long as misalignments stay within the limits of [Regulation 10f](regulations:regulation:10f).
+        - A3c1) The competitor must not apply moves nor intentional changes in alignment (see [Regulation A3c2](regulations:regulation:A3c2)) during inspection. Penalty: disqualification of the attempt (DNF).
+        - A3c2) Exception: If the parts of the puzzle are not fully aligned when the cover is removed, then the competitor may align the faces, as long as misalignments stay within the limits of [Regulation 10f](regulations:regulation:10f).
         - A3c3) The competitor may reset the timer before the start of the solve.
         - A3c4) For Square-1, if the use of a thin object inside the puzzle has been enforced by the organization team (see [Regulation A2b1](regulations:regulation:A2b1)), the competitor may remove the object from the puzzle during inspection.
     - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation. Penalty for placing it outside the mat: time penalty (+2 seconds).
@@ -414,9 +414,9 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - A6b) The competitor is responsible for stopping the Stackmat timer correctly.
         - A6b1) If the timer stops before the competitor has solved the puzzle and the timer shows a time strictly below 0.06 seconds, then the attempt is replaced by an extra attempt. A competitor forfeits the right to the additional attempt if the WCA Delegate determines that the timer was stopped deliberately.
         - A6b2) If the timer stops before the competitor has solved the puzzle and displays a time of 0.06 seconds or higher, then the attempt is disqualified (DNF). Exception: if the competitor can demonstrate that the timer malfunctioned, they may receive an extra attempt, at the discretion of the WCA Delegate.
-    - A6c) The competitor must fully release the puzzle before stopping the timer. Penalty: disqualification of the attempt (DNF). Exception: If no moves, including any kind of alignment, have been applied after stopping the timer and before releasing the puzzle, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
+    - A6c) The competitor must fully release the puzzle before stopping the timer. Penalty: disqualification of the attempt (DNF). Exception: If no moves, including any kind of change in alignment, have been applied after stopping the timer and before releasing the puzzle, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
     - A6d) The competitor must stop the timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
-    - A6e) After stopping the timer, the competitor must not touch or apply a move nor any kind of alignment to the puzzle until the judge has inspected the puzzle.
+    - A6e) After stopping the timer, the competitor must not touch or apply a move nor any change in alignment to the puzzle, until the judge has inspected the puzzle.
         - A6e1) Penalty for applying a move to the puzzle after stopping the timer: disqualification of the attempt (DNF).
         - A6e2) Penalty for touching the puzzle after stopping the timer without applying any moves: time penalty (+2 seconds). Exception: if immediately after stopping the timer, the competitor briefly touches the puzzle without affecting its state, the time penalty may be lifted, at the discretion of the judge (see [Regulation 11f](regulations:regulation:11f)).
     - A6f) The competitor must not reset the timer until both the competitor and the judge have signed the score sheet. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
@@ -457,12 +457,12 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - B3) Memorization phase:
     - B3a) The competitor may pick up the puzzle during the memorization phase.
     - B3b) The competitor must not make physical notes. Penalty: disqualification of the attempt (DNF).
-    - B3c) The competitor must not apply moves nor intentional alignments (see [Regulation A3c2](regulations:regulation:A3c2)) to the puzzle during the memorization phase. Penalty: disqualification of the attempt (DNF).
+    - B3c) The competitor must not apply moves nor intentional changes in alignment (see [Regulation A3c2](regulations:regulation:A3c2)) to the puzzle during the memorization phase. Penalty: disqualification of the attempt (DNF).
     - B3d) If the parts of the puzzle are not fully aligned, then the competitor may align the faces, as long as misalignments stay within the limits of [Regulation 10f](regulations:regulation:10f) (see [Regulation A3c2](regulations:regulation:A3c2)).
 - B4) Blindfolded phase:
     - B4a) The competitor dons the blindfold to start the blindfolded phase.
         - B4a1) Until the competitor applies the first move to the puzzle, they may remove the blindfold to return to the memorization phase.
-    - B4b) The competitor must not apply moves nor intentional alignments to the puzzle before they have fully donned the blindfold. Penalty: disqualification of the attempt (DNF).
+    - B4b) The competitor must not apply moves nor intentional changes in alignment to the puzzle before they have fully donned the blindfold. Penalty: disqualification of the attempt (DNF).
     - B4c) As soon as the competitor applies the first move to the puzzle, the judge must ensure that there is a sight blocker (e.g. a sheet of paper or cardboard) between the competitor's face and the puzzle.
         - B4c1) In all cases, the competitor must wear the blindfold such that their view of the puzzle would still clearly be blocked if the sight blocker were not in the way.
         - B4c3) If the judge and competitor agree beforehand, the competitor may choose to place the puzzle behind a suitable object (e.g. a music stand, the surface of the table) by themselves during the blindfolded phase.
