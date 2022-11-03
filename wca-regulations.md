@@ -149,7 +149,6 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3l1) The logo must be placed on a center piece. Exceptions for puzzles that do not have center pieces:
         - 3l1a) For Pyraminx and 2x2x2, the logo may be on any piece.
         - 3l1b) For Square-1, the logo must be on a piece in the equatorial slice.
-        - 3l1c) For Clock, the logo may be anywhere on the puzzle, as long as the inner clock faces and the 12 o'clock mark remain uncovered.
     - 3l2) The logo may be embossed, engraved, or consist of an overlay sticker.
 - 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
 
@@ -178,7 +177,6 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 4f) Competition scramble sequences must be generated using a current official version of an official WCA scramble program (available [via the WCA website](https://www.worldcubeassociation.org/regulations/scrambles/)).
 - 4g) After scrambling a puzzle, the scrambler must verify that the puzzle is scrambled correctly. If the puzzle state is wrong, the scrambler must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
     - 4g1) Exception: For the 6x6x6 Cube, 7x7x7 Cube, and Megaminx, it is not necessary to correct the puzzle state, at the discretion of the WCA Delegate.
-    - 4g2) Exception: For Clock, if the state of the pins is affected during transportation or uncovering, it is not necessary to correct the pins, at the discretion of the WCA Delegate.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
@@ -518,12 +516,12 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 ## <article-F><clock><clocksolving> Article F: Clock Solving
 
 - F1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-    - F1a) The judges places the scrambled puzzle onto the mat in a standing postiion.
-        - F1a1) If, during the transportation phase or while placing the puzzle cover on the table, one or more of the pins have their state affected, the competitor may proceed with the attempt and, after finishing the solve, alongside with the judge, explain the situation to the WCA Delegate. If the WCA Delegate beleives that the competitor did not gain an unfair advantage, they may allow the result to stand under their discretion.
-        - F1a2) The organization team may enforce using a stand for the puzzle to prevent it from falling before the start of the attempt. If such stands are used, the organization team should make an announcement before the round starts.
-            - F1a2a) The judge must remove the stand from the mat immediately after the competitor removes the puzzle from it.
-- F2) At the end of the inspection period, the competitor places the puzzle in a standing position. Penalty: disqualification of the attempt (DNF).
-    - F2a) The competitor must not change the postitions of any pins from their scrambled positions before the start of the solve. Penalty: disqualification of the attempt (DNF).
+- F2) The judge places the scrambled puzzle onto the mat in a standing postiion.
+    - F2a) The organization team may enforce using a stand for the puzzle to prevent it from falling before the start of the attempt. If such stands are used, the organization team should make an announcement before the round starts.
+        - F2a1) The judge must remove the stand from the mat immediately after the competitor removes the puzzle from it.
+    - F2b) If, during the transportation phase or while placing the puzzle cover on the table, one or more of the pins have their state affected, the competitor may proceed with the attempt and, after finishing the solve, alongside with the judge, explain the situation to the WCA Delegate. If the WCA Delegate beleives that the competitor did not gain an unfair advantage, they may allow the result to stand under their discretion.
+- F3) At the end of the inspection period, the competitor places the puzzle in a standing position. Penalty: disqualification of the attempt (DNF).
+    - F3a) The competitor must not change the postitions of any pins from their scrambled positions before the start of the solve. Penalty: disqualification of the attempt (DNF).
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving
