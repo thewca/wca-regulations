@@ -131,7 +131,11 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3h2) Puzzles whose colored plastic is visible inside the puzzle (e.g. "stickerless" puzzles) are permitted. This does not include the following puzzles:
         - 3h2a) Puzzles with transparent parts that can reveal more information about the state of the puzzle. Exception: An overlay sticker or a logo (see [Regulation 3l](regulations:regulation:3l)).
     - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
-    - 3h4) For Clock, custom "inserts" (the same shape and size as the traditional paper inserts) are permitted, at the discretion of the WCA Delegate. The inserts must have a clear indication of 12 o'clock that matches the original inserts.
+    - 3h4) For Clock, the following modifications are permitted:
+        - 3h4a) Customs "inserts" (the same shape and size as the traditional paper inserts) are permitted, at the discretion of the WCA Delegate. The inserts must have a clear indication of 12 o'clock that matches the original inserts.
+        - 3h4b) Puzzle design customizations that do not give an unfair advantage may be permitted, at the discretion of the WCA Delegate (e.g. checkerboard pattern clocks, faces with a custom design).
+        - 3h4c) Customizations in which pins may be distinguishable from any other pin of the same side are permitted under the discretion of the WCA Delegate.
+        - 3h4d) Customizations that leave the pins loose (i.e. pins that can toggle or recede using gravity instead of being directly pressed are not considered reasonable wear, and these puzzles must not be permitted)
 - 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that significantly distinguish any piece from a similar piece. Exception: a logo (see [Regulation 3l](regulations:regulation:3l)).
     - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
     - 3j2) Definition: Two pieces are similar to each other if they are identical in shape and size, or mirrored in shape and identical in size.
@@ -145,6 +149,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3l1) The logo must be placed on a center piece. Exceptions for puzzles that do not have center pieces:
         - 3l1a) For Pyraminx and 2x2x2, the logo may be on any piece.
         - 3l1b) For Square-1, the logo must be on a piece in the equatorial slice.
+        - 3l1c) For Clock, the logo may be anywhere on the puzzle, as long as the inner clock faces and the 12 o'clock mark remain uncovered.
     - 3l2) The logo may be embossed, engraved, or consist of an overlay sticker.
 - 3m) All brands of puzzles and puzzle parts are permitted, as long as the puzzles comply with all WCA Regulations.
 
@@ -173,6 +178,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 4f) Competition scramble sequences must be generated using a current official version of an official WCA scramble program (available [via the WCA website](https://www.worldcubeassociation.org/regulations/scrambles/)).
 - 4g) After scrambling a puzzle, the scrambler must verify that the puzzle is scrambled correctly. If the puzzle state is wrong, the scrambler must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
     - 4g1) Exception: For the 6x6x6 Cube, 7x7x7 Cube, and Megaminx, it is not necessary to correct the puzzle state, at the discretion of the WCA Delegate.
+    - 4g2) Exception: For Clock, if the state of the pins is affected during transportation or uncovering, it is not necessary to correct the pins, at the discretion of the WCA Delegate.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
@@ -512,11 +518,12 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 ## <article-F><clock><clocksolving> Article F: Clock Solving
 
 - F1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-- F2) The judge places the scrambled puzzle onto the mat in a standing position.
-    - F2a) The organization team may enforce using a stand for the puzzle to prevent it from falling before the start of the attempt. If such stands are used, the organization team should make an announcement before the round starts.
-        - F2a1) The judge must remove the stand from the mat immediately after the competitor removes the puzzle from it.
-- F3) At the end of the inspection period, the competitor places the puzzle in a standing position. Penalty: disqualification of the attempt (DNF).
-    - F3a) The competitor must not change the positions of any pins from their scrambled positions before the start of the solve. Penalty: disqualification of the attempt (DNF).
+    - F1a) The judges places the scrambled puzzle onto the mat in a standing postiion.
+        - F1a1) If, during the transportation phase or while placing the puzzle cover on the table, one or more of the pins have their state affected, the competitor may proceed with the attempt and, after finishing the solve, alongside with the judge, explain the situation to the WCA Delegate. If the WCA Delegate beleives that the competitor did not gain an unfair advantage, they may allow the result to stand under their discretion.
+        - F1a2) The organization team may enforce using a stand for the puzzle to prevent it from falling before the start of the attempt. If such stands are used, the organization team should make an announcement before the round starts.
+            - F1a2a) The judge must remove the stand from the mat immediately after the competitor removes the puzzle from it.
+- F2) At the end of the inspection period, the competitor places the puzzle in a standing position. Penalty: disqualification of the attempt (DNF).
+    - F2a) The competitor must not change the postitions of any pins from their scrambled positions before the start of the solve. Penalty: disqualification of the attempt (DNF).
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving

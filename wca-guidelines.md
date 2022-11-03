@@ -73,8 +73,6 @@ To be more informative, each Guideline is classified using one of the following 
 - 3h2++) [CLARIFICATION] "Stickerless" puzzles that significantly differ from most mass-produced "stickerless" puzzles are only permitted at the discretion of the WCA Delegate.
 - 3h2a+) [ADDITION] Examples of transparent parts that do not reveal more information about the state of the puzzle: internal parts of the puzzle mechanism, transparent Clock cases.
 - 3j+) [REMINDER] In the past, engraved/embossed parts have been permitted. This is no longer permitted.
-- 3j++) [CLARIFICATION] On Clock, pins may be distinguishable from any other pin of the same side.
-- 3j1+) [REMINDER] On Clock, loose pins (i.e. pins that can toggle or recede using gravity instead of being directly pressed) are not considered reasonable wear.
 - 3j2+) [CLARIFICATION] On Clock, the nine inner clock faces on one side are considered similar pieces.
 - 3k2+) [ADDITION] The WCA Delegate should not apply a listed exception if they believe the competitor tried to use a non-permitted puzzle on purpose.
 - 3k2b+) [CLARIFICATION] If a non-permitted puzzle is found during the course of a 3x3x3 Multi-Blind attempt, the puzzle must not be exchanged or removed from the attempt and must be counted as unsolved if the entire attempt is not disqualified.
@@ -207,6 +205,11 @@ To be more informative, each Guideline is classified using one of the following 
 - E3d+) [CLARIFICATION] Any stopwatch or watch used by a competitor must not have any functions that would help the competitor find a solution.
 - E3d++) [CLARIFICATION] Competitors should not consider a personal stopwatch or watch as the official time, and must submit their solution when the judge calls "STOP".
 
+## <article-F><clock><clocksolving> Article F: Clock Solving
+
+- F1a1+) [CLARIFICATION] Video or photographic evidence may be used to support this claim.
+- F1a1++) [ADDITION] If the WCA Delegate doesn't have time to investigate this claim during the competition, they should grant the competitor a provisional extra.
+- F1a1+++) [CLARIFICATION] If the puzzle falls during uncovering, such that all of its pins are affected, the WCA Delegate must provide an extra attempt.
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving
 
