@@ -516,12 +516,12 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 ## <article-F><clock><clocksolving> Article F: Clock Solving
 
 - F1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-- F2) The judge places the scrambled puzzle onto the mat in a standing postiion.
+- F2) The judge places the scrambled puzzle onto the mat in a standing position.
     - F2a) The organization team may enforce using a stand for the puzzle to prevent it from falling before the start of the attempt. If such stands are used, the organization team should make an announcement before the round starts.
         - F2a1) The judge must remove the stand from the mat immediately after the competitor removes the puzzle from it.
     - F2b) If, during the transportation phase or while placing the puzzle cover on the table, one or more of the pins have their state affected, the competitor may proceed with the attempt and, after finishing the solve, alongside with the judge, explain the situation to the WCA Delegate. If the WCA Delegate beleives that the competitor did not gain an unfair advantage, they may allow the result to stand under their discretion.
 - F3) At the end of the inspection period, the competitor places the puzzle in a standing position. Penalty: disqualification of the attempt (DNF).
-    - F3a) The competitor must not change the postitions of any pins from their scrambled positions before the start of the solve. Penalty: disqualification of the attempt (DNF).
+    - F3a) The competitor must not change the positions of any pins from their scrambled positions before the start of the solve. Penalty: disqualification of the attempt (DNF).
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving
