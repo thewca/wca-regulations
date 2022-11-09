@@ -395,7 +395,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A3d2) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
         - A3d3) When 12 seconds of inspection have elapsed, the judge calls "12 SECONDS".
 - A4) Starting the solve:
-    - A4b) The competitor uses their fingers to touch the elevated sensor surfaces of the timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to the competitor. Penalty: time penalty (+2 seconds).
+    - A4b) The competitor uses their fingers to touch the elevated sensor surfaces of the Stackmat timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to the competitor. Penalty: time penalty (+2 seconds).
         - A4b1) The competitor must have no physical contact with the puzzle while starting the solve. Penalty: time penalty (+2 seconds).
     - A4d) If a Stackmat timer is in use, the competitor should keep their hands on the timer until they see a green timer light. They start the solve by removing their hands from the timer (thus starting the timer).
         - A4d1) The competitor must start the solve within 15 seconds of the start of the inspection. Penalty: time penalty (+2 seconds).
@@ -414,7 +414,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A6b1) If the timer stops before the competitor has solved the puzzle and the timer shows a time strictly below 0.06 seconds, then the attempt is replaced by an extra attempt. A competitor forfeits the right to the additional attempt if the WCA Delegate determines that the timer was stopped deliberately.
         - A6b2) If the timer stops before the competitor has solved the puzzle and displays a time of 0.06 seconds or higher, then the attempt is disqualified (DNF). Exception: if the competitor can demonstrate that the timer malfunctioned, they may receive an extra attempt, at the discretion of the WCA Delegate.
     - A6c) The competitor must fully release the puzzle before stopping the timer. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been applied after stopping the timer and before releasing the puzzle, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
-    - A6d) The competitor must stop the timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
+    - A6d) The competitor must stop the Stackmat timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
     - A6e) After stopping the timer, the competitor must not touch or apply a move to the puzzle until the judge has inspected the puzzle.
         - A6e1) Penalty for applying a move to the puzzle after stopping the timer: disqualification of the attempt (DNF).
         - A6e2) Penalty for touching the puzzle after stopping the timer without applying any moves: time penalty (+2 seconds). Exception: if immediately after stopping the timer, the competitor briefly touches the puzzle without affecting its state, the time penalty may be lifted, at the discretion of the judge (see [Regulation 11f](regulations:regulation:11f)).
