@@ -169,6 +169,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 4d2) Pyraminx is scrambled starting with the yellow face (if not possible, then the lightest face) on the bottom and the green face (if not possible, then the darkest adjacent face) on the front.
     - 4d3) Square-1 is scrambled starting with the darker color on front (out of the 2 possible scrambling orientations).
     - 4d4) Clock is scrambled starting with either side in front and 12 o'clock pointing up.
+        - 4d4a) After scrambling the puzzle, the scrambler must orient all pins up, from the position the puzzle is held.
     - 4d5) Skewb is scrambled starting with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front-left.
 - 4f) Competition scramble sequences must be generated using a current official version of an official WCA scramble program (available [via the WCA website](https://www.worldcubeassociation.org/regulations/scrambles/)).
 - 4g) After scrambling a puzzle, the scrambler must verify that the puzzle is scrambled correctly. If the puzzle state is wrong, the scrambler must correct it (e.g. by solving the puzzle and applying the scramble sequence again).

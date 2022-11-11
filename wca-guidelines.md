@@ -92,6 +92,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 4b4+) [CLARIFICATION] All attempts that have been started within the time frame follow the standard solving procedure (i.e. they are not stopped when the time frame of the relevant scramble sequence expires).
 - 4d+) [CLARIFICATION] Some puzzles use standard color schemes, except that white is replaced with black. In this case, black is the darkest color and must not be treated as white.
 - 4d++) [ADDITION] It is permitted for the puzzle to change its orientation when it is moved from the scrambler to the solving station, as long as no one is attempting to influence the randomness of the orientation (see [Regulation A2e1](regulations:regulation:A2e1)).
+- 4d4a+) [CLARIFICATION] If, during the transportation phase or while placing the puzzle cover on the table, the pins have their state affected, the competitor may proceed with the attempt and, after finishing the solve, alongside with the judge, explain the situation to the WCA Delegate. If the WCA Delegate believes that the competitor did not gain an unfair advantage, they may allow the result to stand under their discretion.
 - 4f+) [RECOMMENDATION] The WCA Delegate should generate sufficient scramble sequences for the entire competition ahead of time, including spare scramble sequences for extra attempts.
 - 4f++) [REMINDER] If the WCA Delegate generates any additional scramble sequences during the competition, the scramble sequences must be saved.
 
