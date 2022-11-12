@@ -151,7 +151,7 @@ To be more informative, each Guideline is classified using one of the following 
 
 ## <article-A><speedsolving><speedsolving> Article A: Speed Solving
 
-- A1a+) [CLARIFICATION] If both limits are applied, the time limit per attempt must not be greater than the cumulative time limit, and the cumulative time limit must not be greater than the time limit per attempt multiplied by the number of attempts.
+- A1a+) [CLARIFICATION] If both limits are applied, the time limit per attempt must not be greater than the cumulative time limit.
 - A1a2+) [ADDITION] In case of a cumulative time limit, the judge records the original recorded time for a DNF on the score sheet in parentheses, e.g. "DNF (1:02.27)".
 - A1a2++) [EXAMPLE] If a round has only a cumulative time limit of 30 minutes and the competitor's results of the first two attempts are 6:00 and DNF (10:00), then the time limit for the third attempt is 30:00 - 6:00 - 10:00 = 14:00. For this particular example, note that only the final result for an attempt counts. Therefore, a third attempt with an original recorded time of 13:59 without penalties meets the time limit because the final result is 13:59 (see [Regulation 9f2](regulations:regulation:9f2)), while a third attempt with a result of 13:59 + 2 = 14:01 does not meet the time limit.
 - A1a2+++) [ADDITION] If the result from an attempt is unavailable (e.g. the timer was reset), the judge should consult the WCA Delegate and make an estimate of the elapsed time for the attempt. This estimate counts towards the time limit, but must not be used as the basis of an official result for the individual attempt.
