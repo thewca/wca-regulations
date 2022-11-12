@@ -133,7 +133,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
     - 3h4) For Clock, the following modifications are permitted:
         - 3h4a) Customs "inserts" (the same shape and size as the traditional paper inserts) are permitted, at the discretion of the WCA Delegate. The inserts must have a clear indication of 12 o'clock that matches the original inserts.
-        - 3h4b) Puzzle design customizations that do not give an unfair advantage may be permitted, at the discretion of the WCA Delegate (e.g. checkerboard pattern clocks, faces with a custom design).
+        - 3h4b) Puzzle design customizations that do not give an unfair advantage may be permitted, at the discretion of the WCA Delegate (e.g. checkerboard pattern clocks, faces with a custom design, tape on the side of the clock).
         - 3h4c) Customizations in which pins may be distinguishable from any other pin of the same side are permitted under the discretion of the WCA Delegate.
         - 3h4d) Customizations that leave the pins loose (i.e. pins that can toggle or recede using gravity instead of being directly pressed are not considered reasonable wear, and these puzzles must not be permitted)
 - 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that significantly distinguish any piece from a similar piece. Exception: a logo (see [Regulation 3l](regulations:regulation:3l)).
