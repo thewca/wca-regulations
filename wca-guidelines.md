@@ -73,7 +73,6 @@ To be more informative, each Guideline is classified using one of the following 
 - 3h2++) [CLARIFICATION] "Stickerless" puzzles that significantly differ from most mass-produced "stickerless" puzzles are only permitted at the discretion of the WCA Delegate.
 - 3h2a+) [ADDITION] Examples of transparent parts that do not reveal more information about the state of the puzzle: internal parts of the puzzle mechanism, transparent Clock cases.
 - 3j+) [REMINDER] In the past, engraved/embossed parts have been permitted. This is no longer permitted.
-- 3j2+) [CLARIFICATION] On Clock, the nine inner clock faces on one side are considered similar pieces.
 - 3k2+) [ADDITION] The WCA Delegate should not apply a listed exception if they believe the competitor tried to use a non-permitted puzzle on purpose.
 - 3k2b+) [CLARIFICATION] If a non-permitted puzzle is found during the course of a 3x3x3 Multi-Blind attempt, the puzzle must not be exchanged or removed from the attempt and must be counted as unsolved if the entire attempt is not disqualified.
 - 3k2b++) [EXAMPLE] Suppose the competitor attempts 10 puzzles and solves 8 successfully. If it is found that two solved puzzles and one unsolved puzzle are not permitted, the competitor is considered to have a result with 6 solved puzzles out of 10 (rather than DNF), at the discretion of the WCA Delegate.
