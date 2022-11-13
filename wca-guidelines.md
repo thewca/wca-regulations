@@ -207,7 +207,7 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-F><clock><clocksolving> Article F: Clock Solving
 
 - F1a1+) [CLARIFICATION] Video or photographic evidence may be used to support this claim.
-- F1a1+++) [CLARIFICATION] If the puzzle falls during uncovering, such that all of its pins are affected, the WCA Delegate must provide an extra attempt.
+- F1a1++) [CLARIFICATION] If the puzzle falls during uncovering, such that all of its pins are affected, the WCA Delegate must provide an extra attempt.
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving
 
