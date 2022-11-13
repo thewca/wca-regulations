@@ -172,7 +172,7 @@ To be more informative, each Guideline is classified using one of the following 
 - A7g+) [EXAMPLE] Examples of incidents that could grant a competitor an extra attempt due to inexperience: not waiting for the green light, improperly starting or stopping the timer, going over inspection time due to misunderstanding how to start a solve, or other procedural time penalties.
 - A7g++) [CLARIFICATION] Individual penalties cannot be waived. A full extra attempt must be granted.
 - A7g+++) [RECOMMENDATION] The WCA Delegate should use stronger discretion when granting more than one extra attempt to the same competitor. If more than one extra attempt is granted, it should be for a different type of incident. Example: if the WCA Delegate already awarded an extra attempt for a competitor who did not wait long enough for the green light, they should not award another extra attempt if that competitor fails to wait long enough for the green light again.
-- A7g++++) [CLARIFICATION] A competitor may be considered inexperienced if they are a new competitor, it is their first time competing in a specific event, or they have not competed in a specific event for a significant period of time.
+- A7g++++) [CLARIFICATION] A competitor may be considered inexperienced if they are a new competitor, it is their first time competing in a specific event, or they have not competed in a specific event for a significant period of time. The inexperience must be related to the incident.
 
 
 
