@@ -48,7 +48,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 1e2) Every competitor must be available for judging. If required to judge, a competitor may be excused only for a legitimate reason (e.g. being unfamiliar with a puzzle), at the discretion of the WCA Delegate. Penalty: disqualification from an event, multiple events, or all events at that competition (see [Regulation 2k](regulations:regulation:2k)).
 - 1f) Each event must have one or more scramblers. Exception: 3x3x3 Fewest Moves.
     - 1f1) A scrambler applies scramble sequences to prepare puzzles for attempts (see [Regulation A2](regulations:regulation:A2)).
-    - 1f2) Every competitor must be available for scrambling. If required to scramble, a competitor may be excused only for a legitimate reason (e.g. being unfamiliar with scrambling notation), at the discretion of the WCA Delegate. Penalty: disqualification from the event, multiple events, or all events (see [Regulation 2k](regulations:regulation:2k)).
+    - 1f2) Every competitor must be available for scrambling. If required to scramble, a competitor may be excused only for a legitimate reason (e.g. being unfamiliar with scrambling notation), at the discretion of the WCA Delegate. Penalty: disqualification from an event, multiple events, or all events at that competition (see [Regulation 2k](regulations:regulation:2k)).
 - 1g) Each event must have one or more score takers.
     - 1g1) A score taker is responsible for compiling results.
     - 1g2) Changes to the result on a score sheet are only permitted at the discretion of the WCA Delegate.
