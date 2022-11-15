@@ -516,7 +516,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - F2a) The organization team may enforce using a stand for the puzzle to prevent it from falling before the start of the attempt. If such stands are used, the organization team should make an announcement before the round starts.
         - F2a1) The judge must remove the stand from the mat immediately after the competitor removes the puzzle from it.
 - F3) At the end of the inspection period, the competitor places the puzzle in a standing position. Penalty: disqualification of the attempt (DNF).
-    - F3a) The competitor must not change the positions of any pins from their scrambled positions before the start of the solve. Penalty: disqualification of the attempt (DNF).
+    - F3a) The competitor must not change the positions of any pins from their scrambled positions before the start of the solve. Penalty: time penalty (+2 seconds).
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving

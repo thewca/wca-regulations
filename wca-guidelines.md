@@ -208,6 +208,12 @@ To be more informative, each Guideline is classified using one of the following 
 - E3d++) [CLARIFICATION] Competitors should not consider a personal stopwatch or watch as the official time, and must submit their solution when the judge calls "STOP".
 
 
+## <article-F><clock><clocksolving> Article F: Clock Solving
+
+- F3a+) [CLARIFICATION] One time penalty is assigned for each pin moved before the start of the solve. For example, if the competitor moves 3 pins before the start of the solve, 3 time penalties are assigned.
+- F3a++) [CLARIFICATION] If the same pin is moved multiple times, only one time penalty is assigned for that pin.
+
+
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving
 
 - H1+) [ADDITION] If a puzzle with a duplicate scramble is found during an attempt, the puzzle may be re-scrambled using a different scramble sequence, at the discretion of the WCA Delegate.
