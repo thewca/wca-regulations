@@ -136,7 +136,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 3h4b) Puzzle design customizations that do not give an unfair advantage may be permitted, at the discretion of the WCA Delegate (e.g. checkerboard pattern clocks, faces with a custom design, tape on the side of the clock).
         - 3h4c) Customizations in which pins may be distinguishable from any other pin of the same side are permitted under the discretion of the WCA Delegate.
         - 3h4d) Customizations that leave the pins loose (i.e. pins that can toggle or recede using gravity instead of being directly pressed are not considered reasonable wear, and these puzzles must not be permitted)
-        - 3h4e) Logos anywhere on the puzzle, as long as the inner clock faces remain uncovered.
+        - 3h4d) Logos anywhere on the puzzle, as long as the inner clock faces remain uncovered.
 - 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that significantly distinguish any piece from a similar piece. Exception: a logo (see [Regulation 3l](regulations:regulation:3l)).
     - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
     - 3j2) Definition: Two pieces are similar to each other if they are identical in shape and size, or mirrored in shape and identical in size.
