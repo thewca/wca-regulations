@@ -210,8 +210,8 @@ To be more informative, each Guideline is classified using one of the following 
 
 ## <article-F><clock><clocksolving> Article F: Clock Solving
 
-- F3a+) [CLARIFICATION] One time penalty is assigned for each pin moved before the start of the solve. For example, if the competitor moves 3 pins before the start of the solve, 3 time penalties are assigned.
-- F3a++) [CLARIFICATION] If the same pin is moved multiple times, only one time penalty is assigned for that pin.
+- F3a+) [CLARIFICATION] Time penalties are not cumulative. For example, if multiple pins are pushed during inspection, only one time penalty is assigned.
+- F3a++) [CLARIFICATION] Pins must not be turned during inspection. Penalty: disqualification of the attempt (DNF).
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving
