@@ -512,6 +512,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 ## <article-F><clock><clocksolving> Article F: Clock Solving
 
 - F1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
+    - F1a) Exception: The competitor is permitted to push the pins during inspection.
 - F2) The judge places the scrambled puzzle onto the mat in a standing position.
     - F2a) The organization team may enforce using a stand for the puzzle to prevent it from falling before the start of the attempt. If such stands are used, the organization team should make an announcement before the round starts.
         - F2a1) The judge must remove the stand from the mat immediately after the competitor removes the puzzle from it.
