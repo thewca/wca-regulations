@@ -180,7 +180,7 @@ To be more informative, each Guideline is classified using one of the following 
 - B1+) [REMINDER] The competitor must use a puzzle without textures, markings, or other features that distinguish similar pieces (see [Regulation 3k](regulations:regulation:3k)). This should be given special attention for Blindfolded Solving.
 - B1b+) [RECOMMENDATION] Blindfolds should be checked by the WCA Delegate before use in the competition.
 - B2d+) [ADDITION] By default, the competitor starts the solve the first time that they start the timer after the judge has indicated that they are ready (see [Regulation B2a](regulations:regulation:B2a)). If they want to check that the timer is in working order, they must (ask and) receive confirmation from the judge each time before starting/resetting the timer during this phase. Penalty for starting and resetting a timer without confirmation from the judge: disqualification of the attempt (DNF).
-- B4c+) [ADDITION] If the judge forgot to put a sight blocker (or did not put it immediately), the WCA Delegate should always grant an extra attempt.
+- B4c+) [ADDITION] If the judge forgot to put a sight blocker, or places it in a way that the competitor's view of the puzzle is not fully blocked, the WCA Delegate should grant an extra attempt.
 - B4c++) [ADDITION] If the WCA Delegate does not suspect any infraction of the regulations by the competitor, the original attempt may stand.
 
 
