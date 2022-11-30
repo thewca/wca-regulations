@@ -45,10 +45,10 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 1e) Each event must have one or more judges.
     - 1e1) A judge is responsible for executing the procedures of the event.
         - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the WCA Delegate, as long as the judge is able to ensure that all WCA Regulations are followed at all times.
-    - 1e2) Every competitor must be available for judging. If required to judge, a competitor may be excused only for a legitimate reason (e.g. being unfamiliar with a puzzle), at the discretion of the WCA Delegate. Penalty: disqualification from the competition (see [Regulation 2k](regulations:regulation:2k)).
+    - 1e2) Every competitor must be available for judging. If required to judge, a competitor may be excused only for a legitimate reason (e.g. being unfamiliar with a puzzle), at the discretion of the WCA Delegate. Penalty: disqualification from an event, multiple events, or all events at that competition (see [Regulation 2k](regulations:regulation:2k)).
 - 1f) Each event must have one or more scramblers. Exception: 3x3x3 Fewest Moves.
     - 1f1) A scrambler applies scramble sequences to prepare puzzles for attempts (see [Regulation A2](regulations:regulation:A2)).
-    - 1f2) Every competitor must be available for scrambling. If required to scramble, a competitor may be excused only for a legitimate reason (e.g. being unfamiliar with scrambling notation), at the discretion of the WCA Delegate. Penalty: disqualification from the competition (see [Regulation 2k](regulations:regulation:2k)).
+    - 1f2) Every competitor must be available for scrambling. If required to scramble, a competitor may be excused only for a legitimate reason (e.g. being unfamiliar with scrambling notation), at the discretion of the WCA Delegate. Penalty: disqualification from an event, multiple events, or all events at that competition (see [Regulation 2k](regulations:regulation:2k)).
 - 1g) Each event must have one or more score takers.
     - 1g1) A score taker is responsible for compiling results.
     - 1g2) Changes to the result on a score sheet are only permitted at the discretion of the WCA Delegate.
@@ -89,25 +89,26 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 2i2b) The competitor must not interact with (e.g. operate, hold, wear) any active camera. Exception: the competitor may wear a camera mounted on their head, as long as it is out of their sight and it is clear that they are not interacting with it (apart from wearing it).
     - 2i3) The competitor may have a cell phone in their pocket, as long as it is clear that they are not otherwise interacting with it.
     - 2i4) Competitors should turn off all cell phone notifications while competing to avoid disturbing the competition.
-- 2j) The WCA Delegate may disqualify a competitor from a specific event.
+- 2j) The WCA Delegate may disqualify a competitor from specific attempts and/or events.
     - 2j1) If a competitor is disqualified from an event for any reason, they are not eligible for any more attempts in the event.
         - 2j1a) If the competitor has already started at least one attempt in a round before being disqualified from it, the results of all remaining attempts in the event are recorded as DNF. If the competitor has started no attempts (i.e. has no results or only has DNS results), no results are recorded.
-    - 2j2) If a competitor is disqualified during the course of an event, results from attempts that are already finished when the competitor is disqualified remain valid. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
-- 2k) At the discretion of the WCA Delegate, a competitor may be disqualified from some events (a single event, multiple events, or all events) if the competitor:
+    - 2j2) Results from attempts that are completed when the disqualification is applied, must not be disqualified. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
+    - 2j3) Specific completed attempts may be disqualified under the circumstances described in [Regulation 2k](regulations:regulation:2k), only if the relevant incident ocurred during the attempt.
+- 2k) At the discretion of the WCA Delegate, a competitor may be disqualified from specific attempts and/or events (a single event, multiple events, or all events) if the competitor:
     - 2k1) Fails to check in or register in time for the competition.
     - 2k2) Is suspected of cheating or defrauding the officials during the competition.
         - 2k2a) The WCA Delegate may disqualify any suspected results.
     - 2k3) Behaves in a way that is unlawful/violent/indecent/unsafe, or intentionally damages venue facilities or personal property within the venue.
     - 2k4) Distracts or interferes with others during the competition.
     - 2k5) Fails to abide by WCA Regulations during the competition.
-    - 2k6) Does not fulfill the event's requirements (e.g. not knowing how to solve the puzzle). A competitor must not compete with the expectation of a DNF result or an intentionally poor result.
+    - 2k6) Does not fulfill the event's requirements (e.g. not knowing how to solve the puzzle). A competitor should not compete with the expectation of a DNF result or an intentionally poor result.
 - 2l) A competitor may be disqualified immediately, or after a warning, depending on the nature and severity of the infraction.
     - 2l1) A disqualified competitor is not eligible for the refund of any expenses due to participating in the competition.
 - 2n) Competitors may verbally dispute a ruling to the WCA Delegate.
     - 2n1) Disputes are only permitted during the competition, within 30 minutes after the disputed incident happened and before the start of any following rounds of the relevant event.
     - 2n2) The WCA Delegate must resolve the dispute before the start of the next round of the event.
     - 2n3) The competitor must accept all final rulings of the WCA Delegate. Penalty: disqualification from the competition.
-- 2s) Competitors with disabilities that may prevent them from abiding by one or more WCA Regulations may request special accommodations from the WCA Delegate. Competitors requesting such accommodations should contact the organization team and WCA Delegate at least two weeks before the competition.
+- 2s) Competitors with circumstances (e.g. disability) that may prevent them from abiding by one or more WCA Regulations may request special accommodations from the WCA Delegate. Competitors requesting such accommodations should contact the organization team and WCA Delegate at least two weeks before the competition.
 - 2t) Each competitor must be familiar with and understand the WCA Regulations before the competition.
 - 2u) Competitors must be present and ready to compete when they are called to compete for an attempt. Penalty: disqualification from the event.
     - 2u1) Exception: A competitor who is not present in time for an individually scheduled attempt (e.g. a 3x3x3 Fewest Moves attempt, a 3x3x3 Multi-Blind attempt) may be considered to have declined that attempt (DNS), at the discretion of the WCA Delegate.
@@ -201,7 +202,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 7e) The competition area must be smoke-free.
 - 7f) Solving station:
     - 7f1) Definitions:
-        - 7f1a) Stackmat: The Speed Stacks Stackmat timer and a full-size compatible mat. Generation 2, Generation 3 Pro Timer, Generation 4 Pro Timer, and/or Generation 5 Pro Timer must be used for time measurement.
+        - 7f1a) Stackmat: The Speed Stacks Stackmat timer and a full-size compatible mat. Generation 3 Pro Timer, Generation 4 Pro Timer, and/or Generation 5 Pro Timer must be used for time measurement.
         - 7f1b) Mat: The mat of the Stackmat.
         - 7f1c) Timer: The timer of the Stackmat, or a stopwatch (for longer attempts).
         - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
@@ -360,9 +361,9 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 ## <article-A><speedsolving><speedsolving> Article A: Speed Solving
 
 - A1) Speed Solving attempts must abide by the following procedures.
-    - A1a) The organization team must apply exactly one kind of time limit (time limit per attempt or cumulative time limit) to each round.
+    - A1a) The organization team must apply at least one kind of time limit (time limit per attempt and/or cumulative time limit) to each round.
         - A1a1) The default time limit is 10 minutes for each attempt in a round, though the organization team may announce a higher or lower time limit per attempt. In this case, the limit must be the same for all attempts in a round.
-        - A1a2) For events other than 3x3x3 Fewest Moves and 3x3x3 Multi-Blind, the organization team may define a cumulative time limit. The cumulative time limit must either apply to all attempts in one round (e.g. 3 attempts with a cumulative time limit of 20 minutes), or to all attempts in a combination of rounds for different events. In this case, the time limit for a particular attempt is the cumulative time limit minus the total time in other attempts counting towards the time limit so far (see [Regulation A1a5](regulations:regulation:A1a5)). If a round has an applicable cumulative time limit, it must have at most one.
+        - A1a2) For events other than 3x3x3 Fewest Moves and 3x3x3 Multi-Blind, the organization team may define a cumulative time limit. The cumulative time limit must either apply to all attempts in one round (e.g. 3 attempts with a cumulative time limit of 20 minutes), or to all attempts in a combination of rounds for different events. In this case, the time limit for a particular attempt is the the time limit or the cumulative time limit minus the total time in other attempts counting towards the time limit so far (see [Regulation A1a5](regulations:regulation:A1a5)), whichever is lower. If a round has an applicable cumulative time limit, it must have at most one.
         - A1a3) The time limits for all rounds must be announced before the competition, and should not be changed after any affected rounds have begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
         - A1a4) The competitor must end each solve before the time limit for the attempt is reached. If a competitor's timer reaches the time limit for an attempt, the judge stops the solve immediately and records the result as DNF. Exception: 3x3x3 Multi-Blind (see [Regulation H1b1](regulations:regulation:H1b1)).
         - A1a5) The time counting towards the time limit for an attempt is either the result after time penalties are applied (if the result was not DNF) or the time elapsed in the solve (if the result was DNF).
@@ -387,7 +388,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A3b1) When the judge believes the competitor is ready, the judge asks "READY?". The competitor must be ready to start the attempt within one minute from the moment they are asked, or else the competitor forfeits the attempt (DNS), at the discretion of the judge.
         - A3b2) The competitor starts the attempt by confirming that they are ready, and the judge uncovers the puzzle and starts timing the inspection.
     - A3c) The competitor may pick up the puzzle during inspection.
-        - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the attempt (DNF).
+        - A3c1) The competitor must not apply moves during inspection. Penalty: disqualification of the attempt (DNF). Exception: For Square-1, the competitor should not be penalized for any accidental move made within the limits of [Regulation 10f](regulations:regulation:10f).
         - A3c2) If the parts of the puzzle are not fully aligned, then the competitor may align the faces, as long as misalignments stay within the limits of [Regulation 10f](regulations:regulation:10f).
         - A3c3) The competitor may reset the timer before the start of the solve.
         - A3c4) For Square-1, if the use of a thin object inside the puzzle has been enforced by the organization team (see [Regulation A2b1](regulations:regulation:A2b1)), the competitor may remove the object from the puzzle during inspection.
@@ -395,7 +396,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A3d2) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
         - A3d3) When 12 seconds of inspection have elapsed, the judge calls "12 SECONDS".
 - A4) Starting the solve:
-    - A4b) The competitor uses their fingers to touch the elevated sensor surfaces of the timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to the competitor. Penalty: time penalty (+2 seconds).
+    - A4b) The competitor uses their fingers to touch the elevated sensor surfaces of the Stackmat timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to the competitor. Penalty: time penalty (+2 seconds).
         - A4b1) The competitor must have no physical contact with the puzzle while starting the solve. Penalty: time penalty (+2 seconds).
     - A4d) If a Stackmat timer is in use, the competitor should keep their hands on the timer until they see a green timer light. They start the solve by removing their hands from the timer (thus starting the timer).
         - A4d1) The competitor must start the solve within 15 seconds of the start of the inspection. Penalty: time penalty (+2 seconds).
@@ -408,13 +409,11 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - A5c) The competitor may hold the puzzle against the surface to help operate the puzzle (see [Regulation 7f1d](regulations:regulation:7f1d)).
 - A6) Stopping the solve:
     - A6a) The competitor releases the puzzle before stopping the solve, and stops the solve by stopping the timer. If a stopwatch is in use, the judge stops the stopwatch as soon as the competitor does this.
-        - A6a1) When using a stopwatch as the only timer, the competitor stops the solve by releasing the puzzle and notifying the judge that they have stopped the solve. The judge stops the stopwatch as soon as the competitor does this.
-        - A6a2) When using a stopwatch as the only timer, the competitor's default notification signal consists of releasing the puzzle(s) from their hands and placing their hands on the surface, with palms down. The competitor and the judge may agree on another appropriate notification before the start of the attempt.
     - A6b) The competitor is responsible for stopping the Stackmat timer correctly.
         - A6b1) If the timer stops before the competitor has solved the puzzle and the timer shows a time strictly below 0.06 seconds, then the attempt is replaced by an extra attempt. A competitor forfeits the right to the additional attempt if the WCA Delegate determines that the timer was stopped deliberately.
         - A6b2) If the timer stops before the competitor has solved the puzzle and displays a time of 0.06 seconds or higher, then the attempt is disqualified (DNF). Exception: if the competitor can demonstrate that the timer malfunctioned, they may receive an extra attempt, at the discretion of the WCA Delegate.
     - A6c) The competitor must fully release the puzzle before stopping the timer. Penalty: disqualification of the attempt (DNF). Exception: If no moves have been applied after stopping the timer and before releasing the puzzle, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
-    - A6d) The competitor must stop the timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
+    - A6d) The competitor must stop the Stackmat timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
     - A6e) After stopping the timer, the competitor must not touch or apply a move to the puzzle until the judge has inspected the puzzle.
         - A6e1) Penalty for applying a move to the puzzle after stopping the timer: disqualification of the attempt (DNF).
         - A6e2) Penalty for touching the puzzle after stopping the timer without applying any moves: time penalty (+2 seconds). Exception: if immediately after stopping the timer, the competitor briefly touches the puzzle without affecting its state, the time penalty may be lifted, at the discretion of the judge (see [Regulation 11f](regulations:regulation:11f)).
@@ -425,9 +424,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - A6i) Time penalties for stopping the solve are cumulative.
 - A7) Recording results:
     - A7a) The judge tells the competitor the result.
-        - A7a1) If the judge finds that the puzzle is solved, they call "OKAY".
-        - A7a2) If the judge assigns any penalties, they call "PENALTY".
-        - A7a3) If the result is DNF, the judge calls "DNF".
+        - A7a1) The judge should indicate to the competitor that the puzzle is solved, or that a penalty will be applied.
     - A7b) The judge records the result on a score sheet and signs next to the result to acknowledge that the result is correct, complete, properly formatted, and clearly readable.
         - A7b1) If penalties are assigned, the judge records the original recorded time displayed on the timer, along with any penalties. The format should be "X + T + Y = F", where X represents the sum of time penalties before/starting the solve, T represents the time displayed on the timer (the "original recorded time"), Y represents a sum of time penalties during/after the solve, and F represents the final result (e.g. 2 + 17.65 + 2 = 21.65). If X and/or Y is 0, the 0 terms are omitted (e.g. 17.65 + 2 = 19.65).
     - A7c) The competitor must check the recorded result, and sign (or initial) the score sheet to acknowledge that the result is correct, complete, properly formatted, and clearly readable. This finishes the attempt.
@@ -443,16 +440,16 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 ## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
 
 - B1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-    - B1a) There is no inspection period.
+    - B1a) There is no inspection period (i.e. the solve starts at the same time as the attempt).
     - B1b) The competitor supplies their own blindfold.
 - B2) Starting the attempt:
     - B2a) The judge resets the timer(s) as in [Regulation A3b](regulations:regulation:A3b) and indicates that they are ready for the competitor to start the attempt (e.g. placing the puzzle cover in front of the competitor, saying "READY", giving a thumbs-up signal). The competitor must start the attempt within one minute, else the competitor forfeits the attempt (DNS), at the discretion of the judge.
-    - B2b) The competitor uses their fingers to touch the elevated sensor surfaces of the timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to them. Penalty: time penalty (+2 seconds).
-    - B2c) The competitor must have no physical contact with the puzzle or the puzzle cover while starting the attempt. Penalty: time penalty (+2 seconds).
-    - B2d) The competitor starts the attempt by removing their hands from the timer, thus starting the timer. (This also starts the solve.)
+    - B2b) When using the Stackmat timer, the competitor uses their fingers to touch the elevated sensor surfaces of the timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to them. Penalty: time penalty (+2 seconds).
+    - B2c) When using the Stackmat timer, the competitor must have no physical contact with the puzzle or the puzzle cover while starting the attempt. Penalty: time penalty (+2 seconds).
+    - B2d) When using the Stackmat timer, the competitor starts the attempt by removing their hands from the timer, thus starting the timer. (This also starts the solve.)
         - B2d1) The competitor removes the cover from the puzzle after starting the timer.
-    - B2e) If a stopwatch is in use in addition to a Stackmat timer, the judge starts the stopwatch as soon as the competitor starts the solve.
-    - B2f) If a stopwatch is in use as the only timer, the competitor places their hands on the table (instead of a Stackmat timer). After confirming that they are ready, the competitor starts the solve by lifting the cover. The judge starts the stopwatch as soon as the competitor starts the solve.
+        - B2d2) If a stopwatch is in use in addition to the Stackmat timer, the judge starts the stopwatch as soon as the competitor starts the solve.
+    - B2f) When using a stopwatch as the only timer, the competitor confirms they are ready and starts the solve by lifting the cover. The judge starts the stopwatch as soon as the competitor starts the solve.
 - B3) Memorization phase:
     - B3a) The competitor may pick up the puzzle during the memorization phase.
     - B3b) The competitor must not make physical notes. Penalty: disqualification of the attempt (DNF).
@@ -468,7 +465,9 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - B4d) The competitor must not look at the puzzle at any point during the blindfolded phase. Penalty: disqualification of the attempt (DNF).
 - B5) Stopping the solve:
     - B5a) When using the Stackmat timer, the competitor stops the solve by releasing the puzzle and then stopping the timer.
-    - B5b) When using a stopwatch, the competitor stops the solve by placing the puzzle back onto the surface and notifying the judge that they are stopping the solve. At that moment, the judge stops the timer.
+        - B5a1) If a stopwatch is in use in addition to the Stackmat timer, the judge stops the stopwatch as soon as the competitor stops the solve.
+    - B5b) When using a stopwatch as the only timer, the competitor stops the solve by releasing the puzzle and notifying the judge that they have stopped the solve. The judge stops the stopwatch as soon as the competitor does this.
+        - B5b1) The competitor's default notification signal consists of releasing the puzzle(s) from their hands and placing their hands on the surface, with palms down. The competitor and the judge may agree on another appropriate notification before the start of the attempt.
     - B5c) If the competitor is not touching the puzzle, they may remove the blindfold before they stop the timer. They must not touch the puzzle until the end of the solve. Penalty for touching the puzzle: disqualification of the attempt (DNF).
 
 
