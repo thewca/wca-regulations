@@ -132,7 +132,7 @@ To be more informative, each Guideline is classified using one of the following 
 
 - 10e1+) [CLARIFICATION] For Square-1, because of the shape-shifting property of the puzzle, the metric for misalignments defined in [Regulation 10f4](regulations:regulation:10f4) is different from the metric for the notation, used by the scramble program and defined in [Regulation 12c4](regulations:regulation:12c4).
 - 10f+) [EXPLANATION] The misalignment limits are selected so that they provide a natural cutoff between one state of a puzzle (without penalty) and a state one move away.
-- 10f4+) [CLARIFICATION] When counting the moves in case of a misalignment at the end of a solve, x and y are considered separately. Example: (5, 1) is considered one misalignment, (5, 5) is considered two misalignments.
+- 10f4+) [CLARIFICATION] When counting the moves in case of a misalignment at the end of a solve, X and Y are considered separately. Example: (5, 1) is considered one misalignment, (5, 5) is considered two misalignments.
 - 10h1+) [ADDITION] The solved state of Clock is not affected by loose or popped pin caps.
 
 

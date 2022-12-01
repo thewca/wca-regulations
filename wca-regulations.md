@@ -235,7 +235,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 9b5b) Cutoff formats for this event: "Best of X" (where X is 1 or 2) cutoff phase for "Best of Y" (where Y is 2 or 3, and Y > X).
 - 9f) The results of a round are measured as follows:
     - 9f1) All timed results under 10 minutes, except for 3x3x3 Multi-Blind, are measured and truncated to the nearest hundredth of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second.
-    - 9f2) All timed results, averages, and means over 10 minutes, as well as all times for 3x3x3 Multi-Blind results, are measured and rounded to the nearest second (e.g. x.49 becomes x, x.50 becomes x+1).
+    - 9f2) All timed results, averages, and means over 10 minutes, as well as all times for 3x3x3 Multi-Blind results, are measured and rounded to the nearest second (e.g. X.49 becomes X, X.50 becomes X+1).
     - 9f4) The result of an attempt is recorded as DNF (Did Not Finish) if the attempt is disqualified or unsolved/unfinished.
     - 9f5) The result of an attempt is recorded as DNS (Did Not Start) if the competitor is eligible for an attempt but declines it.
     - 9f6) For "Best of X" rounds, each competitor is allotted X attempts. The best result of these attempts determines the competitor's ranking in the round.
@@ -266,7 +266,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 9o) Cutoff Rounds count as one round when counting the number of rounds per event.
 - 9p) If an event has multiple rounds, then:
     - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
-    - 9p2) The competitors who advance to the next round must be determined by ranking (best x competitors) or by result (all competitors with a better result than x) in the preceding round.
+    - 9p2) The competitors who advance to the next round must be determined by ranking (best X competitors) or by result (all competitors with a better result than X) in the preceding round.
         - 9p2a) For each round, advancement conditions must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
     - 9p3) If a qualifying competitor withdraws from a round, they may be replaced by the best-ranked non-qualifying competitor from the preceding round.
 - 9s) Each round of each event must have a time limit (see [Regulation A1a](regulations:regulation:A1a)).
@@ -333,9 +333,9 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 12a6) Execution Turn Metric (ETM) is defined as: Each move of the categories Face Moves, Outer Block Moves, and Rotations is counted as 1 move.
 - 12c) Notation for Square-1:
     - 12c1) Moves are applied with one of the two smallest surfaces of the equatorial slice on the left side of the front face.
-    - 12c2) (x, y) means: turn upper layer x times 30 degrees clockwise, turn bottom layer y times 30 degrees clockwise. x and y must be integers from -5 to 6, and cannot be both equal to 0.
+    - 12c2) (X, Y) means: turn upper layer X times 30 degrees clockwise, turn bottom layer Y times 30 degrees clockwise. X and Y must be integers from -5 to 6, and cannot be both equal to 0.
     - 12c3) "/" means: turn the right half of the puzzle 180 degrees.
-    - 12c4) Metric for Square-1: (x, y) counts as one move, "/" counts as one move.
+    - 12c4) Metric for Square-1: (X, Y) counts as one move, "/" counts as one move.
 - 12d) Notation for Megaminx (scrambling notation only):
     - 12d1) Face Moves:
         - 12d1a) Clockwise, 72 degrees: U (upper face).
@@ -350,7 +350,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 12g) Notation for Clock:
     - 12g1) The puzzle is oriented with 12 o'clock on top, and either side in front.
     - 12g2) Move pins up: UR (top-right), DR (bottom-right), DL (bottom-left), UL (top-left), U (both top), R (both right), D (both bottom), L (both left), ALL (all).
-    - 12g3) Turn a wheel next to an up-position pin and move all pins down afterwards: x+ (x clockwise turns), x- (x counter-clockwise turns).
+    - 12g3) Turn a wheel next to an up-position pin and move all pins down afterwards: X+ (X clockwise turns), X- (X counter-clockwise turns).
     - 12g4) Turn around the puzzle so that 12 o'clock stays on top, and then move all pins down: y2.
 - 12h) Notation for Skewb:
     - 12h1) The puzzle is oriented with three faces fully visible, where the upper face is on top.
