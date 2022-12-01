@@ -127,7 +127,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 9t3+) [EXAMPLE] Suppose competitor A gets a 10.00 average and competitor B gets a 10.05 average in the first round of an event, such that competitor A advances to the final round but not B. If a score-taking mistake is discovered, and competitor B actually got a 9.95 average (and should have proceeded instead of A), competitor A keeps their result for the final round.
 - 9u+) [ADDITION] For competition with multiple physical locations (e.g. "3x3x3 Fewest Moves simultaneous competitions"), all the requirements must be met in every location to consider the competition as ended.
 - 9u2+) [RECOMMENDATION] The WCA Delegate should announce the end of the competition (e.g. prior to the awards ceremony).
-- 9u2b+) [ADDITION] The local time for the location in which the competition took place must be considered to determine the end of the calendar date.
+- 9u2b+) [ADDITION] The calendar date of the end of the competition is determined by the local time for the location in which the competition took place.
 
 
 ## <article-10><solved-state><solvedstate> Article 10: Solved State
