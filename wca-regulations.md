@@ -457,7 +457,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - B3) Memorization phase:
     - B3a) The competitor may pick up the puzzle during the memorization phase.
     - B3b) The competitor must not make physical notes. Penalty: disqualification of the attempt (DNF).
-    - B3c) The competitor must not apply moves nor intentional changes in alignment (see [Regulation A3c2](regulations:regulation:A3c2)) to the puzzle during the memorization phase. Penalty: disqualification of the attempt (DNF).
+    - B3c) The competitor must not apply moves or intentional changes in alignment (see [Regulation A3c2](regulations:regulation:A3c2)) to the puzzle during the memorization phase. Penalty: disqualification of the attempt (DNF).
     - B3d) If the parts of the puzzle are not fully aligned, then the competitor may align the faces, as long as misalignments stay within the limits of [Regulation 10f](regulations:regulation:10f) (see [Regulation A3c2](regulations:regulation:A3c2)).
 - B4) Blindfolded phase:
     - B4a) The competitor dons the blindfold to start the blindfolded phase.
