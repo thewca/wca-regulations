@@ -5,7 +5,7 @@ This document is meant to clarify some of the implicit conventions adopted in WC
 ## General Information
 
 - The documents are formatted in [Markdown](http://daringfireball.net/projects/markdown/), a plain-text format created by John Gruber. This makes it easy to focus on the raw text (and any changes), so that it is readable on its own and can also be converted into a fancier format (i.e. HTML).
-  - Indentation is four spaces in the Regulations
+  - Indentation is four spaces in the Regulations.
   - The Guidelines have an irregular correspondence to numbering in the Regulations, thus Guidelines have no indentation in the source.
 - The division into Regulations Guidelines roughly mirrors the normative vs. non-normative (informative) distinction employed by W3C standards.
   - The use of the words "must (not)", "shall (not)", "should (not)", and "may (not)" (requirement levels) conform to RFC 2119. In particular, note that "shall" indicates a (non-optional) requirement.
@@ -39,7 +39,7 @@ This document is meant to clarify some of the implicit conventions adopted in WC
 - Most formatting conventions can be inferred from the documents themselves. This includes the following:
   - Indentation and spacing.
     - Conservative levels of indentation (at most three in the Regulations and Guidelines).
-  - Listing examples (either in parentheses or numbered bullets)
+  - Listing examples (either in parentheses or numbered bullets).
     - Use of "e.g." and "i.e." (instead of "for example"/"that is").
     - Use of the [serial comma](https://en.wikipedia.org/wiki/Serial_comma).
   - Punctuation:
@@ -71,7 +71,7 @@ This document is meant to clarify some of the implicit conventions adopted in WC
 - "The attempt" instead of "an attempt", except the first mention of an attempt that has not been identified yet.
 - "Scramble sequence" instead of "scramble".
 - "Start" instead of "begin".
-- "Stop" instead of "halt" or "finish"
+- "Stop" instead of "halt" or "finish".
 - "Registration" instead of "pre-registration" (unless specifically referring to registration before the day of the competition).
 - A judge "calls" instead of "says".
 - "Score sheet" (two words) instead of "score card".
@@ -81,13 +81,13 @@ This document is meant to clarify some of the implicit conventions adopted in WC
 - "Record" a result instead of "write down".
 - "Thus" instead of "thereby".
 - "Discretion" (of the delegate) instead of "consent".
-- "at the discretion of the Delegate/judge" instead of "at the Delegate's/judge's discretion"
+- "At the discretion of the Delegate/judge" instead of "at the Delegate's/judge's discretion".
 - "State" (of a puzzle) instead of "position".
 - "Allot" (a maximum number of attempts) instead of "give".
 - "Choose" instead of "decide".
 - "Spectators" instead of "audience".
 - "If X, ..." instead of "Should X be the case, ...".
-- "For X, ..." or "during X, ..." instead of "In X, ..."
+- "For X, ..." or "during X, ..." instead of "In X, ...".
 - "Start" and "stop" (verbs).
 - "Beginning" and "end" (nouns).
 - "Finish" (verb).
@@ -120,6 +120,6 @@ This document is meant to clarify some of the implicit conventions adopted in WC
 - Result: An official time, either the time for an attempt including penalties, or a derived result (e.g. mean/average).
 - Rankings: An ordered list of results (e.g. first round rankings, world rankings).
 - Ranking/Rank: An ordinal number representing a result's order in a list of results (e.g. ranking in a round, world rank).
-- Record: A best-ranked result (e.g. of comparable results for a region, or of results for a competitor)
+- Record: A best-ranked result (e.g. of comparable results for a region, or of results for a competitor).
 - Part: A subset of puzzle components (in particular, any individual piece, cap, sticker, etc.).
 - Piece: A part of the puzzle that stays together during normal use of a puzzle (e.g. a cubie with its stickers).
