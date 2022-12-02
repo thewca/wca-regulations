@@ -507,7 +507,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - E3e) Other non-electronic aids that do not give an unfair advantage, at the discretion of the WCA Delegate (see [Regulation 2i1](regulations:regulation:2i1)).
     - E3f) Tools to remove markings (self-supplied), such as correction fluid, correction tape, or erasers.
 - E4) The WCA Delegate may choose to publish the solutions (e.g. photo of the score sheets or transcriptions of solutions).
-- E5) The competitor must not communicate with anyone other than the WCA Delegate. This communication should be about the WCA Regulations and the competitor must not receive assistance deriving their solution. Penalty: disqualification of the attempt (DNF).
+- E5) The competitor must not communicate with anyone other than the WCA Delegate or the judge. This communication should be about the WCA Regulations and the competitor must not receive assistance deriving their solution. Penalty: disqualification of the attempt (DNF).
 
 
 ## <article-F><clock><clocksolving> Article F: Clock Solving
