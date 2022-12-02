@@ -173,7 +173,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 4f) Competition scramble sequences must be generated using a current official version of an official WCA scramble program (available [via the WCA website](https://www.worldcubeassociation.org/regulations/scrambles/)).
 - 4g) After scrambling a puzzle, the scrambler must verify that the puzzle is scrambled correctly. If the puzzle state is wrong, the scrambler must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
     - 4g1) Exception: For the 6x6x6 Cube, 7x7x7 Cube, and Megaminx, it is not necessary to correct the puzzle state, at the discretion of the WCA Delegate.
-    - 4g2) Exception: For Clock, if the state of the pins are affected during transportation or uncovering, it is not necessary to correct the pins, at the discretion of the WCA Delegate.
+    - 4g2) Exception: For Clock, if the state of the pins are affected during transportation or uncovering, the pins should not be corrected.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
