@@ -95,7 +95,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 4f+) [RECOMMENDATION] The WCA Delegate should generate sufficient scramble sequences for the entire competition ahead of time, including spare scramble sequences for extra attempts.
 - 4f++) [REMINDER] If the WCA Delegate generates any additional scramble sequences during the competition, the scramble sequences must be saved.
 - 4g2+) [CLARIFICATION] The scrambler must still verify that the clock is scrambled correctly.
-- 4g2++) [ADDITION] If the clock falls over during uncovering, an extra must be given.
+- 4g2++) [CLARIFICATION] If the clock falls over during uncovering, an extra must be given.
 - 4g2+++) [RECOMMENDATION] The scrambler should leave score sheets outside the cube cover instead of placing them inside the cube cover.
 
 
