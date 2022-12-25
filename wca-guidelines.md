@@ -139,7 +139,7 @@ To be more informative, each Guideline is classified using one of the following 
 
 - 11e+) [CLARIFICATION] Since an appeal is not guaranteed to be successful, the competitor may choose to keep the timer running while appealing it, and resume the solve when appropriate.
 - 11e++) [RECOMMENDATION] The WCA Delegate should record the reason(s) for the extra attempt (e.g. on the back of the score sheet).
-- 11e+++) [RECOMMENDATION] The WCA Delegate should use stronger discretion when granting an extra attempt after the original attempt is finished. The extra attempt should be granted on very exceptional circumstances.
+- 11e+++) [RECOMMENDATION] The WCA Delegate should use stronger discretion when granting an extra attempt after the solve is finished. The extra attempt should be granted only in exceptional circumstances.
 - 11e++++) [REMINDER] The attempt is finished after the competitor checks the recorded result and signs on the score sheet (see [Regulation A7c](regulations:regulation:A7c)).
 - 11e+++++) [ADDITION] If the WCA Delegate does not have time to investigate this claim during the competition, they should grant the competitor a provisional extra.
 - 11e++++++) [ADDITION] An extra attempt is considered to be done at the time that the original solve happened. For example, if a round was originally scheduled for January 21st, and a competitor receives an extra on January 22nd, the extra solve is considered to be done on January 21st.
