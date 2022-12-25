@@ -132,7 +132,12 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3h2) Puzzles whose colored plastic is visible inside the puzzle (e.g. "stickerless" puzzles) are permitted. This does not include the following puzzles:
         - 3h2a) Puzzles with transparent parts that can reveal more information about the state of the puzzle. Exception: An overlay sticker or a logo (see [Regulation 3l](regulations:regulation:3l)).
     - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
-    - 3h4) For Clock, custom "inserts" (the same shape and size as the traditional paper inserts) are permitted, at the discretion of the WCA Delegate. The inserts must have a clear indication of 12 o'clock that matches the original inserts.
+    - 3h4) For Clock, the following modifications are permitted:
+        - 3h4a) Customs "inserts" (the same shape and size as the traditional paper inserts) are permitted, at the discretion of the WCA Delegate. The inserts must have a clear indication of 12 o'clock that matches the original inserts.
+        - 3h4b) Puzzle design customizations that do not give an unfair advantage may be permitted, at the discretion of the WCA Delegate (e.g. checkerboard pattern clocks, faces with a custom design, tape on the side of the clock).
+        - 3h4c) Customizations which distinguish pins from other pins of the same side are permitted, at the discretion of the WCA Delegate.
+        - 3h4d) Logos anywhere on the puzzle, as long as the inner clock faces remain uncovered.
+    - 3h5) On Clock, loose pins (i.e. pins that can toggle or recede using gravity instead of being directly pressed) are not considered reasonable wear, and these puzzles must not be permitted.
 - 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that significantly distinguish any piece from a similar piece. Exception: a logo (see [Regulation 3l](regulations:regulation:3l)).
     - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
     - 3j2) Definition: Two pieces are similar to each other if they are identical in shape and size, or mirrored in shape and identical in size.
