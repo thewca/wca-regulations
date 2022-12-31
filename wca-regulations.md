@@ -1,6 +1,6 @@
 # <wca-title>WCA Regulations
 
-<version>Version: January 1, 2023
+<version>Version: February 1, 2023
 
 
 ## Notes
