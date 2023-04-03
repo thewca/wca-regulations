@@ -493,7 +493,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - C1b2) If a puzzle defect occurs, and the competitor chooses to repair it, they must repair it using only the solving hand. Penalty: disqualification of the attempt (DNF).
         - C1b3) If other body parts of the competitor come in contact with the puzzle or parts of the puzzle without the competitor's intention and without applying moves, this is not considered operating the puzzle, at the discretion of the judge.
         - C1b4) During the solve, the competitor may hold the puzzle against the surface to help operate the puzzle (see [Regulation 7f1d](regulations:regulation:7f1d)).
-    - C1c) During the solve, once a competitor operates the puzzle with one hand, they must not operate the puzzle with the other hand. Penalty: disqualification of the attempt (DNF).
+    - C1c) During the solve, once a competitor operates the puzzle with one hand, they must not operate the puzzle with the other hand, or with other body parts (Exception: see [Regulation C1b3](regulations:regulation:C1b3)). Penalty: disqualification of the attempt (DNF).
 
 
 ## <article-E><fewest-moves><fewestmovessolving> Article E: Fewest Moves Solving
