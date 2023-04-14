@@ -105,7 +105,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 5b5++) [EXAMPLE] Examples of parts physically detached, resulting in a DNF: two 3x3x3 center caps, two big cube center pieces, a 3x3x3 edge piece, a 4x4x4 edge piece ("wing"), any combination of two pieces that both have colored parts.
 - 5b5+++) [EXAMPLE] Example of parts physically attached but not fully placed, resulting in a solved state: a 5x5x5 center piece twisted in its spot.
 - 5b5++++) [EXAMPLE] Example of parts physically attached but not fully placed, resulting in a DNF: a 3x3x3 edge piece slightly popped out.
-- 5b5f+) [CLARIFICATION] The position and orientation of a piece is valid in terms of mechanism, if the piece can reach it when all the pieces of the puzzle are fully attached.
+- 5b5f+) [CLARIFICATION] The position and orientation of a piece is valid in terms of mechanism, if the piece can reach it when all the pieces of the puzzle are fully placed.
 - 5b5f++) [EXAMPLE] A 4x4x4 Cube edge "wing" twisted on its spot is considered solved.
 - 5b5f+++) [EXAMPLE] A corner affected by a corner twist is considered to be placed in a valid position, but such position does not render the piece solved.
 - 5c+) [REMINDER] If a competitor has a puzzle defect, this does not grant them the right to an extra attempt.
