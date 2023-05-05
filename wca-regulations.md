@@ -419,7 +419,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A4d3) If a stopwatch is in use, the judge starts the stopwatch as soon as the competitor starts the solve.
     - A4e) Time penalties for starting the solve are cumulative.
 - A5) During the solve:
-    - A5a) While inspecting or solving the puzzle, the competitor should not communicate with anyone other than the judge or the WCA Delegate. Penalty: disqualification of the attempt (DNF).
+    - A5a) While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge or the WCA Delegate. Penalty: disqualification of the attempt (DNF). Exception: If the competitor does not gain an advantage by communicating with anyone other than the judge or the WCA Delegate, the result may stand, at the discretion of the WCA Delegate. 
     - A5b) While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface (also see [Regulation 2i](regulations:regulation:2i)). Penalty: disqualification of the attempt (DNF).
     - A5c) The competitor may hold the puzzle against the surface to help operate the puzzle (see [Regulation 7f1d](regulations:regulation:7f1d)).
 - A6) Stopping the solve:
