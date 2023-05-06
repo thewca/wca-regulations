@@ -199,7 +199,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 5b5c) If more than one part with one colored face is affected, the puzzle is considered unsolved (DNF).
         - 5b5d) If one or more parts with more than one colored face are affected, the puzzle is considered unsolved (DNF).
         - 5b5e) Regulations [5b5c](regulations:regulation:5b5c) and [5b5d](regulations:regulation:5b5d) supersede [5b5a](regulations:regulation:5b5a) and [5b5b](regulations:regulation:5b5b).
-        - 5b5f) If a piece is partially detached or not fully placed, its final position is considered to be its nearest valid position and orientation in the puzzle, in terms of mechanism. If the final position renders the piece solved, the piece is not considered to be affected by the puzzle defect.
+        - 5b5f) If a piece is partially detached or not fully placed, its final position is the closest position in which the affected piece would normally fit within the puzzle mechanism, considering the current state of the puzzle. If the final position renders the piece solved, the piece is not considered to be affected by the puzzle defect.
     - 5b6) Definition: A part is one or more fully connected components from a group of puzzle components that remain connected and do not move relative to each other during ordinary operation of the puzzle (e.g. a 3x3x3 center cap, a Pyraminx tip, a 3x3x3 corner piece missing one face, one face of a 3x3x3 corner piece).
 
 
