@@ -282,7 +282,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9t1) If this makes a round no longer compliant with [Regulation 9p1](regulations:regulation:9p1), results of other competitors must not be removed.
     - 9t2) If this makes a round no longer compliant with [Regulation 9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) or [9m3](regulations:regulation:9m3), any subsequent round must not be removed.
     - 9t3) If any change occurs to the result of a competitor, such that another competitor should not have advanced to the next round, the result of the second competitor must not be removed.
-- 9u) A competition is considered to have ended if all the following requirements are met:
+- 9u) A competition is considered to have ended if all the following requirements are met simultaneously:
     - 9u1) All the scheduled rounds in the WCA website are completed.
     - 9u2) The WCA Delegate announces the end of the competition. If the WCA Delegate does not announce the end of the competition, at least one of the following conditions are required:
         - 9u2a) All the listed WCA Delegates permanently leave the venue.
