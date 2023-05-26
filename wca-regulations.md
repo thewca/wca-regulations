@@ -42,6 +42,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 1a) A competition must include a WCA Delegate and an organization team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
 - 1b) The organization team of a competition is responsible for logistics before, during, and after the competition.
 - 1c) The WCA Delegate is responsible for ensuring that the competition adheres to the WCA Regulations and any applicable WCA policies or requirements. The WCA Delegate may appoint other members of the organization team to carry out specific responsibilities on their behalf, but is ultimately accountable for how these responsibilities are carried out.
+    - 1c1) The WCA Delegate must ensure that the competition follows the [WCA Scramble Accountability Policy](https://www.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
 - 1e) Each event must have one or more judges.
     - 1e1) A judge is responsible for executing the procedures of the event.
         - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the WCA Delegate, as long as the judge is able to ensure that all WCA Regulations are followed at all times.
@@ -56,7 +57,6 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 1h1) Scramblers and judges for a round should not scramble for/judge competitors in their own group before they have finished all of their attempts for the round. They may scramble for/judge competitors in their own group at the discretion of the WCA Delegate, but the organization team must ensure that scramblers and judges cannot see any scramble sequences for their attempts that they have not attempted yet (see [Regulation 4b2](regulations:regulation:4b2)).
 - 1j) All officials may compete in the competition.
 - 1k) Officials may serve multiple roles (e.g. organization team, WCA Delegate, judge, score taker, scrambler).
-- 1l) The WCA Delegate must ensure that competitions follow the [WCA Scramble Accountability Policy](https://www.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
 
 
 ## <article-2><competitors><competitors> Article 2: Competitors
