@@ -103,7 +103,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 5b+) [ADDITION] The competitor is not permitted to cause a puzzle defect intentionally, unless correcting a previous puzzle defect (see [Regulation 5b3b](regulations:regulation:5b3b) and [Regulation 5b3c](regulations:regulation:5b3c)). Examples of intentionally causing puzzle defects: removing an attached center cap, rotating a corner piece, peeling a sticker.
 - 5b5+) [EXAMPLE] Examples of parts physically detached, resulting in a solved state: one 3x3x3 center cap, one big cube center piece, an inner piece of a big cube.
 - 5b5++) [EXAMPLE] Examples of parts physically detached, resulting in a DNF: two 3x3x3 center caps, two big cube center pieces, a 3x3x3 edge piece, a 4x4x4 edge piece ("wing"), any combination of two pieces that both have colored parts.
-- 5b5f+) [EXAMPLE] [Visual Guide](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view).
+- 5b5f+) [EXAMPLE] There is a [Visual Guide](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view) available for [Regulation 5b5f](regulations:regulation:5b5f).
 - 5b5f++) [EXAMPLE] A 4x4x4 Cube edge "wing" twisted on its spot is considered solved.
 - 5b5f+++) [EXAMPLE] A corner affected by a corner twist is considered to be placed in a valid position, but such position does not render the piece solved.
 - 5c+) [REMINDER] If a competitor has a puzzle defect, this does not grant them the right to an extra attempt.
