@@ -435,7 +435,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A6e2) Penalty for touching the puzzle after stopping the timer without applying any moves: time penalty (+2 seconds). Exception: if immediately after stopping the timer, the competitor briefly touches the puzzle without affecting its state, the time penalty may be lifted, at the discretion of the judge (see [Regulation 11f](regulations:regulation:11f)).
     - A6f) The competitor must not reset the timer until both the competitor and the judge have signed the score sheet. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
         - A6f1) If the competitor resets the timer before the result has been completely recorded, the judge must not write down the result from memory or from video or photographic evidence, and must disqualify the attempt instead (DNF).
-    - A6g) The judge determines whether the puzzle is solved. They must not touch the puzzle before they have determined whether to assign a penalty for misalignment. Exception: For Clock, the judge will usually need to pick up the puzzle to verify both faces.
+    - A6g) The judge determines whether the puzzle is solved. If the puzzle is misaligned, it must not be touched before the judge has determined its final state.
     - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle before the dispute is resolved.
     - A6i) Time penalties for stopping the solve are cumulative.
 - A7) Recording results:
