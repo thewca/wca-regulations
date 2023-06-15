@@ -241,7 +241,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 9b5a) Full round formats for this event: "Best of X" (where X is 1, 2, or 3).
         - 9b5b) Cutoff formats for this event: "Best of X" (where X is 1 or 2) cutoff phase for "Best of Y" (where Y is 2 or 3, and Y > X).
 - 9f) The results of a round are measured as follows:
-    - 9f1) All timed results under 10 minutes, except for 3x3x3 Multi-Blind, are measured and truncated to the nearest hundredth of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second.
+    - 9f1) All timed results under 10 minutes, except for 3x3x3 Multi-Blind, are measured and truncated down to hundredths of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second.
     - 9f2) All timed results, averages, and means over 10 minutes, as well as all times for 3x3x3 Multi-Blind results, are measured and rounded to the nearest second (e.g. X.49 becomes X, X.50 becomes X+1).
     - 9f4) The result of an attempt is recorded as DNF (Did Not Finish) if the attempt is disqualified or unsolved/unfinished.
         - 9f4a) If a competitor violates a regulation clearly enough that the attempt is certain to be disqualified, the judge should immediately stop the attempt. If the judge is uncertain or a dispute could be disruptive (e.g. because an extra attempt could delay the competition), the judge should consult the WCA Delegate.
