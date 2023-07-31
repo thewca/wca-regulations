@@ -1,6 +1,6 @@
 # <wca-title>WCA Guidelines
 
-<version>Version: August 1, 2023
+<version>Version: February 1, 2023
 
 
 ## Notes
@@ -103,9 +103,8 @@ To be more informative, each Guideline is classified using one of the following 
 - 5b+) [ADDITION] The competitor is not permitted to cause a puzzle defect intentionally, unless correcting a previous puzzle defect (see [Regulation 5b3b](regulations:regulation:5b3b) and [Regulation 5b3c](regulations:regulation:5b3c)). Examples of intentionally causing puzzle defects: removing an attached center cap, rotating a corner piece, peeling a sticker.
 - 5b5+) [EXAMPLE] Examples of parts physically detached, resulting in a solved state: one 3x3x3 center cap, one big cube center piece, an inner piece of a big cube.
 - 5b5++) [EXAMPLE] Examples of parts physically detached, resulting in a DNF: two 3x3x3 center caps, two big cube center pieces, a 3x3x3 edge piece, a 4x4x4 edge piece ("wing"), any combination of two pieces that both have colored parts.
-- 5b5f+) [EXAMPLE] There is a [Visual Guide](https://drive.google.com/file/d/15XszaCGNvy3Dk6X6qERzZWZaDH1RH04z/view) available for [Regulation 5b5f](regulations:regulation:5b5f).
-- 5b5f++) [EXAMPLE] A 4x4x4 Cube edge "wing" twisted on its spot is considered solved.
-- 5b5f+++) [EXAMPLE] A corner affected by a corner twist is considered to be placed in a valid position, but such position does not render the piece solved.
+- 5b5+++) [EXAMPLE] Example of parts physically attached but not fully placed, resulting in a solved state: a 5x5x5 center piece twisted in its spot.
+- 5b5++++) [EXAMPLE] Example of parts physically attached but not fully placed, resulting in a DNF: a 3x3x3 edge piece slightly popped out.
 - 5c+) [REMINDER] If a competitor has a puzzle defect, this does not grant them the right to an extra attempt.
 
 
@@ -170,7 +169,6 @@ To be more informative, each Guideline is classified using one of the following 
 - A1a2+++) [ADDITION] If the result from an attempt is unavailable (e.g. the timer was reset), the judge should consult the WCA Delegate and make an estimate of the elapsed time for the attempt. This estimate counts towards the time limit, but must not be used as the basis of an official result for the individual attempt.
 - A1a2++++) [EXAMPLE] If a round has a cumulative time limit of 20 minutes and a time limit of 8 minutes, and the competitor's results of the first two attempts are 7:00 and 7:30, then the time limit for the third attempt is the lowest time of 20:00 - 7:00 - 7:30 = 5:30 and 8:00, i.e. 5:30.
 - A1a2+++++) [CLARIFICATION] If a competitor reaches a cumulative time limit, the result for each of their remaining attempts in the round is recorded as DNS (Did Not Start).
-- A1a2++++++) [CLARIFICATION] If a cumulative time limit applies to a combination of rounds for different events, the order in which attempts are done is the order in which those attempts count towards the cumulative time limit.
 - A1a3+) [REMINDER] The organization team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a cutoff round), and that changing time limits after the start of the round can disadvantage some competitors unfairly.
 - A1a4+) [REMINDER] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and WCA Delegate should be informed (see [Regulation 1g2](regulations:regulation:1g2)). Judges must always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
 - A2c1+) [REMINDER] In the past, score sheets have been used to cover puzzles while leaving some sides exposed. This is no longer permitted.
