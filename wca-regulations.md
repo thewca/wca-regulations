@@ -138,7 +138,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 3h4b) Puzzle design customizations that do not give an unfair advantage may be permitted, at the discretion of the WCA Delegate (e.g. checkerboard pattern clocks, faces with a custom design, tape on the side of the Clock).
         - 3h4c) Customizations which distinguish pins from other pins of the same side are permitted, at the discretion of the WCA Delegate.
         - 3h4d) Logos anywhere on the puzzle, as long as the inner clock faces remain uncovered.
-    - 3h5) On Clock, loose pins (i.e. pins that can toggle or recede using gravity instead of being directly pressed) are not considered reasonable wear, and these puzzles must not be permitted.
+    - 3h5) For Clock, loose pins (i.e. pins that can toggle or recede using gravity instead of being directly pressed) are not considered reasonable wear, and puzzles with such pins must not be permitted.
 - 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that significantly distinguish any piece from a similar piece. Exception: a logo (see [Regulation 3l](regulations:regulation:3l)).
     - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
     - 3j2) Definition: Two pieces are similar to each other if they are identical in shape and size, or mirrored in shape and identical in size.
@@ -286,7 +286,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9t3) If any change occurs to the result of a competitor, such that another competitor should not have advanced to the next round, the result of the second competitor must not be removed.
 - 9u) A competition is considered to have ended if all the following requirements are met simultaneously:
     - 9u1) All the scheduled rounds in the WCA website are completed.
-    - 9u2) The WCA Delegate announces the end of the competition. If the WCA Delegate does not announce the end of the competition, at least one of the following conditions are required:
+    - 9u2) The WCA Delegate has announced the end of the competition. If the WCA Delegate does not announce the end of the competition, either of the following takes the place of this announcement (whichever comes first):
         - 9u2a) All the listed WCA Delegates permanently leave the venue.
         - 9u2b) The end of the last calendar date of the competition is reached.
 
