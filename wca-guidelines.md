@@ -95,7 +95,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 4f++) [REMINDER] If the WCA Delegate generates any additional scramble sequences during the competition, the scramble sequences must be saved.
 - 4g2+) [CLARIFICATION] The scrambler must still verify that the Clock is scrambled correctly.
 - 4g2++) [CLARIFICATION] If the Clock falls over during uncovering, an extra must be given.
-- 4g2+++) [RECOMMENDATION] The scrambler should leave score sheets outside the cube cover instead of placing them inside the cube cover.
+- 4g2+++) [RECOMMENDATION] The scrambler should leave score sheets outside the cube cover instead of placing them inside the cube cover to minimize the risk of affecting the state of the pins.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
