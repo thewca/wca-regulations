@@ -1,6 +1,6 @@
 # <wca-title>WCA List of Recognized Regions of Representation
 <wca-states>
-<version>Version: January 1, 2023
+<version>Version: January 1, 2024
 
 
 The WCA recognizes a total of 199 regions of representation:
