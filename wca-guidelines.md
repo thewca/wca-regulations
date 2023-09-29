@@ -44,7 +44,7 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-2><competitors><competitors> Article 2: Competitors
 
 - 2c+) [ADDITION] First-time competitors should register using their legal name. They may register using a reasonable nickname, at the discretion of the WCA Delegate.
-- 2c2+) [CLARIFICATION] A WCA profile is the collection of data related to a competitor, and includes their personal information (name, region, gender, and date of birth) as well as all their results in official WCA competitions.
+- 2c2+) [CLARIFICATION] A WCA profile is the collection of data related to a competitor, and includes their personal information (name, region of representation, gender, and date of birth) as well as all their results in official WCA competitions.
 - 2d+) [ADDITION] Date of birth and contact information should be especially secured.
 - 2d++) [RECOMMENDATION] If a third party (e.g. journalist) asks the organization team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
 - 2e+) [CLARIFICATION] If a competitor holds multiple citizenships, they may choose which region to represent at their first competition.

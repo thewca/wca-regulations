@@ -1,9 +1,9 @@
-# <wca-title>WCA List of Recognized Countries
+# <wca-title>WCA List of Recognized Regions of Representation
 <wca-states>
-<version>Version: March 06, 2020
+<version>Version: January 1, 2023
 
 
-The WCA recognizes a total of 199 countries/regions:
+The WCA recognizes a total of 199 regions of representation:
 
 
 ## <states-list>
@@ -207,8 +207,3 @@ The WCA recognizes a total of 199 countries/regions:
 - (YE:_Asia) Yemen
 - (ZM:_Africa) Zambia
 - (ZW:_Africa) Zimbabwe
-
-
-## <credit>
-
-The list above was compiled by [James Molloy](mailto:jmolloy@worldcubeassociation.org).
