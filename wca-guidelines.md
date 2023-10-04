@@ -91,6 +91,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 4b4+) [CLARIFICATION] All attempts that have been started within the time frame follow the standard solving procedure (i.e. they are not stopped when the time frame of the relevant scramble sequence expires).
 - 4d+) [CLARIFICATION] Some puzzles use standard color schemes, except that white is replaced with black. In this case, black is the darkest color and must not be treated as white.
 - 4d++) [ADDITION] It is permitted for the puzzle to change its orientation when it is moved from the scrambler to the solving station, as long as no one is attempting to influence the randomness of the orientation (see [Regulation A2e1](regulations:regulation:A2e1)).
+- 4d+++) [REMINDER] In the past, Square-1 had to be scrambled starting with the darker color on front. This is no longer required.
 - 4f+) [RECOMMENDATION] The WCA Delegate should generate sufficient scramble sequences for the entire competition ahead of time, including spare scramble sequences for extra attempts.
 - 4f++) [REMINDER] If the WCA Delegate generates any additional scramble sequences during the competition, the scramble sequences must be saved.
 - 4g2+) [CLARIFICATION] The scrambler must still verify that the Clock is scrambled correctly.
