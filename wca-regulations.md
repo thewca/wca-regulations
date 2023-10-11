@@ -174,7 +174,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 4d) Scrambling orientation:
     - 4d1) NxNxN Cubes and Megaminx are scrambled starting with the white face (if not possible, then the lightest face) on the top and the darkest adjacent green face (if not possible, then the darkest adjacent face) on the front.
     - 4d2) Pyraminx is scrambled starting with the yellow face (if not possible, then the lightest face) on the bottom and the green face (if not possible, then the darkest adjacent face) on the front.
-    - 4d3) Square-1 is scrambled starting with either side in front.
+    - 4d3) Square-1 is scrambled starting with either side in front (see [Regulation 12c1](regulations:regulation:12c1)).
     - 4d4) Clock is scrambled starting with either side in front and 12 o'clock pointing up.
     - 4d5) Skewb is scrambled starting with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front-left.
 - 4f) Competition scramble sequences must be generated using a current official version of an official WCA scramble program (available [via the WCA website](https://www.worldcubeassociation.org/regulations/scrambles/)).
