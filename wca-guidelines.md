@@ -62,7 +62,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 2s+) [REMINDER] Special accommodations must be noted in the Delegate Report.
 - 2s++) [EXAMPLE] Competitors whose circumstances (e.g. religion) do not allow them to compete on a specific date or time may be allowed to compete at a different time at the discretion of the WCA Delegate. The WCA Delegate should consider the availability of competition resources when attending such requests.
 - 2s+++) [EXAMPLE] A competitor that can not use one of their hands to start the timer may receive assistance from the judge to start and stop the timer, or a competitor that cannot hear may receive their inspection warnings in a different way.
-- 2s++++) [EXAMPLE] Competitors whose circumstances result in a severe impediment of following an event procedures may have some leniency applied when competing. (e. g. blind competitor using a second hand to feel the pieces in 3x3x3 One-Handed or using a second puzzle with special pieces to memorize in 3x3x3 Blindfolded). These cases must be informed and requested to the WCA Regulations Committee before being applied.
+- 2s1+) [EXAMPLE] Examples of such accomodations include: a blind competitor using a second hand to feel the pieces in 3x3x3 One-Handed or using a second puzzle with special pieces to memorize in 3x3x3 Blindfolded.
 - 2u1+) [ADDITION] The competitor may compete at the discretion of the WCA Delegate. The WCA Delegate must carefully consider the fairness of allowing it.
 
 
