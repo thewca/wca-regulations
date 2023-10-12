@@ -405,6 +405,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A3b2) The competitor starts the attempt by confirming that they are ready, and the judge uncovers the puzzle and starts timing the inspection.
         - A3b3) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
         - A3b4) When 12 seconds of inspection have elapsed, the judge calls "12 SECONDS".
+        - A3b5) The judge stops timing inspection as soon as the competitor lifts their hands and starts the timer (see [Regulation A4d](regulations:regulation:A4d)).
     - A3c) The competitor may pick up the puzzle during inspection.
         - A3c1) The competitor must not apply moves or intentional changes in alignment during inspection. Penalty: disqualification of the attempt (DNF). Exception: see [Regulation A3c2](regulations:regulation:A3c2) and [Regulation A3c5](regulations:regulation:A3c5).
         - A3c2) If the parts of the puzzle are not fully aligned when the cover is removed, then the competitor may align the faces, as long as misalignments stay within the limits of [Regulation 10f](regulations:regulation:10f).
