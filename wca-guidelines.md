@@ -159,6 +159,7 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-12><notation><notation> Article 12: Notation
 
 - 12a2+) [CLARIFICATION] For example, both Rw and 2Rw are valid notation for the same physical move for the 3x3x3 Cube. 1Rw is not valid notation for any NxNxN Cube, and 3Rw is not valid notation for the 2x2x2 Cube or the 3x3x3 Cube (but 3Rw is valid notation for the 4x4x4 Cube and larger NxNxN Cubes).
+- 12g2+) [REMINDER] In the past, these notations were considered to be moves. Pin notation now can be applied during inspection period.
 - 12i+) [CLARIFICATION] Rotations do not change the puzzle state.
 
 
