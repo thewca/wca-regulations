@@ -159,7 +159,7 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-12><notation><notation> Article 12: Notation
 
 - 12a2+) [CLARIFICATION] For example, both Rw and 2Rw are valid notation for the same physical move for the 3x3x3 Cube. 1Rw is not valid notation for any NxNxN Cube, and 3Rw is not valid notation for the 2x2x2 Cube or the 3x3x3 Cube (but 3Rw is valid notation for the 4x4x4 Cube and larger NxNxN Cubes).
-- 12g2+) [REMINDER] In the past, these notations were considered to be moves. Pin notation now can be applied during inspection period.
+- 12g2+) [REMINDER] In the past, pins notation was considered to be moves. Pins notation now can be applied during inspection period.
 - 12i+) [CLARIFICATION] Rotations do not change the puzzle state.
 
 
@@ -191,7 +191,6 @@ To be more informative, each Guideline is classified using one of the following 
 - A7g++) [CLARIFICATION] Individual penalties cannot be waived. A full extra attempt must be granted.
 - A7g+++) [RECOMMENDATION] The WCA Delegate should use stronger discretion when granting more than one extra attempt to the same competitor. If more than one extra attempt is granted, it should be for a different type of incident. Example: if the WCA Delegate already awarded an extra attempt for a competitor who did not wait long enough for the green light, they should not award another extra attempt if that competitor fails to wait long enough for the green light again.
 - A7g++++) [CLARIFICATION] A competitor may be considered inexperienced if they are a new competitor, it is their first time competing in a specific event, or they have not competed in a specific event for a significant period of time. The inexperience must be related to the incident.
-
 
 
 ## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
@@ -228,6 +227,11 @@ To be more informative, each Guideline is classified using one of the following 
 - E2e++) [EXAMPLE] Example of solutions that should result in a disqualification of the attempt (DNF): solutions beginning with the same 4 or more moves as the inverse scramble sequence.
 - E3d+) [CLARIFICATION] Any stopwatch or watch used by a competitor must not have any functions that would help the competitor find a solution.
 - E3d++) [CLARIFICATION] Competitors should not consider a personal stopwatch or watch as the official time, and must submit their solution when the judge calls "STOP".
+
+
+## <article-F><clock><clocksolving> Article F: Clock Solving
+
+- F3+) [REMINDER] In the past, the competitor had to place the puzzle on a mat in a standing position. This is no longer required.
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving

@@ -534,7 +534,6 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - F2a1) The judge must remove the stand from the mat immediately after the competitor removes the puzzle from it.
         - F2a2) The competitor may change the state of the pins during the inspection. These changes are not counted as moves.
         - F2a3) The competitor must not change the state of any inner clock faces in the puzzle during the inspection. Penalty: disqualification of the attempt (DNF).
-- F3) At the end of the inspection period, the competitor places the puzzle in a standing position. Penalty: disqualification of the attempt (DNF).
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving
