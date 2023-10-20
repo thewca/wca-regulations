@@ -179,9 +179,10 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 4d5) Skewb is scrambled starting with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front-left.
 - 4f) Competition scramble sequences must be generated using a current official version of an official WCA scramble program (available [via the WCA website](https://www.worldcubeassociation.org/regulations/scrambles/)).
 - 4g) After scrambling a puzzle, the scrambler must verify that the puzzle is scrambled correctly. If the puzzle state is wrong, the scrambler must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
-    - 4g1) Exception: For the 6x6x6 Cube, 7x7x7 Cube, and Megaminx, it is not necessary to correct the puzzle state, at the discretion of the WCA Delegate.
-    - 4g2) Exception: For Clock, if the state of the pins is affected during transportation or uncovering, the pins may be left uncorrected.
-    - 4g3) Exception: For 5x5x5 Cube, the scrambler should correct the puzzle state if it is incorrect. If correcting the puzzle state would cause a severe detriment to the schedule, it is not nessary to correct it, at the discretion of the delegate.
+    - 4g1) The following exceptions apply:
+        - 4g1a) For the 6x6x6 Cube, 7x7x7 Cube, and Megaminx, it is not necessary to correct the puzzle state, at the discretion of the WCA Delegate.
+        - 4g1b) For the 5x5x5 Cube, the scrambler should correct the puzzle state. If correcting the puzzle state would cause a severe detriment to the schedule, it is not nessary to correct it, at the discretion of the delegate.
+        - 4g1c) For Clock, if the state of the pins is affected during transportation or uncovering, the pins may be left uncorrected.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
