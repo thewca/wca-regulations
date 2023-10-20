@@ -3,7 +3,7 @@
 <version>Version: January 1, 2024
 
 
-The WCA recognizes a total of 199 regions of representation:
+The WCA recognizes a total of 199 regions:
 
 
 ## <states-list>
