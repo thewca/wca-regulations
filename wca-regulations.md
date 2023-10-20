@@ -181,7 +181,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 4g) After scrambling a puzzle, the scrambler must verify that the puzzle is scrambled correctly. If the puzzle state is wrong, the scrambler must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
     - 4g1) The following exceptions apply:
         - 4g1a) For the 6x6x6 Cube, 7x7x7 Cube, and Megaminx, it is not necessary to correct the puzzle state, at the discretion of the WCA Delegate.
-        - 4g1b) For the 5x5x5 Cube, the scrambler should correct the puzzle state. If correcting the puzzle state would cause a severe detriment to the schedule, it is not nessary to correct it, at the discretion of the delegate.
+        - 4g1b) For the 5x5x5 Cube, the scrambler should correct the puzzle state. If correcting the puzzle state would cause a severe detriment to the schedule, it is not necessary to correct it, at the discretion of the delegate.
         - 4g1c) For Clock, if the state of the pins is affected during transportation or uncovering, the pins may be left uncorrected.
 
 
