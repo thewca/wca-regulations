@@ -1,4 +1,4 @@
-# <wca-title>WCA List of Recognized Regions of Representation
+# <wca-title>WCA List of Recognized Regions
 <wca-states>
 <version>Version: January 1, 2024
 
