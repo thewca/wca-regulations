@@ -96,6 +96,8 @@ To be more informative, each Guideline is classified using one of the following 
 - 4g2+) [CLARIFICATION] The scrambler must still verify that the Clock is scrambled correctly.
 - 4g2++) [CLARIFICATION] If the Clock falls over during uncovering, an extra must be given.
 - 4g2+++) [RECOMMENDATION] The scrambler should leave score sheets outside the cube cover instead of placing them inside the cube cover.
+- 4g3+) [CLARIFICATION] For 5x5x5 Blindfolded, incorrect puzzle states must be corrected.
+- 4g3++) [RECOMMENDATION] The WCA Delegate should use stronger discretion when determining whether or not incorrect puzzle states for 5x5x5 Cube need to be corrected.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
