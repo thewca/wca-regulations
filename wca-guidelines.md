@@ -93,11 +93,11 @@ To be more informative, each Guideline is classified using one of the following 
 - 4d++) [ADDITION] It is permitted for the puzzle to change its orientation when it is moved from the scrambler to the solving station, as long as no one is attempting to influence the randomness of the orientation (see [Regulation A2e1](regulations:regulation:A2e1)).
 - 4f+) [RECOMMENDATION] The WCA Delegate should generate sufficient scramble sequences for the entire competition ahead of time, including spare scramble sequences for extra attempts.
 - 4f++) [REMINDER] If the WCA Delegate generates any additional scramble sequences during the competition, the scramble sequences must be saved.
+- 4g1b+) [CLARIFICATION] For 5x5x5 Blindfolded, incorrect puzzle states must always be corrected.
+- 4g1b++) [RECOMMENDATION] The WCA Delegate should use stronger discretion when determining whether or not incorrect puzzle states for 5x5x5 Cube need to be corrected. 
 - 4g2+) [CLARIFICATION] The scrambler must still verify that the Clock is scrambled correctly.
 - 4g2++) [CLARIFICATION] If the Clock falls over during uncovering, an extra must be given.
 - 4g2+++) [RECOMMENDATION] The scrambler should leave score sheets outside the cube cover instead of placing them inside the cube cover.
-- 4g3+) [CLARIFICATION] For 5x5x5 Blindfolded, incorrect puzzle states must be corrected.
-- 4g3++) [RECOMMENDATION] The WCA Delegate should use stronger discretion when determining whether or not incorrect puzzle states for 5x5x5 Cube need to be corrected.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
