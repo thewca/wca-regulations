@@ -84,7 +84,7 @@ The WCA recognizes a total of 199 regions:
 - (GY:_South America) Guyana
 - (HT:_North America) Haiti
 - (HN:_North America) Honduras
-- (HK:_Asia) Hong Kong
+- (HK:_Asia) Hong Kong, China
 - (HU:_Europe) Hungary
 - (IS:_Europe) Iceland
 - (IN:_Asia) India
@@ -112,7 +112,7 @@ The WCA recognizes a total of 199 regions:
 - (LI:_Europe) Liechtenstein
 - (LT:_Europe) Lithuania
 - (LU:_Europe) Luxembourg
-- (MO:_Asia) Macau
+- (MO:_Asia) Macau, China
 - (MG:_Africa) Madagascar
 - (MW:_Africa) Malawi
 - (MY:_Asia) Malaysia
@@ -181,7 +181,7 @@ The WCA recognizes a total of 199 regions:
 - (SE:_Europe) Sweden
 - (CH:_Europe) Switzerland
 - (SY:_Asia) Syria
-- (TW:_Asia) Taiwan
+- (TW:_Asia) Chinese Taipei
 - (TJ:_Asia) Tajikistan
 - (TZ:_Africa) Tanzania
 - (TH:_Asia) Thailand
