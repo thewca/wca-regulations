@@ -55,7 +55,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 2i+++) [REMINDER] Bluetooth puzzles are considered electronic devices.
 - 2i1b+) [CLARIFICATION] This includes relevant devices which are switched off or disconnected.
 - 2i1c+) [CLARIFICATION] Electronic hand warmers are considered electronic devices, and therefore are not permitted while inspecting or solving. However, non-electronic hand warmers may be used at any time during an attempt.
-- 2i2a+) [ADDITION] A monitor of a camera can be visible to the competitor as long as it does not show the live feed of the camera.
+- 2i2+) [CLARIFICATION] The competitor may hold or wear a camera anywhere, as long as the live feed of the camera is not visible to the competitor.
 - 2j2+) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, their results from earlier rounds remain valid.
 - 2j2++) [EXAMPLE] If the WCA Delegate disqualifies a competitor during their third attempt in a round, only the third attempt and all following attempts in that event are disqualified, even if the circumstances that originated the disqualification occurred prior to this attempt.
 - 2k6+) [CLARIFICATION] WCA Delegates should only use their discretion to prevent competitors from being a severe detriment to the competition (e.g. wasting time and/or competition resources). Competitors should not be disqualified for a "poor" result when they are competing to the best of their abilities.
