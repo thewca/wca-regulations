@@ -44,6 +44,7 @@ The WCA recognizes a total of 199 regions:
 - (TD:_Africa) Chad
 - (CL:_South America) Chile
 - (CN:_Asia) China
+- (TW:_Asia) Chinese Taipei
 - (CO:_South America) Colombia
 - (KM:_Africa) Comoros
 - (CG:_Africa) Congo
