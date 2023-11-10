@@ -96,9 +96,6 @@ To be more informative, each Guideline is classified using one of the following 
 - 4f+) [RECOMMENDATION] The WCA Delegate should generate sufficient scramble sequences for the entire competition ahead of time, including spare scramble sequences for extra attempts.
 - 4f++) [REMINDER] If the WCA Delegate generates any additional scramble sequences during the competition, the scramble sequences must be saved.
 - 4g+) [RECOMMENDATION] For Multi-Blind Solving, after scrambling all the cubes, the scrambler must verify there are no duplicate scrambles.
-- 4g2+) [CLARIFICATION] The scrambler must still verify that the Clock is scrambled correctly.
-- 4g2++) [CLARIFICATION] If the Clock falls over during uncovering, an extra must be given.
-- 4g2+++) [RECOMMENDATION] The scrambler should leave score sheets outside the cube cover instead of placing them inside the cube cover.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
@@ -162,6 +159,7 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-12><notation><notation> Article 12: Notation
 
 - 12a2+) [CLARIFICATION] For example, both Rw and 2Rw are valid notation for the same physical move for the 3x3x3 Cube. 1Rw is not valid notation for any NxNxN Cube, and 3Rw is not valid notation for the 2x2x2 Cube or the 3x3x3 Cube (but 3Rw is valid notation for the 4x4x4 Cube and larger NxNxN Cubes).
+- 12g2+) [REMINDER] In the past, the penalty for changing state of the pins in inspection was a DNF. This is no longer the case.
 - 12i+) [CLARIFICATION] Rotations do not change the puzzle state.
 
 
@@ -198,7 +196,6 @@ To be more informative, each Guideline is classified using one of the following 
 - A7g++++) [CLARIFICATION] A competitor may be considered inexperienced if they are a new competitor, it is their first time competing in a specific event, or they have not competed in a specific event for a significant period of time. The inexperience must be related to the incident.
 
 
-
 ## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
 
 - B1+) [REMINDER] The competitor must use a puzzle without logos (see [Regulation 3l](regulations:regulation:3l)), textures, markings, or other features that distinguish similar pieces (see [Regulation 3k](regulations:regulation:3k)). This should be given special attention for Blindfolded Solving.
@@ -233,6 +230,11 @@ To be more informative, each Guideline is classified using one of the following 
 - E2e++) [EXAMPLE] Example of solutions that should result in a disqualification of the attempt (DNF): solutions beginning with the same 4 or more moves as the inverse scramble sequence.
 - E3d+) [CLARIFICATION] Any stopwatch or watch used by a competitor must not have any functions that would help the competitor find a solution.
 - E3d++) [CLARIFICATION] Competitors should not consider a personal stopwatch or watch as the official time, and must submit their solution when the judge calls "STOP".
+
+
+## <article-F><clock><clocksolving> Article F: Clock Solving
+
+- F1+) [REMINDER] In the past, the competitor had to place the puzzle onto the mat in a standing position. This is no longer required.
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving
