@@ -142,6 +142,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3h5) For Clock, loose pins (i.e. pins that can toggle or recede using gravity instead of being directly pressed) are not considered reasonable wear, and puzzles with such pins must not be permitted.
 - 3j) Puzzles must be clean, and must not have any markings, elevated pieces, damage, or other differences that significantly distinguish any piece from a similar piece. Exception: a logo (see [Regulation 3l](regulations:regulation:3l)).
     - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
+        - 3j1a) Wear should be considered reasonable if it is a result of normal use of the puzzle and if it does not give significant additional information about the state of the puzzle (e.g. about the location of specific pieces).
     - 3j2) Definition: Two pieces are similar to each other if they are identical in shape and size, or mirrored in shape and identical in size.
     - 3j3) Corrugated/textured parts which permit the orientation of pieces to be distinguished by feel are not permitted for blindfolded events.
 - 3k) Puzzles should be approved by the WCA Delegate before use in the competition.
