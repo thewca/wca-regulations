@@ -1,9 +1,9 @@
-# <wca-title>WCA List of Recognized Countries
+# <wca-title>WCA List of Recognized Regions
 <wca-states>
-<version>Version: March 06, 2020
+<version>Version: January 1, 2024
 
 
-The WCA recognizes a total of 199 countries/regions:
+The WCA recognizes a total of 199 regions:
 
 
 ## <states-list>
@@ -84,7 +84,7 @@ The WCA recognizes a total of 199 countries/regions:
 - (GY:_South America) Guyana
 - (HT:_North America) Haiti
 - (HN:_North America) Honduras
-- (HK:_Asia) Hong Kong
+- (HK:_Asia) Hong Kong, China
 - (HU:_Europe) Hungary
 - (IS:_Europe) Iceland
 - (IN:_Asia) India
@@ -112,7 +112,7 @@ The WCA recognizes a total of 199 countries/regions:
 - (LI:_Europe) Liechtenstein
 - (LT:_Europe) Lithuania
 - (LU:_Europe) Luxembourg
-- (MO:_Asia) Macau
+- (MO:_Asia) Macau, China
 - (MG:_Africa) Madagascar
 - (MW:_Africa) Malawi
 - (MY:_Asia) Malaysia
@@ -181,7 +181,7 @@ The WCA recognizes a total of 199 countries/regions:
 - (SE:_Europe) Sweden
 - (CH:_Europe) Switzerland
 - (SY:_Asia) Syria
-- (TW:_Asia) Taiwan
+- (TW:_Asia) Chinese Taipei
 - (TJ:_Asia) Tajikistan
 - (TZ:_Africa) Tanzania
 - (TH:_Asia) Thailand
@@ -207,8 +207,3 @@ The WCA recognizes a total of 199 countries/regions:
 - (YE:_Asia) Yemen
 - (ZM:_Africa) Zambia
 - (ZW:_Africa) Zimbabwe
-
-
-## <credit>
-
-The list above was compiled by [James Molloy](mailto:jmolloy@worldcubeassociation.org).
