@@ -235,7 +235,6 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-F><clock><clocksolving> Article F: Clock Solving
 
 - F1+) [REMINDER] In the past, the competitor had to place the puzzle onto the mat in a standing position. This is no longer required.
-- F1++) [REMINDER] In the past, the organization team was allowed to enforce using a stand for the puzzle. This is no longer allowed.
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving
