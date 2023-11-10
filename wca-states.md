@@ -182,7 +182,6 @@ The WCA recognizes a total of 199 regions:
 - (SE:_Europe) Sweden
 - (CH:_Europe) Switzerland
 - (SY:_Asia) Syria
-- (TW:_Asia) Chinese Taipei
 - (TJ:_Asia) Tajikistan
 - (TZ:_Africa) Tanzania
 - (TH:_Asia) Thailand
