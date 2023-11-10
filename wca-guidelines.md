@@ -53,6 +53,9 @@ To be more informative, each Guideline is classified using one of the following 
 - 2i+) [ADDITION] Although the competitor may pick up a stopwatch to view the current time (when they are not blindfolded), they must not start, stop, pause, or otherwise interact with the timekeeping of the stopwatch.
 - 2i++) [ADDITION] The organization team may provide the competitor an unofficial stopwatch for viewing the elapsed time (started together with the main stopwatch), in which case the competitor is not permitted to touch the official stopwatch.
 - 2i+++) [REMINDER] Bluetooth puzzles are considered electronic devices.
+- 2i++++) [CLARIFICATION] The competitor is considered to be using an electronic device only if they are putting it to a particular purpose.
+- 2i+++++) [EXAMPLE] Examples that are not considered using an electronic device: moving a camera, flipping over a phone, wearing a smartwatch.
+- 2i++++++) [EXAMPLE] Examples of using an electronic device: pressing a camera button, checking a message on a phone or smartwatch.
 - 2i1b+) [CLARIFICATION] This includes relevant devices which are switched off or disconnected.
 - 2i1c+) [CLARIFICATION] Electronic hand warmers are considered electronic devices, and therefore are not permitted while inspecting or solving. However, non-electronic hand warmers may be used at any time during an attempt.
 - 2i2a+) [ADDITION] A monitor of a camera can be visible to the competitor as long as it does not show the live feed of the camera.
