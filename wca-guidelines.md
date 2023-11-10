@@ -1,6 +1,6 @@
 # <wca-title>WCA Guidelines
 
-<version>Version: August 1, 2023
+<version>Version: January 1, 2024
 
 
 ## Notes
@@ -43,11 +43,11 @@ To be more informative, each Guideline is classified using one of the following 
 
 ## <article-2><competitors><competitors> Article 2: Competitors
 
-- 2c+) [ADDITION] First-time competitors should register using their legal name. They may register using a reasonable nickname, at the discretion of the WCA Delegate.
-- 2c2+) [CLARIFICATION] A WCA profile is the collection of data related to a competitor, and includes their personal information (name, nationality, gender, and date of birth) as well as all their results in official WCA competitions.
+- 2c+) [ADDITION] First-time competitors must register using their legal name or the name they prefer to be called in real life. Last names must be legal last names.
+- 2c2+) [CLARIFICATION] A WCA profile is the collection of data related to a competitor, and includes their personal information (name, region of representation, gender, and date of birth) as well as all their results in official WCA competitions.
 - 2d+) [ADDITION] Date of birth and contact information should be especially secured.
 - 2d++) [RECOMMENDATION] If a third party (e.g. journalist) asks the organization team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
-- 2e+) [CLARIFICATION] If a competitor holds multiple citizenships, they may choose which country to represent at their first competition.
+- 2e+) [CLARIFICATION] If a competitor holds multiple citizenships, they may choose which region to represent at their first competition.
 - 2e++) [ADDITION] The WCA Delegate should also verify the name and date of birth by means of documents (e.g. a passport) of every new competitor at their first competition.
 - 2e3+) [CLARIFICATION] Stateless competitors have no national records and rankings, nor continental records and rankings.
 - 2i+) [ADDITION] Although the competitor may pick up a stopwatch to view the current time (when they are not blindfolded), they must not start, stop, pause, or otherwise interact with the timekeeping of the stopwatch.
@@ -55,11 +55,14 @@ To be more informative, each Guideline is classified using one of the following 
 - 2i+++) [REMINDER] Bluetooth puzzles are considered electronic devices.
 - 2i1b+) [CLARIFICATION] This includes relevant devices which are switched off or disconnected.
 - 2i1c+) [CLARIFICATION] Electronic hand warmers are considered electronic devices, and therefore are not permitted while inspecting or solving. However, non-electronic hand warmers may be used at any time during an attempt.
-- 2i2a+) [ADDITION] A monitor of a camera can be visible to the competitor as long as it does not show the live feed of the camera.
+- 2i2+) [CLARIFICATION] The competitor may hold or wear a camera anywhere, as long as the live feed of the camera is not visible to the competitor.
 - 2j2+) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, their results from earlier rounds remain valid.
 - 2j2++) [EXAMPLE] If the WCA Delegate disqualifies a competitor during their third attempt in a round, only the third attempt and all following attempts in that event are disqualified, even if the circumstances that originated the disqualification occurred prior to this attempt.
 - 2k6+) [CLARIFICATION] WCA Delegates should only use their discretion to prevent competitors from being a severe detriment to the competition (e.g. wasting time and/or competition resources). Competitors should not be disqualified for a "poor" result when they are competing to the best of their abilities.
 - 2s+) [REMINDER] Special accommodations must be noted in the Delegate Report.
+- 2s++) [EXAMPLE] Competitors whose circumstances (e.g. religion) do not allow them to compete on a specific date or time may be allowed to compete at a different time at the discretion of the WCA Delegate. The WCA Delegate should consider the availability of competition resources when attending such requests. This includes the possibility to provisionally compete in subsequent round(s) before the previous round(s) is (are) completed.
+- 2s+++) [EXAMPLE] A competitor that can not use one of their hands to start the timer may receive assistance from the judge to start and stop the timer, or a competitor that cannot hear may receive their inspection warnings in a different way.
+- 2s1+) [EXAMPLE] Examples of such accommodations include: a blind competitor using a second hand to feel the pieces in 3x3x3 One-Handed or using a second puzzle with special pieces during memorization phase in 3x3x3 Blindfolded.
 - 2u1+) [ADDITION] The competitor may compete at the discretion of the WCA Delegate. The WCA Delegate must carefully consider the fairness of allowing it.
 
 
@@ -74,7 +77,6 @@ To be more informative, each Guideline is classified using one of the following 
 - 3h++) [EXAMPLE] Examples of enhancements include: new moves are possible, normal moves are impossible, more pieces or faces are visible, colors on the backside of the puzzle are visible, moves are done automatically, or the puzzles have more/different solved states.
 - 3h2++) [CLARIFICATION] "Stickerless" puzzles that significantly differ from most mass-produced "stickerless" puzzles are only permitted at the discretion of the WCA Delegate.
 - 3h2a+) [ADDITION] Examples of transparent parts that do not reveal more information about the state of the puzzle: internal parts of the puzzle mechanism, transparent Clock cases.
-- 3j+) [REMINDER] In the past, engraved/embossed parts have been permitted. This is no longer permitted.
 - 3k2+) [ADDITION] The WCA Delegate should not apply a listed exception if they believe the competitor tried to use a non-permitted puzzle on purpose.
 - 3k2b+) [CLARIFICATION] If a non-permitted puzzle is found during the course of a 3x3x3 Multi-Blind attempt, the puzzle must not be exchanged or removed from the attempt and must be counted as unsolved if the entire attempt is not disqualified.
 - 3k2b++) [EXAMPLE] Suppose the competitor attempts 10 puzzles and solves 8 successfully. If it is found that two solved puzzles and one unsolved puzzle are not permitted, the competitor is considered to have a result with 6 solved puzzles out of 10 (rather than DNF), at the discretion of the WCA Delegate.
@@ -93,9 +95,9 @@ To be more informative, each Guideline is classified using one of the following 
 - 4d++) [ADDITION] It is permitted for the puzzle to change its orientation when it is moved from the scrambler to the solving station, as long as no one is attempting to influence the randomness of the orientation (see [Regulation A2e1](regulations:regulation:A2e1)).
 - 4f+) [RECOMMENDATION] The WCA Delegate should generate sufficient scramble sequences for the entire competition ahead of time, including spare scramble sequences for extra attempts.
 - 4f++) [REMINDER] If the WCA Delegate generates any additional scramble sequences during the competition, the scramble sequences must be saved.
-- 4g2+) [CLARIFICATION] The scrambler must still verify that the Clock is scrambled correctly.
-- 4g2++) [CLARIFICATION] If the Clock falls over during uncovering, an extra must be given.
-- 4g2+++) [RECOMMENDATION] The scrambler should leave score sheets outside the cube cover instead of placing them inside the cube cover.
+- 4g+) [RECOMMENDATION] For Multi-Blind Solving, after scrambling all the cubes, the scrambler must verify there are no duplicate scrambles.
+- 4g1b+) [CLARIFICATION] For 5x5x5 Blindfolded, incorrect puzzle states must always be corrected.
+- 4g1b++) [RECOMMENDATION] The WCA Delegate should use stronger discretion when determining whether or not incorrect puzzle states for 5x5x5 Cube need to be corrected.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
@@ -159,6 +161,7 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-12><notation><notation> Article 12: Notation
 
 - 12a2+) [CLARIFICATION] For example, both Rw and 2Rw are valid notation for the same physical move for the 3x3x3 Cube. 1Rw is not valid notation for any NxNxN Cube, and 3Rw is not valid notation for the 2x2x2 Cube or the 3x3x3 Cube (but 3Rw is valid notation for the 4x4x4 Cube and larger NxNxN Cubes).
+- 12g2+) [REMINDER] In the past, the penalty for changing state of the pins in inspection was a DNF. This is no longer the case.
 - 12i+) [CLARIFICATION] Rotations do not change the puzzle state.
 
 
@@ -181,8 +184,11 @@ To be more informative, each Guideline is classified using one of the following 
 - A3c3++) [CLARIFICATION] The competitor cannot "test" or "restart" the timer during inspection, since inspection ends once the competitor starts the solve (see [Regulation A4d](regulations:regulation:A4d)). If the competitor stops the timer after they have started it for the first time, this is considered stopping the solve (see [Regulation A6](regulations:regulation:A6)), even if they do so within 15 seconds of starting inspection.
 - A3c4+) [CLARIFICATION] If the use of a thin object inside the puzzle has been enforced, the judge must not remove the object on behalf of the competitor.
 - A3c4++) [CLARIFICATION] The competitor may remove the object during the solve, if they did not do it during the inspection (e.g. they forgot).
+- A4d1+) [CLARIFICATION] If the inspection took exactly 15 seconds (i.e. 15.00), the time penalty (+2 seconds) must be applied.
+- A4d2+) [CLARIFICATION] If the inspection took exactly 17 seconds (i.e. 17.00), the attempt must be disqualified (DNF).
 - A5b+) [CLARIFICATION] While inspecting or solving the puzzle, the competitor may touch the puzzle with any part of their body. Exception: 3x3x3 One-Handed (see [Regulation C1b](regulations:regulation:C1b)).
-- A5b++) [CLARIFICATION] If a part of the competitor's puzzle pops out (see [Regulation 5a](regulations:regulation:5a)), the competitor must not ask for assistance retrieving or locating the part and the judge should attempt to prevent others from assisting. If someone picks up a popped part for the competitor, the judge or competitor may ask them to place it on the solving station and not to assist any further.
+- A5b++) [CLARIFICATION] If a part of the competitor's puzzle is popped out or detached (see [Regulation 5a](regulations:regulation:5a)), the competitor must not ask for assistance retrieving or locating the part and the judge should attempt to prevent others from assisting. If someone picks up a popped part for the competitor, the judge or competitor may ask them to place it on the solving station and not to assist any further.
+- A5b+++) [CLARIFICATION] The WCA Delegate should not grant the competitor an extra attempt solely based on someone picking up a popped or detached part of the competitor's puzzle.
 - A6b+) [EXPLANATION] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timer malfunctions.
 - A6e+) [CLARIFICATION] If the puzzle falls into the lap of the competitor after stopping the timer, this is considered touching the puzzle.
 - A7c+) [ADDITION] If a result signed by a competitor is found to be incomplete or unreadable, it should be interpreted the worst reasonable way (e.g. "1:05" will be considered 1:05.99, "25.X3" will be considered 25.73 if X could be either a 1 or a 7). Given that the Stackmat timer displays a time of X:0Y.ss as X:Y.ss, a missing tens digit should be considered more likely than a missing ones digit (e.g. "1:2.27" will be considered 1:02.27). The judge who signed an ambiguous result may be requested to clarify it, at the discretion of the score taker.
@@ -190,7 +196,6 @@ To be more informative, each Guideline is classified using one of the following 
 - A7g++) [CLARIFICATION] Individual penalties cannot be waived. A full extra attempt must be granted.
 - A7g+++) [RECOMMENDATION] The WCA Delegate should use stronger discretion when granting more than one extra attempt to the same competitor. If more than one extra attempt is granted, it should be for a different type of incident. Example: if the WCA Delegate already awarded an extra attempt for a competitor who did not wait long enough for the green light, they should not award another extra attempt if that competitor fails to wait long enough for the green light again.
 - A7g++++) [CLARIFICATION] A competitor may be considered inexperienced if they are a new competitor, it is their first time competing in a specific event, or they have not competed in a specific event for a significant period of time. The inexperience must be related to the incident.
-
 
 
 ## <article-B><blindfolded><blindfoldedsolving> Article B: Blindfolded Solving
@@ -227,6 +232,11 @@ To be more informative, each Guideline is classified using one of the following 
 - E2e++) [EXAMPLE] Example of solutions that should result in a disqualification of the attempt (DNF): solutions beginning with the same 4 or more moves as the inverse scramble sequence.
 - E3d+) [CLARIFICATION] Any stopwatch or watch used by a competitor must not have any functions that would help the competitor find a solution.
 - E3d++) [CLARIFICATION] Competitors should not consider a personal stopwatch or watch as the official time, and must submit their solution when the judge calls "STOP".
+
+
+## <article-F><clock><clocksolving> Article F: Clock Solving
+
+- F1+) [REMINDER] In the past, the competitor had to place the puzzle onto the mat in a standing position. This is no longer required.
 
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving
