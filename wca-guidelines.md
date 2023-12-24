@@ -99,7 +99,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 4d++) [ADDITION] It is permitted for the puzzle to change its orientation when it is moved from the scrambler to the solving station, as long as no one is attempting to influence the randomness of the orientation (see [Regulation A2e1](regulations:regulation:A2e1)).
 - 4f+) [RECOMMENDATION] The WCA Delegate should generate sufficient scramble sequences for the entire competition ahead of time, including spare scramble sequences for extra attempts.
 - 4f++) [REMINDER] If the WCA Delegate generates any additional scramble sequences during the competition, the scramble sequences must be saved.
-- 4g+) [RECOMMENDATION] For Multi-Blind Solving, after scrambling all the cubes, the scrambler must verify there are no duplicate scrambles.
+- 4g+) [ADDITION] For Multi-Blind Solving, after scrambling all the cubes, the scrambler must verify there are no duplicate scrambles.
 - 4g1b+) [CLARIFICATION] For 5x5x5 Blindfolded, incorrect puzzle states must always be corrected.
 - 4g1b++) [RECOMMENDATION] The WCA Delegate should use stronger discretion when determining whether or not incorrect puzzle states for 5x5x5 Cube need to be corrected.
 
