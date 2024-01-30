@@ -1,0 +1,39 @@
+name: Deploy To S3
+
+on:
+  push:
+    branches: [ official ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+    - name: Configure AWS credentials
+      uses: aws-actions/configure-aws-credentials@v4
+      with:
+        aws-access-key-id: ${{ secrets.CI_CD_AWS_ACCESS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.CI_CD_AWS_SECRET_ACCESS_KEY }}
+        aws-region: ${{ secrets.AWS_DEFAULT_REGION }}
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install wrc
+        # install wkhtmltopdf
+        wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.4_linux-generic-amd64.tar.xz -O wkhtml.tar.xz && sudo tar -xf wkhtml.tar.xz --strip-components=1 -C /usr/local
+    - name: Deploy to S3
+      run: |
+        outputdir=/tmp/regulations
+        mkdir -p $outputdir
+        git_hash=$(git rev-parse --short "$GITHUB_SHA")
+        wrc --target=json -g $git_hash -o $outputdir .
+        wrc --target=html -g $git_hash -o $outputdir .
+        wrc --target=pdf -g $git_hash -o $outputdir .
+        # Update version
+        echo "$git_hash" > $outputdir/version
+        aws s3 sync $outputdir s3://wca-regulations/ --acl public-read
