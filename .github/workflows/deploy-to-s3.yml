@@ -3,6 +3,7 @@ name: Deploy To S3
 on:
   push:
     branches: [ official ]
+  workflow_dispatch:
 
 jobs:
   build:
