@@ -1,0 +1,25 @@
+name: Move Regulations to History
+
+on:
+  workflow_dispatch:
+    inputs:
+      folder_name:
+        required: true
+        description: The name of the sub folder to move the regulations to, usually the date the regulations come out like '2023-08-01'
+
+jobs:
+  move:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.CI_CD_AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.CI_CD_AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_DEFAULT_REGION }}
+      - name: Move current version to the history
+        run: |
+          aws s3 cp s3://wca-regulations/index.html.erb s3://wca-regulations/history/official/${{ github.event.inputs.folder_name }}/index.html.erb --acl public-read
+          aws s3 cp s3://wca-regulations/guidelines.html.erb s3://wca-regulations/history/official/${{ github.event.inputs.folder_name }}/guidelines.html.erb --acl public-read
+          aws s3 cp s3://wca-regulations/wca-regulations-and-guidelines.pdf s3://wca-regulations/history/official/${{ github.event.inputs.folder_name }}/wca-regulations-and-guidelines.pdf --acl public-read
