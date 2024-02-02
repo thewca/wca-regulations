@@ -20,6 +20,9 @@ jobs:
           aws-region: ${{ secrets.AWS_DEFAULT_REGION }}
       - name: Move current version to the history
         run: |
-          aws s3 cp s3://wca-regulations/index.html.erb s3://wca-regulations/history/official/${{ github.event.inputs.folder_name }}/index.html.erb --acl public-read
+          aws s3 cp s3://wca-regulations/index.html.erb ./input.html.erb
+          # Add info about it not being the official version
+          sed -E 's/<br\/>/\<br\>\<b\>This is NOT the current official version\<\/b\>\<br\>/g' ./input.html.erb > ./index.html.erb
+          aws s3 cp ./index.html.erb s3://wca-regulations/history/official/${{ github.event.inputs.folder_name }}/index.html.erb --acl public-read
           aws s3 cp s3://wca-regulations/guidelines.html.erb s3://wca-regulations/history/official/${{ github.event.inputs.folder_name }}/guidelines.html.erb --acl public-read
           aws s3 cp s3://wca-regulations/wca-regulations-and-guidelines.pdf s3://wca-regulations/history/official/${{ github.event.inputs.folder_name }}/wca-regulations-and-guidelines.pdf --acl public-read
