@@ -94,7 +94,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 2j1) If a competitor is disqualified from an event for any reason, they are not eligible for any more attempts in the event.
         - 2j1a) If the competitor has already started at least one attempt in a round before being disqualified from it, the results of all remaining attempts in the event are recorded as DNF. If the competitor has started no attempts (i.e. has no results or only has DNS results), no results are recorded.
     - 2j2) Results from attempts that are completed when the disqualification is applied, must not be disqualified. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
-    - 2j3) Specific completed attempts may be disqualified under the circumstances described in [Regulation 2k](regulations:regulation:2k), only if the relevant incident ocurred during the attempt.
+    - 2j3) Specific completed attempts may be disqualified under the circumstances described in [Regulation 2k](regulations:regulation:2k), only if the relevant incident occurred during the attempt.
 - 2k) At the discretion of the WCA Delegate, a competitor may be disqualified from specific attempts and/or events (a single event, multiple events, or all events) if the competitor:
     - 2k1) Fails to check in or register in time for the competition.
     - 2k2) Is suspected of cheating or defrauding the officials during the competition.
