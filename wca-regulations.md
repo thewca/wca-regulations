@@ -42,7 +42,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 1a) A competition must include a WCA Delegate and an organization team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
 - 1b) The organization team of a competition is responsible for logistics before, during, and after the competition.
 - 1c) The WCA Delegate is responsible for ensuring that the competition adheres to the WCA Regulations and any applicable WCA policies or requirements. The WCA Delegate may appoint other members of the organization team to carry out specific responsibilities on their behalf, but is ultimately accountable for how these responsibilities are carried out.
-    - 1c1) The WCA Delegate must ensure that the competition follows the [WCA Scramble Accountability Policy](https://www.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
+    - 1c1) The WCA Delegate must ensure that the competition follows the [WCA Scramble Accountability Policy](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
 - 1e) Each event must have one or more judges.
     - 1e1) A judge is responsible for executing the procedures of the event.
         - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the WCA Delegate, as long as the judge is able to ensure that all WCA Regulations are followed at all times.
@@ -94,7 +94,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 2j1) If a competitor is disqualified from an event for any reason, they are not eligible for any more attempts in the event.
         - 2j1a) If the competitor has already started at least one attempt in a round before being disqualified from it, the results of all remaining attempts in the event are recorded as DNF. If the competitor has started no attempts (i.e. has no results or only has DNS results), no results are recorded.
     - 2j2) Results from attempts that are completed when the disqualification is applied, must not be disqualified. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
-    - 2j3) Specific completed attempts may be disqualified under the circumstances described in [Regulation 2k](regulations:regulation:2k), only if the relevant incident ocurred during the attempt.
+    - 2j3) Specific completed attempts may be disqualified under the circumstances described in [Regulation 2k](regulations:regulation:2k), only if the relevant incident occurred during the attempt.
 - 2k) At the discretion of the WCA Delegate, a competitor may be disqualified from specific attempts and/or events (a single event, multiple events, or all events) if the competitor:
     - 2k1) Fails to check in or register in time for the competition.
     - 2k2) Is suspected of cheating or defrauding the officials during the competition.
