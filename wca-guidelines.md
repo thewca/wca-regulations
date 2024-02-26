@@ -48,7 +48,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 2d+) [ADDITION] Date of birth and contact information should be especially secured.
 - 2d++) [RECOMMENDATION] If a third party (e.g. journalist) asks the organization team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
 - 2e+) [CLARIFICATION] If a competitor holds multiple citizenships, they may choose which region to represent at their first competition.
-- 2e++) [ADDITION] The WCA Delegate should also verify the name and date of birth by means of documents (e.g. a passport) of every new competitor at their first competition.
+- 2e++) [ADDITION] The WCA Delegate should also verify the name and date of birth by means of documents or photos of documents (e.g. a passport or a photo of a passport) of every new competitor at their first competition.
 - 2e3+) [CLARIFICATION] Stateless competitors have no national records and rankings, nor continental records and rankings.
 - 2i+) [ADDITION] Although the competitor may pick up a stopwatch to view the current time (when they are not blindfolded), they must not start, stop, pause, or otherwise interact with the timekeeping of the stopwatch.
 - 2i++) [ADDITION] The organization team may provide the competitor an unofficial stopwatch for viewing the elapsed time (started together with the main stopwatch), in which case the competitor is not permitted to touch the official stopwatch.
