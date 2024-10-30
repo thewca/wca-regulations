@@ -464,7 +464,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A7c5) Missing signatures found before the end of the competition (see [Regulation 9u](regulations:regulation:9u)) may be added by the judge and/or the competitor, at the discretion of the WCA Delegate.
         - A7c6) Competitor signatures should be consistent throughout the competition and should identify the competitor. Competitors must not intentionally sign incorrectly. Penalty: disqualification of the attempt (DNF), at the discretion of the WCA Delegate.
         - A7c7) The competitor should not mark the score sheet anywhere other than in the area provided for them to sign.
-        - A7c8) If a signature was missed due to the inexperience of the competitor, it may be added at any time, at the discretion of the WCA Delegate. If it is no longer possible for the scorecard to be physically signed by the competitor or the judge, an attestation that the result was correctly recorded may be accepted as a signature, at the discretion of the WCA Delegate.   
+        - A7c8) If a signature was missed due to the inexperience of the competitor, it may be added at any time, at the discretion of the WCA Delegate. If it is no longer possible for the scorecard to be physically signed by the competitor or the judge, an attestation that the result was correctly recorded may be accepted as a signature, at the discretion of the WCA Delegate.
     - A7f) When a competitor's score sheet for a round is complete, the judge delivers the score sheet to the score taker.
     - A7g) At the discretion of the WCA Delegate, an incident or penalty caused by a competitor's inexperience may be replaced with an extra attempt.
 
