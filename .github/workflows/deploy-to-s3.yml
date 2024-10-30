@@ -35,6 +35,7 @@ jobs:
         wrc --target=html -g $git_hash -o $outputdir .
         wrc --target=html --merged -g $git_hash -o $outputdir .
         wrc --target=pdf -g $git_hash -o $outputdir .
+        wrc --target=pdf --merged -g $git_hash -o $outputdir .
         # Update version
         echo "$git_hash" > $outputdir/version
         aws s3 sync $outputdir s3://wca-regulations/ --acl public-read
