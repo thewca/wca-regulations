@@ -332,7 +332,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 11f1c) The result is achieved in a final round of a National Championship, Continental Championship or World Championship.
     - 11f2) Evidence obtained from slow-motion or frame-by-frame analysis may only be used to support the following decisions:
         - 11f2a) The removal of any penalty originally assessed by the judge or WCA Delegate.
-        - 11f2b) The application of a penalty according to Regulations A3c1, A4b or A4b1.
+        - 11f2b) The application of a penalty according to [Regulation A3c1](regulations:regulation:A3c1), [Regulation A4b](regulations:regulation:A4b), or [Regulation A4b1](regulations:regulation:A4b1).
         - 11f2c) To investigate cheating (see [Regulation 2k](regulations:regulation:2k)).
 - 11g) The WCA Delegate must ensure that copies of the Regulations and Guidelines are available (e.g. printed, digital, or accessible via internet) to officials and competitors for consultation on any incidents.
 - 11h) A WCA Delegate may require competitors in serious violation of [Regulation 2k3](regulations:regulation:2k3) to leave the competition venue, taking into account the seriousness of the situation and the best possible course of action. If the competitor refuses to do so, they may face disciplinary action in the WCA.
