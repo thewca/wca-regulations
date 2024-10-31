@@ -42,7 +42,6 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 1a) A competition must include a WCA Delegate and an organization team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
 - 1b) The organization team of a competition is responsible for logistics before, during, and after the competition.
 - 1c) The WCA Delegate is responsible for ensuring that the competition adheres to the WCA Regulations and any applicable WCA policies or requirements. The WCA Delegate may appoint other members of the organization team to carry out specific responsibilities on their behalf, but is ultimately accountable for how these responsibilities are carried out.
-    - 1c1) The WCA Delegate must ensure that the competition follows the [WCA Scramble Accountability Policy](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
 - 1e) Each event must have one or more judges.
     - 1e1) A judge is responsible for executing the procedures of the event.
         - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the WCA Delegate, as long as the judge is able to ensure that all WCA Regulations are followed at all times.
@@ -54,7 +53,9 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 1g1) A score taker is responsible for compiling results.
     - 1g2) Changes to the result on a score sheet are only permitted at the discretion of the WCA Delegate.
 - 1h) Competitors in the same round of an event may compete as a single group or be divided into multiple groups.
-    - 1h1) Scramblers and judges for a round should not scramble for/judge competitors in their own group before they have finished all of their attempts for the round. They may scramble for/judge competitors in their own group at the discretion of the WCA Delegate, but the organization team must ensure that scramblers and judges cannot see any scramble sequences for their attempts that they have not attempted yet (see [Regulation 4b2](regulations:regulation:4b2)).
+    - 1h1) Scramblers and judges for a round must not scramble for/judge competitors in their own group before they have finished all of their attempts for the round. The following exceptions apply:
+        - 1h1a) For 3x3x3 Fewest Moves, judges may judge competitors in their own group before they have finished their attempt (i.e. while they are competing).
+        - 1h1b) For 3x3x3 Multi-Blind, competitors may judge other competitors in their own group after they have finished their attempt.
 - 1j) All officials may compete in the competition.
 - 1k) Officials may serve multiple roles (e.g. organization team, WCA Delegate, judge, score taker, scrambler).
 
@@ -67,28 +68,30 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 2a3) Are not suspended from participation by the WCA.
     - 2a4) Comply with all reasonable safety measures deemed necessary by the WCA Delegate, which must be clearly announced before the competition.
 - 2b) Competitors below the age of 18 must obtain consent from their parent(s)/guardian(s) to register and compete.
-- 2c) Competitors register by providing all information required by the organization team (including: name, region of representation, date of birth, gender, contact information, selected events).
+- 2c) Competitors register by providing all information required by the organization team (including: name, country, date of birth, gender, contact information, selected events).
     - 2c1) A competitor is not eligible to compete without a completed registration, as determined by the organization team and the WCA Delegate.
-    - 2c2) Returning competitors must provide personal information consistent with their WCA profile. If a competitor wishes to change or update their personal information between competitions (e.g. a change of region of representation, name, or gender), they must [contact the WCA Results Team](https://www.worldcubeassociation.org/contact?contactRecipient=wrt) either directly or through a WCA Delegate.
-- 2d) A competitor's name, region of representation, gender, and competition results are considered public information. All other personal information is considered confidential, and must not be disclosed to outside organizations/persons without the consent of the competitor.
-- 2e) Competitors must represent a region of which they hold citizenship. The WCA Delegate should verify citizenship by means of documents (e.g. a passport) at their first competition. If a competitor is found ineligible to represent the region under which they have registered, the competitor may be disqualified retroactively and/or suspended, at the discretion of the WCA Board.
-    - 2e1) The eligible regions of representation are defined by the [WCA List of Recognized Regions](https://www.worldcubeassociation.org/regulations/countries/).
-    - 2e2) Competitors may change their region of representation only before or at their first competition of a calendar year.
-        - 2e2a) Exception: If the competitor loses citizenship of the region which they were previously representing, they must change their region of representation before or at their next competition (see [Regulation 2c2](regulations:regulation:2c2)).
-        - 2e2b) Exception: If the competitor has acquired a new citizenship within the calendar year, they may change their region of representation to their new citizenship at any point between competitions.
+    - 2c2) Returning competitors must provide personal information consistent with their WCA profile. If a competitor wishes to change or update their personal information between competitions (e.g. a change of country, name, or gender), they must [contact the WCA Results Team](https://www.worldcubeassociation.org/contact?contactRecipient=wrt) either directly or through a WCA Delegate.
+- 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and must not be disclosed to outside organizations/persons without the consent of the competitor.
+- 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship by means of documents or photos of documents (e.g. a passport) at their first competition. If a competitor is found ineligible to represent the country under which they have registered, the competitor may be disqualified retroactively and/or suspended, at the discretion of the WCA Board.
+    - 2e1) The eligible countries are defined by the [WCA List of Recognized Countries](https://www.worldcubeassociation.org/regulations/countries/).
+    - 2e2) Competitors may change their country at any point between competitions (see [Regulation 2c2](regulations:regulation:2c2)), as long as it has been at least one year since any previous change.
+        - 2e2a) Exception: If the competitor loses citizenship of the country which they were previously representing, they must change their country before or at their next competition.
+        - 2e2b) Exception: If the competitor has acquired a new citizenship within the calendar year, they may change their country to their new citizenship before or at their next competition.
     - 2e3) Competitors who have no citizenship may compete as "Stateless".
 - 2f) Competitors must obey venue rules and conduct themselves in a considerate manner.
 - 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
-    - 2g3) Competitors in a group in progress must not communicate with other competitors in the group about the scrambled states of the group, unless all such competitors are not eligible for any further attempts in the group. Penalty: disqualification of the competitor(s) from the event, at the discretion of the WCA Delegate. Exception: For 3x3x3 Fewest Moves, competitors that have finished their attempt may share the scramble sequence with anyone who is not actively competing in the relevant attempt.
+    - 2g3) Competitors in a group in progress must not communicate with other competitors in the group about the scrambled states of the group, unless all such competitors are not eligible for any further attempts in the group. Penalty: disqualification of the competitor(s) from the event, at the discretion of the WCA Delegate. Exception: For 3x3x3 Fewest Moves and 3x3x3 Multi-Blind, competitors that have finished their attempt may share and discuss the scramble sequence(s) with other competitors in the group who have either finished their attempt or declined their attempt.
+        - 2g3a) For rounds where results are being entered live, the organization team may enforce that competitors are not permitted to view the results entered from their group until they have completed their attempts.
 - 2h) Competitors must be appropriately dressed while in the competition venue. At the discretion of the WCA Delegate, competitors may be disqualified from the competition for inappropriate clothing.
-- 2i) While inspecting or solving, competitors must not use electronics or audio equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting) apart from the Stackmat timer or stopwatch. Penalty: disqualification of the attempt (DNF).
+- 2i) While inspecting or solving, competitors must not use electronics (e.g. cell phones, ear buds, additional lighting) apart from the Stackmat timer or stopwatch. Penalty: disqualification of the attempt (DNF). Any item which has any electronic component is considered electronic.
     - 2i1) Competitors may use non-electronic aids that do not give an unfair advantage, at the discretion of the WCA Delegate. This includes:
         - 2i1a) Medical/physical aids worn by the competitor (e.g. glasses, wrist brace). As an exception to [Regulation 2i](regulations:regulation:2i), medical aids may be electronic if the competitor does not have comfortable non-electronic alternatives (e.g. if the competitor has a personal hearing aid or pacemaker).
         - 2i1b) Earplugs and earmuffs (but not electronic headphones and earbuds).
-        - 2i1c) Hand warmers.
+        - 2i1c) Non-electronic hand warmers.
         - 2i1d) Food and drink.
-    - 2i2) Competitors may use cameras at the solving station at the discretion of the WCA Delegate, but the following restrictions apply from the start of the attempt until the competitor stops the solve. Penalty for breaking a restriction: disqualification of the attempt (DNF).
-        - 2i2a) Each camera monitor must be blank or out of sight of the competitor (see [Regulation A5b](regulations:regulation:A5b)).
+    - 2i2) Competitors may use cameras and/or microphones at the solving station at the discretion of the WCA Delegate, but the following restrictions apply from the start of the attempt until the competitor stops the solve. Penalty for breaking a restriction: disqualification of the attempt (DNF).
+        - 2i2a) Each camera monitor must be blank or out of sight of the competitor. Exception: if a visible active monitor is discovered, completed attempts need not be disqualified if the competitor did not receive assistance from the monitor, at the discretion of the WCA Delegate (see [Regulation A5b](regulations:regulation:A5b)), however the competitor must not be permitted to perform any further attempts with such a monitor.
+        - 2i2c) The competitor must not press any buttons on these devices (e.g. for starting or stopping a recording).
     - 2i4) Competitors should turn off all cell phone notifications while competing to avoid disturbing the competition.
 - 2j) The WCA Delegate may disqualify a competitor from specific attempts and/or events.
     - 2j1) If a competitor is disqualified from an event for any reason, they are not eligible for any more attempts in the event.
@@ -106,7 +109,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 2l) A competitor may be disqualified immediately, or after a warning, depending on the nature and severity of the infraction.
     - 2l1) A disqualified competitor is not eligible for the refund of any expenses due to participating in the competition.
 - 2n) Competitors may verbally dispute a ruling to the WCA Delegate.
-    - 2n1) Disputes are only permitted during the competition (see [Regulation 9u](regulations:regulation:9u)), within 30 minutes after the disputed incident happened, or before the start of any following rounds of the relevant event.
+    - 2n1) Disputes are only permitted during the competition (see [Regulation 9u](regulations:regulation:9u)), within 30 minutes of the disputed incident and before the start of any following rounds of the relevant event.
     - 2n2) The WCA Delegate must resolve the dispute before the start of the next round of the event.
     - 2n3) The competitor must accept all final rulings of the WCA Delegate. Penalty: disqualification from the competition.
 - 2s) Competitors with circumstances (e.g. disability) that may prevent them from abiding by one or more WCA Regulations may request special accommodations from the WCA Delegate. Competitors requesting such accommodations should contact the organization team and WCA Delegate at least two weeks before the competition.
@@ -119,7 +122,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 ## <article-3><puzzles><puzzles> Article 3: Puzzles
 
-- 3a) Competitors must provide their own puzzles for the competition.
+- 3a) Competitors are responsible for providing their puzzles for the competition.
     - 3a1) Competitors must be ready to submit their puzzles when they are called (see [Regulation 2u](regulations:regulation:2u)).
     - 3a2) Puzzles must be fully operational, such that normal scrambling is possible.
     - 3a3) Polyhedral puzzles must use a color scheme with one unique color per face in the solved state. Each puzzle variation must have moves, states, and solutions functionally identical to the original puzzle.
@@ -161,7 +164,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 ## <article-4><scrambling><scrambling> Article 4: Scrambling
 
 - 4a) A scrambler applies scramble sequences to the puzzles.
-- 4b) Puzzles must be scrambled using computer-generated random scramble sequences.
+- 4b) Competition scramble sequences must be generated using a current official version of an official WCA scramble program (available [via the WCA website](https://www.worldcubeassociation.org/regulations/scrambles/)).
     - 4b1) Generated scramble sequences must not be inspected before the competition, and must not be filtered or selected in any way by the WCA Delegate.
     - 4b2) Scramble sequences for a group must be available only to the WCA Delegate before the start of that group, and only available to the WCA Delegate and the scramblers for the group until it is finished. Exception: For 3x3x3 Fewest Moves, competitors receive scramble sequences during the round (see [Article E](regulations:article:E)).
         - 4b2a) The designated WCA Delegate for the competition must only give access to scramble sequences for future groups to other members of the organization team if they will be temporarily unavailable (e.g. competing themselves), and should give others access to the minimum possible amount of scrambles in this case.
@@ -179,7 +182,6 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 4d3) Square-1 is scrambled starting with the darker color on front (out of the 2 possible scrambling orientations).
     - 4d4) Clock is scrambled starting with either side in front and 12 o'clock pointing up.
     - 4d5) Skewb is scrambled starting with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front-left.
-- 4f) Competition scramble sequences must be generated using a current official version of an official WCA scramble program (available [via the WCA website](https://www.worldcubeassociation.org/regulations/scrambles/)).
 - 4g) After scrambling a puzzle, the scrambler must verify that the puzzle is scrambled correctly. If the puzzle state is wrong, the scrambler must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
     - 4g1) The following exceptions apply:
         - 4g1a) For the 6x6x6 Cube, 7x7x7 Cube, and Megaminx, it is not necessary to correct the puzzle state, at the discretion of the WCA Delegate.
@@ -189,13 +191,13 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 ## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
 
 - 5a) Examples of puzzle defects include: popped parts, pieces twisted in place, and detached screws/caps/stickers.
-- 5b) If a puzzle defect occurs during an attempt, the competitor may choose to either repair the defect and continue the attempt, or to stop the attempt.
+- 5b) If a puzzle defect occurs during an attempt, the competitor may choose to either repair the defect and continue the attempt, or to stop the attempt. The competitor is not permitted to cause a puzzle defect intentionally, unless correcting a previous puzzle defect (see [Regulation 5b3b](regulations:regulation:5b3b) and [Regulation 5b3c](regulations:regulation:5b3c)). Examples of intentionally causing puzzle defects: removing an attached center cap, rotating a corner piece, peeling a sticker.
     - 5b1) If a competitor chooses to repair the puzzle, they must repair only the defective parts. Tools and/or parts of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the attempt (DNF).
     - 5b2) Any repair to a puzzle must not give the competitor an advantage in solving the puzzle. Penalty: disqualification of the attempt (DNF).
     - 5b3) Permitted repairs:
         - 5b3a) If any parts have fallen out or moved out of place, the competitor may place them back.
         - 5b3b) If the competitor repairs the puzzle but finds that the puzzle is unsolvable later during the solve, they may disassemble and reassemble a maximum of 4 pieces to make the puzzle solvable.
-        - 5b3c) If the puzzle is unsolvable, and can be made solvable by rotating a single corner piece, the competitor may correct the corner piece by twisting it in place without disassembling the puzzle.
+        - 5b3c) If the puzzle is unsolvable, and can be made solvable by rotating a single corner piece, the competitor may correct the corner piece by twisting it in place without disassembling the puzzle. If multiple corner pieces have been twisted as a result of puzzle defects, the competitor may correct these twists, as long as the number of pieces corrected by the competitor does not exceed the number of pieces twisted as a result of puzzle defects.
     - 5b4) During a blindfolded phase (see [Regulation B4](regulations:regulation:B4)), all repairs must be performed blindfolded. Penalty: disqualification of the attempt (DNF).
     - 5b5) If some parts of the puzzle are physically detached or not fully placed at the end of the solve, the following regulations apply:
         - 5b5a) If one or more parts without colored faces are affected, the puzzle is considered solved.
@@ -221,8 +223,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 7f2) The Stackmat timer must be attached to the mat and placed on the surface, with the timer on the side of the mat nearest to the competitor.
     - 7f3) The organization team should modify Stackmat timers to be more robust against common incidents, by making the buttons more difficult to press by accident (e.g. by attaching O-rings around the buttons) and securing the battery more firmly (e.g. by padding the battery compartment).
     - 7f4) Generation 5 Pro Timer must be used in 2-pad mode.
-- 7h) The competition area should have one or more Competitor Waiting Areas.
-    - 7h1) The organization team may require that a competitor who has been called to compete must remain within their assigned Competitor Waiting Area until the competitor has finished all attempts for the round.
+- 7h) If competitors do not remain at the same station for all of their attempts in a round, the competition area must have one or more Competitor Waiting Areas. Exception: rounds with individually scheduled attempts.
     - 7h2) Definition: A Competitor Waiting Area is an area in which competitors in a group wait at to be called to a solving station. 
 
 
@@ -246,11 +247,11 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 9b5a) Full round formats for this event: "Best of X" (where X is 1, 2, or 3).
         - 9b5b) Cutoff formats for this event: "Best of X" (where X is 1 or 2) cutoff phase for "Best of Y" (where Y is 2 or 3, and Y > X).
 - 9f) The results of a round are measured as follows:
-    - 9f1) All timed results under 10 minutes, except for 3x3x3 Multi-Blind, are measured and truncated down to hundredths of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second.
-    - 9f2) All timed results, averages, and means over 10 minutes, as well as all times for 3x3x3 Multi-Blind results, are measured and rounded to the nearest second (e.g. X.49 becomes X, X.50 becomes X+1).
+    - 9f1) All timed results under 10 minutes, except for 3x3x3 Multi-Blind, are measured and truncated to hundredths of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second.
+    - 9f2) All timed results, averages, and means over 10 minutes, as well as all times for 3x3x3 Multi-Blind results, are measured and truncated to seconds.
     - 9f4) The result of an attempt is recorded as DNF (Did Not Finish) if the attempt is disqualified or unsolved/unfinished.
         - 9f4a) If a competitor violates a regulation clearly enough that the attempt is certain to be disqualified, the judge should immediately stop the attempt. If the judge is uncertain or a dispute could be disruptive (e.g. because an extra attempt could delay the competition), the judge should consult the WCA Delegate.
-    - 9f5) The result of an attempt is recorded as DNS (Did Not Start) if the competitor is eligible for an attempt but declines it.
+    - 9f5) The result of an attempt is recorded as DNS (Did Not Start) if the competitor was eligible for the attempt and did not start it (see [Regulation A3b2](regulations:regulation:A3b2)).
     - 9f6) For "Best of X" rounds, each competitor is allotted X attempts. The best result of these attempts determines the competitor's ranking in the round.
     - 9f7) For "Best of X" rounds, a DNF or DNS is the worst possible result.
     - 9f8) For "Average of 5" rounds, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts are removed, and the arithmetic mean of the remaining 3 attempts determines the competitor's ranking in the round.
@@ -272,6 +273,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 9j) Each event must be held at most once per competition.
 - 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the WCA Competition Announcement Team.
 - 9l) Each round must be completed before any following round of the same event can start. Exception: Extra attempts may be given at any point during a competition to replace an attempt that was initially invalid.
+    - 9l1) An attempt is considered invalid if an extra attempt is required to be granted.
 - 9m) Events must have at most four rounds.
     - 9m1) Rounds with 99 or fewer competitors must have at most two subsequent rounds.
     - 9m2) Rounds with 15 or fewer competitors must have at most one subsequent round.
@@ -281,9 +283,11 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
     - 9p2) The competitors who advance to the next round must be determined by ranking (best X competitors) or by result (all competitors with a better result than X) in the preceding round.
         - 9p2a) For each round, advancement conditions must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
+        - 9p2b) Exception: For competitions designated as a National Championship or Continental Championship, the organization team may amend advancement conditions to reserve spaces for competitors representing the relevant region. A maximum of 8 spaces or 50% of spaces in the following round, whichever is the lower, may be reserved in this way. For a round with reserved spaces, the competitors advancing from the previous round are a reserved number of best competitors representing the relevant region, followed by the remaining best competitors representing any region.
     - 9p3) If a qualifying competitor withdraws from a round, they may be replaced by the best-ranked non-qualifying competitor from the preceding round.
+    - 9p4) A competitor with results of only DNF and/or DNS is not eligible to advance.
 - 9s) Each round of each event must have a time limit (see [Regulation A1a](regulations:regulation:A1a)).
-- 9t) If any change occurs to the results of a competitor after the competition has ended (e.g. score-taking mistake, retroactive penalty), such that the competitor should not have advanced to the next round (or was not allowed to take part in the round), all results of this competitor for all subsequent rounds must be removed (see [Regulation 9u](regulations:regulation:9u)).
+- 9t) If any change occurs to the results of a competitor after the round has ended (e.g. score-taking mistake, retroactive penalty), such that the competitor should not have advanced to the next round (or was not allowed to take part in the round), all results of this competitor for all subsequent rounds must be removed (see [Regulation 9u](regulations:regulation:9u)).
     - 9t1) If this makes a round no longer compliant with [Regulation 9p1](regulations:regulation:9p1), results of other competitors must not be removed.
     - 9t2) If this makes a round no longer compliant with [Regulation 9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) or [9m3](regulations:regulation:9m3), any subsequent round must not be removed.
     - 9t3) If any change occurs to the result of a competitor, such that another competitor should not have advanced to the next round, the result of the second competitor must not be removed.
@@ -311,6 +315,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 10f4) Square-1: at most 45 degrees (U/D) or 90 degrees (/).
 - 10h) Puzzles not specified in this article are judged according to the solved state as defined by the generally accepted goal of the puzzle.
     - 10h1) The solved state of Clock is achieved when all eighteen inner clock faces point to 12 o'clock.
+        - 10h1a) Inner clock faces that do not clearly point to a particular hour marker are considered to point to the nearest hour marker.
 
 
 ## <article-11><incidents><incidents> Article 11: Incidents
@@ -375,6 +380,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 12h2) Clockwise, 120 degrees: R (the layer around the farthest visible bottom-right vertex), U (the layer around the farthest visible upper vertex), L (the layer around the farthest visible bottom-left vertex), B (the layer around the farthest non-visible back vertex).
     - 12h3) Counter-clockwise, 120 degrees: R' (the layer around the farthest visible bottom-right vertex), U' (the layer around the farthest visible upper vertex), L' (the layer around the farthest visible bottom-left vertex), B' (the layer around the farthest non-visible back vertex).
 - 12i) Definition: A move is considered to be any change to the puzzle state in terms of the notation defined above, including misalignments beyond the limits described in [Regulation 10f](regulations:regulation:10f).
+    - 12i1) Exception: For Clock, only changes in the position of the inner clock faces are considered to be moves. Changes to the state of the pins are not considered to be moves.
 
 
 ## <article-A><speedsolving><speedsolving> Article A: Speed Solving
@@ -391,15 +397,20 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A1b2) If a time from the Stackmat timer is available, it is the original recorded time. Otherwise (e.g. the Stackmat timer malfunctioned, ran for over 10 minutes or was not used at all), the stopwatch time is the original recorded time.
     - A1c) A competitor participating in an event must be able to fulfill the event's requirements (see [Regulation 2k6](regulations:regulation:2k6)).
 - A2) Scrambling:
-    - A2a) When called for a round, the competitor submits the puzzle, in its solved state, to the scrambler. The competitor then waits in their assigned Competitor Waiting Area until they are called to compete.
+    - A2a) When called for a round, the competitor submits a solved puzzle to the scrambler.
+        - A2a1) If a Competitor Waiting Area is in use, the competitor must remain within their assigned Competitor Waiting Area until they are called to complete an attempt. The competitor must return to their assigned Competitor Waiting Area after completing each attempt if they have more attempts in the round. Exception: competitors may leave the Competitor Waiting Area with permission from the WCA Delegate. Penalty: disqualification of the remaining attempts (DNF), at the discretion of the WCA Delegate.
+        - A2a2) If a Competitor Waiting Area is not in use, the competitor must remain at their assigned solving station until they have completed all their attempts in the round. Exception: competitors may leave their assigned solving station with permission from the WCA Delegate. Penalty: disqualification of the remaining attempts (DNF), at the discretion of the WCA Delegate.
+        - A2a3) Once called for a round, a competitor must not attempt to enter any area assigned for scrambling until all competitors in their group have no further attempts, unless permission has been granted by the WCA Delegate.
     - A2b) A scrambler scrambles the puzzle according to the regulations in [Article 4](regulations:article:4).
         - A2b1) For Square-1, the organization team may enforce placing a thin object in the puzzle to prevent accidental moves from being applied before the start of the attempt. If these objects are used, the organization team should make an announcement before the round starts.
     - A2c) After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.
         - A2c1) The scrambler places a cover over the scrambled puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover remains over the puzzle until the start of the attempt.
+        - A2c2) When competing, competitors must not actively try to watch another competitor complete an official attempt. If the competitor watches another competitor attempt a scramble they have not yet received, the corresponding attempt is recorded as DNF.
     - A2d) When taking a puzzle from the scrambler, the judge briefly inspects the puzzle to ensure thorough scrambling of the puzzle. The judge raises any concerns with the scrambler, who then conducts a detailed check.
-        - A2d1) The scrambler or an authorized judge must check the scrambled puzzle, and sign (or initial) the score sheet to affirm that they applied the correctly-numbered scramble sequence and checked that it matches the image (see [Regulation 4g](regulations:regulation:4g)). Exception: for 6x6x6 Cube, 7x7x7 Cube, and Megaminx the scrambler may sign (or initial) to affirm that the puzzle is sufficiently scrambled (see [Regulation 4g1](regulations:regulation:4g1)).
+        - A2d1) The scrambler or an authorized judge must check the scrambled puzzle, and sign the score sheet to affirm that they applied the correctly-numbered scramble sequence and checked that it matches the image (see [Regulation 4g](regulations:regulation:4g)). Exception: for 6x6x6 Cube, 7x7x7 Cube, and Megaminx the scrambler may sign to affirm that the puzzle is sufficiently scrambled (see [Regulation 4g1](regulations:regulation:4g1)). Scrambler signatures should be consistent throughout the competition and should identify the scrambler.
     - A2e) The judge places the puzzle onto the mat in an arbitrary orientation while ensuring that it remains completely covered.
         - A2e1) The competitor is not permitted to request a specific orientation, and the judge must not influence the orientation they place the puzzle on the mat based on what they know or expect the puzzle state to be.
+        - A2e2) The competitor must not remove the cover themselves. Penalty: disqualification of the attempt (DNF).
 - A3) Inspection:
     - A3a) The competitor may inspect the puzzle at the start of each attempt.
         - A3a1) The competitor is allotted strictly less than 15 seconds to inspect the puzzle and start the solve.
@@ -415,7 +426,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A3c3) The competitor may reset the timer before the start of the solve.
         - A3c4) For Square-1, if the use of a thin object inside the puzzle has been enforced by the organization team (see [Regulation A2b1](regulations:regulation:A2b1)), the competitor may remove the object from the puzzle during inspection.
         - A3c5) For Square-1, the competitor should not be penalized for any accidental move made within the limits of [Regulation 10f](regulations:regulation:10f).
-    - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation. Penalty for placing it outside the mat: time penalty (+2 seconds).
+    - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation. The puzzle must be placed fully on the mat and must not be fully or partially resting on the Stackmat timer. Penalty: time penalty (+2 seconds).
 - A4) Starting the solve:
     - A4b) The competitor uses their fingers to touch the elevated sensor surfaces of the Stackmat timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to the competitor. Penalty: time penalty (+2 seconds).
         - A4b1) The competitor must have no physical contact with the puzzle while starting the solve. Penalty: time penalty (+2 seconds).
@@ -430,15 +441,16 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - A5c) The competitor may hold the puzzle against the surface to help operate the puzzle (see [Regulation 7f1d](regulations:regulation:7f1d)).
 - A6) Stopping the solve:
     - A6a) The competitor releases the puzzle before stopping the solve, and stops the solve by stopping the timer. If a stopwatch is in use, the judge stops the stopwatch as soon as the competitor does this.
+        - A6a1) If the judge is not immediately available to stop the stopwatch when a stopwatch is in use, the competitor may stop the stopwatch.
     - A6b) The competitor is responsible for stopping the Stackmat timer correctly.
-        - A6b1) If the timer stops before the competitor has solved the puzzle and the timer shows a time strictly below 0.06 seconds, then the attempt is replaced by an extra attempt. A competitor forfeits the right to the additional attempt if the WCA Delegate determines that the timer was stopped deliberately.
-        - A6b2) If the timer stops before the competitor has solved the puzzle and displays a time of 0.06 seconds or higher, then the attempt is disqualified (DNF). Exception: if the competitor can demonstrate that the timer malfunctioned, they may receive an extra attempt, at the discretion of the WCA Delegate.
+        - A6b1) If the timer stops before the competitor has solved the puzzle and the timer shows a time strictly below 0.06 seconds, then the attempt is replaced by an extra attempt. Exception: No extra attempt is required if the WCA Delegate determines that the timer was stopped deliberately, or as a result of interacting with the timer in an unusual way (e.g. making only minimal contact with the timer, not lifting the hands cleanly away from the timer).
+        - A6b2) If the timer stops before the competitor has solved the puzzle and displays a time of 0.06 seconds or higher, then the attempt is disqualified (DNF). Exception: The WCA Delegate may provide an extra attempt if they believe the timer may have malfunctioned and the competitor did not stop the timer deliberately.
     - A6c) The competitor must fully release the puzzle before stopping the timer. Penalty: disqualification of the attempt (DNF). Exception: If no move or any change in alignment has been applied after stopping the timer and before releasing the puzzle, a time penalty (+2 seconds) may be assigned instead, at the discretion of the judge.
     - A6d) The competitor must stop the Stackmat timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
     - A6e) After stopping the timer, the competitor must not touch, apply a move, or make any change in alignment to the puzzle, until the judge has inspected the puzzle.
         - A6e1) Penalty for applying a move to the puzzle after stopping the timer: disqualification of the attempt (DNF).
         - A6e2) Penalty for touching the puzzle after stopping the timer without applying any moves: time penalty (+2 seconds). Exception: if immediately after stopping the timer, the competitor briefly touches the puzzle without affecting its state, the time penalty may be lifted, at the discretion of the judge (see [Regulation 11f](regulations:regulation:11f)).
-    - A6f) The competitor must not reset the timer until both the competitor and the judge have signed the score sheet. Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
+    - A6f) The competitor must not reset the timer until both the competitor and the judge have signed the score sheet. Penalty: disqualification of the attempt (DNF), at the discretion of the judge. Exception: see [Regulation A7c5](regulations:regulation:A7c5).
         - A6f1) If the competitor resets the timer before the result has been completely recorded, the judge must not write down the result from memory or from video or photographic evidence, and must disqualify the attempt instead (DNF).
     - A6g) The judge determines whether the puzzle is solved. If the puzzle is misaligned, it must not be touched before the judge has determined its final state.
     - A6h) In case of a dispute, moves or alignments must not be applied to the puzzle before the dispute is resolved.
@@ -446,14 +458,17 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - A7) Recording results:
     - A7a) The judge tells the competitor the result.
         - A7a1) The judge should indicate to the competitor that the puzzle is solved, or that a penalty will be applied.
-    - A7b) The judge records the result on a score sheet and signs next to the result to acknowledge that the result is correct, complete, properly formatted, and clearly readable.
+    - A7b) The judge records the result on a score sheet and signs next to the result to acknowledge that the result is correct, complete, properly formatted, and clearly readable. Judge signatures should be consistent throughout the competition and should identify the judge.
         - A7b1) If penalties are assigned, the judge records the original recorded time displayed on the timer, along with any penalties. The format should be "T + X = F", where T represents the time displayed on the timer (the "original recorded time"), X represents a sum of time penalties during the attempt, and F represents the final result (e.g. 17.65 + 4 = 21.65).
-    - A7c) The competitor must check the recorded result, and sign (or initial) the score sheet to acknowledge that the result is correct, complete, properly formatted, and clearly readable. This finishes the attempt.
+    - A7c) The competitor must check the recorded result, and sign the score sheet to acknowledge that the result is correct, complete, properly formatted, and clearly readable. This finishes the attempt.
         - A7c1) If the competitor or the judge refuses to accept and sign the score sheet, the WCA Delegate must resolve the dispute.
-        - A7c2) If the competitor intentionally signs (or otherwise marks) an attempt before they have begun it, they forfeit the attempt and the result will be considered DNS.
+        - A7c2) If the competitor intentionally signs (or otherwise marks) an attempt before they have begun it, they forfeit the attempt and the result will be considered DNS. Exception: for 3x3x3 Multi-Blind, the competitor may write the number of cubes they are attempting on the scorecard.
         - A7c3) If the competitor signs (or otherwise marks) an attempt after starting the attempt but before the judge has finished recording the result, the attempt will be considered unfinished (DNF).
         - A7c4) The competitor should not sign an attempt before the judge has recorded and signed the attempt. The competitor is ultimately responsible for ensuring that they and the judge have signed an attempt. If an attempt is found to be missing one or both signatures after the judge delivered the score sheet to the score taker (see [Regulation A7f](regulations:regulation:A7f)), it will be considered unfinished (DNF).
         - A7c5) Missing signatures found before the end of the competition (see [Regulation 9u](regulations:regulation:9u)) may be added by the judge and/or the competitor, at the discretion of the WCA Delegate.
+        - A7c6) Competitor signatures should be consistent throughout the competition and should identify the competitor. Competitors must not intentionally sign incorrectly. Penalty: disqualification of the attempt (DNF), at the discretion of the WCA Delegate.
+        - A7c7) The competitor should not mark the score sheet anywhere other than in the area provided for them to sign.
+        - A7c8) If a signature was missed due to the inexperience of the competitor, it may be added at any time, at the discretion of the WCA Delegate. If it is no longer possible for the scorecard to be physically signed by the competitor or the judge, an attestation that the result was correctly recorded may be accepted as a signature, at the discretion of the WCA Delegate.
     - A7f) When a competitor's score sheet for a round is complete, the judge delivers the score sheet to the score taker.
     - A7g) At the discretion of the WCA Delegate, an incident or penalty caused by a competitor's inexperience may be replaced with an extra attempt.
 
@@ -530,15 +545,10 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - E3f) Tools to remove markings (self-supplied), such as correction fluid, correction tape, or erasers.
 - E4) The WCA Delegate may choose to publish the solutions (e.g. photo of the score sheets or transcriptions of solutions).
 - E5) The competitor must not communicate with anyone other than the WCA Delegate or the judge. This communication should be about the WCA Regulations and the competitor must not receive assistance deriving their solution. Penalty: disqualification of the attempt (DNF).
-
-
-## <article-F><clock><clocksolving> Article F: Clock Solving
-
-- F1) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A) (Speed Solving). Additional regulations that supersede the corresponding procedures in [Article A](regulations:article:A) are described below.
-- F2) The organization team may enforce using a stand for the puzzle to prevent it from falling before the start of the attempt. If such stands are used, the organization team should make an announcement before the round starts.
-- F3) The competitor may change the state of the pins during the inspection. These changes are not counted as moves.
-- F4) The competitor must not change the state of any inner clock faces in the puzzle during the inspection. Penalty: disqualification of the attempt (DNF).
-
+- E6) A competitor may join a 3x3x3 Fewest Moves attempt that is already in progress, at the discretion of the WCA Delegate. Exception: a competitor must not be permitted to join an ongoing attempt in the following cases:
+    - E6a) A competitor has finished their attempt already (see [Guideline E2b+](guidelines:guideline:E2b+)).
+    - E6b) The attempt takes place in a competition with multiple physical locations (i.e. "3x3x3 Fewest Moves simultaneous competitions").
+    - E6c) There is any risk that information about the scramble may have become known to the competitor who wishes to join.
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> Article H: Multi-Blind Solving
 
@@ -546,7 +556,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - H1a) Before an attempt, the competitor must submit to the organization team the number of puzzles (at least 2) they wish to attempt.
         - H1a1) A competitor is not permitted to change the number of puzzles after submitting their number to the organization team.
         - H1a2) A competitor may request to keep their submission private until all competitors have submitted their numbers. Once all competitors have reported their numbers, the information becomes public (e.g. a competitor may ask for the numbers of any other competitors before starting their attempt).
-        - H1a3) Before the attempt, the scrambled puzzles must be placed on the table in an arbitrary orientation while ensuring they remain completely covered. The puzzles should be arranged in a shape as square as possible (e.g. 8 puzzles should be arranged in 2 rows with 3 puzzles and 1 row with 2 puzzles).
+        - H1a3) Before the attempt, the scrambled puzzles must be placed on the table in an arbitrary orientation while ensuring they remain completely covered. The puzzles should be arranged in a shape as square as possible and should not be stacked (e.g. 8 puzzles should be arranged in 2 rows with 3 puzzles and 1 row with 2 puzzles and in 1 layer only).
     - H1b) If a competitor is attempting fewer than 6 puzzles, they are allotted a time limit of 10 minutes times the number of puzzles in the attempt, else the time limit is 60 minutes.
         - H1b1) The competitor may signal the end of the solve at any time. If and when the time limit is reached, the judge stops the attempt and the attempt is then scored; the time limit for the attempt counts as the original recorded time.
     - H1d) Time penalties for the puzzles of the attempt are cumulative.
