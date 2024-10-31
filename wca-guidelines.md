@@ -209,7 +209,7 @@ To be more informative, each Guideline is classified using one of the following 
 - B2f+) [CLARIFICATION] Since the competitor starts the solve by lifting the cover, penalties for starting the timer and for touching the cover while starting the attempt do not apply (see [Regulation B2b](regulations:regulation:B2b) and [Regulation B2c](regulations:regulation:B2c)).
 - B4c+) [ADDITION] If the judge forgot to put a sight blocker, or places it in a way that the competitor's view of the puzzle is not fully blocked, the WCA Delegate should grant an extra attempt.
 - B4c++) [ADDITION] If the WCA Delegate does not suspect that the competitor intentionally violated any WCA Regulations, the original attempt may stand.
-- B4d+) [CLARIFICATION] Competitors are permitted to determine the location of a permitted logo by touch (see [Regulation 3l](regulations:regulation:3l)) during the blindfolded phase. 
+- B4d+) [CLARIFICATION] For 3x3x3 Blindfolded, competitors are permitted to determine the location of a permitted logo (see [Regulation 3l](regulations:regulation:3l)) by touch during the blindfolded phase. 
 
 
 ## <article-C><one-handed><onehandedsolving> Article C: One-Handed Solving
