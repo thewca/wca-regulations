@@ -85,7 +85,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 3k2b+) [CLARIFICATION] If a non-permitted puzzle is found during the course of a 3x3x3 Multi-Blind attempt, the puzzle must not be exchanged or removed from the attempt and must be counted as unsolved if the entire attempt is not disqualified.
 - 3k2b++) [EXAMPLE] Suppose the competitor attempts 10 puzzles and solves 8 successfully. If it is found that two solved puzzles and one unsolved puzzle are not permitted, the competitor is considered to have a result with 6 solved puzzles out of 10 (rather than DNF), at the discretion of the WCA Delegate.
 - 3l+) [ADDITION] Logos may feature any reasonable design that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat), and leave the colored part clearly recognizable. Unconventional logos are only permitted at the discretion of the WCA Delegate.
-- 3l++) [CLARIFICATION] Logos are not permitted for 3x3x3 Multi-Blind.
+- 3l++) [CLARIFICATION] Logos are permitted for 3x3x3 Blindfolded, but not any other blindfolded events, including 3x3x3 Multi-Blind.
 - 3l1+) [CLARIFICATION] On NxNxN puzzles, a center piece is any piece with a single colored part. For example, the 5x5x5 Cube has 9 center pieces on each face.
 
 
