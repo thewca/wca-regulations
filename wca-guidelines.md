@@ -21,7 +21,7 @@ To be more informative, each Guideline is classified using one of the following 
 - <label>[CLARIFICATION] Information to address any possible questions about the interpretation of the Regulations.
 - <label>[EXPLANATION] Information that clarifies the intent of Regulations.
 - <label>[RECOMMENDATION] Something that is not strictly mandatory, but that should be done if possible.
-- <label>[REMINDER] Information that may be addressed by other Regulations/Guideline, but whose relevance is worth reiterating.
+- <label>[REMINDER] Information that may be addressed by other Regulations/Guidelines, but whose relevance is worth reiterating.
 - <label>[EXAMPLE] An example of how to apply a Regulation.
 
 
