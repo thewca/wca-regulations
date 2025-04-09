@@ -61,7 +61,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 2j2+) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, their results from earlier rounds remain valid.
 - 2j2++) [EXAMPLE] If the WCA Delegate disqualifies a competitor during their third attempt in a round, only the third attempt and all following attempts in that event are disqualified, even if the circumstances that originated the disqualification occurred prior to this attempt.
 - 2k6+) [CLARIFICATION] WCA Delegates should only use their discretion to prevent competitors from being a severe detriment to the competition (e.g. wasting time and/or competition resources). Competitors should not be disqualified for a "poor" result when they are competing to the best of their abilities.
-- 2n3+) [ADDITION] The competitor may escalate their dispute after the competition by following the process decribed in the [Disputes Motion](https://documents.worldcubeassociation.org/documents/motions/16.2024.1%20-%20Disputes.pdf).
+- 2n3+) [ADDITION] The competitor may escalate their dispute after the competition by following the process described in the [Disputes Motion](https://documents.worldcubeassociation.org/documents/motions/16.2024.1%20-%20Disputes.pdf).
 - 2s+) [REMINDER] Special accommodations must be noted in the Delegate Report.
 - 2s++) [EXAMPLE] Competitors whose circumstances (e.g. religion) do not allow them to compete on a specific date or time may be allowed to compete at a different time at the discretion of the WCA Delegate. The WCA Delegate should consider the availability of competition resources when attending such requests. This includes the possibility to provisionally compete in subsequent round(s) before the previous round(s) is (are) completed.
 - 2s+++) [EXAMPLE] A competitor that can not use one of their hands to start the timer may receive assistance from the judge to start and stop the timer, or a competitor that cannot hear may receive their inspection warnings in a different way.
@@ -138,7 +138,7 @@ To be more informative, each Guideline is classified using one of the following 
 - 9p2b+++) [RECOMMENDATION] Any use of reserved spaces should be clearly announced before the competition.
 - 9p3+) [CLARIFICATION] If a non-qualifying competitor would replace a qualifying competitor in this way, they may also withdraw, allowing the next best-ranked competitor to take their place.
 - 9q+) [RECOMMENDATION] Events and rounds should have at least 2 competitors.
-- 9t+) [EXPLANATION] Because of [9t1](regulations:regulation:9t1) and [9t2](regulations:regulation:9t2), rounds may look like they do not comply with [9p1](regulations:regulation:9p1), [9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) or [9m3](regulations:regulation:9m3). However, making changes to comply to these rules would affect innocent competitors, which is why the results must stay the same.
+- 9t+) [EXPLANATION] Because of [9t1](regulations:regulation:9t1) and [9t2](regulations:regulation:9t2), rounds may look like they do not comply with [9p1](regulations:regulation:9p1), [9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) or [9m3](regulations:regulation:9m3). However, making changes to comply with these rules would affect innocent competitors, which is why the results must stay the same.
 - 9t++) [ADDITION] If the change of results happens during the competition, this rule must also be applied. In that case, [9t1](regulations:regulation:9t1), [9t2](regulations:regulation:9t2) and [9t3](regulations:regulation:9t3) should also be followed, at the discretion of the WCA Delegate.
 - 9t3+) [EXAMPLE] Suppose competitor A gets a 10.00 average and competitor B gets a 10.05 average in the first round of an event, such that competitor A advances to the final round but not B. If a score-taking mistake is discovered, and competitor B actually got a 9.95 average (and should have proceeded instead of A), competitor A keeps their result for the final round.
 - 9u+) [ADDITION] For competitions with multiple physical locations (i.e. "3x3x3 Fewest Moves simultaneous competitions"), all the requirements must be met in every location to consider the competition as ended.
@@ -175,7 +175,7 @@ To be more informative, each Guideline is classified using one of the following 
 
 ## <article-12><notation><notation> Article 12: Notation
 
-- 12a2+) [CLARIFICATION] For example, both Rw and 2Rw are valid notation for the same physical move for the 3x3x3 Cube. 1Rw is not valid notation for any NxNxN Cube, and 3Rw is not valid notation for the 2x2x2 Cube or the 3x3x3 Cube (but 3Rw is valid notation for the 4x4x4 Cube and larger NxNxN Cubes).
+- 12a2+) [CLARIFICATION] For example, both Rw and 2Rw are valid notations for the same physical move for the 3x3x3 Cube. 1Rw is not valid notation for any NxNxN Cube, and 3Rw is not valid notation for the 2x2x2 Cube or the 3x3x3 Cube (but 3Rw is valid notation for the 4x4x4 Cube and larger NxNxN Cubes).
 - 12g3+) [REMINDER] As clock scramble sequences end with an X+ or X- move, all pins are pushed down once the scramble sequence has been fully applied.
 - 12i+) [CLARIFICATION] Rotations do not change the puzzle state.
 
