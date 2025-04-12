@@ -175,7 +175,7 @@ To be more informative, each Guideline is classified using one of the following 
 
 ## <article-12><notation><notation> Article 12: Notation
 
-- 12a2+) [CLARIFICATION] For example, both Rw and 2Rw are valid notations for the same physical move for the 3x3x3 Cube. 1Rw is not valid notation for any NxNxN Cube, and 3Rw is not valid notation for the 2x2x2 Cube or the 3x3x3 Cube (but 3Rw is valid notation for the 4x4x4 Cube and larger NxNxN Cubes).
+- 12a2+) [CLARIFICATION] For example, both Rw and 2Rw are valid notation for the same physical move for the 3x3x3 Cube. 1Rw is not valid notation for any NxNxN Cube, and 3Rw is not valid notation for the 2x2x2 Cube or the 3x3x3 Cube (but 3Rw is valid notation for the 4x4x4 Cube and larger NxNxN Cubes).
 - 12g3+) [REMINDER] As clock scramble sequences end with an X+ or X- move, all pins are pushed down once the scramble sequence has been fully applied.
 - 12i+) [CLARIFICATION] Rotations do not change the puzzle state.
 
