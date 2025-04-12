@@ -6,12 +6,7 @@ This document is meant to clarify some of the implicit conventions adopted in WC
 
 - The documents are formatted in [Markdown](http://daringfireball.net/projects/markdown/), a plain-text format created by John Gruber. This makes it easy to focus on the raw text (and any changes), so that it is readable on its own and can also be converted into a fancier format (i.e. HTML).
   - Indentation is four spaces in the Regulations.
-  - The Guidelines have an irregular correspondence to numbering in the Regulations, thus Guidelines have no indentation in the source.
-- The division into Regulations Guidelines roughly mirrors the normative vs. non-normative (informative) distinction employed by W3C standards.
-  - The use of the words "must (not)", "shall (not)", "should (not)", and "may (not)" (requirement levels) conform to RFC 2119. In particular, note that "shall" indicates a (non-optional) requirement.
-  - The Regulations must not rely on the Guidelines for completeness or consistency. Any normative Guidelines must be implicit in the Regulations (e.g. labeled [REMINDER]).
-  - As a rule of thumb, anything with "must" or "shall" should be in the Regulations, and anything with "should" or "may" should be in the Guidelines.
-- The documents are written in American English.
+- The use of the words "must (not)", "shall (not)", "should (not)", and "may (not)" (requirement levels) conform to RFC 2119. In particular, note that "shall" indicates a (non-optional) requirement.
 
 
 ## Formatting Conventions
@@ -29,7 +24,7 @@ This document is meant to clarify some of the implicit conventions adopted in WC
   - Keep it "DRY" (["Don't Repeat Yourself"](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)).
     - As a rule of thumb, if a change in one place requires a change in another place to keep the Regulations consistent, it's not DRY.
   - Use consistent formatting to help make the document easier to understand for a human and to search by computer (e.g. every rule that can result in a DNF explicitly mentions "DNF").
-  - Address contingencies that help ensure fair interpretation across different competitions, but leave unusual exceptions to the WCA Delegate. (In a sense, the Guidelines are a formalized FAQ to standardize unwritten rules).
+  - Address contingencies that help ensure fair interpretation across different competitions, but leave unusual exceptions to the WCA Delegate.
   - Future-proof the documents for subsequent changes (e.g. don't assume that cross-references remain valid, don't construct delicately related rules).
 - NOTE: There are many gaps in the numbering of the Regulations. This is because we don't change around numberings when a Regulation is removed. For the same reason, there is now no Article 6.
   - When adding a Regulation an article/list of sub-regulations, make sure that you don't number it the same as a deleted regulation from a previous official version.
@@ -38,7 +33,7 @@ This document is meant to clarify some of the implicit conventions adopted in WC
 
 - Most formatting conventions can be inferred from the documents themselves. This includes the following:
   - Indentation and spacing.
-    - Conservative levels of indentation (at most three in the Regulations and Guidelines).
+    - Conservative levels of indentation (at most three in the Regulations).
   - Listing examples (either in parentheses or numbered bullets).
     - Use of "e.g." and "i.e." (instead of "for example"/"that is").
     - Use of the [serial comma](https://en.wikipedia.org/wiki/Serial_comma).
@@ -48,13 +43,13 @@ This document is meant to clarify some of the implicit conventions adopted in WC
     - Use of comma/colon/semicolon.
     - Punctuation at the end of every line.
   - Capitalization and spelling.
-  - Formatting of references (e.g. to Articles/Regulations/Guidelines).
+  - Formatting of references (e.g. to Articles/Regulations).
   - Write numbers as numerals when possible.
 
 
 ### Terms and Capitalization
 
-- References to the "(WCA) Regulations" and "(WCA) Guidelines" are capitalized. For example, Regulation 1a) is a regulation in the Regulations. This makes it clear that "Regulations" refers to the body of the WCA Regulations.
+- References to the "(WCA) Regulations" are capitalized. For example, Regulation 1a) is a regulation in the Regulations. This makes it clear that "Regulations" refers to the body of the WCA Regulations.
 - Also should be capitalized: Competitors Area.
 - The WCA Delegate should be mentioned by their full title.
 - Puzzles names are capitalized. Event formats like "One-Handed Solving" are also capitalized. A puzzle name + event format should omit the word "Solving" (e.g. 3x3x3 One-Handed). See Regulation 9b for official puzzles and event formats.
@@ -62,7 +57,7 @@ This document is meant to clarify some of the implicit conventions adopted in WC
 ### Recommended Word Choices
 
 - "Puzzle" instead of "cube", wherever applicable.
-- "Regulation" or "Guideline" instead of "rule".
+- "Regulation" instead of "rule".
 - "Result" instead of "score" (except for "score sheet" and "score taker") or "time".
 - "Ranking" instead of "rank".
 - "Permitted" instead of "allowed" or "accepted".
