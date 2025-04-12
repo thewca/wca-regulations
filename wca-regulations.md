@@ -225,7 +225,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 7f3) The organization team should modify Stackmat timers to be more robust against common incidents, by making the buttons more difficult to press by accident (e.g. by attaching O-rings around the buttons) and securing the battery more firmly (e.g. by padding the battery compartment).
     - 7f4) Generation 5 Pro Timer must be used in 2-pad mode.
 - 7h) If competitors do not remain at the same station for all of their attempts in a round, the competition area must have one or more Competitor Waiting Areas. Exception: rounds with individually scheduled attempts.
-    - 7h2) Definition: A Competitor Waiting Area is an area in which competitors in a group wait to be called to a solving station. 
+    - 7h2) Definition: A Competitor Waiting Area is an area in which competitors in a group wait to be called to a solving station.
 
 
 ## <article-9><events><events> Article 9: Events
