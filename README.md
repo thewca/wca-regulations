@@ -12,7 +12,7 @@ See [`thewca/wca-regulations-translations`](https://github.com/thewca/wca-regula
 
 ## WCA Forum
 
-Public discussions of the WCA Regulations takes place in the [WCA Forum](https://forum.worldcubeassociation.org/c/regulations). In addition, there are the following post in the WCA Forum:
+Public discussions of the WCA Regulations take place in the [WCA Forum](https://forum.worldcubeassociation.org/c/regulations). In addition, there are the following post in the WCA Forum:
 
 - [Rules for the WCA Regulations Category](https://forum.worldcubeassociation.org/t/rules-for-the-wca-regulations-category).
 - [2021 Regulations — WRC Priorities](https://forum.worldcubeassociation.org/t/2021-regulations-wrc-priorities).
