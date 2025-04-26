@@ -687,7 +687,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - B4c2) A sight blocker must be positioned such that the competitor's view of the puzzle would still clearly be blocked if they were not wearing a blindfold.
         - B4c3) If the judge and competitor agree beforehand, or if required by the organization team, a suitable object (e.g. a music stand, the surface of the table) placed by the competitor may be used as the sight blocker. The competitor must make a reasonable attempt to place the sight blocker themselves. Penalty: disqualification of the attempt (DNF). If the sight blocker is not positioned such that the competitor's view of the puzzle would still clearly be blocked if they were not wearing a blindfold, an extra sight blocker should be placed by the judge.
     - B4d) The competitor must not look at the puzzle at any point during the blindfolded phase. Penalty: disqualification of the attempt (DNF).
-    - B4d+) [CLARIFICATION] For 3x3x3 Blindfolded, competitors are permitted to determine the location of a permitted logo (see [Regulation 3l](regulations:regulation:3l)) by touch during the blindfolded phase. 
+    - B4d+) [CLARIFICATION] For 3x3x3 Blindfolded, competitors are permitted to determine the location of a permitted logo (see [Regulation 3l](regulations:regulation:3l)) by touch during the blindfolded phase.
 - B5) Stopping the solve:
     - B5a) When using the Stackmat timer, the competitor stops the solve by releasing the puzzle and then stopping the timer.
         - B5a1) If a stopwatch is in use in addition to the Stackmat timer, the judge stops the stopwatch as soon as the competitor stops the solve.
