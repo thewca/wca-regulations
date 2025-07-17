@@ -27,5 +27,5 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Check with Python WRC script
       run: |
-        wrc . --target=check
+        wrc ./wca-regulations.md --target=check
         wrc-states wca-states.md --target=check
