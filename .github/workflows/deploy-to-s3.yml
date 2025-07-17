@@ -35,13 +35,11 @@ jobs:
         wrc --target=html -g $git_hash -o $outputdir .
         wrc --target=html --merged -g $git_hash -o $outputdir .
         wrc --target=pdf -g $git_hash -o $outputdir .
-        wrc --target=pdf --merged -g $git_hash -o $outputdir .
         # Update version
         echo "$git_hash" > $outputdir/version
         aws s3 sync $outputdir s3://wca-regulations/ --acl public-read
         # Copy over the current latest version to history
         date_str=$(cat $outputdir/index.html.erb | grep -oP 'Version: \K[A-Za-z]+ \d{1,2}, \d{4}')
         formatted_date=$(date -d "$date_str" +"%Y-%m-%d")
-        aws s3 cp s3://wca-regulations/guidelines.html.erb s3://wca-regulations/history/official/$formatted_date/guidelines.html.erb --acl public-read
-        aws s3 cp s3://wca-regulations/wca-regulations-and-guidelines.pdf s3://wca-regulations/history/official/$formatted_date/wca-regulations-and-guidelines.pdf --acl public-read
+        aws s3 cp s3://wca-regulations/wca-regulations.pdf s3://wca-regulations/history/official/$formatted_date/wca-regulations.pdf --acl public-read
         aws s3 cp s3://wca-regulations/index.html.erb s3://wca-regulations/history/official/$formatted_date/index.html.erb --acl public-read
