@@ -841,7 +841,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - I4) Head to Head speed solving procedures:
     - I4a) Standard speed solving procedures are followed, as described in [Article A](regulations:article:I). Additional regulations that supersede the corresponding procedures in Article A are described below.
     - I4b) Scrambling:
-        - Ib41) Competitors in a match must use the same scramble sequences as each other for a point. Each point must use different scramble sequences and each match must use different scramble sequences.
+        - I4b1) Competitors in a match must use the same scramble sequences as each other for a point. Each point must use different scramble sequences and each match must use different scramble sequences.
     - I4c) Inspection:
         - I4c1) When both competitors are present at the solving station and when each judge is ready, the announcer asks "READY?".
         - I4c2) When both competitors have confirmed they are ready, or once at least 15 seconds have passed, the announcer calls “START” and starts timing the inspection, beginning the point.
