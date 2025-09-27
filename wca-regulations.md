@@ -345,7 +345,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 9f4a) If a competitor violates a regulation clearly enough that the attempt is certain to be disqualified, the judge should immediately stop the attempt. If the judge is uncertain or a dispute could be disruptive (e.g. because an extra attempt could delay the competition), the judge should consult the WCA Delegate.
     - 9f5) The result of an attempt is recorded as DNS (Did Not Start) if the competitor was eligible for the attempt and did not start it (see [Regulation A3b2](regulations:regulation:A3b2)).
         - 9f5a) If a competitor has no results or only has DNS results for a round, no results are recorded.
-        - 9f5b) In a Head to Head round, if a competitor starts no attempts, no results are recorded for that match for them or for their opponent (see [Regulation I2h](regulations:regulation:I2h)). 
+        - 9f5b) In a Head to Head round, if a competitor starts no attempts, no results are recorded for that match for them or for their opponent (see [Regulation I2h](regulations:regulation:I2h)).
     - 9f5+) [CLARIFICATION] If the competitor did not qualify for an attempt (e.g. in a Cutoff Round), they have no result for the attempt.
     - 9f6) For "Best of X" rounds, each competitor is allotted X attempts. The best result of these attempts determines the competitor's ranking in the round.
     - 9f7) For "Best of X" rounds, a DNF or DNS is the worst possible result.
