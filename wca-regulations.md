@@ -50,6 +50,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 ## <article-1><officials><officials> Article 1: Officials
 
 - 1a) A competition must include a WCA Delegate and an organization team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
+    - 1a1) A competition with one or more Head to Head rounds (see Article I) must also have one or more announcers.
 - 1b) The organization team of a competition is responsible for logistics before, during, and after the competition.
 - 1c) The WCA Delegate is responsible for ensuring that the competition adheres to the WCA Regulations and any applicable WCA policies or requirements. The WCA Delegate may appoint other members of the organization team to carry out specific responsibilities on their behalf, but is ultimately accountable for how these responsibilities are carried out.
 - 1c+) [CLARIFICATION] If there are multiple WCA Delegates designated for the competition, "the WCA Delegate" refers to any of them. "The WCA Delegate" also refers to anyone appointed by a designated WCA Delegate for a relevant responsibility of the WCA Delegate for the competition.
@@ -74,6 +75,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 1h1b) For 3x3x3 Multi-Blind, competitors may judge other competitors in their own group after they have finished their attempt.
 - 1j) All officials may compete in the competition.
 - 1k) Officials may serve multiple roles (e.g. organization team, WCA Delegate, judge, score taker, scrambler).
+- 1l) Each Head to Head round must have an announcer.
 
 
 ## <article-2><competitors><competitors> Article 2: Competitors
@@ -327,6 +329,12 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9b5) 3x3x3 Multi-Blind.
         - 9b5a) Full round formats for this event: "Best of X" (where X is 1, 2, or 3).
         - 9b5b) Cutoff formats for this event: "Best of X" (where X is 1 or 2) cutoff phase for "Best of Y" (where Y is 2 or 3, and Y > X).
+    - 9b6) 4x4x4 Blindfolded and 5x5x5 Blindfolded.
+        - 9b6a) Full round format for these events: "Best of 3".
+        - 9b6b) For these events, the WCA also recognizes "Mean of 3" rankings and records, outside of the competition format. The "Mean of 3" statistic does not affect the competitor's ranking in a "Best of 3" round, which is based on the best result (see [Regulation 9f6](regulations:regulation:9f6) and [Regulation 9f12](regulations:regulation:9f12)).
+    - 9b7) The Head to Head format (see [Article I](regulations:article:I)) is available as follows:
+        - 9b7a) The Head to Head format is available for the following events: 3x3x3 Cube, 4x4x4 Cube, 3x3x3 Blindfolded, and 3x3x3 One-Handed.
+        - 9b7b) The Head to Head format may only be used for the final round of an event.
 - 9f) The results of a round are measured as follows:
     - 9f1) All timed results under 10 minutes, except for 3x3x3 Multi-Blind, are measured and truncated to hundredths of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second.
     - 9f1+) [EXAMPLE] If the timer displays 12.678 for an attempt, the original recorded time is 12.67 (drop any digit after a hundredth of a second). A judge may write the full-precision time on the score sheet (and keep the precision in the calculation of penalties), as long as the score taker truncates it for the official results.
@@ -336,6 +344,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9f4+) [CLARIFICATION] The result of an attempt should be a DNF if the competitor began the attempt by indicating that they are ready (see [Regulation A3b2](regulations:regulation:A3b2)) but the attempt was disqualified.
         - 9f4a) If a competitor violates a regulation clearly enough that the attempt is certain to be disqualified, the judge should immediately stop the attempt. If the judge is uncertain or a dispute could be disruptive (e.g. because an extra attempt could delay the competition), the judge should consult the WCA Delegate.
     - 9f5) The result of an attempt is recorded as DNS (Did Not Start) if the competitor was eligible for the attempt and did not start it (see [Regulation A3b2](regulations:regulation:A3b2)).
+        - 9f5a) If a competitor has no results or only has DNS results for a round, no results are recorded.
+        - 9f5b) In a Head to Head round, if a competitor starts no attempts, no results are recorded for that match for them or for their opponent (see [Regulation I2h](regulations:regulation:I2h)). 
     - 9f5+) [CLARIFICATION] If the competitor did not qualify for an attempt (e.g. in a Cutoff Round), they have no result for the attempt.
     - 9f6) For "Best of X" rounds, each competitor is allotted X attempts. The best result of these attempts determines the competitor's ranking in the round.
     - 9f7) For "Best of X" rounds, a DNF or DNS is the worst possible result.
@@ -350,11 +360,16 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9f13) For "Mean of 3" and "Average of 5" rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the smaller recorded result.
     - 9f14) For "Mean of 3" and "Average of 5" rounds, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where "better" is defined as the smaller recorded result.
     - 9f15) Competitors who achieve the same result in a round receive an identical ranking for the round.
+    - 9f16) For Head to Head rounds:
+        - 9f16a) Competitors are allotted attempts as described in [Article I](regulations:article:I).
+        - 9f16b) The winner of the Final Match is ranked first. The loser of the Final Match is ranked second. The winner of the Third Place Match is ranked third. The loser of the Third Place Match is ranked fourth. All other competitors are ranked based on the highest Stage reached, with their best single within the round acting as a tiebreaker.
+        - 9f16b+) [EXAMPLE] The four competitors eliminated at the Quarterfinal Stage have best single times of 5.00 seconds, 5.10 seconds, 5.20 seconds and 5.30 seconds and are ranked fifth, sixth, seventh and eighth respectively.
 - 9g) A Cutoff Round is a round with a "Best of X" cutoff phase and a cutoff requirement (e.g. "Best of 2" with a cutoff requirement of strictly better than 2 minutes). If the competitor satisfies the cutoff requirement in at least one of their cutoff phase attempts, they are eligible for the remaining attempts. Attempts from the cutoff phase count towards the full round format.
 - 9i) Results of official WCA competitions must be listed on the WCA world rankings.
     - 9i1) The WCA recognizes the following types of regional records: national records, continental records, and world records.
     - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is broken multiple times on the same calendar date, only the best result is recognized as breaking that regional record.
     - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
+    - 9i4) Single results achieved in a Head to Head round are eligible for ranking and regional records. No average ranking or regional record may be established in a Head to Head round.
 - 9j) Each event must be held at most once per competition.
 - 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the WCA Competition Announcement Team.
 - 9l) Each round must be completed before any following round of the same event can start. Exception: Extra attempts may be given at any point during a competition to replace an attempt that was initially invalid.
@@ -365,13 +380,18 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9m1) Rounds with 99 or fewer competitors must have at most two subsequent rounds.
     - 9m2) Rounds with 15 or fewer competitors must have at most one subsequent round.
     - 9m3) Rounds with 7 or fewer competitors must not have subsequent rounds.
-- 9o) Cutoff Rounds count as one round when counting the number of rounds per event.
+- 9o) For the purposes of counting the number of rounds per event:
+    - 9o1) Cutoff rounds count as one round.
+    - 9o2) Dual Rounds count as two rounds.
+    - 9o3) Head to Head rounds count as one round.
 - 9p) If an event has multiple rounds, then:
     - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
     - 9p2) The competitors who advance to the next round must be determined by ranking (best X competitors) or by result (all competitors with a better result than X) in the preceding round.
     - 9p2+) [CLARIFICATION] Result refers to the single or average that determines the ranking of the corresponding round.
         - 9p2a) For each round, advancement conditions must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
-        - 9p2b) Exception: For competitions designated as a National Championship or Continental Championship, the organization team may amend advancement conditions to reserve spaces for competitors representing the relevant region. A maximum of 8 spaces or 50% of spaces in the following round, whichever is the lower, may be reserved in this way. For a round with reserved spaces, the competitors advancing from the previous round are a reserved number of best competitors representing the relevant region, followed by the remaining best competitors representing any region.
+        - 9p2a+) [ADDITION] An additional round of an event must not be added after the final round of that event has started, unless all competitors achieving podium places in the existing final round agree to the change.
+        - 9p2a++) [REMINDER] An additional round may not be added after a Head to Head round, since that Head to Head round would then no longer be the final round of an event (see Regulation 9b7b).
+        - 9p2b) Exception: For competitions designated as a National Championship or Continental Championship, the organization team may amend advancement conditions to reserve spaces for competitors representing the relevant region. A maximum of 8 spaces or 50% of spaces in the following round, whichever is the lower, may be reserved in this way. For a Head to Head round, 100% of spaces may be reserved in this way. For a round with reserved spaces, the competitors advancing from the previous round are a reserved number of best competitors representing the relevant region, followed by the remaining best competitors representing any region.
         - 9p2b+) [ADDITION] If there are not enough competitors representing the relevant region to fill the reserved spaces, they are replaced with the best competitors representing any region.
         - 9p2b++) [ADDITION] For a competition designated as both a World Championship and a Continental Championship and/or National Championship, this exception does not apply. For a competition designated as both a Continental Championship and a National Championship, spaces may only be reserved for competitors representing the relevant continent.
         - 9p2b+++) [RECOMMENDATION] Any use of reserved spaces should be clearly announced before the competition.
@@ -387,6 +407,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9t2) If this makes a round no longer compliant with [Regulation 9m1](regulations:regulation:9m1), [9m2](regulations:regulation:9m2) or [9m3](regulations:regulation:9m3), any subsequent round must not be removed.
     - 9t3) If any change occurs to the result of a competitor, such that another competitor should not have advanced to the next round, the result of the second competitor must not be removed.
     - 9t3+) [EXAMPLE] Suppose competitor A gets a 10.00 average and competitor B gets a 10.05 average in the first round of an event, such that competitor A advances to the final round but not B. If a score-taking mistake is discovered, and competitor B actually got a 9.95 average (and should have proceeded instead of A), competitor A keeps their result for the final round.
+    - 9t4) This rule is not applied between stages of a Head to Head round.
 - 9u) A competition is considered to have ended if all the following requirements are met simultaneously:
 - 9u+) [ADDITION] For competitions with multiple physical locations (i.e. "3x3x3 Fewest Moves simultaneous competitions"), all the requirements must be met in every location to consider the competition as ended.
     - 9u1) All the scheduled rounds on the WCA website are completed.
@@ -475,6 +496,12 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 11j3) If the error is noticed during the competition but after the group, the missing attempt must be replaced with an extra attempt.
     - 11j3+) [REMINDER] The scramble sequence used for the extra attempt must not be obtained from a previous group.
     - 11j4) If the error is only noticed after the competition, the result will be considered DNS.
+- 11k) For Head to Head rounds (see [Article I](regulations:article:I)), the WCA Delegate should consider the nature of the format when determining the course of action for any incident.
+    - 11k1) If the WCA Delegate grants an extra attempt to either competitor for a point, both competitors must receive an extra attempt.
+    - 11k2) The WCA Delegate should not grant an extra attempt if an incident does not affect which competitor would win a point.
+    - 11k2+) [EXAMPLE] If Competitor A completes their attempt in 5 seconds, then a distracting noise affects Competitor B, the WCA Delegate should not grant an extra attempt, as Competitor A had already won the point.
+- 11l) For Head to Head rounds, the resolution of any incident is considered final when the match is completed, for the purposes of determining who wins the point. Exception: cheating or defrauding. 
+    -11l1) The result of an attempt may be subsequently amended, but this does not change the winner of the point.
 
 
 ## <article-12><notation><notation> Article 12: Notation
@@ -561,7 +588,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - A2c) After the scrambler starts scrambling the puzzle, the competitor must not see the puzzle until the inspection phase starts.
         - A2c1) The scrambler places a cover over the scrambled puzzle that makes it impossible for any competitors or spectators to see any part of the puzzle. The cover remains over the puzzle until the start of the attempt.
         - A2c1+) [REMINDER] In the past, score sheets have been used to cover puzzles while leaving some sides exposed. This is no longer permitted.
-        - A2c2) When competing, competitors must not actively try to watch another competitor complete an official attempt. If the competitor watches another competitor attempt a scramble they have not yet received, the corresponding attempt is recorded as DNF.
+        - A2c2) When competing, competitors must not actively try to watch another competitor complete an official attempt. If the competitor watches another competitor attempt a scramble they have not yet received, the corresponding attempt is recorded as DNF. Exception: this penalty does not apply to competitors in Head to Head rounds (see [Article I](regulations:article:I)).
         - A2c2+) [REMINDER] If the competitor accidentally views a scramble they have not yet received, the competitor must not receive that scramble for their own attempt and an extra attempt must be granted instead.
     - A2d) When taking a puzzle from the scrambler, the judge briefly inspects the puzzle to ensure thorough scrambling of the puzzle. The judge raises any concerns with the scrambler, who then conducts a detailed check.
         - A2d1) The scrambler or an authorized judge must check the scrambled puzzle, and sign the score sheet to affirm that they applied the correctly-numbered scramble sequence and checked that it matches the image (see [Regulation 4g](regulations:regulation:4g)). Exception: for 6x6x6 Cube, 7x7x7 Cube, and Megaminx the scrambler may sign to affirm that the puzzle is sufficiently scrambled (see [Regulation 4g1](regulations:regulation:4g1)). Scrambler signatures should be consistent throughout the competition and should identify the scrambler.
@@ -776,3 +803,58 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - H1d++) [EXAMPLE] Example: Suppose a competitor attempts 10 cubes, the judge stops the competitor at 60 minutes, and the attempt has two time penalties. The time of the final result is 60:00 + 2*2 = 60:04.
     - H1e) The competitor must not apply any moves to one or more puzzles during the memorization phase. Penalty: disqualification of the attempt (DNF). Exception: these individual puzzles may be considered unsolved at the end of the attempt instead of disqualifying the entire attempt, at the discretion of the WCA Delegate.
 - H2) The competitor may self supply a flat covering (e.g. a mat or a cloth) for the surface, at the discretion of the WCA Delegate. If the competitor wishes to do so, the request must be made at the same time as submitting the number of puzzles (see [Regulation H1a](regulations:regulation:H1a)).
+
+## <article-I><headtohead><headtoheadsolving> Article I: Head to Head Solving
+
+- I1) Qualification and seeding:
+    - I1a) The number of available places in a Head to Head round must be one of the following: 4, 8, 12, or 16.
+    - I1b) For Head to Head rounds with a prior round, seeding is based on the competitor’s rank in the prior round.
+    - I1c) For Head to Head round without a prior round, seeding is based on the qualification requirements for the competition.
+    - I1d) If competitors would otherwise have identical seeds, seeding between these competitors is randomized.
+- I2) Round structure:
+    - I2a) A Head to Head round is structured as a single-elimination tournament, comprising a number of stages:
+        - I2a1) For rounds with 4 places: Semifinal Stage and Final Stage.
+        - I2a2) For rounds with 8 places: Quarterfinal Stage, Semifinal Stage, and Final Stage.
+        - I2a3) For rounds with 12 places: Stage of 12, Quarterfinal Stage, Semifinal Stage, and Final Stage.
+        - I2a4) For rounds with 16 places: Stage of 16, Quarterfinal Stage, Semifinal Stage, and Final Stage.
+    - I2b) Each stage comprises a number of matches between 2 competitors:
+        - I2b1) Final Stage: 2 Matches: the Final Match and the Third Place Match.
+        - I2b2) Semifinal Stage: 2 matches.
+        - I2b3) Quarterfinal Stage: 4 matches.
+        - I2b4) Stage of 12: 4 matches.
+        - I2b5) Stage of 16: 8 matches.
+    - I2c) Matchups in the first stage of a round are based on a competitor's seed. The competitor with the highest seed is matched against the competitor with the lowest seed. The competitor with the second highest seed is matched against the competitor with the second lowest seed. This process is repeated until all competitors have been matched.
+        - I2c1) Exception: For rounds with 12 places the top 4 seeded competitors do not take part in the Stage of 12, but are matched against the winners of the Stage of 12 during the Quarterfinal Stage.
+    - I2d) The winner of each match during the Stage of 16, Stage of 12 and Quarterfinal Stage proceeds to the following stage. The loser is eliminated.
+    - I2e) The winner of each match during the Semifinal Stage takes part in the Final Match during the Final Stage. The loser of each match during the Semifinal Stages takes part in the Third Place Match during the Final Stage.
+    - I2f) For subsequent stages competitors are matched so that, assuming the higher seed won every previous match, the seeds add up to the number of remaining competitors plus 1.
+    - I2g) A [Visual Guide](https://drive.google.com/file/d/1dGy7DZZqPNuf8dDHJIJUw5vzwgoRjz1G/view) illustrates the full structure for rounds with 4, 8, 12, and 16 competitors.
+    - I2h) If a competitor withdraws from a match before it begins, their opponent is treated as winning the match for the purpose of progression (Stage of 16, Stage of 12, Quarterfinal Stage, Semifinal Stage) or overall ranking within the round (Final Stage), but no results are recorded for the match (see [Regulation 9f5b](regulations:regulation:9f5b)).
+- I3) Match structure:
+    - I3a) Each match comprises a number of sets. The winner of the match is the first competitor to win X sets (where X is 1, 2, or 3).
+        - I3a1) X must be the same for all matches within a stage. Exception: for the Final Match, X may be greater than for the Third Place Match.
+        - I3a2) For subsequent stages, X must be the same or higher than the previous stage.
+    - I3b) Each set comprises a number of points. The winner of a set is the first competitor to win 3 points.
+    - I3c) The winner of a point is the competitor with the better result, where "better" is defined as the shorter time. A DNF or DNS is the worst possible result.
+    - I3d) If neither competitor has a better result, neither wins the point.
+    - I3e) If neither competitor wins a set after 7 points the competitor with the most points wins the set. If both competitors have the same number of points, the competitor with the best single result in the set wins the set. If neither competitor has a best single result in the set, the best single results in the match and then single results in the round are considered. If necessary, the competitors' seeds act as a final tiebreaker, with the higher-seeded competitor winning the set. 
+- I4) Head to Head speed solving procedures:
+    - I4a) Standard speed solving procedures are followed, as described in [Article A](regulations:article:I). Additional regulations that supersede the corresponding procedures in Article A are described below.
+    - I4b) Scrambling:
+        - Ib41) Competitors in a match must use the same scramble sequences as each other for a point. Each point must use different scramble sequences and each match must use different scramble sequences.
+    - I4c) Inspection:
+        - I4c1) When both competitors are present at the solving station and when each judge is ready, the announcer asks "READY?".
+        - I4c2) When both competitors have confirmed they are ready, or once at least 15 seconds have passed, the announcer calls “START” and starts timing the inspection, beginning the point.
+        - I4c3) When 8 seconds of inspection have elapsed, the announcer calls "8 SECONDS".
+        - I4c4) When 11 seconds, 12 seconds, and 13 seconds of inspection have elapsed, the announcer calls “3", “2”, and “1” respectively.
+        - I4c5) When 14 seconds of inspection have elapsed, the announcer calls “GO”. The competitor must start the solve (see [Regulation A4d](regulations:regulation:A4d)) at this point. Penalty for intentionally delaying the start of the solve: disqualification of the attempt (DNF) at the discretion of the judge.
+        - I4c6) Due to modified inspection procedures, the usual penalties for not starting within 15 seconds (see [Regulation A4d1](regulations:regulation:A4d1) and [Regulation A4d2](regulations:regulation:A4d2)) do not apply in Head to Head rounds.
+        - I4c7) The competitor must not start the solve before the announcer calls “GO”. Penalty: disqualification of the attempt (DNF) at the discretion of the judge.
+    - I4d) Recording results:
+        - I4d1) The judge notes whether a competitor won or lost a point, or there was no winner, on the score sheet when recording the result.
+- I5) Head to Head blindfolded solving procedures:
+    - I5a) Standard speed solving procedures (as described in [Article A](regulations:article:A)), blindfolded solving procedures (as described in [Article B](regulations:article:B)) and Head to Head speed solving procedures (as described in [Regulation I4](regulations:regulation:I4)) are followed. Additional regulations that supersede the corresponding procedures are described below.
+    - I5b) Starting the attempt:
+        - I5b1) When both competitors are present at the solving station and when each judge is ready, the announcer asks "READY?".
+        - I5b2) When both competitors have confirmed they are ready, or once at least 15 seconds have passed, the announcer calls “3, 2, 1, GO”. The competitor must start the solve (see Regulation B2d) at this point. Penalty for intentionally delaying the start of the solve: disqualification of the attempt (DNF) at the discretion of the judge.
+        - I5b3) The competitor must not start the solve before the announcer calls “GO”. Penalty: disqualification of the attempt (DNF) at the discretion of the judge.
