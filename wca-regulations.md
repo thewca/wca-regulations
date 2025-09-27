@@ -837,7 +837,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - I3b) Each set comprises a number of points. The winner of a set is the first competitor to win 3 points.
     - I3c) The winner of a point is the competitor with the better result, where "better" is defined as the shorter time. A DNF or DNS is the worst possible result.
     - I3d) If neither competitor has a better result, neither wins the point.
-    - I3e) If neither competitor wins a set after 7 points the competitor with the most points wins the set. If both competitors have the same number of points, the competitor with the best single result in the set wins the set. If neither competitor has a best single result in the set, the best single results in the match and then single results in the round are considered. If necessary, the competitors' seeds act as a final tiebreaker, with the higher-seeded competitor winning the set. 
+    - I3e) If neither competitor wins a set after 7 points the competitor with the most points wins the set. If both competitors have the same number of points, the competitor with the best single result in the set wins the set. If neither competitor has a best single result in the set, the best single results in the match and then single results in the round are considered. If necessary, the competitors' seeds act as a final tiebreaker, with the higher-seeded competitor winning the set.
 - I4) Head to Head speed solving procedures:
     - I4a) Standard speed solving procedures are followed, as described in [Article A](regulations:article:I). Additional regulations that supersede the corresponding procedures in Article A are described below.
     - I4b) Scrambling:
