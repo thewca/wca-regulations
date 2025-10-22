@@ -109,7 +109,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 2i) While inspecting or solving, competitors may use aids that do not give an unfair advantage, at the discretion of the WCA Delegate. Penalty for using a non-permited aid: disqualification of the attempt (DNF). Exception: if a non-permitted aid is used, the current attempt and any completed attempts do not need be disqualified if the competitor did not gain an unfair advantage from the aid, at the discretion of the WCA Delegate, however the competitor must not be permitted to perform any further attempts with the aid.
     - 2i1) Examples of aids that should be permitted:
         - 2i1a) Medical/physical aids worn by the competitor (e.g. glasses, wrist brace).
-        - 2i1b) Non-electronic earplugs and earmuffs, but not electronic headphones and earbuds (see [Regulation 2i3a](regulations:regulation:2i3a))
+        - 2i1b) Non-electronic earplugs and earmuffs, but not electronic headphones and earbuds (see [Regulation 2i2a](regulations:regulation:2i2a))
         - 2i1c) Food and drink.
         - 2i1d) Electronic or non-electronic hand warmers.
         - 2i1e) Cameras, including cellphones used as cameras. Camera monitors must be blank or out of sight of the competitor.
