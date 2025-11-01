@@ -113,7 +113,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 2i1c) Food and drink.
         - 2i1d) Electronic or non-electronic hand warmers.
         - 2i1e) Cameras, including cellphones used as cameras. Camera monitors must be blank or out of sight of the competitor.
-    - 2i2) The following aids must not be permitted to use during an attempt:
+    - 2i2) The following objects must not be permitted to use during an attempt:
         - 2i2a) Devices capable of playing audio to the competitor that would not be audible to the judge (e.g. electronic headphones and earbuds). This includes relevant devices which are switched off or disconnected. Exception: medical aids of this sort (e.g. hearing aids) may be permitted if the competitor does not have a comfortable alternative.
         - 2i2b) Devices used to display information through an active screen visible to the competitor (e.g. a cellphone or tablet computer).
         - 2i2c) Written notes or other reference material containing information on how to solve a puzzle.
