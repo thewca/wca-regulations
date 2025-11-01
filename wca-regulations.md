@@ -744,7 +744,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - E3d) Stopwatch or watch (self-supplied) for keeping track of the elapsed time, if it is approved by the WCA Delegate.
     - E3d+) [CLARIFICATION] Any stopwatch or watch used by a competitor must not have any functions that would help the competitor find a solution.
     - E3d++) [CLARIFICATION] Competitors should not consider a personal stopwatch or watch as the official time, and must submit their solution when the judge calls "STOP".
-    - E3e) Other aids that do not give an unfair advantage, at the discretion of the WCA Delegate (see [Regulation 2i](regulations:regulation:2i)).
+    - E3e) Other objects that do not give an unfair advantage, at the discretion of the WCA Delegate (see [Regulation 2i](regulations:regulation:2i)).
     - E3f) Tools to remove markings (self-supplied), such as correction fluid, correction tape, or erasers.
 - E4) The WCA Delegate may choose to publish the solutions (e.g. photo of the score sheets or transcriptions of solutions).
 - E5) The competitor must not communicate with anyone other than the WCA Delegate or the judge. This communication should be about the WCA Regulations and the competitor must not receive assistance deriving their solution. Penalty: disqualification of the attempt (DNF).
