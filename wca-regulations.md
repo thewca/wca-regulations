@@ -183,7 +183,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3h1) "Pillowed" puzzles are permitted.
     - 3h2) Puzzles whose colored plastic is visible inside the puzzle (e.g. "stickerless" puzzles) are permitted. This does not include the following puzzles:
     - 3h2++) [CLARIFICATION] "Stickerless" puzzles that significantly differ from most mass-produced "stickerless" puzzles are only permitted at the discretion of the WCA Delegate.
-        - 3h2a) Puzzles with transparent parts that can reveal more information about the state of the puzzle. Exception: an overlay sticker or a logo (see [Regulation 3l](regulations:regulation:3l)).
+        - 3h2a) Puzzles with transparent parts that can reasonably reveal more information about the state of the puzzle. Exception: An overlay sticker or a logo (see [Regulation 3l](regulations:regulation:3l)).
         - 3h2a+) [ADDITION] Examples of transparent parts that do not reveal more information about the state of the puzzle: internal parts of the puzzle mechanism, transparent Clock cases.
     - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
     - 3h4) For Clock, the following modifications are permitted:
