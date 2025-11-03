@@ -261,7 +261,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 ## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
 
 - 5a) Examples of puzzle defects include: popped parts, pieces twisted in place, and detached screws/caps/stickers.
-- 5b) If a puzzle defect occurs during an attempt, the competitor may choose to either repair the defect and continue the attempt, or to stop the attempt. The competitor is not permitted to cause a puzzle defect intentionally, unless correcting a previous puzzle defect (see [Regulation 5b3b](regulations:regulation:5b3b) and [Regulation 5b3c](regulations:regulation:5b3c)). Examples of intentionally causing puzzle defects: removing an attached center cap, rotating a corner piece, peeling a sticker.
+- 5b) If a puzzle defect occurs during an attempt, the competitor may choose to either repair the defect and continue the attempt, or to stop the attempt.
     - 5b1) If a competitor chooses to repair the puzzle, they must repair only the defective parts. Tools and/or parts of other puzzles must not be used to repair the original puzzle. Penalty: disqualification of the attempt (DNF).
     - 5b2) Any repair to a puzzle must not give the competitor an advantage in solving the puzzle. Penalty: disqualification of the attempt (DNF).
     - 5b3) Permitted repairs:
@@ -284,6 +284,10 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 5b5f++++) [CLARIFICATION] If there are multiple pieces partially detached or not fully placed, their final position is assessed one at a time. The piece that is closest to an open position is assessed first, and is then considered to occupy that position. This process is repeated until all partially detached or not fully placed pieces have been assessed.
     - 5b6) Definition: A part is one or more fully connected components from a group of puzzle components that remain connected and do not move relative to each other during ordinary operation of the puzzle (e.g. a 3x3x3 center cap, a Pyraminx tip, a 3x3x3 corner piece missing one face, one face of a 3x3x3 corner piece).
 - 5c+) [REMINDER] If a competitor has a puzzle defect, this does not grant them the right to an extra attempt.
+- 5d) The competitor is not permitted to cause a puzzle defect intentionally. Examples of intentionally causing puzzle defects: removing an attached center cap, rotating a corner piece, peeling a sticker.
+    - 5d1) Exception: the competitor may intentionally cause a puzzle defect while repairing a previous puzzle defect (see [Regulation 5b3b](regulations:regulation:5b3b) and [Regulation 5b3c](regulations:regulation:5b3c)).
+    - 5d2) Exception: if a competitor incorrectly fixes an existing puzzle defect, for example by rotating a corner piece in the wrong direction (see [Regulation 5b3c](regulations:regulation:5b3c)), this is not considered intentionally causing a puzzle defect.
+    - 5d3) Penalty for intentionally causing a puzzle defect: disqualification of the attempt (DNF).
 
 
 ## <article-7><environment><environment> Article 7: Environment
