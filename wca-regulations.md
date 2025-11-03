@@ -222,7 +222,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 ## <article-4><scrambling><scrambling> Article 4: Scrambling
 
 - 4a) A scrambler applies scramble sequences to the solved puzzles.
-    - 4a1) Exception: for extra attempts for 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube and Megaminx, the scramble sequence may be applied to an unsolved puzzle, at the discretion of the WCA Delegate. This exception only applies to scramble sequences for extra attempts.
+    - 4a1) Exception: for extra attempts for 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube and Megaminx, the scramble sequence may be applied to an unsolved puzzle, at the discretion of the WCA Delegate. This exception only applies to scramble sequences for extra attempts. When applying a scramble sequence to an unsolved puzzle, the scramble may begin in any orientation, the usual requirements in [Regulation 4d](regulations:regulation:4d) do not apply.
     - 4a1+) [RECOMMENDATION] The WCA Delegate should use stronger discretion when determining whether or not the scramble sequence may be applied to an unsolved puzzle for 5x5x5 Cube and Megaminx.
 - 4b) Competition scramble sequences must be generated using a current official version of an official WCA scramble program (available [via the WCA website](https://www.worldcubeassociation.org/regulations/scrambles/)).
 - 4b+) [RECOMMENDATION] The WCA Delegate should generate sufficient scramble sequences for the entire competition ahead of time, including spare scramble sequences for extra attempts.
