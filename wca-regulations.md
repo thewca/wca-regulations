@@ -322,16 +322,18 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9b2) 6x6x6 Cube and 7x7x7 Cube.
         - 9b2a) Full round format for these events: "Mean of 3".
         - 9b2b) Cutoff format for these events: "Best of 1" cutoff phase for "Mean of 3".
-    - 9b3) 3x3x3 Blindfolded, 4x4x4 Blindfolded, 5x5x5 Blindfolded.
-        - 9b3a) Full round format for these events: "Best of 3".
-        - 9b3b) For these events, the WCA also recognizes "Mean of 3" rankings and records based on the times from "Best of 3" rounds.
-        - 9b3b+) [CLARIFICATION] The "Mean of 3" statistic does not affect the competitor's ranking in a "Best of 3" round (which is based on the best result). The WCA recognizes it outside of the competition format.
+    - 9b3) 3x3x3 Blindfolded.
+        - 9b3a) Full round format for this event: "Best of 5".
+        - 9b3b) For this event, the WCA also recognizes "Average of 5" rankings and records, outside of the competition format. The "Average of 5" statistic does not affect the competitor's ranking in a "Best of 5" round, which is based on the best result (see [Regulation 9f6](regulations:regulation:9f6) and [Regulation 9f12](regulations:regulation:9f12)).
     - 9b4) 3x3x3 Fewest Moves.
         - 9b4a) Full round formats for this event: "Best of X" (where X is 1 or 2) or "Mean of 3".
         - 9b4b) Cutoff formats for this event: "Best of 1" cutoff phase for "Best of 2" or "Best of X" (where X is 1 or 2) cutoff phase for "Mean of 3".
     - 9b5) 3x3x3 Multi-Blind.
         - 9b5a) Full round formats for this event: "Best of X" (where X is 1, 2, or 3).
         - 9b5b) Cutoff formats for this event: "Best of X" (where X is 1 or 2) cutoff phase for "Best of Y" (where Y is 2 or 3, and Y > X).
+    - 9b6) 4x4x4 Blindfolded and 5x5x5 Blindfolded.
+        - 9b6a) Full round format for these events: "Best of 3".
+        - 9b6b) For these events, the WCA also recognizes "Mean of 3" rankings and records, outside of the competition format. The "Mean of 3" statistic does not affect the competitor's ranking in a "Best of 3" round, which is based on the best result (see [Regulation 9f6](regulations:regulation:9f6) and [Regulation 9f12](regulations:regulation:9f12)).
 - 9f) The results of a round are measured as follows:
     - 9f1) All timed results under 10 minutes, except for 3x3x3 Multi-Blind, are measured and truncated to hundredths of a second. All timed averages and means under 10 minutes are measured and rounded to the nearest hundredth of a second.
     - 9f2) All timed results of 10 minutes or more, as well as all times for 3x3x3 Multi-Blind results, are measured and truncated to seconds. All timed averages and means over 10 minutes are measured and rounded to the nearest second (e.g. X.49 becomes X, X.50 becomes X+1).
