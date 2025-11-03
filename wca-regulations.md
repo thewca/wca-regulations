@@ -364,7 +364,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 9l) Each round must be completed before any following round of the same event can start. The following exceptions apply:
     - 9l1) Extra attempts may be given at any point during a competition to replace an attempt that was initially invalid. An attempt is considered invalid if an extra attempt is required to be granted.
     - 9l1+) [CLARIFICATION] A DNF Result is generally considered a valid result. Extra attempts must not be given for using a non-permitted puzzle that is only found after the round is complete (see [Regulation 3k2a](regulations:regulation:3k2a)).
-    - 9l1++) [EXAMPLE] Examples of an invalid attempt: an attempt that was incorrectly scrambled, attempts where the results are no longer retrievable (e.g. a missing scorecard).
+    - 9l1++) [EXAMPLE] Examples of an invalid attempt: an attempt within the scope of [Regulation 11i1](regulations:regulation:11i1) that was incorrectly scrambled, attempts where the results are no longer retrievable (e.g. a missing scorecard).
     - 9l2) For Dual Rounds, the second round may start before the first round is completed. This is because progression to the second round does not depend upon the results of the first round (see [Regulation 9v5](regulations:regulation:9v5)).
 - 9m) Events must have at most four rounds.
     - 9m1) Rounds with 99 or fewer competitors must have at most two subsequent rounds.
