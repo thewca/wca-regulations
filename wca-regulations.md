@@ -235,7 +235,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 4b3a) For blindfolded events, the scramble sequence must orient the puzzle randomly (equal probability for each orientation).
         - 4b3b) 2x2x2 Cube: The (random) state must require at least 4 moves to solve.
         - 4b3c) Skewb: The (random) state must require at least 7 moves to solve.
-        - 4b3d) Square-1: The (random) state must require at least 11 moves to solve.
+        - 4b3d) Square-1: The (random) state must require at least 11 moves to solve. The (random) state must allow a / move to be applied without a prior (X, Y) move (see [Regulation 12c](regulations:regulation:12c)).
         - 4b3e) 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, and Megaminx: sufficiently many random moves (instead of random state), at least 2 moves to solve.
         - 4b3f) Pyraminx: The (random) state must require at least 6 moves to solve.
     - 4b4) Each scramble sequence should be applied during a maximum time frame of 2 hours. This time frame starts when the scramble sequence is applied for the first time.
