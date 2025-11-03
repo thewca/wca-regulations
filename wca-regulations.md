@@ -350,6 +350,10 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9f13) For "Mean of 3" and "Average of 5" formats, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the smaller recorded result.
     - 9f14) For "Mean of 3" and "Average of 5" formats, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where "better" is defined as the smaller recorded result.
     - 9f15) Competitors who achieve the same result receive an identical ranking.
+     - 9f16) For Head to Head rounds:
+        - 9f16a) Competitors are allotted attempts as described in [Article I](regulations:article:I).
+        - 9f16b) The winner of the Final Match is ranked first. The loser of the Final Match is ranked second. The winner of the Third Place Match is ranked third. The loser of the Third Place Match is ranked fourth. All other competitors are ranked based on the highest Stage reached, with their best single within the round acting as a tiebreaker.
+        - 9f16b+) [EXAMPLE] The four competitors eliminated at the Quarterfinal Stage have best single times of 5.00 seconds, 5.10 seconds, 5.20 seconds and 5.30 seconds and are ranked fifth, sixth, seventh and eighth respectively.
 - 9g) A Cutoff Round is a round with a "Best of X" cutoff phase and a cutoff requirement (e.g. "Best of 2" with a cutoff requirement of strictly better than 2 minutes). If the competitor satisfies the cutoff requirement in at least one of their cutoff phase attempts, they are eligible for the remaining attempts. Attempts from the cutoff phase count towards the full round format.
 - 9i) Results of official WCA competitions must be listed on the WCA world rankings.
     - 9i1) The WCA recognizes the following types of regional records: national records, continental records, and world records.
