@@ -92,7 +92,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and must not be disclosed to outside organizations/persons without the consent of the competitor.
 - 2d+) [ADDITION] Date of birth and contact information should be especially secured.
 - 2d++) [REMINDER] If a third party (e.g. journalist) asks the organization team to be put in contact with any competitor(s), the competitor(s) must first be asked for consent.
-- 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship by means of documents or photos of documents (e.g. a passport) at their first competition. If a competitor is found ineligible to represent the country under which they have registered, the competitor may be disqualified retroactively and/or suspended, at the discretion of the WCA Board.
+- 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship by means of documents or photos of documents (e.g. a passport) at their first competition.
 - 2e+) [CLARIFICATION] If a competitor holds multiple citizenships, they may choose which region to represent at their first competition.
 - 2e++) [ADDITION] The WCA Delegate should also verify the name and date of birth by means of documents or photos of documents (e.g. a passport) of every new competitor at their first competition.
     - 2e1) The eligible countries are defined by the [WCA List of Recognized Countries](https://www.worldcubeassociation.org/regulations/countries/).
