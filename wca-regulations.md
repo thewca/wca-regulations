@@ -253,10 +253,9 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 4g) After scrambling a puzzle, the scrambler must verify that the puzzle is scrambled correctly. If the puzzle state is wrong, the scrambler must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
 - 4g+) [RECOMMENDATION] After verifying the puzzle is scrambled correctly, the scrambler may pass the puzzle to another scrambler to verify. In this case, both scramblers should sign the scorecard.
     - 4g1) The following exceptions apply:
-        - 4g1a) For the 6x6x6 Cube, 7x7x7 Cube, and Megaminx, it is not necessary to correct the puzzle state, at the discretion of the WCA Delegate.
-        - 4g1b) For the 5x5x5 Cube, the scrambler should correct the puzzle state. If correcting the puzzle state would cause a severe detriment to the schedule, it is not necessary to correct it, at the discretion of the WCA Delegate.
-        - 4g1b+) [CLARIFICATION] For 5x5x5 Blindfolded, incorrect puzzle states must always be corrected.
-        - 4g1b++) [RECOMMENDATION] The WCA Delegate should use stronger discretion when determining whether or not incorrect puzzle states for 5x5x5 Cube need to be corrected.
+        - 4g1a) For 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube and Megaminx, it is not necessary to correct the puzzle state, at the discretion of the WCA Delegate.
+        - 4g1a+) [CLARIFICATION] For 5x5x5 Blindfolded, incorrect puzzle states must always be corrected.
+        - 4g1a++) [RECOMMENDATION] The WCA Delegate should use stronger discretion when determining whether or not incorrect puzzle states for 5x5x5 Cube and Megaminx need to be corrected.
     - 4g2) For Multi-Blind Solving, after scrambling all the cubes, the scrambler must verify there are no duplicate scrambles.
 
 
