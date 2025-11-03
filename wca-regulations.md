@@ -154,7 +154,6 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 2s+++) [EXAMPLE] A competitor that can not use one of their hands to start the timer may receive assistance from the judge to start and stop the timer, or a competitor that cannot hear may receive their inspection warnings in a different way.
     - 2s1) Competitors whose circumstances result in it being impossible to follow regular competition procedures may have special accommodations. These cases should be brought up to the WCA Regulations Committee before being applied.
     - 2s1+) [EXAMPLE] Examples of such accommodations include: a blind competitor using a second hand to feel the pieces in 3x3x3 One-Handed or using a second puzzle with special pieces during memorization phase in 3x3x3 Blindfolded.
-- 2t) Each competitor must be familiar with and understand the WCA Regulations before the competition.
 - 2u) Competitors must be present and ready to compete when they are called to compete for an attempt. Penalty: disqualification from the event.
     - 2u1) Exception: a competitor who is not present in time for an individually scheduled attempt (e.g. a 3x3x3 Fewest Moves attempt, a 3x3x3 Multi-Blind attempt) may be considered to have declined that attempt (DNS), at the discretion of the WCA Delegate.
     - 2u1+) [ADDITION] The competitor may compete at the discretion of the WCA Delegate. The WCA Delegate must carefully consider the fairness of allowing it.
