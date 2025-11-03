@@ -1,6 +1,6 @@
 # Style Guide and Comments on the WCA Regulations
 
-This document is meant to clarify some of the implicit conventions adopted in WCA documents.
+This document is meant to clarify some of the implicit conventions adopted in the WCA Regulations.
 
 ## General Information
 
@@ -50,7 +50,6 @@ This document is meant to clarify some of the implicit conventions adopted in WC
 ### Terms and Capitalization
 
 - References to the "(WCA) Regulations" are capitalized. For example, Regulation 1a) is a regulation in the Regulations. This makes it clear that "Regulations" refers to the body of the WCA Regulations.
-- Also should be capitalized: Competitors Area.
 - The WCA Delegate should be mentioned by their full title.
 - Puzzles names are capitalized. Event formats like "One-Handed Solving" are also capitalized. A puzzle name + event format should omit the word "Solving" (e.g. 3x3x3 One-Handed). See Regulation 9b for official puzzles and event formats.
 
@@ -100,21 +99,6 @@ This document is meant to clarify some of the implicit conventions adopted in WC
 
 ### Checklist for formatting the Regulations
 
-- Re-normalize indentation. (Use re-indent.sh, but make sure to adapt the script source for the document and sanity-diff the changes.)
+- Normalize indentation.
 - Search for stray tabs, double-spaces, extra spaces/missing punctuation at the end of lines.
 - When searching for words/phrases, be careful about alternate spellings and search for a conservative substring (e.g. search "solv" for "solve"/"solving", "appl" for "apply"/"applied", "penalt" for "penalty"/"penalties"). Be careful about a blind search/replace.
-
-
-## Definitions
-
-- Scramble sequence: A list of moves ("algorithm") used to scramble a puzzle. Informally also called a "scramble".
-- Scramble: The scrambled state of a puzzle after a scramble sequence has been applied to it.
-- Attempt: The time frame starting when the competitor acknowledges their readiness to begin (see [Regulation A3b2](https://www.worldcubeassociation.org/regulations/#A3b2)) and ending when the score sheet is complete (see [Regulation A7c](https://www.worldcubeassociation.org/regulations/#A7c)).
-- Solve: Generally, the part of the attempt when the timer is running.
-- Original recorded time: The time showing on the timer/stopwatch, before time penalties.
-- Result: An official time, either the time for an attempt including penalties, or a derived result (e.g. mean/average).
-- Rankings: An ordered list of results (e.g. first round rankings, world rankings).
-- Ranking/Rank: An ordinal number representing a result's order in a list of results (e.g. ranking in a round, world rank).
-- Record: A best-ranked result (e.g. of comparable results for a region, or of results for a competitor).
-- Part: A subset of puzzle components (in particular, any individual piece, cap, sticker, etc.).
-- Piece: A part of the puzzle that stays together during normal use of a puzzle (e.g. a cubie with its stickers).
