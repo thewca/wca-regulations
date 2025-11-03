@@ -716,6 +716,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - E2a) The judge distributes a scramble sequence and paper to all competitors. The judge then starts the stopwatch and calls "GO".
         - E2a1) Before the attempt has begun, the competitor must not write on any paper intended for the attempt. Exception: the competitor may write information to identify the attempt (see [Regulation E2c1](regulations:regulation:E2c1)). If they write this information on the paper that contains the scramble sequence, they must write only on the side without the scramble sequence before the attempt. Penalty for writing anything other than information to identify the attempt: disqualification of the attempt (DNF). Exception: if the competitor does not gain any advantage by writing additional information, the result may stand, at the discretion of the WCA Delegate.
         - E2a1+) [RECOMMENDATION] If a judge finds a submitted solution that does not appear to have information to identify the attempt, they should check both sides of the paper.
+        - E2a2) Before the attempt has begun, the competitor must not reveal the scramble sequence. Penalty: disqualification of the attempt (DNF).
     - E2b) All competitors have a total time limit of 60 minutes to find and write a solution.
     - E2b+) [CLARIFICATION] A competitor may choose to stop an attempt early by handing in a solution before the time limit.
         - E2b1) The judge should call "5 MINUTES REMAINING" at 55 minutes, and must call "STOP" at 60 minutes.
