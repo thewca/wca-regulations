@@ -206,10 +206,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3k2) Penalty for attempts done with puzzles which are not permitted: disqualification of the attempt (DNF). The following exceptions apply:
     - 3k2+) [ADDITION] The WCA Delegate should not apply a listed exception if they believe the competitor tried to use a non-permitted puzzle on purpose.
         - 3k2a) If a non-permitted puzzle is found before a round is complete, affected results in the round may be replaced with extra attempts, at the discretion of the WCA Delegate.
-        - 3k2b) 3x3x3 Multi-Blind: if any puzzles are found to be non-permitted, such puzzles may be individually counted as unsolved (without disqualifying the entire attempt), at the discretion of the WCA Delegate.
-        - 3k2b+) [CLARIFICATION] If a non-permitted puzzle is found during the course of a 3x3x3 Multi-Blind attempt, the puzzle must not be exchanged or removed from the attempt and must be counted as unsolved if the entire attempt is not disqualified.
-        - 3k2b++) [EXAMPLE] Suppose the competitor attempts 10 puzzles and solves 8 successfully. If it is found that two solved puzzles and one unsolved puzzle are not permitted, the competitor is considered to have a result with 6 solved puzzles out of 10 (rather than DNF), at the discretion of the WCA Delegate.
-- 3l) A puzzle may have one or more logos on a colored part. If it does, it must have at most one colored part with a logo or multiple logos. Exception: for 4x4x4 Blindfolded, 5x5x5 Blindfolded, and 3x3x3 Multi-Blind, a puzzle must not have any logos.
+- 3l) A puzzle may have one or more logos on a colored part. If it does, it must have at most one colored part with a logo or multiple logos. Exception: For 4x4x4 Blindfolded, 5x5x5 Blindfolded, and 3x3x3 Multi-Blind, a puzzle must not have any logos.
 - 3l+) [ADDITION] Logos may feature any reasonable design that does not give a conspicuous advantage (e.g. encoding information that could be used to cheat), and leave the colored part clearly recognizable. Unconventional logos are only permitted at the discretion of the WCA Delegate.
 - 3l++) [CLARIFICATION] Logos are permitted for 3x3x3 Blindfolded, but not any other blindfolded events, including 3x3x3 Multi-Blind.
     - 3l1) The logo must be placed on a center piece. Exceptions for puzzles that do not have center pieces:
@@ -808,8 +805,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - H1d) Time penalties for the puzzles of the attempt are cumulative.
     - H1d+) [EXAMPLE] Example: Suppose a competitor attempts 10 cubes, stops the solve with a time of 59:57, and has two time penalties. The time of the final result is 59:57 + 2*2 = 60:01 (also see [Regulation A1a5](regulations:regulation:A1a5)).
     - H1d++) [EXAMPLE] Example: Suppose a competitor attempts 10 cubes, the judge stops the competitor at 60 minutes, and the attempt has two time penalties. The time of the final result is 60:00 + 2*2 = 60:04.
-    - H1e) The competitor must not apply any moves to one or more puzzles during the memorization phase. Penalty: disqualification of the attempt (DNF). Exception: these individual puzzles may be considered unsolved at the end of the attempt instead of disqualifying the entire attempt, at the discretion of the WCA Delegate.
-    - H1f) If it is planned for competitors to start at significantly different times such that there is a risk that information about the scrambles may have become known to competitors, attempts starting later must use different scramble sequences.
+    - H1e) Any disqualification penalty during an attempt applies to the entire attempt (DNF). Exception: for penalties relating to individual puzzles (e.g. making a move during memorization, using an illegal puzzle), those puzzles may be considered unsolved at the end of the attempt instead of disqualifying the entire attempt, at the discretion of the WCA Delegate.
 - H2) The competitor may self supply a flat covering (e.g. a mat or a cloth) for the surface, at the discretion of the WCA Delegate. If the competitor wishes to do so, the request must be made at the same time as submitting the number of puzzles (see [Regulation H1a](regulations:regulation:H1a)).
 
 ## <article-I><headtohead><headtoheadsolving> Article I: Head to Head Solving
