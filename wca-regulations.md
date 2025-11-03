@@ -84,7 +84,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 2a3) Are not suspended from participation by the WCA.
     - 2a4) Comply with all reasonable safety measures deemed necessary by the WCA Delegate, which must be clearly announced before the competition.
 - 2b) Competitors below the age of 18 must obtain consent from their parent(s)/guardian(s) to register and compete.
-- 2c) Competitors register by providing all information required by the organization team (including: name, country, date of birth, gender, contact information, selected events).
+- 2c) Competitors register by providing all information required by the organization team (including: name, country, date of birth, contact information, selected events).
 - 2c+) [ADDITION] First-time competitors must register using their legal name or the name they prefer to be called in real life. Last names must be legal last names.
     - 2c1) A competitor is not eligible to compete without a completed registration, as determined by the organization team and the WCA Delegate.
     - 2c2) Returning competitors must provide personal information consistent with their WCA profile. If a competitor wishes to change or update their personal information between competitions (e.g. a change of country, name, or gender), they must [contact the WCA Results Team](https://www.worldcubeassociation.org/contact?contactRecipient=wrt) either directly or through a WCA Delegate.
