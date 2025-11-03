@@ -99,10 +99,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 2e++) [ADDITION] The WCA Delegate should also verify the name and date of birth by means of documents or photos of documents (e.g. a passport) of every new competitor at their first competition.
     - 2e1) The eligible countries are defined by the [WCA List of Recognized Countries](https://www.worldcubeassociation.org/regulations/countries/).
     - 2e2) Competitors may change their country at any point between competitions (see [Regulation 2c2](regulations:regulation:2c2)), as long as it has been at least one year since any previous change.
-        - 2e2a) Exception: if the competitor loses citizenship of the country which they were previously representing, they must change their country before or at their next competition.
-        - 2e2b) Exception: if the competitor has acquired a new citizenship within the calendar year, they may change their country to their new citizenship before or at their next competition.
-    - 2e3) Competitors who have no citizenship may compete as "Stateless".
-    - 2e3+) [CLARIFICATION] Stateless competitors have no national records and rankings, nor continental records and rankings.
+        - 2e2a) Exception: If the competitor loses citizenship of the country which they were previously representing, they must change their country before or at their next competition.
+        - 2e2b) Exception: If the competitor has acquired a new citizenship within the calendar year, they may change their country to their new citizenship before or at their next competition.
 - 2f) Competitors must obey venue rules and conduct themselves in a considerate manner.
 - 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
     - 2g3) Competitors in a group in progress must not communicate with other competitors in the group about the scrambled states of the group, unless all such competitors are not eligible for any further attempts in the group. Penalty: disqualification of the competitor(s) from the event, at the discretion of the WCA Delegate. Exception: for 3x3x3 Fewest Moves and 3x3x3 Multi-Blind, competitors that have finished their attempt may share and discuss the scramble sequence(s) with other competitors in the group who have either finished their attempt or declined their attempt.
