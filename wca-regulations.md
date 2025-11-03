@@ -127,8 +127,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 2i4) Competitors should turn off all cell phone notifications while competing to avoid disturbing the competition.
 - 2j) The WCA Delegate may disqualify a competitor from specific attempts and/or events.
     - 2j1) If a competitor is disqualified from an event for any reason, they are not eligible for any more attempts in the event.
-        - 2j1a) If the competitor has already started at least one attempt in a round before being disqualified from it, the results of all remaining attempts in the event are recorded as DNF. If the competitor has started no attempts (i.e. has no results or only has DNS results), no results are recorded.
-    - 2j2) Results from attempts that are completed when the disqualification is applied must not be disqualified. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
+        - 2j1a) If the competitor has already started at least one attempt in a round before being disqualified from it, the results of all remaining attempts in the event are recorded as DNF. If the competitor has started no attempts, no results are recorded (see [Regulation 9f5a](regulations:regulation:9f5a)).
+    - 2j2) Results from attempts that are completed when the disqualification is applied, must not be disqualified. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
     - 2j2+) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, their results from earlier rounds remain valid.
     - 2j2++) [EXAMPLE] If the WCA Delegate disqualifies a competitor during their third attempt in a round, only the third attempt and all following attempts in that event are disqualified, even if the circumstances that originated the disqualification occurred prior to this attempt.
     - 2j3) Specific completed attempts may be disqualified under the circumstances described in [Regulation 2k](regulations:regulation:2k), only if the relevant incident occurred during the attempt.
@@ -345,6 +345,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 9f5a) If a competitor has no results or only has DNS results for a round, no results are recorded.
         - 9f5b) In a Head to Head round, if a competitor starts no attempts, no results are recorded for that match for them or for their opponent (see [Regulation I2h](regulations:regulation:I2h)).
     - 9f5+) [CLARIFICATION] If the competitor did not qualify for an attempt (e.g. in a Cutoff Round), they have no result for the attempt.
+        - 9f5a) If a competitor has no results or only has DNS results for a round, no results are recorded.
     - 9f6) For "Best of X" rounds, each competitor is allotted X attempts. The best result of these attempts determines the competitor's ranking in the round.
     - 9f7) For "Best of X" rounds, a DNF or DNS is the worst possible result.
     - 9f8) For "Average of 5" rounds, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts are removed, and the arithmetic mean of the remaining 3 attempts determines the competitor's ranking in the round.
