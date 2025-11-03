@@ -414,10 +414,9 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 10f3) Pyraminx and Skewb: at most 60 degrees.
     - 10f4) Square-1: at most 45 degrees (U/D) or 90 degrees (/).
     - 10f4+) [CLARIFICATION] When counting the moves in case of a misalignment at the end of a solve, X and Y are considered separately. Example: (5, 1) is considered one misalignment, (5, 5) is considered two misalignments.
-- 10h) Puzzles not specified in this article are judged according to the solved state as defined by the generally accepted goal of the puzzle.
-    - 10h1) The solved state of Clock is achieved when all eighteen inner clock faces point to 12 o'clock.
-    - 10h1+) [ADDITION] The solved state of Clock is not affected by loose or popped pin caps.
-        - 10h1a) Inner clock faces that do not clearly point to a particular hour marker are considered to point to the nearest hour marker.
+- 10i) The solved state of Clock is achieved when all eighteen inner clock faces point to 12 o'clock.
+    - 10i1) Inner clock faces that do not clearly point to a particular hour marker are considered to point to the nearest hour marker.
+    - 10i2) The solved state of Clock is not affected by loose or popped pin caps.
 
 
 ## <article-11><incidents><incidents> Article 11: Incidents
