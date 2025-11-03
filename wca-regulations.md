@@ -449,7 +449,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 11f1a) The individual result is a regional record or a personal record in the top 50 results of the world rankings.
         - 11f1b) The average or mean the result is a part of is a regional record or a personal record in the top 50 results of the world rankings.
         - 11f1c) The result is achieved in a final round of a National Championship, Continental Championship or World Championship.
-        - 11f1d) To support the removal of any penalty originally assessed by the judge or WCA Delegate see [Regulation 11f2a](regulations:regulation:11f2a).
+        - 11f1d) To support the removal of any penalty originally assessed by the judge or WCA Delegate (see [Regulation 11f2a](regulations:regulation:11f2a)).
     - 11f2) Evidence obtained from slow-motion or frame-by-frame analysis may only be used to support the following decisions:
         - 11f2a) The removal of any penalty originally assessed by the judge or WCA Delegate.
         - 11f2b) The application of a penalty according to [Regulation A3c1](regulations:regulation:A3c1), [Regulation A4b](regulations:regulation:A4b), or [Regulation A4b1](regulations:regulation:A4b1).
