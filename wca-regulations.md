@@ -172,7 +172,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3a2) Puzzles must be fully operational, such that normal scrambling is possible.
     - 3a3) Polyhedral puzzles must use a color scheme with one unique color per face in the solved state. Each puzzle variation must have moves, states, and solutions functionally identical to the original puzzle.
     - 3a4) Puzzles must not have electronic components (e.g. Bluetooth or Wi-Fi capabilities, motors, sensors, lights). See [Regulation 2i](regulations:regulation:2i).
-- 3d) Puzzles must have colored parts, which define the color scheme of the puzzle and must be one and only one of the following: colored stickers, colored tiles, colored plastic, or painted/printed colors. All colored parts of a puzzle must be made of a similar material.
+- 3d) Puzzles must have colored parts, which define the color scheme of the puzzle and must be one and only one of the following: colored stickers, colored tiles, colored plastic, or painted/printed colors. All colored parts of a puzzle must be made of a similar material. Exception: for Clock, puzzles do not have colored parts.
     - 3d1) For competitors with a medically documented visual disability, the following exceptions apply:
         - 3d1a) Blind competitors may use textured puzzles with different textures on different faces. Each face should have a distinct color, to aid in scrambling and judging.
         - 3d1b) Color blind competitors who cannot distinguish between the necessary number of colors may use colored parts with patterns, if it has been explicitly approved according to [Regulation 2s](regulations:regulation:2s). Patterns may come from stickers or be drawn.
@@ -189,7 +189,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
     - 3h4) For Clock, the following modifications are permitted:
     - 3h4+) [CLARIFICATION] For Clock, visual modifications that enhance the ability to determine the orientation of the puzzle are permitted, as traditional puzzle designs already provide this information.
-        - 3h4a) Custom "inserts" (the same shape and size as the traditional paper inserts) are permitted, at the discretion of the WCA Delegate. The inserts must have a clear indication of 12 o'clock that matches the original inserts.
+        - 3h4a) Visual modifications (e.g. paper inserts) are permitted, at the discretion of the WCA Delegate. Any modification must have 12 clear hour markers for each inner clock face, with a distinct indication at 12 o'clock that matches the original puzzle.
         - 3h4b) Puzzle design customizations that do not give an unfair advantage may be permitted, at the discretion of the WCA Delegate (e.g. checkerboard pattern clocks, faces with a custom design, tape on the side of the Clock).
         - 3h4c) Customizations which distinguish pins from other pins of the same side are permitted, at the discretion of the WCA Delegate.
         - 3h4d) Logos anywhere on the puzzle, as long as the inner clock faces remain uncovered.
