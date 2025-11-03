@@ -714,7 +714,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 - E2) Procedure for 3x3x3 Fewest Moves:
     - E2a) The judge distributes a scramble sequence and paper to all competitors. The judge then starts the stopwatch and calls "GO".
-        - E2a1) Before the attempt has begun, the competitor must not write on any paper intended for the attempt. Exception: the competitor may write information to identify the attempt (see [Regulation E2c1](regulations:regulation:E2c1)). If they write this information on the paper that contains the scramble sequence, they must write only on the side without the scramble sequence before the attempt. Penalty for writing anything other than information to identify the attempt: disqualification of the attempt (DNF).
+        - E2a1) Before the attempt has begun, the competitor must not write on any paper intended for the attempt. Exception: the competitor may write information to identify the attempt (see [Regulation E2c1](regulations:regulation:E2c1)). If they write this information on the paper that contains the scramble sequence, they must write only on the side without the scramble sequence before the attempt. Penalty for writing anything other than information to identify the attempt: disqualification of the attempt (DNF). Exception: if the competitor does not gain any advantage by writing additional information, the result may stand, at the discretion of the WCA Delegate.
         - E2a1+) [RECOMMENDATION] If a judge finds a submitted solution that does not appear to have information to identify the attempt, they should check both sides of the paper.
     - E2b) All competitors have a total time limit of 60 minutes to find and write a solution.
     - E2b+) [CLARIFICATION] A competitor may choose to stop an attempt early by handing in a solution before the time limit.
@@ -742,7 +742,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - E2e+) [CLARIFICATION] Competitors must not derive solutions from any part of the scramble sequence, and solutions should not share significant parts with the inverse scramble sequence.
     - E2e++) [EXAMPLE] Example of solutions that should result in a disqualification of the attempt (DNF): solutions beginning with the same 4 or more moves as the inverse scramble sequence.
         - E2e1) The WCA Delegate may ask the competitor to explain the purpose of each move in their solution, irrespective of the scramble sequence. If the competitor cannot give a valid explanation, the attempt is disqualified (DNF).
-- E3) The competitor may use the following objects during the attempt. Penalty for using unauthorized objects: disqualification of the attempt (DNF).
+- E3) The competitor may use the following objects during the attempt. Penalty for using unauthorized objects: disqualification of the attempt (DNF). Exception: if the competitor does not gain any advantage by using unauthorized objects, the result may stand, at the discretion of the WCA Delegate.
     - E3a) Paper (supplied by the judge), the solution sheet (supplied by the judge), a picture of the scramble for that attempt (which may be included on the paper or solution sheet), and pens/pencils or similar (supplied by the judge, or optionally self-supplied).
     - E3b) 3x3x3 Cubes (at most 3, self-supplied), which must be as described in [Article 3](regulations:article:3) before starting the attempt.
     - E3b+) [CLARIFICATION] Puzzles do not need to be solved at the start of the attempt.
@@ -753,7 +753,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - E3e) Other non-electronic aids that do not give an unfair advantage, at the discretion of the WCA Delegate (see [Regulation 2i1](regulations:regulation:2i1)).
     - E3f) Tools to remove markings (self-supplied), such as correction fluid, correction tape, or erasers.
 - E4) The WCA Delegate may choose to publish the solutions (e.g. photo of the score sheets or transcriptions of solutions).
-- E5) The competitor must not communicate with anyone other than the WCA Delegate or the judge. This communication should be about the WCA Regulations and the competitor must not receive assistance deriving their solution. Penalty: disqualification of the attempt (DNF).
+- E5) The competitor must not communicate with anyone other than the WCA Delegate or the judge. This communication should be about the WCA Regulations and the competitor must not receive assistance deriving their solution. Penalty: disqualification of the attempt (DNF). Exception: if the competitor does not gain an advantage by communicating with anyone other than the WCA delegate or the judge, the result may stand, at the discretion of the WCA Delegate.
 - E6) A competitor may join a 3x3x3 Fewest Moves attempt that is already in progress, at the discretion of the WCA Delegate. Exception: a competitor must not be permitted to join an ongoing attempt in the following cases:
     - E6a) A competitor has finished their attempt already (see [Regulation E2b+](regulations:regulation:E2b+)).
     - E6b) The attempt takes place in a competition with multiple physical locations (i.e. "3x3x3 Fewest Moves simultaneous competitions").
