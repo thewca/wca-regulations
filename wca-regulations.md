@@ -593,7 +593,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A3c5+) [REMINDER] As a puzzle state where a / move cannot be applied is not a valid scramble state (see [Regulation 4b3d](regulations:regulation:4b3d)), an extra attempt must be provided if [Regulation 11i1](regulations:regulation:11i1) applies.
     - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation. The puzzle must be placed fully on the mat and must not be fully or partially resting on the Stackmat timer. Penalty: time penalty (+2 seconds).
 - A4) Starting the solve:
-    - A4b) The competitor uses their fingers to touch the elevated sensor surfaces of the Stackmat timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to the competitor. Penalty: time penalty (+2 seconds).
+    - A4b) The competitor uses their fingers to touch the elevated sensor surfaces of the Stackmat timer. The competitor's palms must be facing predominantly downward, and located on the side of the timer that is closer to the competitor. Penalty: time penalty (+2 seconds).
         - A4b1) The competitor must have no physical contact with the puzzle while starting the solve. Penalty: time penalty (+2 seconds).
     - A4d) If a Stackmat timer is in use, the competitor should keep their hands on the timer until they see a green timer light. The timer is started when they remove their hand(s) from the timer. The competitor starts the solve by starting the timer.
         - A4d1) The competitor must start the solve within 15 seconds of the start of the inspection. Penalty: time penalty (+2 seconds).
@@ -602,6 +602,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A4d2+) [CLARIFICATION] If the inspection took exactly 17 seconds (i.e. 17.00), the attempt must be disqualified (DNF).
         - A4d3) If a stopwatch is in use, the judge starts the stopwatch as soon as the competitor starts the solve.
     - A4e) Time penalties for starting the solve are cumulative.
+    - A4f) The competitor is responsible for starting the speedsolving timer correctly.
 - A5) During the solve:
     - A5a) While inspecting or solving the puzzle, the competitor must not communicate with anyone other than the judge or the WCA Delegate. Penalty: disqualification of the attempt (DNF). Exception: if the competitor does not gain an advantage by communicating with anyone other than the judge or the WCA Delegate, the result may stand, at the discretion of the WCA Delegate.
     - A5b) While inspecting or solving the puzzle, the competitor must not receive assistance from anyone or any object other than the surface (also see [Regulation 2i](regulations:regulation:2i)). Penalty: disqualification of the attempt (DNF).
