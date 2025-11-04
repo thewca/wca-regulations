@@ -365,7 +365,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 9i) Results of official WCA competitions must be listed on the WCA world rankings.
     - 9i1) The WCA recognizes the following types of regional records: national records, continental records, and world records.
         - 9i1a) A regional record is recognized when a new result is equal to or better than the existing record. Exception: see [Regulation 9i2](regulations:regulation:9i2).
-    - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is achieved multiple times on the same calendar date, only the best result is recognized as that regional record.
+    - 9i2) All the results of a round are considered to take place on the last calendar date of the round, based on the local time at the competition location. If a regional record is achieved multiple times on the same calendar date, only the best result is recognized as breaking that regional record. For competitions with multiple physical locations (i.e. "3x3x3 Fewest Moves simultaneous competitions"), the calendar date is the latest date at any competition location.
     - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
     - 9i4) Single results achieved in a Head to Head round are eligible for ranking and regional records. No average ranking or regional record may be established in a Head to Head round.
 - 9j) Each event must be held at most once per competition.
@@ -413,7 +413,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9u2) The WCA Delegate has announced the end of the competition. If the WCA Delegate does not announce the end of the competition, either of the following takes the place of this announcement (whichever comes first):
     - 9u2+) [RECOMMENDATION] The WCA Delegate should announce the end of the competition (e.g. prior to the awards ceremony).
         - 9u2a) All the listed WCA Delegates permanently leave the venue.
-        - 9u2b) The end of the last calendar date of the competition is reached.
+        - 9u2b) The end of the last calendar date of the competition is reached (see [Regulation 9i2](regulations:regulation:9i2)).
         - 9u2b+) [ADDITION] The calendar date of the end of the competition is determined by the local time for the location in which the competition took place.
 - 9v) Two consecutive rounds of an event may be designated as Dual Rounds.
     - 9v1) Dual Rounds may include only the first two rounds of an event.
