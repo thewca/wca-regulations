@@ -845,7 +845,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - I3d) If neither competitor has a better result, neither wins the point.
     - I3e) If neither competitor wins a set after 7 points the competitor with the most points wins the set. If both competitors have the same number of points, the competitor with the best single result in the set wins the set. If neither competitor has a best single result in the set, the best single results in the match and then single results in the round are considered. If necessary, the competitors' seeds act as a final tiebreaker, with the higher-seeded competitor winning the set.
 - I4) Head to Head speed solving procedures:
-    - I4a) Standard speed solving procedures are followed, as described in [Article A](regulations:article:I). Additional regulations that supersede the corresponding procedures in Article A are described below.
+    - I4a) Standard speed solving procedures are followed, as described in [Article A](regulations:article:A). Additional regulations that supersede the corresponding procedures in Article A are described below.
     - I4b) Scrambling:
         - I4b1) Competitors in a match must use the same scramble sequences as each other for a point. Each point must use different scramble sequences and each match must use different scramble sequences.
     - I4c) Inspection:
