@@ -353,6 +353,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 9g) A Cutoff Round is a round with a "Best of X" cutoff phase and a cutoff requirement (e.g. "Best of 2" with a cutoff requirement of strictly better than 2 minutes). If the competitor satisfies the cutoff requirement in at least one of their cutoff phase attempts, they are eligible for the remaining attempts. Attempts from the cutoff phase count towards the full round format.
 - 9i) Results of official WCA competitions must be listed on the WCA world rankings.
     - 9i1) The WCA recognizes the following types of regional records: national records, continental records, and world records.
+        - 9i1a) A regional record is recognized when a new result is equal to or better than the existing record. Exception: see [Regulation 9i2](regulations:regulation:9i2).
     - 9i2) All the results of a round are considered to take place on the last calendar date of the round, based on the local time at the competition location. If a regional record is achieved multiple times on the same calendar date, only the best result is recognized as breaking that regional record. For competitions with multiple physical locations (i.e. "3x3x3 Fewest Moves simultaneous competitions"), the calendar date is the latest date at any competition location.
     - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
 - 9j) Each event must be held at most once per competition.
