@@ -106,25 +106,19 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 2g3) Competitors in a group in progress must not communicate with other competitors in the group about the scrambled states of the group, unless all such competitors are not eligible for any further attempts in the group. Penalty: disqualification of the competitor(s) from the event, at the discretion of the WCA Delegate. Exception: for 3x3x3 Fewest Moves and 3x3x3 Multi-Blind, competitors that have finished their attempt may share and discuss the scramble sequence(s) with other competitors in the group who have either finished their attempt or declined their attempt.
         - 2g3a) For rounds where results are being entered live, the organization team may enforce that competitors are not permitted to view the results entered from their group until they have completed their attempts.
 - 2h) Competitors must be appropriately dressed while in the competition venue. At the discretion of the WCA Delegate, competitors may be disqualified from the competition for inappropriate clothing.
-- 2i) While inspecting or solving, competitors must not use electronics (e.g. cell phones, earbuds, additional lighting) apart from the speedsolving timer or stopwatch. Penalty: disqualification of the attempt (DNF). Any item which has any electronic component is considered electronic.
-- 2i+) [ADDITION] Although the competitor may pick up a stopwatch to view the current time (when they are not blindfolded), they must not start, stop, pause, or otherwise interact with the timekeeping of the stopwatch. Exception: The competitor may stop the stopwatch at the end of their attempt if the judge is not immediately available (see [Regulation A6a1](regulations:regulation:A6a1)).
-- 2i++) [ADDITION] The organization team may provide the competitor an unofficial stopwatch for viewing the elapsed time (started together with the main stopwatch), in which case the competitor is not permitted to touch the official stopwatch. Exception: See the exception in [Regulation 2i+](regulations:regulation:2i+).
-- 2i+++) [REMINDER] Bluetooth puzzles are considered electronic devices.
-- 2i++++) [CLARIFICATION] The competitor is considered to be using an electronic device only if they are putting it to a particular purpose.
-- 2i+++++) [EXAMPLE] Examples that are not considered using an electronic device: moving a camera, flipping over a phone, wearing a smartwatch.
-- 2i++++++) [EXAMPLE] Examples of using an electronic device: pressing a camera button, checking a message on a phone or smartwatch.
-- 2i+++++++) [CLARIFICATION] Devices which were previously electronic but have their electronic parts removed may be permitted, at the discretion of the WCA Delegate.
-    - 2i1) Competitors may use non-electronic aids that do not give an unfair advantage, at the discretion of the WCA Delegate. This includes:
-        - 2i1a) Medical/physical aids worn by the competitor (e.g. glasses, wrist brace). As an exception to [Regulation 2i](regulations:regulation:2i), medical aids may be electronic if the competitor does not have comfortable non-electronic alternatives (e.g. if the competitor has a personal hearing aid or pacemaker).
-        - 2i1b) Earplugs and earmuffs (but not electronic headphones and earbuds).
-        - 2i1b+) [CLARIFICATION] This includes relevant devices which are switched off or disconnected.
-        - 2i1c) Non-electronic hand warmers.
-        - 2i1d) Food and drink.
-    - 2i2) Competitors may use cameras and/or microphones at the solving station at the discretion of the WCA Delegate, but the following restrictions apply from the start of the attempt until the competitor stops the solve. Penalty for breaking a restriction: disqualification of the attempt (DNF).
-    - 2i2+) [CLARIFICATION] The competitor may hold or wear a camera or microphone anywhere, as long as the live feed of the camera is not visible to the competitor.
-        - 2i2a) Each camera monitor must be blank or out of sight of the competitor. Exception: if a visible active monitor is discovered, completed attempts need not be disqualified if the competitor did not receive assistance from the monitor, at the discretion of the WCA Delegate (see [Regulation A5b](regulations:regulation:A5b)), however the competitor must not be permitted to perform any further attempts with such a monitor.
-        - 2i2c) The competitor must not press any buttons on these devices (e.g. for starting or stopping a recording).
-    - 2i4) Competitors should turn off all cell phone notifications while competing to avoid disturbing the competition.
+- 2i) While inspecting or solving, competitors may use objects that do not give an unfair advantage, at the discretion of the WCA Delegate. Penalty for using a non-permited object: disqualification of the attempt (DNF). Exception: if a non-permitted object is used, the current attempt and any completed attempts do not need be disqualified if the competitor did not gain an unfair advantage from the object, at the discretion of the WCA Delegate, however the competitor must not be permitted to perform any further attempts with the object.
+    - 2i1) Examples of objects that should be permitted:
+        - 2i1a) Medical/physical aids worn by the competitor (e.g. glasses, wrist brace).
+        - 2i1b) Non-electronic earplugs and earmuffs, but not electronic headphones and earbuds (see [Regulation 2i2a](regulations:regulation:2i2a))
+        - 2i1c) Food and drink.
+        - 2i1d) Electronic or non-electronic hand warmers.
+        - 2i1e) Cameras, including cellphones used as cameras. Camera monitors must be blank or out of sight of the competitor.
+    - 2i2) The following objects must not be permitted to use during an attempt:
+        - 2i2a) Devices capable of playing audio to the competitor that would not be audible to the judge (e.g. electronic headphones and earbuds). This includes relevant devices which are switched off or disconnected. Exception: medical aids of this sort (e.g. hearing aids) may be permitted if the competitor does not have a comfortable alternative.
+        - 2i2b) Devices used to display information through an active screen visible to the competitor (e.g. a cellphone or tablet computer).
+        - 2i2c) Written notes or other reference material containing information on how to solve a puzzle.
+        - 2i2d) Other puzzles.
+        - 2i2e) Additional lighting.
 - 2j) The WCA Delegate may disqualify a competitor from specific attempts and/or events.
     - 2j1) If a competitor is disqualified from an event for any reason, they are not eligible for any more attempts in the event.
         - 2j1a) If the competitor has already started at least one attempt in a round before being disqualified from it, the results of all remaining attempts in the event are recorded as DNF. If the competitor has started no attempts, no results are recorded (see [Regulation 9f5a](regulations:regulation:9f5a)).
@@ -170,7 +164,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 3a1+) [CLARIFICATION] Competitors may be disqualified if they do not have a puzzle ready to submit soon after they are called (e.g. if they planned to use a puzzle that another competitor is currently using, and therefore cannot submit a puzzle at the moment).
     - 3a2) Puzzles must be fully operational, such that normal scrambling is possible.
     - 3a3) Polyhedral puzzles must use a color scheme with one unique color per face in the solved state. Each puzzle variation must have moves, states, and solutions functionally identical to the original puzzle.
-    - 3a4) Puzzles must not have electronic components (e.g. Bluetooth or Wi-Fi capabilities, motors, sensors, lights). See [Regulation 2i](regulations:regulation:2i).
+    - 3a4) Puzzles must not have electronic components (e.g. Bluetooth or Wi-Fi capabilities, motors, sensors, lights).
 - 3d) Puzzles must have colored parts, which define the color scheme of the puzzle and must be one and only one of the following: colored stickers, colored tiles, colored plastic, or painted/printed colors. All colored parts of a puzzle must be made of a similar material. Exception: for Clock, puzzles do not have colored parts.
     - 3d1) For competitors with a medically documented visual disability, the following exceptions apply:
         - 3d1a) Blind competitors may use textured puzzles with different textures on different faces. Each face should have a distinct color, to aid in scrambling and judging.
@@ -580,6 +574,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A1a4+) [REMINDER] If a competitor has accidentally been permitted to exceed the time limit, the time limit must be enforced retroactively, and the judge, competitor, and WCA Delegate should be informed (see [Regulation 1g2](regulations:regulation:1g2)). Judges must always be aware of the time limit for a current attempt (which might depend on previous attempts, in the case of a cumulative time limit).
         - A1a5) The time counting towards the time limit for an attempt is either the result after time penalties are applied (if the result was not DNF) or the time elapsed in the solve (if the result was DNF).
     - A1b) If the time limit for an attempt is greater than 10 minutes, a stopwatch must be used for timekeeping.
+    - A1b+) [ADDITION] The competitor may pick up a stopwatch to view the current time (when they are not blindfolded), they must not start, stop, pause, or otherwise interact with the timekeeping of the stopwatch. Exception: The competitor may stop the stopwatch at the end of their attempt if the judge is not immediately available (see [Regulation A6a1](regulations:regulation:A6a1)).
+    - A1b++) [ADDITION] The organization team may provide the competitor an unofficial stopwatch for viewing the elapsed time (started together with the main stopwatch), in which case the competitor is not permitted to touch the official stopwatch. Exception: See the exception in [Regulation A6a1](regulations:regulation:A6a1).
         - A1b1) A speedsolving timer must be used in addition to the stopwatch. Exception: for events without inspection where the competitor is expected to exceed 10 minutes, use of the speedsolving timer is optional.
         - A1b2) If a time from the speedsolving timer is available, it is the original recorded time. Otherwise (e.g. the speedsolving timer malfunctioned, ran for over 10 minutes or was not used at all), the stopwatch time is the original recorded time.
     - A1c) A competitor participating in an event must be able to fulfill the event's requirements (see [Regulation 2k6](regulations:regulation:2k6)).
@@ -787,7 +783,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - E3d) Stopwatch or watch (self-supplied) for keeping track of the elapsed time, if it is approved by the WCA Delegate.
     - E3d+) [CLARIFICATION] Any stopwatch or watch used by a competitor must not have any functions that would help the competitor find a solution.
     - E3d++) [CLARIFICATION] Competitors should not consider a personal stopwatch or watch as the official time, and must submit their solution when the judge calls "STOP".
-    - E3e) Other non-electronic aids that do not give an unfair advantage, at the discretion of the WCA Delegate (see [Regulation 2i1](regulations:regulation:2i1)).
+    - E3e) Other objects that do not give an unfair advantage, at the discretion of the WCA Delegate (see [Regulation 2i](regulations:regulation:2i)).
     - E3f) Tools to remove markings (self-supplied), such as correction fluid, correction tape, or erasers.
 - E4) The WCA Delegate may choose to publish the solutions (e.g. photo of the score sheets or transcriptions of solutions).
 - E5) The competitor must not communicate with anyone other than the WCA Delegate or the judge. This communication should be about the WCA Regulations and the competitor must not receive assistance deriving their solution. Penalty: disqualification of the attempt (DNF). Exception: if the competitor does not gain an advantage by communicating with anyone other than the WCA delegate or the judge, the result may stand, at the discretion of the WCA Delegate.
