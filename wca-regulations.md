@@ -289,15 +289,14 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 7e) The competition area must be smoke-free.
 - 7f) Solving station:
     - 7f1) Definitions:
-        - 7f1a) Stackmat: The Speed Stacks Stackmat timer and a full-size compatible mat. Generation 3 Pro Timer, Generation 4 Pro Timer, and/or Generation 5 Pro Timer must be used for time measurement.
-        - 7f1a+) [CLARIFICATION] A full-size mat should have minimum dimensions of 30cm (left to right) by 25cm (front to back).
-        - 7f1b) Mat: The mat of the Stackmat.
-        - 7f1c) Timer: The timer of the Stackmat, or a stopwatch (for longer attempts).
-        - 7f1d) Surface: The flat surface on which the Stackmat has been placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
-    - 7f2) The Stackmat timer must be attached to the mat and placed on the surface, with the timer on the side of the mat nearest to the competitor.
-    - 7f3) The organization team should modify Stackmat timers to be more robust against common incidents, by making the buttons more difficult to press by accident (e.g. by attaching O-rings around the buttons) and securing the battery more firmly (e.g. by padding the battery compartment).
-    - 7f4) Generation 5 Pro Timer must be used in 2-pad mode.
-- 7h) If competitors do not remain at the same solving station for all of their attempts in a round, the competition area must have one or more Competitor Waiting Areas. Exception: rounds with individually scheduled attempts.
+        - 7f1a) Speedsolving timer: An approved timer from the [Approved timers list](https://drive.google.com/file/d/1UizYZOY4v-t7YnKcXas0hHzekX-NGuhW/view).
+        - 7f1b) Mat: The mat on which the speedsolving timer is placed.
+        - 7f1b+) [CLARIFICATION] A full-size mat should have minimum dimensions of 30cm (left to right) by 25cm (front to back).
+        - 7f1c) Timer: The speedsolving timer or a stopwatch (for longer attempts).
+        - 7f1d) Surface: The flat surface on which the speedsolving timer is placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
+    - 7f2) The speedsolving timer must be attached to the mat and placed on the surface, with the timer on the side of the mat nearest to the competitor.
+    - 7f3) The organization team should modify speedsolving timers to be more robust against common incidents, for example by making the buttons more difficult to press by accident (e.g. by attaching O-rings around the buttons) and securing the battery more firmly (e.g. by padding the battery compartment).
+- 7h) If competitors do not remain at the same station for all of their attempts in a round, the competition area must have one or more Competitor Waiting Areas. Exception: rounds with individually scheduled attempts.
     - 7h2) Definition: A Competitor Waiting Area is an area in which competitors in a group wait to be called to a solving station.
     - 7h2+) [ADDITION] Competitors in a Competitor Waiting Area who are waiting between attempts should not be able to see the puzzles of the competitors on stage.
 
@@ -339,21 +338,20 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 9f5a) If a competitor has no results or only has DNS results for a round, no results are recorded.
         - 9f5b) In a Head to Head round, if a competitor starts no attempts, no results are recorded for that match for them or for their opponent (see [Regulation I2h](regulations:regulation:I2h)).
     - 9f5+) [CLARIFICATION] If the competitor did not qualify for an attempt (e.g. in a Cutoff Round), they have no result for the attempt.
-        - 9f5a) If a competitor has no results or only has DNS results for a round, no results are recorded.
-    - 9f6) For "Best of X" rounds, each competitor is allotted X attempts. The best result of these attempts determines the competitor's ranking in the round.
-    - 9f7) For "Best of X" rounds, a DNF or DNS is the worst possible result.
-    - 9f8) For "Average of 5" rounds, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts are removed, and the arithmetic mean of the remaining 3 attempts determines the competitor's ranking in the round.
-    - 9f9) For "Average of 5" rounds, one DNF or DNS is permitted to count as the competitor's worst result of the round. If a competitor has more than one DNF and/or DNS result in the round, their average result for the round is DNF.
-    - 9f10) For "Mean of 3" rounds, competitors are allotted 3 attempts. The arithmetic mean of the 3 attempts determines the competitor's ranking in the round.
-    - 9f11) For "Mean of 3" rounds, if the competitor has at least one DNF or DNS result, their average result for the round is DNF.
-    - 9f12) For "Best of X" rounds, rankings are assessed based on the best result per competitor. The following are used to compare results:
+    - 9f6) For "Best of X" formats, each competitor is allotted X attempts. The best result of these attempts determines the competitor's ranking in the round. Exception: for Dual Rounds (see [Regulation 9v4](regulations:regulation:9v4)), the best result from either round determines the competitor's ranking.
+    - 9f7) For "Best of X" formats, a DNF or DNS is the worst possible result.
+    - 9f8) For the "Average of 5" format, competitors are allotted 5 attempts. Of these 5 attempts, the best and worst attempts are removed, and the arithmetic mean of the remaining 3 attempts determines the competitor's ranking in the round. Exception: for Dual Rounds (see [Regulation 9v4](regulations:regulation:9v4)), the best average from either round determines the competitor's ranking.
+    - 9f9) For the "Average of 5" format, one DNF or DNS is permitted to count as the competitor's worst result of the round. If a competitor has more than one DNF and/or DNS result in the round, their average result for the round is DNF.
+    - 9f10) For the "Mean of 3" format, competitors are allotted 3 attempts. The arithmetic mean of the 3 attempts determines the competitor's ranking in the round. Exception: for Dual Rounds (see [Regulation 9v4](regulations:regulation:9v4)), the better mean from either round determines the competitor's ranking.
+    - 9f11) For the "Mean of 3" format, if the competitor has at least one DNF or DNS result, their average result for the round is DNF.
+    - 9f12) For "Best of X" formats, the following are used to compare results:
         - 9f12a) For timed results, "better" is defined as the shorter time.
         - 9f12b) For 3x3x3 Fewest Moves, "better" is defined as the shorter solution length.
         - 9f12c) For 3x3x3 Multi-Blind, rankings are assessed based on the number of puzzles solved minus the number of puzzles not solved, where a greater difference is better. If the difference is less than 0, or if only 1 puzzle is solved, the attempt is considered unsolved (DNF). If competitors achieve the same result, rankings are assessed based on total time, where the shorter recorded time is better. If competitors achieve the same result and the same time, rankings are assessed based on the number of puzzles the competitors failed to solve, where fewer unsolved puzzles are better.
-    - 9f13) For "Mean of 3" and "Average of 5" rounds, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the smaller recorded result.
-    - 9f14) For "Mean of 3" and "Average of 5" rounds, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where "better" is defined as the smaller recorded result.
-    - 9f15) Competitors who achieve the same result in a round receive an identical ranking for the round.
-    - 9f16) For Head to Head rounds:
+    - 9f13) For "Mean of 3" and "Average of 5" formats, rankings are assessed based on the ordering of the averages/means of the competitors, where "better" is the smaller recorded result.
+    - 9f14) For "Mean of 3" and "Average of 5" formats, if two or more competitors achieve identical average/mean results, rankings are assessed based on the best attempt per competitor, where "better" is defined as the smaller recorded result.
+    - 9f15) Competitors who achieve the same result receive an identical ranking.
+     - 9f16) For Head to Head rounds:
         - 9f16a) Competitors are allotted attempts as described in [Article I](regulations:article:I).
         - 9f16b) The winner of the Final Match is ranked first. The loser of the Final Match is ranked second. The winner of the Third Place Match is ranked third. The loser of the Third Place Match is ranked fourth. All other competitors are ranked based on the highest Stage reached, with their best single within the round acting as a tiebreaker.
         - 9f16b+) [EXAMPLE] The four competitors eliminated at the Quarterfinal Stage have best single times of 5.00 seconds, 5.10 seconds, 5.20 seconds and 5.30 seconds and are ranked fifth, sixth, seventh and eighth respectively.
@@ -361,15 +359,16 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 9i) Results of official WCA competitions must be listed on the WCA world rankings.
     - 9i1) The WCA recognizes the following types of regional records: national records, continental records, and world records.
         - 9i1a) A regional record is recognized when a new result is equal to or better than the existing record. Exception: see [Regulation 9i2](regulations:regulation:9i2).
-    - 9i2) All the results of a round are considered to take place on the last calendar date of the round. If a regional record is achieved multiple times on the same calendar date, only the best result is recognized as that regional record.
+    - 9i2) All the results of a round are considered to take place on the last calendar date of the round, based on the local time at the competition location. If a regional record is achieved multiple times on the same calendar date, only the best result is recognized as breaking that regional record. For competitions with multiple physical locations (i.e. "3x3x3 Fewest Moves simultaneous competitions"), the calendar date is the latest date at any competition location.
     - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
     - 9i4) Single results achieved in a Head to Head round are eligible for ranking and regional records. No average ranking or regional record may be established in a Head to Head round.
 - 9j) Each event must be held at most once per competition.
 - 9k) All competitors may participate in all events of a competition, except in cases specifically approved by the WCA Competition Announcement Team.
-- 9l) Each round must be completed before any following round of the same event can start. Exception: extra attempts may be given at any point during a competition to replace an attempt that was initially invalid.
-    - 9l1) An attempt is considered invalid if an extra attempt is required to be granted.
+- 9l) Each round must be completed before any following round of the same event can start. The following exceptions apply:
+    - 9l1) Extra attempts may be given at any point during a competition to replace an attempt that was initially invalid, but must not be given after the competition has ended (see [Regulation 9u](regulations:regulation:9u)). An attempt is considered invalid if an extra attempt is required to be granted.
     - 9l1+) [CLARIFICATION] A DNF Result is generally considered a valid result. Extra attempts must not be given for using a non-permitted puzzle that is only found after the round is complete (see [Regulation 3k2a](regulations:regulation:3k2a)).
     - 9l1++) [EXAMPLE] Examples of an invalid attempt: an attempt within the scope of [Regulation 11i1](regulations:regulation:11i1) that was incorrectly scrambled, attempts where the results are no longer retrievable (e.g. a missing scorecard).
+    - 9l2) For Dual Rounds, the second round may start before the first round is completed. This is because progression to the second round does not depend upon the results of the first round (see [Regulation 9v5](regulations:regulation:9v5)).
 - 9m) Events must have at most four rounds.
     - 9m1) Rounds with 99 or fewer competitors must have at most two subsequent rounds.
     - 9m2) Rounds with 15 or fewer competitors must have at most one subsequent round.
@@ -379,7 +378,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9o2) Dual Rounds count as two rounds.
     - 9o3) Head to Head rounds count as one round.
 - 9p) If an event has multiple rounds, then:
-    - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
+    - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event. Exception: Dual Rounds (see [Regulation 9v5](regulations:regulation:9v5)).
     - 9p2) The competitors who advance to the next round must be determined by ranking (best X competitors) or by result (all competitors with a better result than X) in the preceding round.
     - 9p2+) [CLARIFICATION] Result refers to the single or average that determines the ranking of the corresponding round.
         - 9p2a) For each round, the format, time limit, cutoff requirement and advancement conditions must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
@@ -408,8 +407,16 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9u2) The WCA Delegate has announced the end of the competition. If the WCA Delegate does not announce the end of the competition, either of the following takes the place of this announcement (whichever comes first):
     - 9u2+) [RECOMMENDATION] The WCA Delegate should announce the end of the competition (e.g. prior to the awards ceremony).
         - 9u2a) All the listed WCA Delegates permanently leave the venue.
-        - 9u2b) The end of the last calendar date of the competition is reached.
+        - 9u2b) The end of the last calendar date of the competition is reached (see [Regulation 9i2](regulations:regulation:9i2)).
         - 9u2b+) [ADDITION] The calendar date of the end of the competition is determined by the local time for the location in which the competition took place.
+- 9v) Two consecutive rounds of an event may be designated as Dual Rounds.
+    - 9v1) Dual Rounds may include only the first two rounds of an event.
+    - 9v2) Dual Rounds must not include the final round of a National Championship, Continental Championship or World Championship.
+    - 9v3) Dual Rounds must have the same format, cutoff, and time limit.
+    - 9v4) The competitor’s ranking in Dual Rounds is based on the better result of either round.
+        - 9v4a) The results of both rounds are recorded and are eligible for the WCA world rankings (see [Regulation 9i](regulations:regulation:9i)) and regional records (see [Regulation 9i1](regulations:regulation:9i1)).
+    - 9v5) No competitors are eliminated between rounds during Dual Rounds.
+        - 9v5a) Competitors with no results in the first round or results of only DNF and/or DNS in the first round are eligible to advance to the second round.
 
 
 ## <article-10><solved-state><solvedstate> Article 10: Solved State
@@ -554,13 +561,13 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - A1a) The organization team must apply at least one kind of time limit (time limit per attempt and/or cumulative time limit) to each round.
     - A1a+) [CLARIFICATION] If both limits are applied, the time limit per attempt must not be greater than the cumulative time limit.
         - A1a1) The default time limit is 10 minutes for each attempt in a round, though the organization team may announce a higher or lower time limit per attempt. In this case, the limit must be the same for all attempts in a round.
-        - A1a2) For events other than 3x3x3 Fewest Moves and 3x3x3 Multi-Blind, the organization team may define a cumulative time limit. The cumulative time limit must either apply to all attempts in one round (e.g. 3 attempts with a cumulative time limit of 20 minutes), or to all attempts in a combination of rounds for different events. In this case, the time limit for a particular attempt is the time limit or the cumulative time limit minus the total time in other attempts counting towards the time limit so far (see [Regulation A1a5](regulations:regulation:A1a5)), whichever is lower. If a round has an applicable cumulative time limit, it must have at most one.
+        - A1a2) For events other than 3x3x3 Fewest Moves and 3x3x3 Multi-Blind, the organization team may define a cumulative time limit. The cumulative time limit must either apply to all attempts in one round (e.g. 3 attempts with a cumulative time limit of 20 minutes), to all attempts in Dual Rounds for one event (see [Regulation 9v](regulations:regulation:9v)) or to all attempts in a combination of rounds for different events. In this case, the time limit for a particular attempt is the time limit or the cumulative time limit minus the total time in other attempts counting towards the time limit so far (see [Regulation A1a5](regulations:regulation:A1a5)), whichever is lower. If a round has an applicable cumulative time limit, it must have at most one.
         - A1a2+) [ADDITION] In case of a cumulative time limit, the judge records the original recorded time for a DNF on the score sheet in parentheses, e.g. "DNF (1:02.27)".
         - A1a2++) [EXAMPLE] If a round has only a cumulative time limit of 30 minutes and the competitor's results of the first two attempts are 6:00 and DNF (10:00), then the time limit for the third attempt is 30:00 - 6:00 - 10:00 = 14:00. For this particular example, note that only the final result for an attempt counts. Therefore, a third attempt with an original recorded time of 13:59 without penalties meets the time limit because the final result is 13:59 (see [Regulation 9f2](regulations:regulation:9f2)), while a third attempt with a result of 13:59 + 2 = 14:01 does not meet the time limit.
         - A1a2+++) [ADDITION] If the result from an attempt is unavailable (e.g. the timer was reset), the judge should consult the WCA Delegate and make an estimate of the elapsed time for the attempt. This estimate counts towards the time limit, but must not be used as the basis of an official result for the individual attempt.
         - A1a2++++) [EXAMPLE] If a round has a cumulative time limit of 20 minutes and a time limit of 8 minutes, and the competitor's results of the first two attempts are 7:00 and 7:30, then the time limit for the third attempt is the lower time of 5:30 (calculated as 20:00 - 7:00 - 7:30) and 8:00, i.e. 5:30.
         - A1a2+++++) [CLARIFICATION] If a competitor reaches a cumulative time limit, the result for each of their remaining attempts in the round is recorded as DNS (Did Not Start).
-        - A1a2++++++) [CLARIFICATION] If a cumulative time limit applies to a combination of rounds for different events, the order in which attempts are done is the order in which those attempts count towards the cumulative time limit. Exception: see [Regulation 11e2a](regulations:regulation:11e2a).
+        - A1a2++++++) [CLARIFICATION] If a cumulative time limit applies to a combination of rounds for different events, the order in which attempts are done is the order in which those attempts count towards the cumulative time limit. Exception: see [Regulation 11e2a](regulations:regulation:11e2a). The order in which attempts are done should be noted on the score sheet.
         - A1a3) The time limits for all rounds must be announced before the competition, and should not be changed after any affected rounds have begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
         - A1a3+) [REMINDER] The organization team and the WCA Delegate must be mindful that time limits influence the strategies of the competitors (e.g. rushing the first two attempts in hopes of meeting a cutoff in a Cutoff Round), and that changing time limits after the start of the round can disadvantage some competitors unfairly.
         - A1a4) The competitor must end each solve before the time limit for the attempt is reached. If a competitor's timer reaches the time limit for an attempt, the judge stops the solve immediately and records the result as DNF. Exception: 3x3x3 Multi-Blind (see [Regulation H1b1](regulations:regulation:H1b1)).
@@ -607,18 +614,18 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A3c1+) [CLARIFICATION] For Clock, the competitor may change the state of the pins during inspection (see [Regulation 12i1](regulations:regulation:12i1)).
         - A3c2) If the parts of the puzzle are not fully aligned when the cover is removed, then the competitor may align the faces, as long as misalignments stay within the limits of [Regulation 10f](regulations:regulation:10f).
         - A3c3) The competitor may reset the timer before the start of the solve.
-        - A3c3+) [CLARIFICATION] The competitor may reset the timer before/during the inspection phase if the judge accidentally neglected to do so. However, it is the responsibility of the judge to make sure the timer has been reset (see [Regulation A3b](regulations:regulation:A3b)). If the competitor accidentally tries to start the solve with a timer that the judge did not reset (i.e. the competitor performs inspection, places hands on the Stackmat timer for a reasonable length of time, assumes that the timer will start normally, and starts to operate the puzzle), the attempt should be replaced by an extra attempt, at the discretion of the WCA Delegate.
+        - A3c3+) [CLARIFICATION] The competitor may reset the timer before/during the inspection phase if the judge accidentally neglected to do so. However, it is the responsibility of the judge to make sure the timer has been reset (see [Regulation A3b](regulations:regulation:A3b)). If the competitor accidentally tries to start the solve with a timer that the judge did not reset (i.e. the competitor performs inspection, places hands on the speedsolving timer for a reasonable length of time, assumes that the timer will start normally, and starts to operate the puzzle), the attempt should be replaced by an extra attempt, at the discretion of the WCA Delegate.
         - A3c3++) [CLARIFICATION] The competitor cannot "test" or "restart" the timer during inspection, since inspection ends once the competitor starts the solve (see [Regulation A4d](regulations:regulation:A4d)). If the competitor stops the timer after they have started it for the first time, this is considered stopping the solve (see [Regulation A6](regulations:regulation:A6)), even if they do so within 15 seconds of starting inspection.
         - A3c4) For Square-1, if the use of a thin object inside the puzzle has been enforced by the organization team (see [Regulation A2b1](regulations:regulation:A2b1)), the competitor may remove the object from the puzzle during inspection.
         - A3c4+) [CLARIFICATION] If the use of a thin object inside the puzzle has been enforced, the judge must not remove the object on behalf of the competitor.
         - A3c4++) [CLARIFICATION] The competitor may remove the object during the solve, if they did not do it during the inspection (e.g. they forgot).
         - A3c5) For Square-1, the competitor should not be penalized for any accidental move made within the limits of [Regulation 10f](regulations:regulation:10f). If the puzzle is in a state where a / move cannot be applied without a prior (X, Y) move, the competitor may perform a (X, Y) move to reach the closest state where a / move can be applied (see [Regulation 12c](regulations:regulation:12c)).
         - A3c5+) [REMINDER] As a puzzle state where a / move cannot be applied is not a valid scramble state (see [Regulation 4b3d](regulations:regulation:4b3d)), an extra attempt must be provided if [Regulation 11i1](regulations:regulation:11i1) applies.
-    - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation. The puzzle must be placed fully on the mat and must not be fully or partially resting on the Stackmat timer. Penalty: time penalty (+2 seconds).
+    - A3d) At the end of the inspection, the competitor places the puzzle on the mat, in any orientation. The puzzle must be placed fully on the mat and must not be fully or partially resting on the speedsolving timer. Penalty: time penalty (+2 seconds).
 - A4) Starting the solve:
-    - A4b) The competitor uses their fingers to touch the elevated sensor surfaces of the Stackmat timer. The competitor's palms must be facing predominantly downward, and located on the side of the timer that is closer to the competitor. Penalty: time penalty (+2 seconds).
+    - A4b) The competitor uses their fingers to touch the elevated sensor surfaces of the speedsolving timer. The competitor's palms must be facing predominantly downward, and located on the side of the timer that is closer to the competitor. Penalty: time penalty (+2 seconds).
         - A4b1) The competitor must have no physical contact with the puzzle while starting the solve. Penalty: time penalty (+2 seconds).
-    - A4d) If a Stackmat timer is in use, the competitor should keep their hands on the timer until they see a green timer light. The timer is started when they remove their hand(s) from the timer. The competitor starts the solve by starting the timer.
+    - A4d) If a speedsolving timer is in use, the competitor should keep their hands on the timer until the timer is ready to start. The timer is started when the competitor removes their hand(s) from the timer. The competitor starts the solve by starting the timer.
         - A4d1) The competitor must start the solve within 15 seconds of the start of the inspection. Penalty: time penalty (+2 seconds).
         - A4d1+) [CLARIFICATION] If the inspection took exactly 15 seconds (i.e. 15.00), the time penalty (+2 seconds) must be applied.
         - A4d2) The competitor must start the solve within 17 seconds of the start of the inspection. Penalty: disqualification of the attempt (DNF).
@@ -636,12 +643,12 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - A6) Stopping the solve:
     - A6a) The competitor releases the puzzle before stopping the solve, and stops the solve by stopping the timer. If a stopwatch is in use, the judge stops the stopwatch as soon as the competitor does this.
         - A6a1) If the judge is not immediately available to stop the stopwatch when a stopwatch is in use, the competitor may stop the stopwatch.
-    - A6b) The competitor is responsible for stopping the Stackmat timer correctly.
-        - A6b1) If the timer stops before the competitor has solved the puzzle and the timer shows a time strictly below 0.06 seconds, then the attempt is replaced by an extra attempt. Exception: no extra attempt is required if the WCA Delegate determines that the timer was stopped deliberately, or as a result of interacting with the timer in an unusual way (e.g. making only minimal contact with the timer, not lifting the hands cleanly away from the timer).
-        - A6b1+) [EXPLANATION] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about Stackmat timer malfunctions.
+    - A6b) The competitor is responsible for stopping the speedsolving timer correctly.
+        - A6b1) If the timer stops before the competitor has solved the puzzle and the timer shows a time strictly below 0.06 seconds, then the attempt is replaced by an extra attempt. Exception: No extra attempt is required if the WCA Delegate determines that the timer was stopped deliberately, or as a result of interacting with the timer in an unusual way (e.g. making only minimal contact with the timer, not lifting the hands cleanly away from the timer).
+        - A6b1+) [EXPLANATION] The arbitrary value of 0.06 seconds was chosen to accommodate concerns about speedsolving timer malfunctions.
         - A6b2) If the timer stops before the competitor has solved the puzzle and displays a time of 0.06 seconds or higher, then the attempt is disqualified (DNF). Exception: The WCA Delegate may provide an extra attempt if they believe the timer may have malfunctioned and the competitor did not stop the timer deliberately.
     - A6c) The competitor must fully release the puzzle before stopping the timer. Penalty: time penalty (+2 seconds). Exception: If the judge is unable to determine whether any move or any change in alignment has been applied after stopping the timer and before releasing the puzzle, the attempt may be disqualified (DNF), at the discretion of the judge.
-    - A6d) The competitor must stop the Stackmat timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
+    - A6d) The competitor must stop the speedsolving timer using both hands, placed flat on the sensors with palms down. Penalty: time penalty (+2 seconds).
     - A6e) After stopping the timer, the competitor must not touch, apply a move, or make any change in alignment to the puzzle, until the judge has determined whether the puzzle is solved (see [Regulation A6g](regulations:regulation:A6g)).
     - A6e+) [CLARIFICATION] If the puzzle falls into the lap of the competitor after stopping the timer, this is considered touching the puzzle.
     - A6e++) [CLARIFICATION] If [Regulation A6c](regulations:regulation:A6c) is used to penalize an attempt, the penalties in [Regulation A6e](regulations:regulation:A6e) should only be applied if the competitor releases the puzzle and touches it again before the judge inspects it.
@@ -661,7 +668,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A7b3) Leading zeros, but not zeros following any non-zero digit are omitted. Example: a time of three seconds and thirty centiseconds is recorded as 3.30, not 0:00:03.30 or 3.3.
         - A7b4) If penalties are assigned, the judge records the original recorded time displayed on the timer, along with any penalties. The format should be "T + X = F", where T represents the time displayed on the timer (the "original recorded time"), X represents a sum of time penalties during the attempt, and F represents the final result (e.g. 17.65 + 4 = 21.65).
     - A7c) The competitor must check the recorded result, and sign the score sheet to acknowledge that the result is correct, complete, properly formatted, and clearly readable. This finishes the attempt.
-    - A7c+) [ADDITION] If a result signed by a competitor is found to be incomplete or unreadable, it should be interpreted the worst reasonable way (e.g. "1:05" will be considered 1:05.99, "25.X3" will be considered 25.73 if X could be either a 1 or a 7). Given that the Stackmat timer displays a time of X:0Y.ss as X:Y.ss, a missing tens digit should be considered more likely than a missing ones digit (e.g. "1:2.27" will be considered 1:02.27). The judge who signed an ambiguous result may be requested to clarify it, at the discretion of the score taker.
+    - A7c+) [ADDITION] If a result signed by a competitor is found to be incomplete or unreadable, it should be interpreted the worst reasonable way (e.g. "1:05" will be considered 1:05.99, "25.X3" will be considered 25.73 if X could be either a 1 or a 7). Given that the speedsolving timer may display a time of X:0Y.ss as X:Y.ss, a missing tens digit should be considered more likely than a missing ones digit (e.g. "1:2.27" will be considered 1:02.27). The judge who signed an ambiguous result may be requested to clarify it, at the discretion of the score taker.
         - A7c1) If the competitor or the judge refuses to accept and sign the score sheet, the WCA Delegate must resolve the dispute.
         - A7c2) If the competitor intentionally signs (or otherwise marks) an attempt before they have begun it, they forfeit the attempt and the result will be considered DNS. Exception: for 3x3x3 Multi-Blind, the competitor may write the number of cubes they are attempting on the scorecard.
         - A7c3) If the competitor signs (or otherwise marks) an attempt after starting the attempt but before the judge has finished recording the result, the attempt will be considered unfinished (DNF). Exception: if the judge records the result incorrectly (e.g. they record no result or an incomplete result and then pass the score sheet to the competitor) and the correct result is later clarified, the penalty may be lifted, at the discretion of the WCA Delegate.
@@ -676,7 +683,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - A7c8) If a signature was missed due to the inexperience of the competitor, it may be added at any time, at the discretion of the WCA Delegate. If it is no longer possible for the scorecard to be physically signed by the competitor or the judge, an attestation by the respective individual that the result was correctly recorded may be accepted as a signature, at the discretion of the WCA Delegate.
     - A7f) When a competitor's score sheet for a round is complete, the judge delivers the score sheet to the score taker.
     - A7g) At the discretion of the WCA Delegate, an incident or penalty caused by a competitor's inexperience may be replaced with an extra attempt.
-    - A7g+) [EXAMPLE] Examples of incidents that could grant a competitor an extra attempt due to inexperience: not waiting for the green light, improperly starting or stopping the timer, going over inspection time due to misunderstanding how to start a solve, or other procedural time penalties.
+    - A7g+) [EXAMPLE] Examples of incidents that could grant a competitor an extra attempt due to inexperience: improperly starting or stopping the timer, going over inspection time due to misunderstanding how to start a solve, or other procedural time penalties.
     - A7g++) [CLARIFICATION] Individual penalties cannot be waived. A full extra attempt must be granted.
     - A7g+++) [RECOMMENDATION] The WCA Delegate should use stronger discretion when granting more than one extra attempt to the same competitor, especially for the same type of incident.
     - A7g++++) [CLARIFICATION] A competitor may be considered inexperienced if they are a new competitor, it is their first time competing in a specific event, or they have not competed in a specific event for a significant period of time. The inexperience must be related to the incident.
@@ -691,12 +698,12 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - B1b+) [RECOMMENDATION] Blindfolds should be checked by the WCA Delegate before use in the competition.
 - B2) Starting the attempt:
     - B2a) The judge resets the timer(s) as in [Regulation A3b](regulations:regulation:A3b) and indicates that they are ready for the competitor to start the attempt (e.g. placing the puzzle cover in front of the competitor, saying "READY", giving a thumbs-up signal). The competitor must start the attempt within one minute, else the competitor forfeits the attempt (DNS), at the discretion of the judge.
-    - B2b) When using the Stackmat timer, the competitor uses their fingers to touch the elevated sensor surfaces of the timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to them. Penalty: time penalty (+2 seconds).
-    - B2c) When using the Stackmat timer, the competitor must have no physical contact with the puzzle or the puzzle cover while starting the attempt. Penalty: time penalty (+2 seconds).
-    - B2d) When using the Stackmat timer, the competitor should keep their hands on the timer until they see a green timer light. The timer is started when they remove their hand(s) from the timer. The competitor starts the attempt and the solve by starting the timer.
+    - B2b) When using the speedsolving timer, the competitor uses their fingers to touch the elevated sensor surfaces of the timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to them. Penalty: time penalty (+2 seconds).
+    - B2c) When using the speedsolving timer, the competitor must have no physical contact with the puzzle or the puzzle cover while starting the attempt. Penalty: time penalty (+2 seconds).
+    - B2d) When using the speedsolving timer, the competitor should keep their hands on the timer until the timer is ready to start. The timer is started when the competitor removes their hand(s) from the timer. The competitor starts the attempt and the solve by starting the timer.
     - B2d+) [ADDITION] By default, the competitor starts the solve the first time that they start the timer after the judge has indicated that they are ready (see [Regulation B2a](regulations:regulation:B2a)). If they want to check that the timer is in working order, they must (ask and) receive confirmation from the judge each time before starting/resetting the timer during this phase. Penalty for starting and resetting a timer without confirmation from the judge: disqualification of the attempt (DNF).
         - B2d1) The competitor removes the cover from the puzzle after starting the timer.
-        - B2d2) If a stopwatch is in use in addition to the Stackmat timer, the judge starts the stopwatch as soon as the competitor starts the solve.
+        - B2d2) If a stopwatch is in use in addition to the speedsolving timer, the judge starts the stopwatch as soon as the competitor starts the solve.
     - B2f) When using a stopwatch as the only timer, the competitor confirms they are ready and starts the solve by lifting the cover. The judge starts the stopwatch as soon as the competitor starts the solve.
     - B2f+) [CLARIFICATION] Since the competitor starts the solve by lifting the cover, penalties for starting the timer and for touching the cover while starting the attempt do not apply (see [Regulation B2b](regulations:regulation:B2b) and [Regulation B2c](regulations:regulation:B2c)).
 - B3) Memorization phase:
@@ -716,8 +723,8 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - B4d) The competitor must not look at the puzzle at any point during the blindfolded phase. Penalty: disqualification of the attempt (DNF).
     - B4d+) [CLARIFICATION] For 3x3x3 Blindfolded, competitors are permitted to determine the location of a permitted logo (see [Regulation 3l](regulations:regulation:3l)) by touch during the blindfolded phase.
 - B5) Stopping the solve:
-    - B5a) When using the Stackmat timer, the competitor stops the solve by releasing the puzzle and then stopping the timer.
-        - B5a1) If a stopwatch is in use in addition to the Stackmat timer, the judge stops the stopwatch as soon as the competitor stops the solve.
+    - B5a) When using the speedsolving timer, the competitor stops the solve by releasing the puzzle and then stopping the timer.
+        - B5a1) If a stopwatch is in use in addition to the speedsolving timer, the judge stops the stopwatch as soon as the competitor stops the solve.
     - B5b) When using a stopwatch as the only timer, the competitor stops the solve by releasing the puzzle and notifying the judge that they have stopped the solve. The judge stops the stopwatch as soon as the competitor does this.
         - B5b1) The competitor's default notification signal consists of releasing the puzzle(s) from their hands and placing their hands on the surface, with palms down. The competitor and the judge may agree on another appropriate notification before the start of the attempt.
     - B5c) If the competitor is not touching the puzzle, they may remove the blindfold before they stop the timer. They must not touch the puzzle until the end of the solve. Penalty for touching the puzzle: disqualification of the attempt (DNF).
