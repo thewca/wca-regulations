@@ -395,6 +395,15 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9u2+) [RECOMMENDATION] The WCA Delegate should announce the end of the competition (e.g. prior to the awards ceremony).
         - 9u2a) All the listed WCA Delegates permanently leave the venue.
         - 9u2b) The end of the last calendar date of the competition is reached (see [Regulation 9i2](regulations:regulation:9i2)).
+        - 9u2b+) [ADDITION] The calendar date of the end of the competition is determined by the local time for the location in which the competition took place.
+- 9v) Two consecutive rounds of an event may be designated as Dual Rounds.
+    - 9v1) Dual Rounds may include only the first two rounds of an event.
+    - 9v2) Dual Rounds must not include the final round of a National Championship, Continental Championship or World Championship.
+    - 9v3) Dual Rounds must have the same format, cutoff, and time limit.
+    - 9v4) The competitor’s ranking in Dual Rounds is based on the better result of either round.
+        - 9v4a) The results of both rounds are recorded and are eligible for the WCA world rankings (see [Regulation 9i](regulations:regulation:9i)) and regional records (see [Regulation 9i1](regulations:regulation:9i1)).
+    - 9v5) No competitors are eliminated between rounds during Dual Rounds.
+        - 9v5a) Competitors with no results in the first round or results of only DNF and/or DNS in the first round are eligible to advance to the second round.
 
 
 ## <article-10><solved-state><solvedstate> Article 10: Solved State
