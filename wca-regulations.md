@@ -50,7 +50,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 ## <article-1><officials><officials> Article 1: Officials
 
 - 1a) A competition must include a WCA Delegate and an organization team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
-    - 1a1) A competition with one or more Head to Head rounds (see Article I) must also have one or more announcers.
+    - 1a1) A competition with one or more Head to Head rounds (see [Article I](regulations:article:I)) must also have one or more announcers.
 - 1b) The organization team of a competition is responsible for logistics before, during, and after the competition.
 - 1c) The WCA Delegate is responsible for ensuring that the competition adheres to the WCA Regulations and any applicable WCA policies or requirements. The WCA Delegate may appoint other members of the organization team to carry out specific responsibilities on their behalf, but is ultimately accountable for how these responsibilities are carried out.
 - 1c+) [CLARIFICATION] If there are multiple WCA Delegates designated for the competition, "the WCA Delegate" refers to any of them. "The WCA Delegate" also refers to anyone appointed by a designated WCA Delegate for a relevant responsibility of the WCA Delegate for the competition.
