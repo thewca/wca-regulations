@@ -296,7 +296,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 7f1d) Surface: The flat surface on which the speedsolving timer is placed. The mat is considered a part of the surface. The timer is not considered a part of the surface.
     - 7f2) The speedsolving timer must be attached to the mat and placed on the surface, with the timer on the side of the mat nearest to the competitor.
     - 7f3) The organization team should modify speedsolving timers to be more robust against common incidents, for example by making the buttons more difficult to press by accident (e.g. by attaching O-rings around the buttons) and securing the battery more firmly (e.g. by padding the battery compartment).
-- 7h) If competitors do not remain at the same station for all of their attempts in a round, the competition area must have one or more Competitor Waiting Areas. Exception: rounds with individually scheduled attempts.
+- 7h) If competitors do not remain at the same solving station for all of their attempts in a round, the competition area must have one or more Competitor Waiting Areas. Exception: rounds with individually scheduled attempts.
     - 7h2) Definition: A Competitor Waiting Area is an area in which competitors in a group wait to be called to a solving station.
     - 7h2+) [ADDITION] Competitors in a Competitor Waiting Area who are waiting between attempts should not be able to see the puzzles of the competitors on stage.
 
