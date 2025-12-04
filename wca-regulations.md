@@ -413,7 +413,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9v1) Dual Rounds may include only the first two rounds of an event.
     - 9v2) Dual Rounds must not include the final round of a National Championship, Continental Championship, or World Championship.
     - 9v3) Dual Rounds must have the same format, cutoff, and time limit.
-    - 9v4) The competitor’s ranking in Dual Rounds is based on the better result of either round.
+    - 9v4) The competitor's ranking in Dual Rounds is based on the better result of either round.
         - 9v4a) The results of both rounds are recorded and are eligible for the WCA world rankings (see [Regulation 9i](regulations:regulation:9i)) and regional records (see [Regulation 9i1](regulations:regulation:9i1)).
     - 9v5) No competitors are eliminated between rounds during Dual Rounds.
         - 9v5a) Competitors with no results in the first round or results of only DNF and/or DNS in the first round are eligible to advance to the second round.
@@ -762,7 +762,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - E2c2++) [REMINDER] In the past, bracket notations (e.g. [r] or [u2]) were permitted for Fewest Moves. Only rotations based on x, y, or z are permitted now (see [Regulation 12a4a](regulations:regulation:12a4a)).
         - E2c3) The competitor should make it clear which moves are intended to be part of their solution, by clearly blacking out/scribbling out any moves to exclude, or by drawing a single outline around their solution.
         - E2c3+) [CLARIFICATION] If a move is not clearly blacked out/scribbled out and it is not clear whether the move is part of the solution, the judge should consider it an ambiguous move sequence (see [Regulation E2c2](regulations:regulation:E2c2) and [Regulation E2c2+](regulations:regulation:E2c2+)).
-        - E2c4) Only numbers, letters, and apostrophes are considered as part of a competitor’s solution. Other symbols are disregarded. The remaining solution must only use moves that are exactly defined as notation for the 3x3x3 Cube in [Regulation 12a](regulations:regulation:12a). Penalty: disqualification of the attempt (DNF).
+        - E2c4) Only numbers, letters, and apostrophes are considered as part of a competitor's solution. Other symbols are disregarded. The remaining solution must only use moves that are exactly defined as notation for the 3x3x3 Cube in [Regulation 12a](regulations:regulation:12a). Penalty: disqualification of the attempt (DNF).
         - E2c4+) [EXAMPLE] Examples of interpreting symbols or combinations of symbols that are not defined in [Regulation 12a](regulations:regulation:12a): [x] should be interpreted as x. (R * U', * = F2) should be interpreted as R U' F2. (R U)' should be interpreted as R U'. R++ should be interpreted as R. R3' is not permitted.
         - E2c4++) [ADDITION] Moves with both an apostrophe and a 2 should be interpreted as if there were no apostrophe (e.g. R2' should be interpreted as R2).
         - E2c6) If a competitor used incorrect capitalization for a move defined in [Regulation 12a](regulations:regulation:12a), it should be interpreted as if it has the correct capitalization and accepted as valid notation.
@@ -814,7 +814,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 
 - I1) Qualification and seeding:
     - I1a) The number of available places in a Head to Head round must be one of the following: 4, 8, 12, or 16.
-    - I1b) For Head to Head rounds with a prior round, seeding is based on the competitor’s rank in the prior round.
+    - I1b) For Head to Head rounds with a prior round, seeding is based on the competitor's rank in the prior round.
     - I1c) For Head to Head round without a prior round, seeding is based on the qualification requirements for the competition.
     - I1d) If competitors would otherwise have identical seeds, seeding between these competitors is randomized.
 - I2) Round structure:
