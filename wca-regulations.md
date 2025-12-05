@@ -810,6 +810,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - H1e) Any disqualification penalty during an attempt applies to the entire attempt (DNF). Exception: for penalties relating to individual puzzles (e.g. making a move during memorization, using an illegal puzzle), those puzzles may be considered unsolved at the end of the attempt instead of disqualifying the entire attempt, at the discretion of the WCA Delegate.
 - H2) The competitor may self supply a flat covering (e.g. a mat or a cloth) for the surface, at the discretion of the WCA Delegate. If the competitor wishes to do so, the request must be made at the same time as submitting the number of puzzles (see [Regulation H1a](regulations:regulation:H1a)).
 
+
 ## <article-I><headtohead><headtoheadsolving> Article I: Head to Head Solving
 
 - I1) Qualification and seeding:
