@@ -808,6 +808,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - H1d+) [EXAMPLE] Example: Suppose a competitor attempts 10 cubes, stops the solve with a time of 59:57, and has two time penalties. The time of the final result is 59:57 + 2*2 = 60:01 (also see [Regulation A1a5](regulations:regulation:A1a5)).
     - H1d++) [EXAMPLE] Example: Suppose a competitor attempts 10 cubes, the judge stops the competitor at 60 minutes, and the attempt has two time penalties. The time of the final result is 60:00 + 2*2 = 60:04.
     - H1e) Any disqualification penalty during an attempt applies to the entire attempt (DNF). Exception: for penalties relating to individual puzzles (e.g. making a move during memorization, using an illegal puzzle), those puzzles may be considered unsolved at the end of the attempt instead of disqualifying the entire attempt, at the discretion of the WCA Delegate.
+    - H1f) If it is planned for competitors to start at significantly different times such that there is a risk that information about the scrambles may have become known to competitors, attempts starting later must use different scramble sequences.
 - H2) The competitor may self supply a flat covering (e.g. a mat or a cloth) for the surface, at the discretion of the WCA Delegate. If the competitor wishes to do so, the request must be made at the same time as submitting the number of puzzles (see [Regulation H1a](regulations:regulation:H1a)).
 
 
