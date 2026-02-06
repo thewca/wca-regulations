@@ -242,12 +242,13 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 4d4) Clock is scrambled starting with either side in front and 12 o'clock pointing up.
     - 4d5) Skewb is scrambled starting with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front-left.
 - 4g) After scrambling a puzzle, the scrambler must verify that the puzzle is scrambled correctly. If the puzzle state is wrong, the scrambler must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
-- 4g+) [RECOMMENDATION] After verifying the puzzle is scrambled correctly, the scrambler may pass the puzzle to another scrambler to verify. In this case, both scramblers should sign the scorecard.
     - 4g1) The following exceptions apply:
         - 4g1a) For 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, and Megaminx, it is not necessary to correct the puzzle state, at the discretion of the WCA Delegate.
         - 4g1a+) [CLARIFICATION] For 5x5x5 Blindfolded, incorrect puzzle states must always be corrected.
         - 4g1a++) [RECOMMENDATION] The WCA Delegate should use stronger discretion when determining whether or not incorrect puzzle states for 5x5x5 Cube and Megaminx need to be corrected.
     - 4g2) For Multi-Blind Solving, after scrambling all the cubes, the scrambler must verify there are no duplicate scrambles.
+    - 4g3) After verifying the puzzle is scrambled correctly, the scrambler may pass the puzzle to another scrambler to verify. In this case, both scramblers should sign the scorecard.
+    - 4g3+) [RECOMMENDATION] All puzzles in the final round of a National Championship, Continental Championship or World Championship should be verified by a second scrambler.
 
 
 ## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
@@ -401,6 +402,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9t3) If any change occurs to the result of a competitor, such that another competitor would not have advanced to the next round, the result of the second competitor must not be removed.
     - 9t3+) [EXAMPLE] Suppose competitor A gets a 10.00 average and competitor B gets a 10.05 average in the first round of an event, such that competitor A advances to the final round but not B. If a score-taking mistake is discovered, and competitor B actually got a 9.95 average (and should have proceeded instead of A), competitor A keeps their result for the final round.
     - 9t4) This rule is not applied between stages of a Head to Head round.
+    - 9t5) Exception: subsequent round results are not removed if a competitor would no longer have advanced following a change of result to DNS after the competition due to [Regulation 11i1](regulations:regulation:11i1).
 - 9u) A competition is considered to have ended if all the following requirements are met simultaneously:
 - 9u+) [ADDITION] For competitions with multiple physical locations (i.e. "3x3x3 Fewest Moves simultaneous competitions"), all the requirements must be met in every location to consider the competition as ended.
     - 9u1) All the scheduled rounds on the WCA website are completed.
@@ -480,12 +482,14 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 11h) A WCA Delegate may require competitors in serious violation of [Regulation 2k3](regulations:regulation:2k3) to leave the competition venue, taking into account the seriousness of the situation and the best possible course of action. If the competitor refuses to do so, they may face disciplinary action in the WCA.
 - 11i) If it is found that a competitor's puzzle was not scrambled correctly after they have completed their solve, the following regulations apply:
     - 11i1) In the following cases, an extra attempt must be granted to replace the affected attempt. If no extra attempt is granted, the result will be considered DNS:
-    - 11i1+) [RECOMMENDATION] Competitors expected to meet these criteria should have their scrambles checked by a second scrambler before being sent out (see [Regulation 4g+](regulations:regulation:4g+)).
+    - 11i1+) [RECOMMENDATION] Competitors expected to meet these criteria should have their scrambles checked by a second scrambler before being sent out (see [Regulation 4g3](regulations:regulation:4g3)).
+    - 11i1++) [RECOMMENDATION] For results meeting these criteria, the WCA Delegate should attempt to further verify, e.g. with available video evidence, that the puzzle was scrambled correctly, before the end of the competition.
+    - 11i1+++) [ADDITION] If requested by competitors with results meeting these criteria, the WCA Delegate must provide access to the relevant scramble sequences before the end of the competition.
         - 11i1a) The individual result is a regional record, or is a personal record in the top 50 competitors of the world rankings.
         - 11i1b) The average or mean the result is a part of is a regional record, or part of a personal record in the top 50 competitors of the world rankings.
-        - 11i1c) The result is achieved in a final round of a National Championship, Continental Championship or World Championship.
         - 11i1d) The result was achieved by solving the puzzle in fewer moves than the limits defined in [Regulation 4b3](regulations:regulation:4b3).
-        - 11i1e) Exception: for 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, Megaminx, and 3x3x3 Multi-Blind, an extra attempt is not necessary to be granted under the circumstances described above.
+        - 11i1e) Exception to [11i1a](regulations:regulation:11i1a) and [11i1b](regulations:regulation:11i1b): for 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, Megaminx, and 3x3x3 Multi-Blind, [Regulation 11i2](regulations:regulation:11i2) applies instead.
+        - 11i1f) Exception to [11i1a](regulations:regulation:11i1a) and [11i1b](regulations:regulation:11i1b): for results achieved in the final round of a National Championship, Continental Championship or World Championship, [Regulation 11i2](regulations:regulation:11i2) applies instead if two scramblers verified that the puzzle was scrambled correctly and signed the scorecard (see [Regulation 4g3](regulations:regulation:4g3)).
     - 11i2) For all other cases, the result may stand. Exception: the WCA Delegate may grant an extra attempt at their discretion if they believe this provides a significantly fairer outcome (e.g. the incorrect scramble received was extremely easy and the competitor achieved a new personal record, the incorrect scramble impacted the podium for an event, or the puzzle was deliberately scrambled incorrectly).
     - 11i2+) [RECOMMENDATION] If the WCA Delegate is unsure whether or not the incorrect scramble provided a significantly less fair outcome than the original scramble, a provisional extra attempt should be granted.
     - 11i2++) [REMINDER] Although individual results achieved on incorrectly scrambled puzzles may be allowed to stand, the WCA Delegate must ensure that incorrect scrambles do not become common.
