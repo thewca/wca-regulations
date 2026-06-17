@@ -860,14 +860,14 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - I4c2) When both competitors have confirmed they are ready, or once at least 15 seconds have passed, the announcer calls "START" and starts timing the inspection, beginning the point.
         - I4c3) When 8 seconds of inspection have elapsed, the announcer calls "8 SECONDS".
         - I4c4) When 11 seconds, 12 seconds, and 13 seconds of inspection have elapsed, the announcer calls "3", "2", and "1" respectively.
-        - I4c5) When 14 seconds of inspection have elapsed, the announcer calls "GO". The competitor must start the solve (see [Regulation A4d](regulations:regulation:A4d)) at this point. Penalty for intentionally delaying the start of the solve: disqualification of the attempt (DNF) at the discretion of the judge.
+        - I4c5) When 14 seconds of inspection have elapsed, the announcer calls "GO". The competitor must start the solve (see [Regulation A4d](regulations:regulation:A4d)) at this point. Penalty for intentionally delaying the start of the solve: disqualification of the attempt (DNF), at the discretion of the judge.
         - I4c6) Due to modified inspection procedures, the usual penalties for not starting within 15 seconds (see [Regulation A4d1](regulations:regulation:A4d1) and [Regulation A4d2](regulations:regulation:A4d2)) do not apply in Head to Head rounds.
-        - I4c7) The competitor must not start the solve before the announcer calls "GO". Penalty: disqualification of the attempt (DNF) at the discretion of the judge.
+        - I4c7) The competitor must not start the solve before the announcer calls "GO". Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
     - I4d) Recording results:
         - I4d1) When recording the result, the judge also notes whether a competitor won or lost a point, or there was no winner, on the score sheet.
 - I5) Head to Head blindfolded solving procedures:
     - I5a) Standard speed solving procedures (as described in [Article A](regulations:article:A)), blindfolded solving procedures (as described in [Article B](regulations:article:B)) and Head to Head speed solving procedures (as described in [Regulation I4](regulations:regulation:I4)) are followed. Additional regulations that supersede the corresponding procedures are described below.
     - I5b) Starting the attempt:
         - I5b1) When both competitors are present at the solving station and when each judge is ready, the announcer asks "READY?".
-        - I5b2) When both competitors have confirmed they are ready, or once at least 15 seconds have passed, the announcer calls “3, 2, 1, GO". The competitor must start the solve (see [Regulation B2d](regulations:regulation:B2d)) at this point. Penalty for intentionally delaying the start of the solve: disqualification of the attempt (DNF) at the discretion of the judge.
-        - I5b3) The competitor must not start the solve before the announcer calls "GO". Penalty: disqualification of the attempt (DNF) at the discretion of the judge.
+        - I5b2) When both competitors have confirmed they are ready, or once at least 15 seconds have passed, the announcer calls “3, 2, 1, GO". The competitor must start the solve (see [Regulation B2d](regulations:regulation:B2d)) at this point. Penalty for intentionally delaying the start of the solve: disqualification of the attempt (DNF), at the discretion of the judge.
+        - I5b3) The competitor must not start the solve before the announcer calls "GO". Penalty: disqualification of the attempt (DNF), at the discretion of the judge.
