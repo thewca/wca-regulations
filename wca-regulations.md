@@ -96,9 +96,9 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 2d++) [REMINDER] If a third party (e.g. journalist) asks the organization team to be put in contact with any competitor(s), the competitor(s) must first be asked for consent.
 - 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship by means of documents or photos of documents (e.g. a passport) at their first competition.
 - 2e+) [CLARIFICATION] If a competitor holds multiple citizenships, they may choose which region to represent at their first competition.
-- 2e++) [ADDITION] The WCA Delegate should also verify the name and date of birth by means of documents or photos of documents (e.g. a passport) of every new competitor at their first competition.
+- 2e++) [ADDITION] The WCA Delegate should also verify the name and date of birth by means of documents or photos of documents (e.g. a passport) of each new competitor at their first competition.
     - 2e1) The eligible countries are defined by the [WCA List of Recognized Countries](https://www.worldcubeassociation.org/regulations/countries/).
-    - 2e2) Competitors may change their country at any point between competitions (see [Regulation 2c2](regulations:regulation:2c2)), as long as it has been at least one year since any previous change.
+    - 2e2) Competitors may change their country at any point between competitions (see [Regulation 2c2](regulations:regulation:2c2)), as long as it has been at least 1 year since any previous change.
         - 2e2a) Exception: If the competitor loses citizenship of the country which they were previously representing, they must change their country before or at their next competition.
         - 2e2b) Exception: If the competitor has acquired a new citizenship within the calendar year, they may change their country to their new citizenship before or at their next competition.
 - 2f) Competitors must obey venue rules and conduct themselves in a considerate manner.
@@ -142,7 +142,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 2n2) The WCA Delegate must resolve the dispute before the start of the next round of the event.
     - 2n3) The competitor must accept all final rulings of the WCA Delegate. Penalty: disqualification from the competition.
     - 2n3+) [ADDITION] The competitor may escalate their dispute after the competition by following the process described in the [Disputes Motion](https://documents.worldcubeassociation.org/documents/motions/16.2025.1%20-%20Disputes.pdf).
-- 2s) Competitors with circumstances (e.g. disability) that may prevent them from abiding by one or more WCA Regulations may request special accommodations from the WCA Delegate. Competitors requesting such accommodations should contact the organization team and WCA Delegate at least two weeks before the competition.
+- 2s) Competitors with circumstances (e.g. disability) that may prevent them from abiding by one or more WCA Regulations may request special accommodations from the WCA Delegate. Competitors requesting such accommodations should contact the organization team and WCA Delegate at least 2 weeks before the competition.
 - 2s+) [REMINDER] Special accommodations must be noted in the Delegate Report.
 - 2s++) [EXAMPLE] Competitors whose circumstances (e.g. religion) do not allow them to compete on a specific date or time may be allowed to compete at a different time at the discretion of the WCA Delegate. The WCA Delegate should consider the availability of competition resources when attending such requests. This includes the possibility to provisionally compete in subsequent round(s) before the previous round(s) is (are) completed. Competitors should not be allowed to compete at a time or date that is not part of, or immediately adjacent to, the existing competition schedule. Competitors should not be allowed to compete outside of the competition venue.
 - 2s+++) [EXAMPLE] A competitor that can not use one of their hands to start the timer may receive assistance from the judge to start and stop the timer, or a competitor that cannot hear may receive their inspection warnings in a different way.
@@ -609,7 +609,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - A3a) The competitor may inspect the puzzle at the start of each attempt.
         - A3a1) The competitor is allotted strictly less than 15 seconds to inspect the puzzle and start the solve.
     - A3b) The judge prepares the timer by turning it on and resetting if necessary. If a Generation 5 Pro Timer is in use, the judge must ensure it is set to 2-Pad mode. Separately, the judge also prepares a stopwatch for timing inspection (see [Regulation A4d](regulations:regulation:A4d)).
-        - A3b1) When the competitor is present at the solving station and the judge is ready, the judge asks "READY?". The competitor must be ready to start the attempt within one minute from the moment they are asked, or else the competitor forfeits the attempt (DNS), at the discretion of the judge.
+        - A3b1) When the competitor is present at the solving station and the judge is ready, the judge asks "READY?". The competitor must be ready to start the attempt within 1 minute from the moment they are asked, or else the competitor forfeits the attempt (DNS), at the discretion of the judge.
         - A3b2) The competitor starts the attempt by confirming that they are ready, and the judge uncovers the puzzle and starts timing the inspection.
         - A3b3) When 8 seconds of inspection have elapsed, the judge calls "8 SECONDS".
         - A3b4) When 12 seconds of inspection have elapsed, the judge calls "12 SECONDS".
@@ -702,7 +702,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - B1b) The competitor supplies their own blindfold.
     - B1b+) [RECOMMENDATION] Blindfolds should be checked by the WCA Delegate before use in the competition.
 - B2) Starting the attempt:
-    - B2a) The judge resets the timer(s) as in [Regulation A3b](regulations:regulation:A3b) and indicates that they are ready for the competitor to start the attempt (e.g. placing the puzzle cover in front of the competitor, saying "READY", giving a thumbs-up signal). The competitor must start the attempt within one minute, else the competitor forfeits the attempt (DNS), at the discretion of the judge.
+    - B2a) The judge resets the timer(s) as in [Regulation A3b](regulations:regulation:A3b) and indicates that they are ready for the competitor to start the attempt (e.g. placing the puzzle cover in front of the competitor, saying "READY", giving a thumbs-up signal). The competitor must start the attempt within 1 minute, else the competitor forfeits the attempt (DNS), at the discretion of the judge.
     - B2b) When using the speedsolving timer, the competitor uses their fingers to touch the elevated sensor surfaces of the timer. The competitor's palms must be facing down, and located on the side of the timer that is closer to them. Penalty: time penalty (+2 seconds).
     - B2c) When using the speedsolving timer, the competitor must have no physical contact with the puzzle or the puzzle cover while starting the attempt. Penalty: time penalty (+2 seconds).
     - B2d) When using the speedsolving timer, the competitor should keep their hands on the timer until the timer is ready to start. The timer is started when the competitor removes their hand(s) from the timer. The competitor starts the attempt and the solve by starting the timer.
