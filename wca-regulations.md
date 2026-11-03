@@ -5,12 +5,14 @@
 
 ## Notes
 
-### Translation
+### Translations
 
-Please note that translations are not official versions, even though they are provided on the WCA website for convenience.
-If there is a difference between a translation and the (current official) English version, the English version must be used.
+The WCA Regulations are not only available in English, but WCA members have translated them into several languages: [Translations](https://www.worldcubeassociation.org/regulations/translations/). 
+**Important:** Although the translations are very helpful, they are not official. In competitions, the English version of the WCA Regulations is binding.
 
 ### WCA Regulations
+
+All competitions must follow the [WCA Regulations](https://www.worldcubeassociation.org/regulations/). It is important for competitors to read these regulations before attending their first competition. Important decisions about incidents that happened in competitions that were resolved by the WCA Regulations Committee are found in the [Incidents Log](https://www.worldcubeassociation.org/incidents).
 
 The WCA Regulations contain the full set of Regulations that apply to all official competitions sanctioned by the World Cube Association.
 Previously, from the January 1st, 2013 release until the January 1st, 2025 release, the WCA Regulations were split into the WCA Regulations and the WCA Guidelines. The former contents of both documents were combined into the WCA Regulations for the July 17th, 2025 release.
