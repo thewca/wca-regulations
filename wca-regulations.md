@@ -7,7 +7,7 @@
 
 ### Translations
 
-The WCA Regulations are not only available in English, but WCA members have translated them into several languages: [Translations](https://www.worldcubeassociation.org/regulations/translations/). 
+The WCA Regulations are not only available in English, but WCA members have translated them into several languages: [Translations](https://www.worldcubeassociation.org/regulations/translations/).
 **Important:** Although the translations are very helpful, they are not official. In competitions, the English version of the WCA Regulations is binding.
 
 ### WCA Regulations
