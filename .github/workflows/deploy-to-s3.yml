@@ -7,13 +7,13 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
     - uses: actions/checkout@v2
     - name: Set up Python 3
       uses: actions/setup-python@v2
       with:
-        python-version: 3.9
+        python-version: '3.13'
     - name: Configure AWS credentials
       uses: aws-actions/configure-aws-credentials@v4
       with:
