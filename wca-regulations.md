@@ -382,7 +382,7 @@ Note: because Article and Regulation numbers are not reassigned when Regulations
     - 9o3) Head to Head rounds count as one round.
 - 9p) If an event has multiple rounds, then:
     - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event. Exception: Dual Rounds (see [Regulation 9v5](regulations:regulation:9v5)).
-    - 9p2) The competitors who advance to the next round must be determined by ranking (best X competitors) or by result (all competitors with a better result than Y) in the preceding round. In the event that this results in [Regulation 9p1](regulations:regulation:9p1)) being broken, X must be reduced or Y amended until no conflict exists. 
+    - 9p2) The competitors who advance to the next round must be determined by ranking (best X competitors) or by result (all competitors with a better result than Y) in the preceding round. In the event that this results in [Regulation 9p1](regulations:regulation:9p1) being broken, X must be reduced or Y amended until no conflict exists. 
     - 9p2+1) [CLARIFICATION] Result refers to the single or average that determines the ranking of the corresponding round.
         - 9p2a) For each round, the format, time limit, cutoff requirement, and advancement conditions must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
         - 9p2a+1) [ADDITION] An additional round of an event must not be added after the final round of that event has started, unless all competitors achieving podium places in the existing final round agree to the change.
