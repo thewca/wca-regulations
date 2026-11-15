@@ -548,7 +548,7 @@ Note: because Article and Regulation numbers are not reassigned when Regulations
     - 12e2) Clockwise, 120 degrees: U (upper 2 layers), L (left 2 layers), R (right 2 layers), B (back 2 layers), u (upper vertex), l (left vertex), r (right vertex), b (back vertex).
     - 12e3) Counter-clockwise, 120 degrees: U' (upper 2 layers), L' (left 2 layers), R' (right 2 layers), B' (back 2 layers), u' (upper vertex), l' (left vertex), r' (right vertex), b' (back vertex).
 - 12f) Notation for Face Turning Octahedron:
-    - 12f1) The puzzle is oriented with four faces visible, and the corner between them facing the scrambler. 
+    - 12f1) The puzzle is oriented with four faces visible, and the corner between them facing the scrambler.
     - 12f2) Clockwise, 120 degrees: U (upper face), F (front face), R (right face), L (left face), B (back face), D (bottom face), BR (back-right face), BL (back-left face).
     - 12f3) Counter-clockwise, 120 degrees: U' (upper face), F' (front face), R' (right face), L' (left face), B' (back face), D' (bottom face), BR' (back-right face), BL' (back-left face).
 - 12g) Notation for Clock:
