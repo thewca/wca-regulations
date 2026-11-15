@@ -226,7 +226,7 @@ Note: because Article and Regulation numbers are not reassigned when Regulations
         - 4b2b) Competitors, officials, and spectators must not photograph or otherwise record scramble sequences, unless permission has been granted by the WCA Delegate. This includes scramble sequences for finished groups. Exception: since the competitor is directly provided with the scramble sequence for a 3x3x3 Fewest Moves attempt, they may photograph it after submitting their attempt.
     - 4b3) Specification for a scramble program: an official scramble sequence must produce a random state from all states that require at least 2 moves to solve (equal probability for each state). The following additions/exceptions apply:
         - 4b3a) For blindfolded events, the scramble sequence must orient the puzzle randomly (equal probability for each orientation).
-        - 4b3b) 2x2x2 Cube:the (random) state must require at least 4 moves to solve.
+        - 4b3b) 2x2x2 Cube: the (random) state must require at least 4 moves to solve.
         - 4b3c) Skewb: the (random) state must require at least 7 moves to solve.
         - 4b3d) Square-1: the (random) state must require at least 11 moves to solve. The (random) state must allow a / move to be applied without a prior (X, Y) move (see [Regulation 12c](regulations:regulation:12c)).
         - 4b3e) 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, and Megaminx: sufficiently many random moves (instead of random state), at least 2 moves to solve.
