@@ -355,7 +355,7 @@ Note: because Article and Regulation numbers are not reassigned when Regulations
     - 9f15) Competitors who achieve the same result receive an identical ranking.
     - 9f16) For Head to Head rounds:
         - 9f16a) Competitors are allotted attempts as described in [Article I](regulations:article:I).
-        - 9f16b) The winner of the Final Match is ranked first. The loser of the Final Match is ranked second. The winner of the Third Place Match is ranked third. The loser of the Third Place Match is ranked fourth. All other competitors are ranked based on the highest stage reached, with all competitors eliminated at a stage receiving an identical ranking. 
+        - 9f16b) The winner of the Final Match is ranked first. The loser of the Final Match is ranked second. The winner of the Third Place Match is ranked third. The loser of the Third Place Match is ranked fourth. All other competitors are ranked based on the highest stage reached, with all competitors eliminated at a stage receiving an identical ranking.
         - 9f16b+1) [EXAMPLE] The four competitors eliminated at the Quarterfinal Stage are all ranked 5th. The eight competitors eliminated in the first stage of a round with 16 places are all ranked 9th.
 - 9g) A Cutoff Round is a round with a "Best of X" cutoff phase and a cutoff requirement (e.g. "Best of 2" with a cutoff requirement of strictly better than 2 minutes). If the competitor satisfies the cutoff requirement in at least one of their cutoff phase attempts, they are eligible for the remaining attempts. Attempts from the cutoff phase count towards the full round format.
 - 9i) Results of official WCA competitions must be listed on the WCA world rankings.
