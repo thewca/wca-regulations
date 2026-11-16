@@ -1,7 +1,8 @@
 # This workflow will install Python dependencies, run tests and lint with a single version of Python
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
 
-name: Python application
+# https://github.com/thewca/wca-regulations-compiler
+name: Test against the `wrc-regulations-compiler`
 
 on:
   push:
@@ -10,7 +11,7 @@ on:
     branches: [ draft, official ]
 
 jobs:
-  build:
+  test:
 
     runs-on: ubuntu-latest
 
