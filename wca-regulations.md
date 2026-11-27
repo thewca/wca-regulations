@@ -241,7 +241,7 @@ Note: because Article and Regulation numbers are not reassigned when Regulations
     - 4d3) Square-1 is scrambled starting with the darker color on front (out of the 2 possible scrambling orientations).
     - 4d4) Clock is scrambled starting with either side in front and 12 o'clock pointing up.
     - 4d5) Skewb is scrambled starting with the white face (if not possible, then the lightest face) on top and the green face (if not possible, then the darkest adjacent face) on the front-left.
-    - 4d6) Face Turning Octahedron is scrambled starting with the white face (if not possible, then the lightest face) on top, and the green face (if not possible, then the darkest face that shares a corner with the top face) in front.
+    - 4d6) Face Turning Octahedron is scrambled starting with the white face (if not possible, then the lightest face) on top, and the green face (if not possible, then the darkest face that shares a single corner with the top face) in front.
 - 4g) After scrambling a puzzle, the scrambler must verify that the puzzle is scrambled correctly. If the puzzle state is wrong, the scrambler must correct it (e.g. by solving the puzzle and applying the scramble sequence again).
     - 4g1) The following exceptions apply:
         - 4g1a) For 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube, and Megaminx, it is not necessary to correct the puzzle state, at the discretion of the WCA Delegate.
