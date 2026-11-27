@@ -372,7 +372,7 @@ Note: because Article and Regulation numbers are not reassigned when Regulations
     - 9l1+2) [EXAMPLE] Examples of an invalid attempt: an attempt within the scope of [Regulation 11i1](regulations:regulation:11i1) that was incorrectly scrambled, attempts where the results are no longer retrievable (e.g. a missing scorecard).
     - 9l2) For Dual Rounds, the second round may start before the first round is completed. This is because progression to the second round does not depend upon the results of the first round (see [Regulation 9v5](regulations:regulation:9v5)).
 - 9m) Events must have at most four rounds.
-- 9m+1) [CLARIFICATION] For dual rounds, the requirements for subsequent rounds still apply only to the first round of the dual rounds.
+- 9m+1) [CLARIFICATION] For Dual Rounds, the requirements for subsequent rounds still apply only to the first round of the Dual Rounds.
     - 9m1) Rounds with 99 or fewer competitors must have at most two subsequent rounds.
     - 9m2) Rounds with 15 or fewer competitors must have at most one subsequent round.
     - 9m3) Rounds with 7 or fewer competitors must not have subsequent rounds.
