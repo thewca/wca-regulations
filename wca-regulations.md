@@ -303,6 +303,7 @@ Note: because Article and Regulation numbers are not reassigned when Regulations
     - 7h2+1) [ADDITION] The WCA Delegate must ensure that competitors in a Competitor Waiting Area who are waiting for attempts cannot gain advantageous information from seeing the puzzles of the competitors at solving stations.
 - 7i) The WCA Delegate should ensure that all competitors compete under similar conditions. The WCA Delegate should consider the fairness of providing different conditions for the competitors (e.g. when they are competing for different podiums in a national or continental championship).
 
+
 ## <article-9><events><events> Article 9: Events
 
 - 9a) The WCA governs competitions for mechanical puzzles that are operated by twisting groups of pieces, commonly known as "twisty puzzles".
