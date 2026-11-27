@@ -190,7 +190,7 @@ Note: because Article and Regulation numbers are not reassigned when Regulations
 - 3j+2) [EXAMPLE] There is a [Visual Guide](https://drive.google.com/file/d/1m6THsA8fXRN7QFM4ApJbm6eVODKGbMLx/view) available for [Regulation 3j](regulations:regulation:3j).
     - 3j1) Puzzles are permitted to have reasonable wear, at the discretion of the WCA Delegate.
         - 3j1a) Wear should be considered reasonable if it is a result of normal use of the puzzle and if it does not give significant additional information about the state of the puzzle (e.g. about the location of specific pieces).
-        - 3j1b) If the puzzle falls apart or breaks easily this should not be considered reasonable wear.
+        - 3j1b) If the puzzle falls apart or breaks easily, this should not be considered reasonable wear.
     - 3j2) Definition: two pieces are similar to each other if they are identical in shape and size, or mirrored in shape and identical in size.
     - 3j3) Corrugated/textured parts which permit the orientation of pieces to be distinguished by feel are not permitted for blindfolded events.
 - 3k) Puzzles should be approved by the WCA Delegate before use in the competition.
