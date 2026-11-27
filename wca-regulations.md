@@ -508,7 +508,7 @@ Note: because Article and Regulation numbers are not reassigned when Regulations
     - 11k2+1) [EXAMPLE] If Competitor A completes their attempt, then a distracting noise affects Competitor B, the WCA Delegate should not grant an extra attempt, as Competitor A had already won the point.
 - 11l) For Head to Head rounds, the resolution of any incident is considered final when the match is completed, for the purposes of determining who wins the point. Exception: cheating or defrauding.
     - 11l1) The result of an attempt may be subsequently amended, but this does not change the winner of the point.
-    - 11l2) Extra attempts must not be granted for any incidents in a completed match. If an invalid attempt would otherwise require an extra attempt to be granted (see [Regulation 9l1](regulations:regulation:9l1)), an extra attempt should not be granted, the result will be considered DNS.
+    - 11l2) Extra attempts must not be granted for any incidents in a completed match. If an invalid attempt would otherwise require an extra attempt to be granted (see [Regulation 9l1](regulations:regulation:9l1)), an extra attempt must not be granted, the result will be considered DNS.
 
 
 ## <article-12><notation><notation> Article 12: Notation
